@@ -69,6 +69,7 @@ def _article_ref(a: dict, title_ko: str | None = None, category: str | None = No
         "source": a["source"],
         "published_at": a["published_at"],
         "category": category or a.get("category", "기타"),
+        "first_seen_at": a.get("first_seen_at"),
     }
 
 

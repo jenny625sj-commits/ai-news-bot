@@ -31,6 +31,15 @@ COMPANY_COLORS = {
     "OpenAI": "#10a37f", "Anthropic": "#d97757", "xAI": "#000000",
 }
 
+NEW_THRESHOLD_MINUTES = 90  # 1시간 주기 자동 갱신 + 약간의 여유 - 이보다 최근에 수집된 기사는 NEW 표시
+
+
+def is_new(first_seen_at: str | None, now: datetime) -> bool:
+    if not first_seen_at:
+        return False
+    minutes = (now - datetime.fromisoformat(first_seen_at)).total_seconds() / 60
+    return 0 <= minutes <= NEW_THRESHOLD_MINUTES
+
 
 def relative_time(iso_str: str, now: datetime) -> str:
     dt = datetime.fromisoformat(iso_str)
@@ -61,9 +70,11 @@ def article_row(article: dict, now: datetime) -> str:
     else:
         titles_html = f'<a class="archive-title-ko" href="{link}" target="_blank" rel="noopener">{escape(title_en)}</a>'
 
+    new_badge = '<span class="new-badge">NEW</span>' if is_new(article.get("first_seen_at"), now) else ""
+
     return (
         f'<div class="archive-row" data-company="{escape(company)}" data-title="{escape(title_en.lower())}">'
-        f'<span class="company-tag" data-company="{escape(company)}">{escape(company)}</span>'
+        f'<span class="company-tag" data-company="{escape(company)}">{escape(company)}</span>{new_badge}'
         f'<div class="archive-titles">{titles_html}</div>'
         f'<span class="archive-source">{escape(article["source"])}</span>'
         f'<span class="archive-time">{relative_time(article["published_at"], now)}</span>'
@@ -154,6 +165,7 @@ body {{ margin: 0; font-family: -apple-system, "Segoe UI", Roboto, sans-serif; b
 .section-title {{ font-size: 14px; font-weight: 600; margin: 20px 20px 8px; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }}
 
 .company-tag {{ display: inline-block; flex-shrink: 0; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #eef2ff; color: var(--accent); font-weight: 600; }}
+.new-badge {{ display: inline-block; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px; background: #ef4444; color: white; margin-left: 4px; vertical-align: middle; }}
 {color_css}
 
 .archive-day {{ padding: 0 20px; margin-bottom: 18px; }}

@@ -23,6 +23,14 @@ OUT_PATH = ROOT / "web" / "ai_news_dashboard.html"
 KST = ZoneInfo("Asia/Seoul")
 
 CATEGORIES = ["정책·규제", "기업·투자", "연구·기술", "보안", "제품·출시", "기타"]
+NEW_THRESHOLD_MINUTES = 90  # 1시간 주기 자동 갱신 + 약간의 여유 - 이보다 최근에 수집된 기사는 NEW 표시
+
+
+def is_new(first_seen_at: str | None, now: datetime) -> bool:
+    if not first_seen_at:
+        return False
+    minutes = (now - datetime.fromisoformat(first_seen_at)).total_seconds() / 60
+    return 0 <= minutes <= NEW_THRESHOLD_MINUTES
 
 
 def load_json(path: Path, default):
@@ -58,11 +66,12 @@ def article_card(item: dict, now: datetime, top: bool) -> str:
     title_en_html = f'<div class="article-title-en">{escape(title_en)}</div>'
     if not title_ko:
         title_en_html = f'<div class="article-title-ko">{escape(title_en)}</div>'
+    new_badge = '<span class="new-badge">NEW</span>' if is_new(item.get("first_seen_at"), now) else ""
 
     css_class = "article-card top" if top else "article-card"
     return f"""    <div class="{css_class}">
       <a href="{link}" target="_blank" rel="noopener">
-        <span class="cat-tag" data-cat="{escape(category)}">{escape(category)}</span>
+        <span class="cat-tag" data-cat="{escape(category)}">{escape(category)}</span>{new_badge}
         {title_ko_html}
         {title_en_html}
       </a>
@@ -84,9 +93,11 @@ def archive_row(article: dict, now: datetime) -> str:
     else:
         titles_html = f'<a class="archive-title-ko" href="{link}" target="_blank" rel="noopener">{escape(title_en)}</a>'
 
+    new_badge = '<span class="new-badge">NEW</span>' if is_new(article.get("first_seen_at"), now) else ""
+
     return (
         f'<div class="archive-row" data-cat="{escape(category)}" data-title="{escape(title_en.lower())}">'
-        f'<span class="cat-tag" data-cat="{escape(category)}">{escape(category)}</span>'
+        f'<span class="cat-tag" data-cat="{escape(category)}">{escape(category)}</span>{new_badge}'
         f'<div class="archive-titles">{titles_html}</div>'
         f'<span class="archive-source">{escape(article["source"])}</span>'
         f'</div>'
@@ -182,6 +193,7 @@ body {{ margin: 0; font-family: -apple-system, "Segoe UI", Roboto, sans-serif; b
 .article-card {{ background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 14px; display: flex; flex-direction: column; gap: 6px; }}
 .article-card.top {{ border-left: 3px solid var(--accent); }}
 .cat-tag {{ display: inline-block; align-self: flex-start; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #eef2ff; color: var(--accent); font-weight: 600; }}
+.new-badge {{ display: inline-block; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px; background: #ef4444; color: white; margin-left: 4px; vertical-align: middle; }}
 .cat-tag[data-cat="보안"] {{ background: #fee2e2; color: #b91c1c; }}
 .cat-tag[data-cat="기업·투자"] {{ background: #dcfce7; color: #15803d; }}
 .cat-tag[data-cat="제품·출시"] {{ background: #ffedd5; color: #c2410c; }}
