@@ -1,9 +1,54 @@
 {
-  "generated_at": "2026-10-19T17:22:36.556273+00:00",
+  "generated_at": "2026-10-19T22:07:03.328338+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, 회사 가치 상승에 따라 성장하는 '공공이익기금' 출범",
+      "title_ko": "CoreWeave의 부채가 AI 산업 전체의 문제로 확산되고 있다",
+      "title_en": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge",
+      "published_at": "2026-10-19T21:28:20+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
+    },
+    {
+      "title_ko": "미국, 중국 DeepSeek AI를 정부 사용 금지... 기술 갈등 심화",
+      "title_en": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-19T18:21:54+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
+    },
+    {
+      "title_ko": "Anthropic, 정부 로비 중... \"50명 이상 사망 위협 시에만 AI 모델 차단\" 주장",
+      "title_en": "Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It's Poised to Kill More Than 50 People",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1NvMFUxb1RaWmV2bmJDZE9fckQ2QXJNUUlQTnI4aFlhTE1WbnRJaFpKOGpxMDBPVU1vamh2bVFOaFVqTVVkQ2tZcjBfblZfY3RmYUN1aXhBVkNmbU5takRwdkcyUUlQYW1aQlNhZ3NCZlVfYzdWV1dCdEFLb3JEbE9zV0ZIVVU3d3BLd1RTdVRJTVU?oc=5",
+      "source": "Futurism",
+      "published_at": "2026-10-19T16:36:08+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
+    },
+    {
+      "title_ko": "엔비디아, 엔터프라이즈 및 PC용 에이전트 실행 오픈 모델 출시",
+      "title_en": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-19T15:37:09+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
+    },
+    {
+      "title_ko": "해커, AI 에이전트 군대로 John Deere와 SharkNinja 침입",
+      "title_en": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge",
+      "published_at": "2026-10-19T14:42:18+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
+    },
+    {
+      "title_ko": "Anthropic, 회사 가치 상승과 함께 성장하는 '공공편익기금' 출범",
       "title_en": "Anthropic creates Public Benefit Fund that grows with company valuation",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5",
       "source": "AI News",
@@ -12,58 +57,13 @@
       "first_seen_at": "2026-10-19T10:30:07.384703+00:00"
     },
     {
-      "title_ko": "S&P Global, 하이퍼스케일 기업들이 예상보다 많은 AI 관련 부채 보유 경고",
-      "title_en": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0R4ajM1WGNGNnB0Sms4Uy1aWV8teXNzd0Z5YlllYzE1NlRvSm9oX01Ic1p2SmFDOE5mcmZtSEMtRmh4bU9xZGYyME5NMUdwdmY4cWIwWjU2RXMwUFVmek40YjVSd1E0dElQSmRpSVhNNkJaQndZRnZ4NzZqUWxNbmdxdE9vZTcyUXhKN2trMWVGejRXZldCcWVyTDRBWXJlMXFsRjVDMFZJSGR3N0xIMXVpenZfMHdvcjB4SzlSN3p0UQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-19T16:17:48+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
-    },
-    {
-      "title_ko": "중국 해커, AI 에이전트로 100개 이상 기업 웹사이트 침투 - John Deere, SharkNinja 등 피해",
-      "title_en": "A Chinese hacker used AI agents to break into more than 100 company websites — Deere and SharkNinja among websites hit by open-source AI-powered problem-solving platform demo",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQWtnOE52WjhZZkQ4VTBSa1lWdVp3VDZTNmx1Rmo0NE5GVDNUS0ZnbUJCWGZKZEdkMU0wNzBBRFl0blYwZTdKSTJnS19WejR6OWxFd0NuRW1xWVVidndtcUl1SFIzaVpWZ2RwN1BhcFlOVkhaLVNRc3N3SzI0bExNeDl6VUFTLVpqRF9XRHA0a3V1aFE4UTVZQVFFdnNzTVE5WlNFcFhHMmRUd3hEeVpIMVVvMUlLeFdRbzZJWjl6cmVOTjlGVkV3OHJzaU02eFY5NTZwU29jMjN4SjBCYkxfYUJBSWpZUzN0T2tJWDhDczdmMjJnVHgwSm82cmdVcDdmZ2FmT2N6dzcwcmJBVGZrSGNzaHhRbHBPZ2Q2TTQ1dnVPejVlbmZOTjZQTVI0dmN6QUdKS3psYUlLMHZMWDRKTFZubmpHOVhsM2JFQ0tBLUx1SVNWTWJubllNNA?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-10-19T15:36:50+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
-    },
-    {
-      "title_ko": "앤스로픽, 고위험 AI 모델 차단 권한 정부에 부여하는 AI 안전법안 제안",
-      "title_en": "Anthropic Proposes AI Safety Bill Giving US Government Power to Block High-Risk Models",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGR1Q09aVFd3bDNOMjNHVGc3RW43c1UxQVppX0F3NTVsMjZVbGFXVnhfN1BsVnNTazlGUHg1b1ZtdVFQcVhHTVFMc1hJMnpBWXpLWTRmeUZJSFVjU2xjXzBfaDZNVVhOQTlPdjF6NXVnVVJrQ0NER09jem8ybmU0YTNXS29fN2doaXZnbnRILXV3NG5mREdRckFQbE1iRk9hay15Q01BeDZwY2ZtdWdBcHlvcEdjbGQzMV9VMg?oc=5",
+      "title_ko": "Anthropic, AI 안전 제안으로 미 의회에 직접 로비",
+      "title_en": "Anthropic Takes Its AI Safety Proposals to Capitol Hill",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFNrVTI0LUJlVDFHcjJHUXVUcko4bkF2QXJaeVlhWThyWFBrb1V2ZngyWFFyUkNyRDJGRTlkY0FPVzhFcEIxeTB3ZEMwM2p2VFlFM0FVRHowV29mZXplaXp5dkd1OUZ4WlE5TGZvdkNvbFdpQ2szd2MxaWpGQW1HN2pVSDFXZk5NamZuUlpCWVhLV1hObjdGVDFNR19wRmg3SUszbV91aXR4NWUzUjdjS1pDYw?oc=5",
       "source": "PYMNTS.com",
-      "published_at": "2026-10-18T17:13:57+00:00",
+      "published_at": "2026-10-19T01:53:03+00:00",
       "category": "정책·규제",
       "first_seen_at": "2026-10-19T04:31:30.494282+00:00"
-    },
-    {
-      "title_ko": "중국 DeepSeek, 저비용 AI 개선 모델 출시",
-      "title_en": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU09ReGl5NnZhcHRYaE9jRHpMWTZ5MC02X2tKaGJfYUxHNF9fUmxDWEdQUlhOeHJlRWliQ0ZsbHBxRFBPNWJ0VWlUNC1KZ1ppb0p5RjZ2RWF5a2ZnVmJDMVREVTNYdTZrUFlDQjcycHJrazYxZDhobTRELUVLay1wdkhLMW5OcVJnT2pQWnRBQ2hXczA4TUN1eHA0OXE0SV9RODBpbm1HUWlEYV9tWUI2MjhqajlacmY2bDEwZFBQVVdjTUh1MDVmNno4bGlrZw?oc=5",
-      "source": "Nikkei Asia",
-      "published_at": "2026-10-19T13:55:00+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
-    },
-    {
-      "title_ko": "디즈니, Character.AI 직원 대다수 채용하기로 합의",
-      "title_en": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-18T16:30:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T04:31:30.494282+00:00"
-    },
-    {
-      "title_ko": "앤스로픽, 자가 복제 'AI 웜' 우려에 대해 경고",
-      "title_en": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-10-18T13:30:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-19T13:38:35.929821+00:00"
     }
   ]
 }
