@@ -23,6 +23,8 @@ ROOT = Path(__file__).resolve().parent.parent
 TOP7_PATH = ROOT / "data" / "ai_news" / "top7.json"
 
 BIGTECH_PER_COMPANY_CAP = 5
+AI_DASHBOARD_URL = "https://jenny625sj-commits.github.io/ai-news-bot/web/ai_news_dashboard.html"
+BIGTECH_DASHBOARD_URL = "https://jenny625sj-commits.github.io/ai-news-bot/web/bigtech_news_dashboard.html"
 
 
 def _article_line(article: dict) -> str:
@@ -47,6 +49,8 @@ def notify_ai_news(ai_result: dict) -> None:
         link = escape(item["link"], quote=True)
         category = escape(item.get("category", ""))
         lines.append(f'• [{category}] <a href="{link}">{escape(title)}</a>')
+    lines.append("")
+    lines.append(f'📊 <a href="{AI_DASHBOARD_URL}">대시보드 전체 보기</a>')
 
     if news_common.send_telegram_message("\n".join(lines)):
         print("텔레그램 전송: AI 산업 뉴스")
@@ -72,6 +76,7 @@ def notify_bigtech_news(bigtech_result: dict) -> None:
         if remaining > 0:
             lines.append(f"  …외 {remaining}건 (대시보드에서 확인)")
         lines.append("")
+    lines.append(f'📊 <a href="{BIGTECH_DASHBOARD_URL}">대시보드 전체 보기</a>')
 
     if news_common.send_telegram_message("\n".join(lines)):
         print("텔레그램 전송: 빅테크 뉴스")
