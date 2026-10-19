@@ -1,62 +1,69 @@
 {
-  "generated_at": "2026-10-19T10:47:50.492302+00:00",
+  "generated_at": "2026-10-19T13:38:54.718549+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, 회사 가치 상승에 따라 증가하는 '공공이익기금' 설립",
+      "title_ko": "Anthropic, 회사 가치 증가에 따라 성장하는 '공익 기금' 창설",
       "title_en": "Anthropic creates Public Benefit Fund that grows with company valuation",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5",
       "source": "AI News",
       "published_at": "2026-10-19T10:15:52+00:00",
-      "category": "기업·투자"
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-19T10:30:07.384703+00:00"
     },
     {
-      "title_ko": "딥시크, 최근 서비스 중단 후 업그레이드된 AI 모델 출시",
-      "title_en": "‘Faster and leaner’: DeepSeek rolls out upgraded AI model after recent service disruptions",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTms5ZXVKb0lBNFB1V0xXdkcycENLNlZla2NRZThTbmNRZkpSLXlQS0llTENtc2ZkTkVFcFFqR0U5SGdyUkpzZjZzTE9WZ0pib1NHd3RiaDVmSVFPdjVnWGY2YzhaOWlfd0pUdElzQ1ZZZ0NjdHVhUHFaTjZPRjVacFNpMGs3R3M1dE5Bbg?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-10-19T05:18:00+00:00",
-      "category": "제품·출시"
+      "title_ko": "중국 MiniMax, 개선된 AI 모델 M3.1 Flash 출시 발표",
+      "title_en": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-19T12:25:44+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-19T13:38:35.929821+00:00"
     },
     {
-      "title_ko": "앤스로픽, 고위험 AI 모델 차단 권한을 정부에 부여하는 AI 안전 법안 제안",
+      "title_ko": "Anthropic, 고위험 AI 모델 차단 권한 부여하는 AI 안전 법안 제안",
       "title_en": "Anthropic Proposes AI Safety Bill Giving US Government Power to Block High-Risk Models",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGR1Q09aVFd3bDNOMjNHVGc3RW43c1UxQVppX0F3NTVsMjZVbGFXVnhfN1BsVnNTazlGUHg1b1ZtdVFQcVhHTVFMc1hJMnpBWXpLWTRmeUZJSFVjU2xjXzBfaDZNVVhOQTlPdjF6NXVnVVJrQ0NER09jem8ybmU0YTNXS29fN2doaXZnbnRILXV3NG5mREdRckFQbE1iRk9hay15Q01BeDZwY2ZtdWdBcHlvcEdjbGQzMV9VMg?oc=5",
       "source": "PYMNTS.com",
       "published_at": "2026-10-18T17:13:57+00:00",
-      "category": "정책·규제"
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-19T04:31:30.494282+00:00"
     },
     {
-      "title_ko": "디즈니, Character.AI 직원 대다수 채용 합의",
+      "title_ko": "자가 복제 'AI 웜' 위협 대두, Anthropic이 우려 제기",
+      "title_en": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-10-18T13:30:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-19T13:38:35.929821+00:00"
+    },
+    {
+      "title_ko": "Disney, Character.AI 직원 대다수 채용 합의",
       "title_en": "Disney agrees to hire the majority of Character.AI’s workforce",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch",
       "published_at": "2026-10-18T16:30:00+00:00",
-      "category": "기업·투자"
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-19T04:31:30.494282+00:00"
     },
     {
-      "title_ko": "기업들, 직원 생산성 향상 없이 AI에 막대한 예산 낭비하다 예산 삭감 시작",
-      "title_en": "Companies Are Realizing They're Spending a Fortune on AI Just So Their Employees Can Generate Error-Riddled Slop, and Suddenly Cutting Back Budgets",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGRrWUV1VmE4Ujd3UzYyOTdLam85TnZnWUpiQU9fcm1GTkV2bTNPQk4yZU1hZGhkZ3pGZEdNRTVNYkwwVXlkS2ZDdlBkTk1xcHhuV1NIWG13TlQ0N2x6NlNqY3NwVGxCclpQS1JSWGdmMEVtNC1URVBuVk03Z1Y0RkxFdkdadHVtTG9zeERTaWRDVFYydkljdmhB?oc=5",
-      "source": "Futurism",
-      "published_at": "2026-10-18T10:49:00+00:00",
-      "category": "기업·투자"
-    },
-    {
-      "title_ko": "'소형 AI'가 개발도상국을 변혁할 수 있다고 세계은행 주장",
-      "title_en": "World Bank says ‘small AI’ could transform developing countries",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlhMNzlYUUZNc1F4dTZiUktjcDhOc3FMVlVxblc5Yi1sSnN0bWp5dU4zczhReDh4Ym5LbDJVZl8xT2k2TGVveW9CMkFfV2ZvZlA3cC1oQjY0NHh4MDRtRzRCM2xodFoxSjBtR1R5SnJvZDdPRU9BQTFaYXo2LXRyY0lNN1NGSzl1UWpHWkdWQVNVS1BGVnBYd05aV3NUdkJBQ1U4N3VzYllfUQ?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-10-18T10:01:00+00:00",
-      "category": "연구·기술"
-    },
-    {
-      "title_ko": "앤스로픽, 미국의 국내총생산을 2030년까지 44조 달러로 증대 가능하다고 정책입안자에 주장",
+      "title_ko": "Anthropic CEO, AI가 미국 GDP를 2030년까지 44조 달러로 끌어올릴 수 있다고 정책 입안자들에 강조",
       "title_en": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5",
       "source": "CNBC",
       "published_at": "2026-10-17T23:04:00+00:00",
-      "category": "기업·투자"
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-19T04:31:30.494282+00:00"
+    },
+    {
+      "title_ko": "DeepSeek, 최근 서비스 장애 이후 개선된 AI 모델 출시",
+      "title_en": "‘Faster and leaner’: DeepSeek rolls out upgraded AI model after recent service disruptions",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTms5ZXVKb0lBNFB1V0xXdkcycENLNlZla2NRZThTbmNRZkpSLXlQS0llTENtc2ZkTkVFcFFqR0U5SGdyUkpzZjZzTE9WZ0pib1NHd3RiaDVmSVFPdjVnWGY2YzhaOWlfd0pUdElzQ1ZZZ0NjdHVhUHFaTjZPRjVacFNpMGs3R3M1dE5Bbg?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-10-19T05:18:00+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-19T10:30:07.384703+00:00"
     }
   ]
 }
