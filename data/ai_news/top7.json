@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T13:24:53.266939+00:00",
+  "generated_at": "2026-10-20T18:23:47.049369+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "미국, 연방 기관에 중국 DeepSeek AI 제거 명령",
+      "title_ko": "미국 정부, 연방 기관에서 중국 DeepSeek AI 제거 명령",
       "title_en": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
     },
     {
-      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 모금 경쟁 중",
+      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 자금 조달 경쟁 중",
       "title_en": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
       "source": "PYMNTS.com",
@@ -21,49 +21,49 @@
       "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
     },
     {
-      "title_ko": "Otter.ai, General Catalyst로부터 3억 2천만 달러 조성",
-      "title_en": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "title_ko": "Anthropic, 또 다른 450억 달러 규모 컴퓨트 인프라 거래 협상 중",
+      "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TechCrunch",
-      "published_at": "2026-10-20T11:00:00+00:00",
+      "published_at": "2026-10-19T23:39:38+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
+      "first_seen_at": "2026-10-20T01:38:11.376915+00:00"
     },
     {
-      "title_ko": "해커가 AI 에이전트로 수십 개 사이트 침입, 보안 위협 드러내",
+      "title_ko": "백악관, 보안 우려 속 120일 AI 안전 검토 개시",
+      "title_en": "White House Begins 120-Day AI Safety Review Amid Growing Security Concerns",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTFFVGdJbFBELVEyQklSQTJ1Z1ZzSDE1am1zc1lYUWI3MzRiZVdtZ3pidkxFYUJhOEN2dERXbHVXeEtYWWhVMGRHYUJSMllrQkJwNHBSQ1FIV2ZVMUJIcy1tNmVDSWxha1JIUTdiRlYySEhTSkM2ZzE1WTVPbHktNFg1VnVFUXgwVXBF?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-10-20T12:05:10+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
+    },
+    {
+      "title_ko": "DeepSeek, 오픈소스 추론 도구로 OpenAI와 Anthropic에 압박",
+      "title_en": "DeepSeek Dials Up the Pressure on OpenAI and Anthropic With Open-Source Inference Tool",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb01YenVDbE5LRnNkaWVVOUczR3hpMFlVYWlTRk9BX3NlMUp0QVBHdWlzVTBEcGlPMmZXdmRCaWtIaUthbmlfQml2bjFSY1NkNVRlSUx0LVBWeTh4WkhzYklCTnJmc0JraFZFQ3NDRUV4ME1jbUlEOVYtY3kwNjFacXNkVmgwZGlfeHZsVF8tTzJQVXlvSVdubnRCQXlLeEVKdlNVYWlOOV9BUzJEeHh0aGd0MUlkU01Z?oc=5",
+      "source": "Gizmodo",
+      "published_at": "2026-10-20T16:45:40+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
+    },
+    {
+      "title_ko": "OpenAI의 AI, 백만 달러 규모 수학 난제 '나비에-스토크스 방정식' 해결",
+      "title_en": "OpenAI's AI Solves Navier-Stokes, A Million-dollar Math Problem",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RT1NpclZGVGM4cEEtdWo3TFIwblU5ZXhNcXRIMldxTkliMXN1M19MT05qOFR0SXcyR1JCVUJHck1uNnlpcmFZOC1MVXZON0xaRFdpVHpMUW16SVZFcnZubzRwT1V0TmZ4TjEtOW1ab2lmWmlWME0zZ25WR3FBZw?oc=5",
+      "source": "Quantum Zeitgeist",
+      "published_at": "2026-10-20T15:27:33+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
+    },
+    {
+      "title_ko": "해커, AI 에이전트와 수천 달러로 수십 개 웹사이트 침투 성공",
       "title_en": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
       "source": "Reuters",
       "published_at": "2026-10-19T21:30:28+00:00",
       "category": "보안",
       "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
-    },
-    {
-      "title_ko": "Tenstorrent, 62억 달러 기업가치로 개방형 AI 칩 확대",
-      "title_en": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-19T18:37:27+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
-    },
-    {
-      "title_ko": "\"우리가 잘못 봤다\": AI 세계를 뒤흔든 폭발적인 주장",
-      "title_en": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Technology Review",
-      "published_at": "2026-10-19T17:45:55+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
-    },
-    {
-      "title_ko": "Anthropic, AI의 일자리 영향 해결을 위한 새 기금 출시",
-      "title_en": "Anthropic’s new fund could help address AI’s impact on jobs and workers",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTS1Oek5lRm9hU0YwbUVQSzhnRnJXNWFELVA5UWFsSGs2VDRDdTBRTS0zTEt1anVjQmt0UlBGTllJY2k1WmdqbHFEajk1ek50aEF2NHpzN184eTIwdjc2akFXS0o4dm1BcmNkaXk5Q3hIUEVsTXNfekJFR0FRbEpRdmx0ZlRMZWdIMG9CNkcwUjZselp3dG9WNHpGYmhuVWI2VmEtWXdKSDFnTUJWRkVYanlIc3lTMXdrRWRVbjRjU1Fpb25SeWxmYnBTSlptY1JGUTM4NHJQYnFGcmdGRnVieTJ0N0ZpUmfSAewBQVVfeXFMT3lTeGhmaHVldjRla1hndjFnNXZQb3I0a01BLVEtRlVmM1pZV2VvWW9zd3BNVGxnVUZkdVl1X1B6TzFjUGJKV2JtQ3hXM2IyMkprYkgtNEVlYzdXSTJDaVBkOE5qbHItcFNjOHJvN1RJdF90WWlPVUZra0VfbEM3SFY2eXc1TEFwc0hkWjd0WkE5VnBjVlR4bGZmTzE2X2s4QTVCdnlENFF4eWZUX2dUU3N6MEJtRjdkNUFlTS1BOFZXMkJJbjBDeHFNYTA0NnF5VnloTC1PcWxhelRLRko5SXhHOUtmYmRjSkhKOVU?oc=5",
-      "source": "The Economic Times",
-      "published_at": "2026-10-19T13:17:15+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T13:38:35.929821+00:00"
     }
   ]
 }
