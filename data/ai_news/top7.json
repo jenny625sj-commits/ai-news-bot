@@ -1,45 +1,36 @@
 {
-  "generated_at": "2026-10-20T18:23:47.049369+00:00",
+  "generated_at": "2026-10-20T22:09:58.121646+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "미국 정부, 연방 기관에서 중국 DeepSeek AI 제거 명령",
-      "title_en": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T13:07:24+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
-    },
-    {
-      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 자금 조달 경쟁 중",
-      "title_en": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-10-20T10:39:54+00:00",
+      "title_ko": "SpaceX, AI 사업 성장으로 매출 급증",
+      "title_en": "SpaceX says big AI growth fueled revenue jump",
+      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "source": "The Verge",
+      "published_at": "2026-10-20T21:34:55+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
+      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
     },
     {
-      "title_ko": "Anthropic, 또 다른 450억 달러 규모 컴퓨트 인프라 거래 협상 중",
-      "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "title_ko": "OpenAI, 생명공학 스타트업 Orchestra Bio 인수로 바이오텍 사업 강화",
+      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "source": "TechCrunch",
-      "published_at": "2026-10-19T23:39:38+00:00",
+      "published_at": "2026-10-20T20:35:10+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-20T01:38:11.376915+00:00"
+      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
     },
     {
-      "title_ko": "백악관, 보안 우려 속 120일 AI 안전 검토 개시",
-      "title_en": "White House Begins 120-Day AI Safety Review Amid Growing Security Concerns",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTFFVGdJbFBELVEyQklSQTJ1Z1ZzSDE1am1zc1lYUWI3MzRiZVdtZ3pidkxFYUJhOEN2dERXbHVXeEtYWWhVMGRHYUJSMllrQkJwNHBSQ1FIV2ZVMUJIcy1tNmVDSWxha1JIUTdiRlYySEhTSkM2ZzE1WTVPbHktNFg1VnVFUXgwVXBF?oc=5",
-      "source": "TechRepublic",
-      "published_at": "2026-10-20T12:05:10+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
+      "title_ko": "구글, 아마존과 함께 엔비디아의 AI 앱 개발자 시장 진출 도전",
+      "title_en": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T18:38:24+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
     },
     {
-      "title_ko": "DeepSeek, 오픈소스 추론 도구로 OpenAI와 Anthropic에 압박",
+      "title_ko": "DeepSeek, 오픈소스 추론 도구로 OpenAI·Anthropic에 압박 강화",
       "title_en": "DeepSeek Dials Up the Pressure on OpenAI and Anthropic With Open-Source Inference Tool",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb01YenVDbE5LRnNkaWVVOUczR3hpMFlVYWlTRk9BX3NlMUp0QVBHdWlzVTBEcGlPMmZXdmRCaWtIaUthbmlfQml2bjFSY1NkNVRlSUx0LVBWeTh4WkhzYklCTnJmc0JraFZFQ3NDRUV4ME1jbUlEOVYtY3kwNjFacXNkVmgwZGlfeHZsVF8tTzJQVXlvSVdubnRCQXlLeEVKdlNVYWlOOV9BUzJEeHh0aGd0MUlkU01Z?oc=5",
       "source": "Gizmodo",
@@ -48,21 +39,30 @@
       "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
     },
     {
-      "title_ko": "OpenAI의 AI, 백만 달러 규모 수학 난제 '나비에-스토크스 방정식' 해결",
-      "title_en": "OpenAI's AI Solves Navier-Stokes, A Million-dollar Math Problem",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RT1NpclZGVGM4cEEtdWo3TFIwblU5ZXhNcXRIMldxTkliMXN1M19MT05qOFR0SXcyR1JCVUJHck1uNnlpcmFZOC1MVXZON0xaRFdpVHpMUW16SVZFcnZubzRwT1V0TmZ4TjEtOW1ab2lmWmlWME0zZ25WR3FBZw?oc=5",
-      "source": "Quantum Zeitgeist",
-      "published_at": "2026-10-20T15:27:33+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
+      "title_ko": "미국 정부, 연방기관에 중국 DeepSeek AI 제거 지시",
+      "title_en": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T13:07:24+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
     },
     {
-      "title_ko": "해커, AI 에이전트와 수천 달러로 수십 개 웹사이트 침투 성공",
-      "title_en": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-19T21:30:28+00:00",
-      "category": "보안",
+      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 조달 경쟁 벌인다",
+      "title_en": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-10-20T10:39:54+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
+    },
+    {
+      "title_ko": "CoreWeave의 부채 위기가 전체 AI 산업의 문제로 확산",
+      "title_en": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge",
+      "published_at": "2026-10-19T21:28:20+00:00",
+      "category": "기업·투자",
       "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
     }
   ]
