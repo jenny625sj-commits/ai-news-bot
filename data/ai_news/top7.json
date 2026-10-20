@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T01:38:20.504487+00:00",
+  "generated_at": "2026-10-20T07:17:18.799017+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "엔스케일과 앤스로픽, 450억 달러 규모 컴퓨팅 딜 협상 중",
+      "title_ko": "앤스로픽, 또 다른 450억 달러 규모 컴퓨팅 딜 논의 중",
       "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
       "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TechCrunch",
@@ -12,34 +12,16 @@
       "first_seen_at": "2026-10-20T01:38:11.376915+00:00"
     },
     {
-      "title_ko": "코어위브의 부채, 전체 AI 산업의 문제로 확대",
-      "title_en": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "source": "The Verge",
-      "published_at": "2026-10-19T21:28:20+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
-    },
-    {
-      "title_ko": "전직 구글 엔지니어 딩의 회사, 미국 AI 기술 유출 혐의로 제재",
-      "title_en": "Former Google engineer Ding’s company sanctioned over US AI trade-secret theft",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcGR2dW1ZS1FEcWEwRWdEakxzekU4LXVrMWo4VmQ4UzlUNnJhbUZqVHVyN1NRamV6a19JLXozVzNPWDQta25Gb0JqODV0TVBNbENOMVJHZ09DcG5ISWlyd0JFNFRtY3ZlYWNDalpKUEJncmlWaXBTbTVSdjd2RWpVakdxaDItemQ1NnpLYjJrTUhnZzhUenpOU0VWa0N0dUd3YU82VFlERFZfdUo5YnRnekJLX2ZpTGozb1ZTZDBvMmR4QnlfQ3h6UHgtRk9sTDN4bDJ2ZkpRWTV5T0p6a3fSAVpBVV95cUxNaUc1R0p5NUNxVTRJamhEeHRXZjk4NVB0Q0dqV1ZkSzFOWGNpWnp2UDlydFh3VkdUdjQ1MndxNE9yY29QT1A5YXZpZG1NNkw4Z05QTmNTeGF1MHc?oc=5",
-      "source": "MLex",
-      "published_at": "2026-10-19T20:11:42+00:00",
+      "title_ko": "해커가 AI 에이전트로 수십 개 사이트 침입, 단 수천 달러만 투자",
+      "title_en": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-19T21:30:28+00:00",
       "category": "보안",
       "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
     },
     {
-      "title_ko": "텐스토렌트, 62억 달러 기업가치 달성하며 오픈 웨이트 AI 칩 확대",
-      "title_en": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-19T18:37:27+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
-    },
-    {
-      "title_ko": "미국, 중국의 디ープ시크 AI 정부 사용 금지",
+      "title_ko": "미국, 중국 딥씬 AI를 정부 사용 금지 조치",
       "title_en": "US bans DeepSeek AI from government use as tech tension with China continues",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
       "source": "BBC",
@@ -48,7 +30,7 @@
       "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
     },
     {
-      "title_ko": "S&P글로벌, 주요 하이퍼스케일러의 AI 연관 부채가 현재보다 훨씬 많을 수 있다고 경고",
+      "title_ko": "S&P, 하이퍼스케일러들의 AI 관련 부채가 현재 알려진 것보다 많다고 경고",
       "title_en": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0R4ajM1WGNGNnB0Sms4Uy1aWV8teXNzd0Z5YlllYzE1NlRvSm9oX01Ic1p2SmFDOE5mcmZtSEMtRmh4bU9xZGYyME5NMUdwdmY4cWIwWjU2RXMwUFVmek40YjVSd1E0dElQSmRpSVhNNkJaQndZRnZ4NzZqUWxNbmdxdE9vZTcyUXhKN2trMWVGejRXZldCcWVyTDRBWXJlMXFsRjVDMFZJSGR3N0xIMXVpenZfMHdvcjB4SzlSN3p0UQ?oc=5",
       "source": "Reuters",
@@ -57,13 +39,31 @@
       "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
     },
     {
-      "title_ko": "머스크와 앤스로픽, 대중을 위한 주식 배분 약속",
-      "title_en": "Musk and Anthropic pledge public share giveaways",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96d1pfMGRCUGNicWlMXzlMckdGTGlnMGJyM1ZwR3lxb2xoRG5BR19QaWNDVDBPVXFXRVhQd2lDM0RfTXNNMGE1WFgwNVR3R3MxQV9rV2lseGRSZ28?oc=5",
-      "source": "BBC",
-      "published_at": "2026-10-19T09:38:25+00:00",
+      "title_ko": "머스크와 앤스로픽, AI 수익 국민 배분 공약",
+      "title_en": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDRsOTlqdE9oSWhyakM3Zzc5Nnk5Umw3b0NkazBvb0NNUjUyejNGVDNsXzgzeF9fb3NKeFFjRkhZVU9XaDlWZkhweWszMi1zdE5KSHFiSkFwRTBHQ3pQdHB3NU9GTWVZNlZnSGhoT21wdmQtQ2dGQ0dzeHRVZmliZWlZV3pJT0lXczhqaFM0NmJVNmRfUG1ZdDkyUnRzeEFscG55MURTXzllMWdf?oc=5",
+      "source": "NBC News",
+      "published_at": "2026-10-19T14:39:38+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-19T13:38:35.929821+00:00"
+      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
+    },
+    {
+      "title_ko": "중국 딥씬, 저비용 개선형 AI 모델 출시",
+      "title_en": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU09ReGl5NnZhcHRYaE9jRHpMWTZ5MC02X2tKaGJfYUxHNF9fUmxDWEdQUlhOeHJlRWliQ0ZsbHBxRFBPNWJ0VWlUNC1KZ1ppb0p5RjZ2RWF5a2ZnVmJDMVREVTNYdTZrUFlDQjcycHJrazYxZDhobTRELUVLay1wdkhLMW5OcVJnT2pQWnRBQ2hXczA4TUN1eHA0OXE0SV9RODBpbm1HUWlEYV9tWUI2MjhqajlacmY2bDEwZFBQVVdjTUh1MDVmNno4bGlrZw?oc=5",
+      "source": "Nikkei Asia",
+      "published_at": "2026-10-19T13:55:00+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
+    },
+    {
+      "title_ko": "앤스로픽 보고서, 신입급 기술 채용 둔화 원인 분석",
+      "title_en": "Entry-Level Tech Hiring Is Slowing At Anthropic. Its Report Explains Why",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYU1RbjN4dm44ME1GNVdkaUk4aVN2RGZFeUN4WHFQMGljTjBKYkJ6SzNxc2tSN0wwMEYxVm9iaW5HbjZ0Q05fZnVJMHg2NnVNMmYzSGt4QVJNQzRtS0hxQjN5WXpmSmdMSktJNnhyanlBOXJrQU8xbzVHM2h5R3ZvSDJQNmRMYXFwMzd5OVN2X3hLZlczRHZGYjlZeEw1WUliVVg4SE94SE5XenhuOVhaSFE0QWt2eVdUcTR4OUIzQUJsM1HSAcsBQVVfeXFMUEYyalZOMVhHRGVvRlE3UXEwaUFtS2N4TFZFdFlza0dOMVFsX1pVSzN3VUNneUpjSDE2ZEpCOTNCUHAtRDN5WlMwNmxFNG1YQW5tTGdTSy0yRVdqMWFFenpXQ1E2LXJnOTFWZ1c2aW80TnN0eWRrUV9HS0pSSEZMSW11MFloV1FWaHFDUXB2RFZZUC1zOWlETmlidFdTVHUyREJnMVd6cEQzSGFqVi14elFUeV9ONE1wYmxySDZNWVpXUmVYSXZVaEhKdUE?oc=5",
+      "source": "NDTV",
+      "published_at": "2026-10-19T06:17:20+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-19T10:30:07.384703+00:00"
     }
   ]
 }
