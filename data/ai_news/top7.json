@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-10-20T07:17:18.799017+00:00",
+  "generated_at": "2026-10-20T13:24:53.266939+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, 또 다른 450억 달러 규모 컴퓨팅 딜 논의 중",
-      "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "title_ko": "미국, 연방 기관에 중국 DeepSeek AI 제거 명령",
+      "title_en": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
       "source": "TechCrunch",
-      "published_at": "2026-10-19T23:39:38+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-20T01:38:11.376915+00:00"
+      "published_at": "2026-10-20T13:07:24+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
     },
     {
-      "title_ko": "해커가 AI 에이전트로 수십 개 사이트 침입, 단 수천 달러만 투자",
+      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 모금 경쟁 중",
+      "title_en": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-10-20T10:39:54+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
+    },
+    {
+      "title_ko": "Otter.ai, General Catalyst로부터 3억 2천만 달러 조성",
+      "title_en": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T11:00:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
+    },
+    {
+      "title_ko": "해커가 AI 에이전트로 수십 개 사이트 침입, 보안 위협 드러내",
       "title_en": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
       "source": "Reuters",
@@ -21,49 +39,31 @@
       "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
     },
     {
-      "title_ko": "미국, 중국 딥씬 AI를 정부 사용 금지 조치",
-      "title_en": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
-      "source": "BBC",
-      "published_at": "2026-10-19T18:21:54+00:00",
-      "category": "정책·규제",
+      "title_ko": "Tenstorrent, 62억 달러 기업가치로 개방형 AI 칩 확대",
+      "title_en": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-19T18:37:27+00:00",
+      "category": "기업·투자",
       "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
     },
     {
-      "title_ko": "S&P, 하이퍼스케일러들의 AI 관련 부채가 현재 알려진 것보다 많다고 경고",
-      "title_en": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0R4ajM1WGNGNnB0Sms4Uy1aWV8teXNzd0Z5YlllYzE1NlRvSm9oX01Ic1p2SmFDOE5mcmZtSEMtRmh4bU9xZGYyME5NMUdwdmY4cWIwWjU2RXMwUFVmek40YjVSd1E0dElQSmRpSVhNNkJaQndZRnZ4NzZqUWxNbmdxdE9vZTcyUXhKN2trMWVGejRXZldCcWVyTDRBWXJlMXFsRjVDMFZJSGR3N0xIMXVpenZfMHdvcjB4SzlSN3p0UQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-19T16:17:48+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
+      "title_ko": "\"우리가 잘못 봤다\": AI 세계를 뒤흔든 폭발적인 주장",
+      "title_en": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Technology Review",
+      "published_at": "2026-10-19T17:45:55+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
     },
     {
-      "title_ko": "머스크와 앤스로픽, AI 수익 국민 배분 공약",
-      "title_en": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDRsOTlqdE9oSWhyakM3Zzc5Nnk5Umw3b0NkazBvb0NNUjUyejNGVDNsXzgzeF9fb3NKeFFjRkhZVU9XaDlWZkhweWszMi1zdE5KSHFiSkFwRTBHQ3pQdHB3NU9GTWVZNlZnSGhoT21wdmQtQ2dGQ0dzeHRVZmliZWlZV3pJT0lXczhqaFM0NmJVNmRfUG1ZdDkyUnRzeEFscG55MURTXzllMWdf?oc=5",
-      "source": "NBC News",
-      "published_at": "2026-10-19T14:39:38+00:00",
+      "title_ko": "Anthropic, AI의 일자리 영향 해결을 위한 새 기금 출시",
+      "title_en": "Anthropic’s new fund could help address AI’s impact on jobs and workers",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTS1Oek5lRm9hU0YwbUVQSzhnRnJXNWFELVA5UWFsSGs2VDRDdTBRTS0zTEt1anVjQmt0UlBGTllJY2k1WmdqbHFEajk1ek50aEF2NHpzN184eTIwdjc2akFXS0o4dm1BcmNkaXk5Q3hIUEVsTXNfekJFR0FRbEpRdmx0ZlRMZWdIMG9CNkcwUjZselp3dG9WNHpGYmhuVWI2VmEtWXdKSDFnTUJWRkVYanlIc3lTMXdrRWRVbjRjU1Fpb25SeWxmYnBTSlptY1JGUTM4NHJQYnFGcmdGRnVieTJ0N0ZpUmfSAewBQVVfeXFMT3lTeGhmaHVldjRla1hndjFnNXZQb3I0a01BLVEtRlVmM1pZV2VvWW9zd3BNVGxnVUZkdVl1X1B6TzFjUGJKV2JtQ3hXM2IyMkprYkgtNEVlYzdXSTJDaVBkOE5qbHItcFNjOHJvN1RJdF90WWlPVUZra0VfbEM3SFY2eXc1TEFwc0hkWjd0WkE5VnBjVlR4bGZmTzE2X2s4QTVCdnlENFF4eWZUX2dUU3N6MEJtRjdkNUFlTS1BOFZXMkJJbjBDeHFNYTA0NnF5VnloTC1PcWxhelRLRko5SXhHOUtmYmRjSkhKOVU?oc=5",
+      "source": "The Economic Times",
+      "published_at": "2026-10-19T13:17:15+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
-    },
-    {
-      "title_ko": "중국 딥씬, 저비용 개선형 AI 모델 출시",
-      "title_en": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU09ReGl5NnZhcHRYaE9jRHpMWTZ5MC02X2tKaGJfYUxHNF9fUmxDWEdQUlhOeHJlRWliQ0ZsbHBxRFBPNWJ0VWlUNC1KZ1ppb0p5RjZ2RWF5a2ZnVmJDMVREVTNYdTZrUFlDQjcycHJrazYxZDhobTRELUVLay1wdkhLMW5OcVJnT2pQWnRBQ2hXczA4TUN1eHA0OXE0SV9RODBpbm1HUWlEYV9tWUI2MjhqajlacmY2bDEwZFBQVVdjTUh1MDVmNno4bGlrZw?oc=5",
-      "source": "Nikkei Asia",
-      "published_at": "2026-10-19T13:55:00+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-19T17:22:09.529305+00:00"
-    },
-    {
-      "title_ko": "앤스로픽 보고서, 신입급 기술 채용 둔화 원인 분석",
-      "title_en": "Entry-Level Tech Hiring Is Slowing At Anthropic. Its Report Explains Why",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYU1RbjN4dm44ME1GNVdkaUk4aVN2RGZFeUN4WHFQMGljTjBKYkJ6SzNxc2tSN0wwMEYxVm9iaW5HbjZ0Q05fZnVJMHg2NnVNMmYzSGt4QVJNQzRtS0hxQjN5WXpmSmdMSktJNnhyanlBOXJrQU8xbzVHM2h5R3ZvSDJQNmRMYXFwMzd5OVN2X3hLZlczRHZGYjlZeEw1WUliVVg4SE94SE5XenhuOVhaSFE0QWt2eVdUcTR4OUIzQUJsM1HSAcsBQVVfeXFMUEYyalZOMVhHRGVvRlE3UXEwaUFtS2N4TFZFdFlza0dOMVFsX1pVSzN3VUNneUpjSDE2ZEpCOTNCUHAtRDN5WlMwNmxFNG1YQW5tTGdTSy0yRVdqMWFFenpXQ1E2LXJnOTFWZ1c2aW80TnN0eWRrUV9HS0pSSEZMSW11MFloV1FWaHFDUXB2RFZZUC1zOWlETmlidFdTVHUyREJnMVd6cEQzSGFqVi14elFUeV9ONE1wYmxySDZNWVpXUmVYSXZVaEhKdUE?oc=5",
-      "source": "NDTV",
-      "published_at": "2026-10-19T06:17:20+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-19T10:30:07.384703+00:00"
+      "first_seen_at": "2026-10-19T13:38:35.929821+00:00"
     }
   ]
 }
