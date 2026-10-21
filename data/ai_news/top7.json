@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T13:34:07.871739+00:00",
+  "generated_at": "2026-10-21T18:28:48.898562+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, 2026년 상반기 80억 달러 이상의 순손실 기록",
+      "title_ko": "앤스로픽, 2026년 상반기 80억 달러 넘는 순손실 기록",
       "title_en": "Anthropic logged net loss of over US$80 billion in first half of 2026",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmJCNFZ6bU5jcUdZR3JVZ3pkalZIb2Z4SVdWWGd3b0NiY3NBdEhvdDlrcWxlTVhxcm96QnYtd0pndEYzS1k0WnhhNkp0ODlQczF6U2xmV3lVRm8tb3ZwTWhTaXdudGRzNHRUSklsb2xZclYteHY2WmFURmp0ZG1MUVpSRFh5aEhXRnhLZ3R5N2VUVGU5MndCU21zRGI5S0J6U3dxeDJoUFZKWldueDJNRUFMVndUakJHbkRIanpiVmphdzBFX1ZyS29QVzhxa05QZkFZdk9seXc?oc=5",
       "source": "BNN Bloomberg",
@@ -12,16 +12,7 @@
       "first_seen_at": "2026-10-21T13:33:43.831642+00:00"
     },
     {
-      "title_ko": "OpenAI, 구글 클라우드에서 최고급 모델 판매 시작",
-      "title_en": "OpenAI to sell its top models on Google Cloud in latest enterprise push",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEVqMEUtTjhiaDAzYkxmLWpFQmkwY0FYU3kxTGsyZzl0U3FiUExBMEZQdkl3SlhrQk9mWWFLQnNQeWtPcFd1U0RGUzFTc2d3WjJXeFdOc0pSNnJBVG8yUW1POThkMERCUlgtNm4yNlNXMU4zY3huWEstY29mNWlIb2pNZVM?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-10-21T12:01:16+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-21T13:33:43.831642+00:00"
-    },
-    {
-      "title_ko": "미국, 연방기관 전역에서 딥시크 금지, AI 공급망에 우려 확산",
+      "title_ko": "미국 정부, 연방기관 전역에서 딥시크 사용 금지",
       "title_en": "US bans DeepSeek across federal agencies, putting AI supply chains under scrutiny",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNamM1SmtqWjh2eUExbE12QXNZUl95ZmRsZWI1LWoyXzloQzhHYjZNQTJnbHpJN2k1d01LTGtsai01T3A1TjZBUHljRnVrdi1GdG1qVm1RQjNIdHdaakctTERhcmh6cjNMcmZiX1VOU0VIVVNjdUtNLWNrZEhUZ3BlNkZ4T0dsMzVPRmtoZEZJeWlhQUtTYldTU1BWVFJJdVNBem5BRXJpWTF5NEtpdklMYmd1VXVLNEpaQ0dqbkpR?oc=5",
       "source": "CIO",
@@ -30,38 +21,47 @@
       "first_seen_at": "2026-10-21T07:14:08.797986+00:00"
     },
     {
-      "title_ko": "앤스로픽, 50명 이상 사망 가능 시 모델 차단하는 AI 안전법안 제시",
-      "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T23:01:23+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-21T01:22:59.129256+00:00"
+      "title_ko": "오픈AI, 고급 모델을 구글 클라우드에서 제공하기로",
+      "title_en": "OpenAI will offer its advanced models on Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FODBGdGEtNVdiOVRybE0zNWhzZmxnbTFxTEpNcGlrX3oyUnNBeHBCemhEanZNcHdLUU1nZzVRVG5ET2J0OG1JRHQydHNjX3lORnl6WjJKNjNSWGRyZnZCNWpYMm9nS01kZnN0YTNvMjFDY2s5VnlB?oc=5",
+      "source": "Inspenet",
+      "published_at": "2026-10-21T13:00:25+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-21T18:28:22.269979+00:00"
     },
     {
-      "title_ko": "OpenAI, AI 에이전트가 내부 모니터링 시스템 약화시켰다고 인정",
-      "title_en": "OpenAI Says Its AI Agents Weakened Parts Of An Internal Monitoring System",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYW1OMlFRdl9ra1otbUtNeXNMamZkc0x5dzJKVXlHYmJyaElSUjR1TzUyc1BPT3BGZWhSTm1sekZKajYtdW96RlZpZ05KaVNxUUNtcl9rbklFMjFqel9zaHIweXFwaWFFdERjR0ZreU92QXdlX0hiS1RKaVJYX1NRU2NnRzFZbXpZSy1qVFgtSUdTekFJcGNnREU2YkMtdk5IRDFPbzBWVHpsR21xNi1rYjFPdFR6MURLSndPMXBvY3lfaUdSbUHSAc4BQVVfeXFMUE9RX0xhNjBnV1REUXgtMWFwaW1SeE9qM0VHQ0NHT3dYdU9IYkNwRkgtMERjeTlXcE9uNGlZeVRaOUxJdTNlUzhWOW5lc25yM2hYUVoxM0x3UGg5UkFpRGFoUzdaZnZZUDcwWl9QdjFJWVhrTjlwWHFBdGtMSi04S3plY1N4Mi1ITjZab05mZFRuUEVTTDIzbkpTcXZpWm1TM1lkcXg3UzRXWldPRVl4WjF2SmRCc1d0ME9yZUIwLXZzMUIzbWw0S0RLSU9rMnc?oc=5",
-      "source": "NDTV",
-      "published_at": "2026-10-21T02:39:03+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-21T07:14:08.797986+00:00"
-    },
-    {
-      "title_ko": "OpenAI의 AI, 100만 달러 규모의 수학 난제 나비에-스토크스 방정식 풀어",
-      "title_en": "OpenAI's AI Solves Navier-Stokes, A Million-dollar Math Problem",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RT1NpclZGVGM4cEEtdWo3TFIwblU5ZXhNcXRIMldxTkliMXN1M19MT05qOFR0SXcyR1JCVUJHck1uNnlpcmFZOC1MVXZON0xaRFdpVHpMUW16SVZFcnZubzRwT1V0TmZ4TjEtOW1ab2lmWmlWME0zZ25WR3FBZw?oc=5",
-      "source": "Quantum Zeitgeist",
-      "published_at": "2026-10-20T15:27:33+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
-    },
-    {
-      "title_ko": "스페이스X, AI 사업의 급성장으로 매출 증대",
+      "title_ko": "스페이스X, AI 성장이 매출 급증 주도했다고 밝혀",
       "title_en": "SpaceX says big AI growth fueled revenue jump",
       "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
       "source": "The Verge",
       "published_at": "2026-10-20T21:34:55+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
+    },
+    {
+      "title_ko": "앤스로픽, 10억 달러 기준의 AI 위험 규제안 제시",
+      "title_en": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5",
+      "source": "Politico",
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-21T13:33:43.831642+00:00"
+    },
+    {
+      "title_ko": "오픈AI, AI 에이전트가 자체 안전 모니터링 시스템을 비활성화했다고 공개",
+      "title_en": "OpenAI says its AI agents disabled their own safety monitors",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkdjTUp1VHlmU2xxYktJQ2ZMVERZbGNxc2tVR3FTWGZXMENFUUE2SXVWVjVsbUw2dW9KTnNsNE40X0M3RFRRUXFNV1pTMVdhQ2gzMzBURUxuM294YTVVdlF5SHNuVDhybjR5SlRLaFFJZGtQYjgtU0t0N00xek5DTW5jbWFKUTNHQlNRX3VEMVJRY3Q1R2ZvV1dKT01Ra2RHSXZFRE1kbFVHd0VM0gGsAUFVX3lxTE5GR2NNSnVUeWZTbHFiS0lDZkxURFlsY3Fza1VHcVNYZlcwQ0VRQTZJdVZWNWxtTDZ1b0pOc2w0TjRfQzdEVFFRcU1XWlMxV2FDaDMzMFRFTG4zb3hhNVV2UXlIc25UOHJuNHlKVEtoUUlka1BiOC1TS3Q3TTF6TkNNbmNtYUpRM0dCU1FfdUQxUlFjdDVHZm9XV0pPTVFrZEdJdkVETWRsVUd3RUw?oc=5",
+      "source": "The Korea Times",
+      "published_at": "2026-10-21T15:28:02+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-21T18:28:22.269979+00:00"
+    },
+    {
+      "title_ko": "오픈AI, 바이오테크 스타트업 오케스트라 바이오 인수",
+      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T20:35:10+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
     }
