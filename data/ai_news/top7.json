@@ -1,54 +1,45 @@
 {
-  "generated_at": "2026-10-21T01:23:13.428344+00:00",
+  "generated_at": "2026-10-21T07:14:23.304335+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic, 810억 달러 손실 기록하며 데이터센터 반발 우려",
-      "title_en": "Anthropic books staggering $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM05ob1EwT3dwb2hDMjM2Skg4UVRYVW1DTW1ZVFJtdW9GYm5kZjhTSlVrdWFBN0tPT3FWaE1sX1kzdEdVTWxsd0w5LUJ4cGxLUm5XdDFXVXdkQ2xFazF5MnE5bkRDRE5DMEk2aUE2ZWU3UjJkSXBTSjU3aFJnMW9HNUlJRnJzRml4M01udGNWLTdIM2JZVDVweG14MDFMQjNWRE9JQWlDYnhfM25QdnRqemljRWMxbndNVE52aHNFRktGMEFobzJUUXQyQVlGSVdhMl85aUpvbzJNNHhjUXc?oc=5",
-      "source": "New York Post",
-      "published_at": "2026-10-20T22:06:00+00:00",
+      "title_ko": "앤스로픽, 2026년 상반기 80억 달러 손실 기록",
+      "title_en": "Anthropic posts $80bn loss in first half of 2026: WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0ZfTHFlMmNYREl3N2Y2MXd0d1Y3cTlWQzl3YVJDQl9zV2Z6dWowQ2RYTndpVlNHYUJuR1hsbDNCLVBhbDM1WU5udU5ST1lOSHBqRzNHemYxWEtDUFduay1qeHMzWk1aLUhzTlRyaTg1ajNYbWlobEhHTlJHaU12eTVqbHk1NlpFS3ZWbk5aMDZwUjItZDNFdtIBngFBVV95cUxNbTgza084T1RZZ2UzOWlQM2pDd2NON3NSSjQ5enAzN1BzSWFiRVlTU3l0RWx1UXo2RjkydFk0RWhHa0FZcFJqUVNIaWg3MmJoMUpYVzJFSkhMYnBJbE1oRFVfcGhWcjNRdXJYSW1Bbkg4eG1MTmdOV203ODI5UUQ0TmdzNktudWNZSWVmSUVXYUxjWVNlc1VVMjRIWURwUQ?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-21T05:52:53+00:00",
       "category": "기업·투자",
+      "first_seen_at": "2026-10-21T07:14:08.797986+00:00"
+    },
+    {
+      "title_ko": "아마존, 엔비디아의 AI 칩 주도권에 도전하며 TorchNeuron 오픈소스화",
+      "title_en": "Amazon Challenges Nvidia’s Lead by Open-Sourcing TorchNeuron for Artificial Intelligence (AI) on Trainium Chips",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmVsaGRLcUl4WGoyY1NRYnJFdG1WcUpfSlFxYUZ4RlpwNHRlN1h0ZWhCc2E0NnFjNGJrTms1SW1DdWJzbno4ZndWRkJNTEExUnZpUFJVVzIzeXFNdHd4UmliX3pCczNGaDdsTFN6d1FpeEJNYmZwaGZaMWZ2bGNXOGZWN2gzTUtuc2YzaVBKMEN1N000VDlyOW9YdHIzRXhxcW9DenNHTm5hVWdPQmVaR0hvdmYzYjFYQV85NTZGaFItZzdZYktuQzdfQ1Q0U3AzWGpyNWNLcDExODVhVFc4RG9nazlkeWM1bC0tOWNB?oc=5",
+      "source": "Crowdfund Insider",
+      "published_at": "2026-10-21T04:41:31+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-21T07:14:08.797986+00:00"
+    },
+    {
+      "title_ko": "미국, 연방 기관 전역에서 딥시크 AI 제거 명령, AI 공급망 검토 시작",
+      "title_en": "US bans DeepSeek across federal agencies, putting AI supply chains under scrutiny",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNamM1SmtqWjh2eUExbE12QXNZUl95ZmRsZWI1LWoyXzloQzhHYjZNQTJnbHpJN2k1d01LTGtsai01T3A1TjZBUHljRnVrdi1GdG1qVm1RQjNIdHdaakctTERhcmh6cjNMcmZiX1VOU0VIVVNjdUtNLWNrZEhUZ3BlNkZ4T0dsMzVPRmtoZEZJeWlhQUtTYldTU1BWVFJJdVNBem5BRXJpWTF5NEtpdklMYmd1VXVLNEpaQ0dqbkpR?oc=5",
+      "source": "CIO",
+      "published_at": "2026-10-21T01:51:15+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-21T07:14:08.797986+00:00"
+    },
+    {
+      "title_ko": "앤스로픽, 50명 이상 사망 가능성 있는 AI 모델 차단 안전 법안 제안",
+      "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T23:01:23+00:00",
+      "category": "정책·규제",
       "first_seen_at": "2026-10-21T01:22:59.129256+00:00"
     },
     {
-      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 자금조달 경쟁",
-      "title_en": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-10-20T10:39:54+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
-    },
-    {
-      "title_ko": "백악관, 보안 우려 속 AI 안전 검토 120일 개시",
-      "title_en": "White House Begins 120-Day AI Safety Review Amid Growing Security Concerns",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTFFVGdJbFBELVEyQklSQTJ1Z1ZzSDE1am1zc1lYUWI3MzRiZVdtZ3pidkxFYUJhOEN2dERXbHVXeEtYWWhVMGRHYUJSMllrQkJwNHBSQ1FIV2ZVMUJIcy1tNmVDSWxha1JIUTdiRlYySEhTSkM2ZzE1WTVPbHktNFg1VnVFUXgwVXBF?oc=5",
-      "source": "TechRepublic",
-      "published_at": "2026-10-20T12:05:10+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
-    },
-    {
-      "title_ko": "미국 정부, 연방기관에 중국 DeepSeek AI 제거 지시",
-      "title_en": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T13:07:24+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 바이오텍 강화 위해 스타트업 Orchestra Bio 인수",
-      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T20:35:10+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
-    },
-    {
-      "title_ko": "SpaceX, AI 사업 성장으로 매출 급증",
+      "title_ko": "스페이스X, AI 비즈니스 성장이 매출 급증 주도",
       "title_en": "SpaceX says big AI growth fueled revenue jump",
       "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
       "source": "The Verge",
@@ -57,12 +48,21 @@
       "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
     },
     {
-      "title_ko": "미군, 적 디지털 인프라 자동 공격하는 AI 에이전트 프로그램 개발 중",
-      "title_en": "US Army reportedly developing program that would deploy AI agents to autonomously seek and destroy targets in enemy digital infrastructures — experts warn ECHOTRIBBLE program could have disastrous consequences",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPdnNwdjFRNHVicFpueXMyTFVfc1ltRTN2UUx3MjJEZ0xwdkNHR3BkZHFnY3hSVlBUOHBLdnZlUkhvUlZnaGZyYTVpVVlMbDZiTndiblFSSjVDZXNkQ2x0NkpYTzRDYW9kMGJWMlZsY2JkSGJaTWw0Mmw1STRXbF94RUFQTDVaYi1HNzYxcTZ3amdNMDlTa21feVZIMm1wTmpSMFE0Y0FnOHV6UEVFbks4LTZjZVVRYVRJN1ZOMThnem1qT05YTE9lYjEwSzVEeERmUlZvMElKN0U1Y3JYbUpiOUNaWndXX241QkdIRWdjdWJGTFYwa0FvTUZ4MkZHaFlKSVZEU3dGMktNOHV5QzctVjBWRW8tcHo2X0JnNzQxQkQyZHkzSFBydjNJeUV0ZGVKRDhfQzVvc01ibEhNQnR2WExZcG9xb2NOQzBZQS1WWXhzVEg1cFdQRnhoZTJKZWNweUZTcTJEeEgydHhBb1lsTUV5cWJVY1JreUlra3F5cWZxNU92ajV1UWtR?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-10-20T13:30:00+00:00",
-      "category": "보안",
+      "title_ko": "오픈AI, 생명공학 스타트업 오케스트라 바이오 인수로 바이오텍 사업 강화",
+      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T20:35:10+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
+    },
+    {
+      "title_ko": "백악관, 증가하는 보안 우려 속 120일 AI 안전성 검토 시작",
+      "title_en": "White House Begins 120-Day AI Safety Review Amid Growing Security Concerns",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTFFVGdJbFBELVEyQklSQTJ1Z1ZzSDE1am1zc1lYUWI3MzRiZVdtZ3pidkxFYUJhOEN2dERXbHVXeEtYWWhVMGRHYUJSMllrQkJwNHBSQ1FIV2ZVMUJIcy1tNmVDSWxha1JIUTdiRlYySEhTSkM2ZzE1WTVPbHktNFg1VnVFUXgwVXBF?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-10-20T12:05:10+00:00",
+      "category": "정책·규제",
       "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
     }
   ]
