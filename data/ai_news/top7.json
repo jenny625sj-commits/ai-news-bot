@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-10-20T22:09:58.121646+00:00",
+  "generated_at": "2026-10-21T01:23:13.428344+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "SpaceX, AI 사업 성장으로 매출 급증",
-      "title_en": "SpaceX says big AI growth fueled revenue jump",
-      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "source": "The Verge",
-      "published_at": "2026-10-20T21:34:55+00:00",
+      "title_ko": "Anthropic, 810억 달러 손실 기록하며 데이터센터 반발 우려",
+      "title_en": "Anthropic books staggering $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM05ob1EwT3dwb2hDMjM2Skg4UVRYVW1DTW1ZVFJtdW9GYm5kZjhTSlVrdWFBN0tPT3FWaE1sX1kzdEdVTWxsd0w5LUJ4cGxLUm5XdDFXVXdkQ2xFazF5MnE5bkRDRE5DMEk2aUE2ZWU3UjJkSXBTSjU3aFJnMW9HNUlJRnJzRml4M01udGNWLTdIM2JZVDVweG14MDFMQjNWRE9JQWlDYnhfM25QdnRqemljRWMxbndNVE52aHNFRktGMEFobzJUUXQyQVlGSVdhMl85aUpvbzJNNHhjUXc?oc=5",
+      "source": "New York Post",
+      "published_at": "2026-10-20T22:06:00+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
+      "first_seen_at": "2026-10-21T01:22:59.129256+00:00"
     },
     {
-      "title_ko": "OpenAI, 생명공학 스타트업 Orchestra Bio 인수로 바이오텍 사업 강화",
-      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T20:35:10+00:00",
+      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 자금조달 경쟁",
+      "title_en": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-10-20T10:39:54+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
+      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
     },
     {
-      "title_ko": "구글, 아마존과 함께 엔비디아의 AI 앱 개발자 시장 진출 도전",
-      "title_en": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T18:38:24+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
-    },
-    {
-      "title_ko": "DeepSeek, 오픈소스 추론 도구로 OpenAI·Anthropic에 압박 강화",
-      "title_en": "DeepSeek Dials Up the Pressure on OpenAI and Anthropic With Open-Source Inference Tool",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb01YenVDbE5LRnNkaWVVOUczR3hpMFlVYWlTRk9BX3NlMUp0QVBHdWlzVTBEcGlPMmZXdmRCaWtIaUthbmlfQml2bjFSY1NkNVRlSUx0LVBWeTh4WkhzYklCTnJmc0JraFZFQ3NDRUV4ME1jbUlEOVYtY3kwNjFacXNkVmgwZGlfeHZsVF8tTzJQVXlvSVdubnRCQXlLeEVKdlNVYWlOOV9BUzJEeHh0aGd0MUlkU01Z?oc=5",
-      "source": "Gizmodo",
-      "published_at": "2026-10-20T16:45:40+00:00",
-      "category": "기업·투자",
+      "title_ko": "백악관, 보안 우려 속 AI 안전 검토 120일 개시",
+      "title_en": "White House Begins 120-Day AI Safety Review Amid Growing Security Concerns",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTFFVGdJbFBELVEyQklSQTJ1Z1ZzSDE1am1zc1lYUWI3MzRiZVdtZ3pidkxFYUJhOEN2dERXbHVXeEtYWWhVMGRHYUJSMllrQkJwNHBSQ1FIV2ZVMUJIcy1tNmVDSWxha1JIUTdiRlYySEhTSkM2ZzE1WTVPbHktNFg1VnVFUXgwVXBF?oc=5",
+      "source": "TechRepublic",
+      "published_at": "2026-10-20T12:05:10+00:00",
+      "category": "정책·규제",
       "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
     },
     {
@@ -48,22 +39,31 @@
       "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
     },
     {
-      "title_ko": "OpenAI, Anthropic 상장 앞두고 300억 달러 조달 경쟁 벌인다",
-      "title_en": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFVTQ2Z0cFk1aGlSY0ZueGhUcFVWeVo0Q0ZjMk1Kek1vaEtvc29tTVZ2dU9kZGpBelRCQlRCOXd1STZTQXBrTjQwaHQ3RWhQd2VEc2dmazRJOWRpdEVxTVp1RTNDSGRXWnVJQ3RpY1BxMFVSbVc3UE5YcUg2QTlnVVp1OVc0MFdLYXVKVjNuNjg5QVIyYmg4RG93Mk94NzBiQjVPbWtPbXVwTkxNOVl0S1FKNVptTE9Nc0E?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-10-20T10:39:54+00:00",
+      "title_ko": "OpenAI, 바이오텍 강화 위해 스타트업 Orchestra Bio 인수",
+      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T20:35:10+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-20T13:24:29.581641+00:00"
+      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
     },
     {
-      "title_ko": "CoreWeave의 부채 위기가 전체 AI 산업의 문제로 확산",
-      "title_en": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "title_ko": "SpaceX, AI 사업 성장으로 매출 급증",
+      "title_en": "SpaceX says big AI growth fueled revenue jump",
+      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
       "source": "The Verge",
-      "published_at": "2026-10-19T21:28:20+00:00",
+      "published_at": "2026-10-20T21:34:55+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-19T22:06:35.787601+00:00"
+      "first_seen_at": "2026-10-20T22:09:38.567316+00:00"
+    },
+    {
+      "title_ko": "미군, 적 디지털 인프라 자동 공격하는 AI 에이전트 프로그램 개발 중",
+      "title_en": "US Army reportedly developing program that would deploy AI agents to autonomously seek and destroy targets in enemy digital infrastructures — experts warn ECHOTRIBBLE program could have disastrous consequences",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPdnNwdjFRNHVicFpueXMyTFVfc1ltRTN2UUx3MjJEZ0xwdkNHR3BkZHFnY3hSVlBUOHBLdnZlUkhvUlZnaGZyYTVpVVlMbDZiTndiblFSSjVDZXNkQ2x0NkpYTzRDYW9kMGJWMlZsY2JkSGJaTWw0Mmw1STRXbF94RUFQTDVaYi1HNzYxcTZ3amdNMDlTa21feVZIMm1wTmpSMFE0Y0FnOHV6UEVFbks4LTZjZVVRYVRJN1ZOMThnem1qT05YTE9lYjEwSzVEeERmUlZvMElKN0U1Y3JYbUpiOUNaWndXX241QkdIRWdjdWJGTFYwa0FvTUZ4MkZHaFlKSVZEU3dGMktNOHV5QzctVjBWRW8tcHo2X0JnNzQxQkQyZHkzSFBydjNJeUV0ZGVKRDhfQzVvc01ibEhNQnR2WExZcG9xb2NOQzBZQS1WWXhzVEg1cFdQRnhoZTJKZWNweUZTcTJEeEgydHhBb1lsTUV5cWJVY1JreUlra3F5cWZxNU92ajV1UWtR?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-10-20T13:30:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-20T18:23:16.172378+00:00"
     }
   ]
 }
