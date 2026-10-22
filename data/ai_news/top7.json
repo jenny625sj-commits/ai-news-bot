@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-10-21T22:11:53.264939+00:00",
+  "generated_at": "2026-10-22T01:20:22.418045+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, 2026년 상반기에 800억 달러 규모의 순손실 기록",
-      "title_en": "Anthropic logged net loss of over US$80 billion in first half of 2026",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmJCNFZ6bU5jcUdZR3JVZ3pkalZIb2Z4SVdWWGd3b0NiY3NBdEhvdDlrcWxlTVhxcm96QnYtd0pndEYzS1k0WnhhNkp0ODlQczF6U2xmV3lVRm8tb3ZwTWhTaXdudGRzNHRUSklsb2xZclYteHY2WmFURmp0ZG1MUVpSRFh5aEhXRnhLZ3R5N2VUVGU5MndCU21zRGI5S0J6U3dxeDJoUFZKWldueDJNRUFMVndUakJHbkRIanpiVmphdzBFX1ZyS29QVzhxa05QZkFZdk9seXc?oc=5",
-      "source": "BNN Bloomberg",
-      "published_at": "2026-10-21T11:09:08+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-21T13:33:43.831642+00:00"
+      "title_ko": "OpenAI의 AI 에이전트, 자체 안전 모니터링 시스템 무력화 및 거짓 보고",
+      "title_en": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZ5VnBRNXhrbFVmRVExZVFQVnNfbnI4OTg0ejNNbUVqUElnNS02UTVhSm8zZVVNNXhzc28yRjFHdFloSHR4bU5mNkhPQmtTNG9YcXQwV243akJEN2RRRm1odTlURGtqWTdOMGVCTnhYZTNUQTJqT29HcHJSQzRqQm0ydlVEZlJULUxqeXI1SUdCMnVHTm9yV1dYUTdUQklvNG9XTXpnSHd4NXFkc3FfcGJ4eFR0UDY3eU1qQXU3R0U0Tmc?oc=5",
+      "source": "CSO Online",
+      "published_at": "2026-10-21T23:48:42+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-22T01:20:09.975278+00:00"
     },
     {
-      "title_ko": "메타, AI 추진을 위해 새로운 주식 클래스 창설",
+      "title_ko": "메타, 실적 상회에도 AI 경쟁 속 법적 페널티로 이익 감소",
+      "title_en": "Meta beats expectations but legal penalties hit profit amid AI race",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3BoMHpwaFRubTE5R2c0cVR1ZUdrOHhKNnFhbFR3ZHZGLXRHc3EzTzIxeVlCR0pvWDRqQk8zOWdUT2Z2MWJ1OFhlYUZyNTZ0dWpGcHY5TUVSa1Rway1ETDI5Tk9RTm1wR1ROc1JRNG5oakxDNzBoNXgtZzBaQUVJOTBXa0k5RjM3dEdVTFBFc09mQTVnX0VaNTdxYXIzSXVwcGdzZHBtZHI1dXVwQ1Z6Ri1YV3Q?oc=5",
+      "source": "France 24",
+      "published_at": "2026-10-21T22:15:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-22T01:20:09.975278+00:00"
+    },
+    {
+      "title_ko": "메타, AI 추진 자금 마련을 위해 새로운 주식 클래스 신설",
       "title_en": "Meta to create a new class of shares to fund AI push",
       "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
       "source": "The Verge",
@@ -21,25 +30,16 @@
       "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
     },
     {
-      "title_ko": "오픈AI, 최고 성능 모델을 구글 클라우드에서 판매 시작",
-      "title_en": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-21T12:00:02+00:00",
+      "title_ko": "앤스로픽, 80억 달러 순손실 공개로 AI 산업 재무 건전성 우려 확산",
+      "title_en": "Claude Maker Anthropic Discloses Mind Boggling $80 Billion Loss",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXBzVDFBNE13VDEzdTVwZFQ5YU85akxXU3VKQlc5Y2V2am9zY083dHBEVU5UNUdOUVZRaUJJU2tBVEF3ZDE2Rnlub0ZGcXFnUGxpQnRZNWR4d1JPUlJXLXM2d0k1NWN5ZlN2MDNCTmZxdUhvRTFUdy0xX3ZGdVhRZnZEVDJRQ0pvVzhxYjRDWQ?oc=5",
+      "source": "Android Headlines",
+      "published_at": "2026-10-21T19:19:45+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-21T13:33:43.831642+00:00"
+      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
     },
     {
-      "title_ko": "앤스로픽, 50명 이상이 피해를 입을 수 있는 경우 AI 모델 차단 법안 제안",
-      "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5",
-      "source": "TechCrunch",
-      "published_at": "2026-10-20T23:01:23+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-21T01:22:59.129256+00:00"
-    },
-    {
-      "title_ko": "AI, 전 세계 웹사이트 70% 이상에 영향을 미치는 중대 버그 발견",
+      "title_ko": "AI가 발견한 PHP 취약점, 전 세계 웹사이트 70% 위험에 노출",
       "title_en": "Exclusive | AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FJWTlyQXFoRWh5ZnlfTnVOeDlDb0J3ejVCOWhNc0xXSXFLS2lGUlZ5cVI1NGFuWHpvQ1ZiTnkwV2luSHRpYjNuR1NWSlVnTmxuTzFwYWJ3NUVPeWYxVDNNZkdVX2xGZVJja0Z2LUY3STh4X1dnMXJfTjVad3FIbDFUM3dqc1hBcDBBN0JHazhuWVR6NE41ZnZTaFp2QVZhWEpDa1pIZHZaSlZHbjBKU0FMUWRSRklK?oc=5",
       "source": "WSJ",
@@ -48,22 +48,22 @@
       "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
     },
     {
-      "title_ko": "앤스로픽, 뮤즈에 대항할 AI 에이전트 '클로드 듀엣' 프리뷰 공개",
-      "title_en": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
+      "title_ko": "OpenAI, 마이크로소프트 독점 탈피 위해 구글 클라우드에 AI 모델 공급",
+      "title_en": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
       "source": "CNBC",
-      "published_at": "2026-10-21T21:42:54+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
+      "published_at": "2026-10-21T12:00:02+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-21T13:33:43.831642+00:00"
     },
     {
-      "title_ko": "GM, AI와 소프트웨어 기술로 2년 내 완전자동 운전 차량 개발 목표",
-      "title_en": "GM aims to develop vehicles in as little as two years with AI, software push",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zZHBsWGlxdmVTbHJRV2VPTktvTnlJNm1hRmZXbDBScmRENVV2UVhjcFZLWVRhZm1Bb3BWa0ZoWTNqeC1MVU9YTmpKbTRkOHJjX01vOUJTdHI2R2JUSkszMld1UVJ1Y19TNE4xWW5CVUk5ZG5IRjdvSkVsUdIBgAFBVV95cUxOVnZYd0dsUTk5azZ0Y1dDdzRsai0wT0dPdXpSNEVVdU5OZnBwQUt0cnYxZjRRaWoyOFlCeG1UeHlVSlFuSjhkSEpaYVFNSU5kSG00dmo1NGw5LUtRN0tYRURLTkZyb1FYRWV4RFVmX0dtWS1Fb0RvUEc5Y0NfN2NOWg?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-21T18:00:01+00:00",
-      "category": "기타",
-      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
+      "title_ko": "앤스로픽, AI 위험 규제안에 10억 달러 기준 제시하며 자율규제 주도",
+      "title_en": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5",
+      "source": "Politico",
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-21T13:33:43.831642+00:00"
     }
   ]
 }
