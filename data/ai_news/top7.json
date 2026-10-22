@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-10-22T07:16:17.017789+00:00",
+  "generated_at": "2026-10-22T13:35:47.569641+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, AI 에이전트가 안전 모니터링 시스템을 자체 비활성화했다고 공개",
+      "title_ko": "미국 규제 직후 딥시크, 150억 달러 투자 유치",
+      "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T13:11:13+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
+    },
+    {
+      "title_ko": "구글 TPU, 메타 데이터센터에 처음 외부 공급 시작…엔비디아 독점 위협",
+      "title_en": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcXllYmxLcElIQjE5U2NXOXNBb3pVNDl3N2dnQVB1OThuN3pGQlNCeTNFMzNVMDc0YUt0VHk5bFFVMV94eW41Yi1SdXBTRWxzeDMteUwwbGJlUmFER0dHVDdBdl9JY1J1ZmJ0WUtKNU5nNnRXbVVKQ1dadkN4ZDBhSERxYjJ1cUFEaF9NREN4WjlZWEhIWG1pZnJLLV9KaV9DQTRIQ2VWMEhzNFQxdzd6R1NoYlByU3RYS2lHV2JIcUlJTXRXU1JndkViaEdqVnZLRkl4Q2g1RTczenVPV2hGbGVueE5GVDRNZTg1ak5XSXM1UEszY0xhX3VRbkdTbmZKWW0xcktOZnREOXhqRWFVaVJKdVg1cmNwRkV0SklRby14aU9qSmJoNjZ4Rk84TGtWX2FrN1hiZW5DQQ?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
+    },
+    {
+      "title_ko": "오픈AI 모델, 자체 부정행위 감시 시스템 의도적으로 무력화",
       "title_en": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZ5VnBRNXhrbFVmRVExZVFQVnNfbnI4OTg0ejNNbUVqUElnNS02UTVhSm8zZVVNNXhzc28yRjFHdFloSHR4bU5mNkhPQmtTNG9YcXQwV243akJEN2RRRm1odTlURGtqWTdOMGVCTnhYZTNUQTJqT29HcHJSQzRqQm0ydlVEZlJULUxqeXI1SUdCMnVHTm9yV1dYUTdUQklvNG9XTXpnSHd4NXFkc3FfcGJ4eFR0UDY3eU1qQXU3R0U0Tmc?oc=5",
       "source": "CSO Online",
@@ -12,25 +30,7 @@
       "first_seen_at": "2026-10-22T01:20:09.975278+00:00"
     },
     {
-      "title_ko": "Anthropic, 2026년 80억 달러 순손실 기록",
-      "title_en": "Anthropic reportedly posts $80B net loss in 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXhQbjdVcXBONjZvSVdad2dac3lTeEhJeC1Jc0U5TTNINnFuUzQtYjc3ZFBMOXNBb1N0T3pFaFgxdmxNcUVLdTAzRVI1QWNVbzMyVjhlYUtzQjJodUwyY3JyMFJJRXFFV3JIN2pWY21uT0ZsNjZHMjdrb2xLbE16d1NuLWZtQS1hSFpYSGpadGt3Q0lTYW95dGFfMA?oc=5",
-      "source": "Atlanta News First",
-      "published_at": "2026-10-21T20:07:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-22T07:16:00.713998+00:00"
-    },
-    {
-      "title_ko": "OpenAI, Google Cloud와 파트너십 통해 AI 모델 및 Codex 워크플로우 제공",
-      "title_en": "OpenAI partners with Google Cloud to offer AI models, codex workflows",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUWw2NXhocE9Da3Z5T0x6c1pOQVJKRkhENWE1c2hUYkVXMERfa2hWVVBCNHQ0MHd0d0lyUTY2eXJpczdPcms0MnBqblFxbmVjd056NXNZTHI3bkN3Q0VuNG5DZjU4RmZDeUhRbkNrdTU2MXRuZW5pYlFtck1KeXZRX3o1Z29fWEs2RWlNdnVQQ1VMMmFKOW1KaHJUczd5T1NHa2JaeURzSUQxdjdYOXMyajZ5RVFSZjNSZHExaXBtM2JxSlhnRHlld3dWUS05UzFSOFpRWmVkM21zc3ZiSjlYanY1NWFPMXVPckN4YlZzV1lOMjVKUm9aOUItWE5PZ19mZEJxREpaMUd3b1JhSFJKaWd1dWJ6Y0xvUjY5UVhB0gHnAUFVX3lxTE5LdzdOT2ZMNmlWREdmbW5ybEh2ckpQWEpRbUdlNy0xT25mejQwdi11Slk3TFdra2VLTFdGS0NzVTdnYXRnbXVHWmRCTzJHdVd2ODZLeVc2RzNLUDRuRWJ0TWk1ZkgwRmpEa3RkUDdoMXdNOWZoamJLVm45bXd0dEVzdFZGUlpUanRsdXROZzNrZjVjZ0pVclR5bFVEdFZVbUZvMHZtNGNPOWN0REE3TnV1ZW1vUW1HMnlsemEyNnY5LTc5akJNZDNpQ2V1akFPTjZFNmJLTTJDRkt4Qnp4MkJVN0s3ODBkRQ?oc=5",
-      "source": "ET CIO",
-      "published_at": "2026-10-22T05:39:46+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-22T07:16:00.713998+00:00"
-    },
-    {
-      "title_ko": "Meta, AI 추진을 위한 새로운 클래스 주식 발행 계획",
+      "title_ko": "메타, AI 투자 가속화 위해 신규 주식 클래스 발행 추진",
       "title_en": "Meta to create a new class of shares to fund AI push",
       "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
       "source": "The Verge",
@@ -39,30 +39,30 @@
       "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
     },
     {
-      "title_ko": "중국 연계 해커, AI를 활용해 전 세계 기업 침해 - Microsoft 경고",
-      "title_en": "Chinese-linked hackers use AI to compromise firms globally: Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaFh5MGR5QWotbjc2VjQ3MGNvUVRBWENjZlhxbjBFZ2ZjMy1iRi1ZNTNSV2FkWV92SWRWR2Jva1FhaTZnTVBTa3dfdDlKcjNkTjdRc24xZkNzT1RTVTAwQXIxRXpxXy1OMVNxcGRYRzdQNEliQmd0c3VTc3NjaG15dTBPQTdhM2FTWERqZ3dMa2U2X2lhM0cwZTdFYUo0VWgxSjVVaW9kVHJzRmc5VUlxU2xVZmZmMzRQbFVSRGJma3Rjb3JJYndBa1ZmeE5KTTJaRFNBTlRraDY1MGtDaXRzRU1MWHFMbVBsTTdnMm930gHzAUFVX3lxTE1yV2ZtVkd5M3prdGtXRXlPZzJmUG4wVk5oWXVaY0wzb1g1SmVtR3FoeVk4QS1pUW14VFRXZHlaWGRDVDdVS3BGTHdFRktZLWw0OFhKTEo4YmZhTzVRQS1hSFFFMkJsUVNQeURMWTZmUXlFNlJjODNJYWFTY0tOTVZvNmo1SGdEUkhJd09uenNkaHlYWVFoNWQ3Y2RnX2xaME52MjRRak9pUmVDRW55ZVNoRGl2aHNDQkFfQXRFTEZMSFRhR3I3MzlRZnFyUUZwYXZQdlp1cGp5bGNFeWZiWEtqa0J6VFAtNFFXdGtoSkEtY2VCVQ?oc=5",
-      "source": "Business Standard",
-      "published_at": "2026-10-22T03:58:03+00:00",
-      "category": "보안",
+      "title_ko": "앤스로픽, 2026년 순손실 800억 달러 기록",
+      "title_en": "Anthropic reportedly posts $80B net loss in 2026",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXhQbjdVcXBONjZvSVdad2dac3lTeEhJeC1Jc0U5TTNINnFuUzQtYjc3ZFBMOXNBb1N0T3pFaFgxdmxNcUVLdTAzRVI1QWNVbzMyVjhlYUtzQjJodUwyY3JyMFJJRXFFV3JIN2pWY21uT0ZsNjZHMjdrb2xLbE16d1NuLWZtQS1hSFpYSGpadGt3Q0lTYW95dGFfMA?oc=5",
+      "source": "Atlanta News First",
+      "published_at": "2026-10-21T20:07:00+00:00",
+      "category": "기업·투자",
       "first_seen_at": "2026-10-22T07:16:00.713998+00:00"
     },
     {
-      "title_ko": "AI가 발견한 버그, 전 세계 70%의 웹사이트 위협",
+      "title_ko": "GM, AI 기반 자율주행 기술 2년 내 상용화 목표",
+      "title_en": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0dSaWM2WjN6VXI1R2FsSlZjalFkaVZ5dVBmTmJiXzFlMDdYZndDbFV1ZGxrbVdORmJtZkRubGlQbGRYVkFWMDhXUGhwZS1rTmtzX2NwNEVVZG52RFR0NFRRYTNVY2lxVHVUWHNTLXpCOWgyaFVaZG5XZnZxb0pFcmxpTjY?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-10-21T18:23:52+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
+    },
+    {
+      "title_ko": "AI, 전 세계 70% 웹사이트 위험에 빠뜨리는 PHP 버그 발견",
       "title_en": "Exclusive | AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FJWTlyQXFoRWh5ZnlfTnVOeDlDb0J3ejVCOWhNc0xXSXFLS2lGUlZ5cVI1NGFuWHpvQ1ZiTnkwV2luSHRpYjNuR1NWSlVnTmxuTzFwYWJ3NUVPeWYxVDNNZkdVX2xGZVJja0Z2LUY3STh4X1dnMXJfTjVad3FIbDFUM3dqc1hBcDBBN0JHazhuWVR6NE41ZnZTaFp2QVZhWEpDa1pIZHZaSlZHbjBKU0FMUWRSRklK?oc=5",
       "source": "WSJ",
       "published_at": "2026-10-21T13:51:00+00:00",
       "category": "보안",
-      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
-    },
-    {
-      "title_ko": "Anthropic, 50명 사망 기준의 AI 안전 법안 제안",
-      "title_en": "Anthropic Proposes AI Safety Bill With 50-Person Death Threshold",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjJZd3ZIc3hERXFQQlRHeVVaQ3VJRVdqM1BzR1VaWGE2MF9HcGdpcHEwTnR3RjR1SzVrMWxSLXYyYUN4UTVmaFlsMllOTldvTVBvWVRNbm9HZXBfWU9WaFJvTm4xVWthRl9DT012Mjg4bldoclRqcVhMeHZmUGdjOUlWcy1GaF91U1I4aVhJUnRHVlU4OWlwTlhkV2Y5d2dyNzRQWU96dzFXVVpGNU9nTk1XNA?oc=5",
-      "source": "Morocco World News",
-      "published_at": "2026-10-21T18:36:31+00:00",
-      "category": "정책·규제",
       "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
     }
   ]
