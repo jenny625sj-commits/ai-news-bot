@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-10-22T18:24:16.771433+00:00",
+  "generated_at": "2026-10-22T22:11:05.794683+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "디ープ시크, 미국 제재 직후 150억 달러 추가 자금 조달",
+      "title_ko": "OpenAI, UAE 투자자 주도로 최대 300억 달러 투자 유치, 기업가치 1.25조 달러 달성",
+      "title_en": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-22T20:15:19+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
+    },
+    {
+      "title_ko": "DeepSeek, 미국 규제 직후 150억 달러 규모 투자 유치",
       "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
       "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "source": "TechCrunch",
@@ -12,7 +21,7 @@
       "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
     },
     {
-      "title_ko": "구글 TPU, 메타 데이터센터에 공급 시작...엔비디아 시장 지배 위협",
+      "title_ko": "구글 TPU, 메타 데이터센터에서 외부 고객용 판매 시작... 엔비디아 시장 지배력 위협",
       "title_en": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcXllYmxLcElIQjE5U2NXOXNBb3pVNDl3N2dnQVB1OThuN3pGQlNCeTNFMzNVMDc0YUt0VHk5bFFVMV94eW41Yi1SdXBTRWxzeDMteUwwbGJlUmFER0dHVDdBdl9JY1J1ZmJ0WUtKNU5nNnRXbVVKQ1dadkN4ZDBhSERxYjJ1cUFEaF9NREN4WjlZWEhIWG1pZnJLLV9KaV9DQTRIQ2VWMEhzNFQxdzd6R1NoYlByU3RYS2lHV2JIcUlJTXRXU1JndkViaEdqVnZLRkl4Q2g1RTczenVPV2hGbGVueE5GVDRNZTg1ak5XSXM1UEszY0xhX3VRbkdTbmZKWW0xcktOZnREOXhqRWFVaVJKdVg1cmNwRkV0SklRby14aU9qSmJoNjZ4Rk84TGtWX2FrN1hiZW5DQQ?oc=5",
       "source": "Tom's Hardware",
@@ -21,16 +30,25 @@
       "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
     },
     {
-      "title_ko": "메타, 광범위한 AI 투자 자금화를 위해 신규 주식 클래스 발행",
-      "title_en": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-21T22:45:34+00:00",
+      "title_ko": "바클레이스, 2026년까지 AI 도입으로 5,000명 감원 계획",
+      "title_en": "Barclays plans to lay off 5,000 employees globally by the end of 2026 due to artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQlV6R0ZsbnFOSkhzWXYwWDdVb194cDRHS2ZZaFJWSnRaNG01aVA1R0hlSjVJX0l0STluZmtSTlpwWV9HbW4zTkxVaVJkTlVYMG5JcVhETXFZeGRZTXlaRk9tcm5oMU4yd2tGeTJpWjdKeEdvY09VYkJtVkhkTXVWcW5NODVkNlYxQXpBMWUyV2dtR3gydnpqdXkxMW5DY19vWWNqWmFaZGhTS3VaWmJYb3Q5MzE3RUZwM043QWdiaGl2REhDQlBXLThRODd1UGxvWGNXZFlsM0diam15WFhIQkZoQzRBUQ?oc=5",
+      "source": "صوت الإمارات",
+      "published_at": "2026-10-22T20:33:19+00:00",
       "category": "기업·투자",
+      "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
+    },
+    {
+      "title_ko": "OpenAI, 모니터링 시스템 취약점 발견... 제3자 평가에서 보안 결함 드러나",
+      "title_en": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-22T15:00:25+00:00",
+      "category": "보안",
       "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
     },
     {
-      "title_ko": "메타, AI 사업 추진을 위해 새로운 주식 클래스 신설",
+      "title_ko": "메타, AI 투자 자금 마련을 위해 신규 주식 클래스 발행 추진",
       "title_en": "Meta to create a new class of shares to fund AI push",
       "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
       "source": "The Verge",
@@ -39,31 +57,13 @@
       "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
     },
     {
-      "title_ko": "오픈AI, 자사 AI 모델이 오작동 감시 시스템을 의도적으로 무력화",
-      "title_en": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZ5VnBRNXhrbFVmRVExZVFQVnNfbnI4OTg0ejNNbUVqUElnNS02UTVhSm8zZVVNNXhzc28yRjFHdFloSHR4bU5mNkhPQmtTNG9YcXQwV243akJEN2RRRm1odTlURGtqWTdOMGVCTnhYZTNUQTJqT29HcHJSQzRqQm0ydlVEZlJULUxqeXI1SUdCMnVHTm9yV1dYUTdUQklvNG9XTXpnSHd4NXFkc3FfcGJ4eFR0UDY3eU1qQXU3R0U0Tmc?oc=5",
-      "source": "CSO Online",
-      "published_at": "2026-10-21T23:48:42+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-22T01:20:09.975278+00:00"
-    },
-    {
-      "title_ko": "앤스로픽, 2026년 80억 달러 순손실 기록",
-      "title_en": "Anthropic reportedly posts $80B net loss in 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXhQbjdVcXBONjZvSVdad2dac3lTeEhJeC1Jc0U5TTNINnFuUzQtYjc3ZFBMOXNBb1N0T3pFaFgxdmxNcUVLdTAzRVI1QWNVbzMyVjhlYUtzQjJodUwyY3JyMFJJRXFFV3JIN2pWY21uT0ZsNjZHMjdrb2xLbE16d1NuLWZtQS1hSFpYSGpadGt3Q0lTYW95dGFfMA?oc=5",
-      "source": "Atlanta News First",
-      "published_at": "2026-10-21T20:07:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-22T07:16:00.713998+00:00"
-    },
-    {
-      "title_ko": "제3자 평가자, 오픈AI 모니터링 시스템에서 보안 취약점 발견",
-      "title_en": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-22T15:00:25+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
+      "title_ko": "Anthropic, 업무 자동화 에이전트 'Claude Duet' 출시",
+      "title_en": "Anthropic Launches Claude Duet to Handle Your Work Before You Ask",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdEhUdF90ZjhxQWN2OFFjakJhYUlia18wbmdVcjdodGc0Vk1yeFZTenRVUkRCTVdiQnRtM3JUcmVOV3hmbTFxTzZJSm9nUDI1bHlTT3doY2x4V1JxWl9XVy1fLUk3VTAxbFlaME5NYm5sUXR0cnA4dV9oOHBhTjU4dG53aWwzWTFwcTU0?oc=5",
+      "source": "Android Headlines",
+      "published_at": "2026-10-22T14:09:54+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
     }
   ]
 }
