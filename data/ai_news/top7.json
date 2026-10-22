@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T13:35:47.569641+00:00",
+  "generated_at": "2026-10-22T18:24:16.771433+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "미국 규제 직후 딥시크, 150억 달러 투자 유치",
+      "title_ko": "디ープ시크, 미국 제재 직후 150억 달러 추가 자금 조달",
       "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
       "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
     },
     {
-      "title_ko": "구글 TPU, 메타 데이터센터에 처음 외부 공급 시작…엔비디아 독점 위협",
+      "title_ko": "구글 TPU, 메타 데이터센터에 공급 시작...엔비디아 시장 지배 위협",
       "title_en": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcXllYmxLcElIQjE5U2NXOXNBb3pVNDl3N2dnQVB1OThuN3pGQlNCeTNFMzNVMDc0YUt0VHk5bFFVMV94eW41Yi1SdXBTRWxzeDMteUwwbGJlUmFER0dHVDdBdl9JY1J1ZmJ0WUtKNU5nNnRXbVVKQ1dadkN4ZDBhSERxYjJ1cUFEaF9NREN4WjlZWEhIWG1pZnJLLV9KaV9DQTRIQ2VWMEhzNFQxdzd6R1NoYlByU3RYS2lHV2JIcUlJTXRXU1JndkViaEdqVnZLRkl4Q2g1RTczenVPV2hGbGVueE5GVDRNZTg1ak5XSXM1UEszY0xhX3VRbkdTbmZKWW0xcktOZnREOXhqRWFVaVJKdVg1cmNwRkV0SklRby14aU9qSmJoNjZ4Rk84TGtWX2FrN1hiZW5DQQ?oc=5",
       "source": "Tom's Hardware",
@@ -21,16 +21,16 @@
       "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
     },
     {
-      "title_ko": "오픈AI 모델, 자체 부정행위 감시 시스템 의도적으로 무력화",
-      "title_en": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZ5VnBRNXhrbFVmRVExZVFQVnNfbnI4OTg0ejNNbUVqUElnNS02UTVhSm8zZVVNNXhzc28yRjFHdFloSHR4bU5mNkhPQmtTNG9YcXQwV243akJEN2RRRm1odTlURGtqWTdOMGVCTnhYZTNUQTJqT29HcHJSQzRqQm0ydlVEZlJULUxqeXI1SUdCMnVHTm9yV1dYUTdUQklvNG9XTXpnSHd4NXFkc3FfcGJ4eFR0UDY3eU1qQXU3R0U0Tmc?oc=5",
-      "source": "CSO Online",
-      "published_at": "2026-10-21T23:48:42+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-22T01:20:09.975278+00:00"
+      "title_ko": "메타, 광범위한 AI 투자 자금화를 위해 신규 주식 클래스 발행",
+      "title_en": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-21T22:45:34+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
     },
     {
-      "title_ko": "메타, AI 투자 가속화 위해 신규 주식 클래스 발행 추진",
+      "title_ko": "메타, AI 사업 추진을 위해 새로운 주식 클래스 신설",
       "title_en": "Meta to create a new class of shares to fund AI push",
       "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
       "source": "The Verge",
@@ -39,7 +39,16 @@
       "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
     },
     {
-      "title_ko": "앤스로픽, 2026년 순손실 800억 달러 기록",
+      "title_ko": "오픈AI, 자사 AI 모델이 오작동 감시 시스템을 의도적으로 무력화",
+      "title_en": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZ5VnBRNXhrbFVmRVExZVFQVnNfbnI4OTg0ejNNbUVqUElnNS02UTVhSm8zZVVNNXhzc28yRjFHdFloSHR4bU5mNkhPQmtTNG9YcXQwV243akJEN2RRRm1odTlURGtqWTdOMGVCTnhYZTNUQTJqT29HcHJSQzRqQm0ydlVEZlJULUxqeXI1SUdCMnVHTm9yV1dYUTdUQklvNG9XTXpnSHd4NXFkc3FfcGJ4eFR0UDY3eU1qQXU3R0U0Tmc?oc=5",
+      "source": "CSO Online",
+      "published_at": "2026-10-21T23:48:42+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-22T01:20:09.975278+00:00"
+    },
+    {
+      "title_ko": "앤스로픽, 2026년 80억 달러 순손실 기록",
       "title_en": "Anthropic reportedly posts $80B net loss in 2026",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXhQbjdVcXBONjZvSVdad2dac3lTeEhJeC1Jc0U5TTNINnFuUzQtYjc3ZFBMOXNBb1N0T3pFaFgxdmxNcUVLdTAzRVI1QWNVbzMyVjhlYUtzQjJodUwyY3JyMFJJRXFFV3JIN2pWY21uT0ZsNjZHMjdrb2xLbE16d1NuLWZtQS1hSFpYSGpadGt3Q0lTYW95dGFfMA?oc=5",
       "source": "Atlanta News First",
@@ -48,22 +57,13 @@
       "first_seen_at": "2026-10-22T07:16:00.713998+00:00"
     },
     {
-      "title_ko": "GM, AI 기반 자율주행 기술 2년 내 상용화 목표",
-      "title_en": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0dSaWM2WjN6VXI1R2FsSlZjalFkaVZ5dVBmTmJiXzFlMDdYZndDbFV1ZGxrbVdORmJtZkRubGlQbGRYVkFWMDhXUGhwZS1rTmtzX2NwNEVVZG52RFR0NFRRYTNVY2lxVHVUWHNTLXpCOWgyaFVaZG5XZnZxb0pFcmxpTjY?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-10-21T18:23:52+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
-    },
-    {
-      "title_ko": "AI, 전 세계 70% 웹사이트 위험에 빠뜨리는 PHP 버그 발견",
-      "title_en": "Exclusive | AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FJWTlyQXFoRWh5ZnlfTnVOeDlDb0J3ejVCOWhNc0xXSXFLS2lGUlZ5cVI1NGFuWHpvQ1ZiTnkwV2luSHRpYjNuR1NWSlVnTmxuTzFwYWJ3NUVPeWYxVDNNZkdVX2xGZVJja0Z2LUY3STh4X1dnMXJfTjVad3FIbDFUM3dqc1hBcDBBN0JHazhuWVR6NE41ZnZTaFp2QVZhWEpDa1pIZHZaSlZHbjBKU0FMUWRSRklK?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-21T13:51:00+00:00",
+      "title_ko": "제3자 평가자, 오픈AI 모니터링 시스템에서 보안 취약점 발견",
+      "title_en": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-22T15:00:25+00:00",
       "category": "보안",
-      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
+      "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
     }
   ]
 }

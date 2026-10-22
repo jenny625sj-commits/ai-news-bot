@@ -1,5 +1,315 @@
 [
   {
+    "id": "2a8e11324f4e3ec3",
+    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+    "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+    "source": "The Verge",
+    "published_at": "2026-10-22T18:12:48+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Wildwood 감독 \"AI는 우리 스튜디오의 모든 가치와 상충한다\""
+  },
+  {
+    "id": "cdf9afa98053dc1b",
+    "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVFaTJIaGs0OVk3TE9SSWFtbXE5WlRwLU9WNUxxeW5rOXdlX0EyaVJHd2UtWUpjRW1kNUVxb1BZZVZGcDlmQ0xpMXI0MlJlYWJXY1h3YlZyZWxlY1ZtRFgzODF1OENET3dCM3FLQm5oaFRSZFhNOGR0QVVoUHRKNS1pMW1oSVdiTmh6UzVEUkZ4aklMaFF6Mg?oc=5",
+    "source": "The Motley Fool",
+    "published_at": "2026-10-22T18:08:36+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "AI 에이전트에 CPU가 필요한 이유는? Nvidia가 AMD·Intel이 지배하는 시장 노린다"
+  },
+  {
+    "id": "98a7f3683d8fe8db",
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+    "source": "The Verge",
+    "published_at": "2026-10-22T18:03:30+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Microsoft, 자사 AI 도구가 의사보다 질병 진단에 뛰어나다고 주장"
+  },
+  {
+    "id": "99f0e0ec8eb8320d",
+    "title": "The Chief Justice of the Supreme Court of the Russian Federation sought China's expertise on the use of artificial intelligence in the judicial system",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEtCTWNyZWo4aUZaSVVTNUllWjVNQ21fQ0REZXA2WHltazVLQWhWUjhDSjFsWlBvWGtZQTdRUVFzZWlCNzl5VU4zMDZRemtoZTh5VkpheEVLZ09zYnFsd1dtWUhPSHFKdEhrQnNOa1BzUzZOTUxVWjNETk84YThLZjZVTEMwWHpXNURYanpHQjhqZzlpVGZpLXBhdWo5cmJmbC04VWJ3UUVHZmxJN3Z3cU5FUUwyaklobF9rSGcxajdqdHViWWJOdmpn?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-10-22T17:51:46+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "러시아 연방대법원장, 사법 체계의 인공지능 활용에 관해 중국의 전문성 요청"
+  },
+  {
+    "id": "ecba7ffcc4ed1fc0",
+    "title": "Another Proposal to Rename AI",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5",
+    "source": "Communications of the ACM",
+    "published_at": "2026-10-22T17:51:02+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "AI의 명칭 변경 제안 또 나왔다"
+  },
+  {
+    "id": "58086fa33a6e3d9c",
+    "title": "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJuT25OLTFUZmxiZ0VYZlBRZjVVekpVNWltWFpYV2FDRlkzSk5ud3JxVWRuVFRfMlpDMHlzQ0tUWWdoemszczBwYW1LQkRJYm1ZVmJUZktWWmNWSU1zeXZyblhvb3dkcm55V2NmTUdKYkJTamdVZFRmMWV6NHVkb0p3bjRhSHFQdlcxc0hRUnBpeXFFcHJJdjFQUGk3NkVkY3h2eFJuaVR3UjdQTVh3RThLMHFGZTN0aTNpWUtUbmc3M2g4VkpDTHhlZ3pqbTZZZGZfbjJFZw?oc=5",
+    "source": "Genetic Engineering and Biotechnology News",
+    "published_at": "2026-10-22T17:48:12+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Nvidia, UW 단백질설계연구소, 오픈소스 단백질 설계 AI 모델 공개"
+  },
+  {
+    "id": "851bb482de3f974b",
+    "title": "Don Beyer on artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KdF91WjVpRlhLSWxXVTdRLWtPSXdBTUV5d1RNd0J2NmpRYmc1dXd5d29WWVpKOWFjclJjdmdOUjI1a195WWZVYjR3c0t4VVBaZlBuN2twRHhXZ0lhUXJtT283SmNaVEF5RHNsTl96aHJ2bnMzcUJ0SjkyTTlqZw?oc=5",
+    "source": "Punchbowl News",
+    "published_at": "2026-10-22T17:42:48+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Don Beyer, 인공지능 문제를 말하다"
+  },
+  {
+    "id": "fcd70f55b7113393",
+    "title": "PerturbAI and OpenAI Launch AI Reasoning Agents for Biomedical Discovery",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGRLVmQ3S3dOcC1qalRQZ2hralpWbXBKeVV3ZDQ5LXJ2aHpnVXJFaklnNmlyU2VHQll4SGdsNnpWZE1FcTZ6LTFoY2Z0OFdkOVRudERsLUJJTkRhWjlJMVR1eXAyWldLazduX3g3WG56ZkRoWmwwZG80NUdzWFMzdV90TEhROWJyNWVQSU1ZZlFCR0wwYjhWa25XTE9XOGdRcHpSZjVua2xVb0ZYVDFvcUM3V0ZJd0Q0Q3F1X1hlOHFzWHJ1cWJDU1F0RQ?oc=5",
+    "source": "Genetic Engineering and Biotechnology News",
+    "published_at": "2026-10-22T17:33:44+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "PerturbAI와 OpenAI, 생의학 연구용 AI 추론 에이전트 출시"
+  },
+  {
+    "id": "7b213ad205a3643b",
+    "title": "Someone hacked the Switch 2 by using an old game and AI",
+    "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+    "source": "The Verge",
+    "published_at": "2026-10-22T17:21:31+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "누군가 구형 게임과 AI를 이용해 Switch 2를 해킹했다"
+  },
+  {
+    "id": "ea2c7143d0cefa03",
+    "title": "Microsoft, Opella partner on agentic AI content verification platform",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5",
+    "source": "Fierce Healthcare",
+    "published_at": "2026-10-22T17:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Microsoft, Opella와 에이전트 AI 콘텐츠 검증 플랫폼 협력"
+  },
+  {
+    "id": "e7f3eebc4f863906",
+    "title": "Applications Open for County College of Morris Artificial Intelligence and Data Science Apprenticeship",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFlMSEtvalZZeHAwblNfVjEzMDA0ZEpVcFJWeWh1VUZKdjNhbDBLVmpsMFUxdVA5UTNuVEdEazRXaWtXTTJwWmhXNnllY05KaGllSG13T0pKNkhUa0NZc25tamxYN0ZpVkJRSzEwTkFBbS1EcGVXS194TWo3N2N1WWZYU19CaGxQTURxaWs1SUlSbEJ2RDMtQXFnMWk5Wl9HamVCTFY2cDJ6d2xZbHBxRVpwV0ExUDlkSFVyQVk0THBZc3gwSFJRcmNwcw?oc=5",
+    "source": "Parsippany Focus",
+    "published_at": "2026-10-22T16:57:27+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "County College of Morris 인공지능·데이터 과학 견습생 프로그램 지원 모집"
+  },
+  {
+    "id": "93c844a35d415e95",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "source": "TechCrunch",
+    "published_at": "2026-10-22T16:47:17+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "중국 해커, IT 대기업 ConnectWise 침해 후 수천 개사 정보 탈취"
+  },
+  {
+    "id": "a5d9bacca36944ac",
+    "title": "Rockland Community College Awarded $3 Million Federal Grant To Expand Artificial Intelligence Education And Student Success",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUJjb0doUFBEVEVqUDRQX3d5eEgwSTItbTZIMEhEZmJfTlBkNzRhemp5d25iSVl4NEZTcnZidVFLYTNTV00tR19tRjBJRkprNlBNWDJNLTQ2Ymk4UkdndmMzaktuRmloVTY5Y2kzaU94QlNGLUhEWXpjcEFIaFpCNG1fdk5USVJnQjN5YXFaMDBiWGFoLXVCUVlHQXhTaUlEdk1ZY0NYUElUa0ktVzR6X0JtLVpHT3RnTU9mWm13YndlUG0yZmgyZUZxNHRzUzByanpEZThrWmhIWG96cUNUaQ?oc=5",
+    "source": "Monsey Scoop",
+    "published_at": "2026-10-22T16:36:26+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Rockland Community College, 인공지능 교육 확대 위해 연방정부로부터 300만 달러 지원금 수령"
+  },
+  {
+    "id": "c87d7d6236c0d933",
+    "title": "State of Working Maine 2026: Protecting Workers from Artificial Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkFSTmktMGJENXNRVEVQd183ZldidUdiRWZCNXBTeWVuRGtBMldXUVBkUDZibVc5SjBvOFdfc1N5d000ODdmQ1NqQlptczJuSHZqNGRBMDBPeXotcEZDU0h4cmNLeThWVjEzU3NFUUlOZzZZbEctaDJYemM3alQtZ1N1NV9iU0RYX1NKU1RiMEhtQUtDUFR2WQ?oc=5",
+    "source": "https://www.mecep.org/",
+    "published_at": "2026-10-22T16:07:31+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "메인 주 노동 현황 2026: 인공지능으로부터 근로자 보호"
+  },
+  {
+    "id": "1ca89eaa9cc8d490",
+    "title": "Government of Canada expands support for artificial intelligence adoption and commercialization in the Prairie provinces",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSThqcGxwX3Zkb25lSHhpRTBWWVpWa3V1RmFTU1lEQjV2SGViNFRiNGVneEpXRkVGQ0FGclRobWlYeHo5S3JPSE1mMnpoLV8zVFdyZVBoRjU4U1Fiekp5bFlqS3Fza1k2YlA2QzRmRkhoenNpZjJnV3FqbHY2WkNKaVB3c1N2dV9FM3BBMDBidVdscVdlMTJaaHZrZEk4cmFGN2wzTDhsNkZnamRJdkg0WjhMR0ZfSFlWX3p3Nm40UEhkMTQ1ZnpYM2MtdENGSTVTLWFwOXZ6YzJJZGp1S21vSFFNN2NFckRZT2RzWlR2YlctU0VQTzlsV0Y1cjhRNUJLdGNN?oc=5",
+    "source": "PR Newswire Canada",
+    "published_at": "2026-10-22T16:00:00+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "캐나다 정부, 프레리 주의 인공지능 도입 및 상용화 지원 확대"
+  },
+  {
+    "id": "9d72639f5e003f5a",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "source": "TechCrunch",
+    "published_at": "2026-10-22T16:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Uber, 전직원 30,000명을 ChatGPT Work에 등록"
+  },
+  {
+    "id": "13fa6408c736bae5",
+    "title": "How Tempus AI Built a Defensible Data Moat in Precision Healthcare",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc21kaFd4amppQ2djYzk1ZmtUNWFPS3p4QmhJd3Q2Wko1N3JsVzBNZ3JBSFNrSGE0Y2dlZ0I0ZWp5LTNyY0ZWb2l1eVJ3Zk12THRxMkZudDZHSzVsSUI4eGFwbEpIYVFtNV80OFhKai0zajlxT0QyeWNwRlIzbEViNXppVFNBTV9ya2VJclRWY01pSkRDSmxrbThlMGxvc0FQMXp6ZDRDUXgzcld2MlNqeEZB?oc=5",
+    "source": "ETF Database",
+    "published_at": "2026-10-22T15:58:29+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Tempus AI, 정밀 의료 분야에서 강력한 데이터 경호 구축"
+  },
+  {
+    "id": "336a7cab1b597139",
+    "title": "Website Closers Successfully Handles the Sale of Emerging Artificial Intelligence Company AnnieAI",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYWd4QTdZOGt0Wk1GbzhRdDJIanptUWFzekVpQm1SbHltdV8xT29CVUY1d3NoVmVvZHdacExNTDJ0cDAyWlBtQnA5T2JPSkVpX0w4UVJnU21hZklCUWhEOXFKZWZJNDZNYU5zSGRiZGVwYXJBMWZrd194blZGMVBJdTg0X19vNF95T0dFWmwySzVFcnJld1QwMThuUEZ5bHR6NllsSXdqZVB1NFYyWnExTW02NnV0QTduUktXSk1BNDNOWFktcFZIc3pXVFQyQ2Q5cDlHczNoNTZ2bUpo?oc=5",
+    "source": "EIN Presswire",
+    "published_at": "2026-10-22T15:54:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Website Closers, 신흥 AI 기업 AnnieAI 매각 성공적으로 처리"
+  },
+  {
+    "id": "cd7682576b4eb9d7",
+    "title": "New Microsoft guidance warns that “trusted” AI agents carry serious security and safety implications",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlJjWWNrckxrRV9lVmZmaG9Lcy1VTmpWaWlGU1NlYnJ2NmkyT01nVUVMTHF2UVNBRWxDY2FwQlI2aUQzZG4zbTFTRzBoek9HMXg0cVJqSkdNUTZodkYycHhheVNKVlBrWmdSbDVkWDdCRVNMa2xjbllkdWg0VlNaaG5wdENPOTN6S1R1eHowODNocnc?oc=5",
+    "source": "Windows Central",
+    "published_at": "2026-10-22T15:49:34+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Microsoft, \"신뢰할 수 있는\" AI 에이전트의 심각한 보안 위험 경고"
+  },
+  {
+    "id": "4333a9e6dafa6c9d",
+    "title": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekYxQzAtenA3SFBNODVpelA4dENGdEdBbUJHNVNOd0xRR3NOdnZLbWotYmFMdGZrd0I1TVdfS2l3X0gyOTk5aXJrcHNxSlZSRHdMM2g5Q1VhaXZ2a2NFM1kwN1E3X3pieHFhckhnMnRYMlMyZjlEdmpXR3BTZm93a1paZks1QlhOdGxuY1Rkb0hNYkRZZDZlQXIzeFlfSmdQSFotdTRuUTdnTXhuYU9n?oc=5",
+    "source": "StateScoop",
+    "published_at": "2026-10-22T15:43:54+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "OpenAI, Newsom에 캘리포니아 AI 안전법 강화 촉구"
+  },
+  {
+    "id": "c625905b3719c2e1",
+    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+    "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+    "source": "Ars Technica",
+    "published_at": "2026-10-22T15:25:02+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "해커, PHP2Shell 심각한 취약점을 4일 먼저 악용"
+  },
+  {
+    "id": "cc6c865223e6a6fc",
+    "title": "My therapist is AI",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPak1fVmo0cTBkbjI3V2hUMjdXWXFFeFdvbWdHRVFyQVIzSzNJczhGejhWNEJmN1d3aXpvRGFvZF8wMUl5a1FuZ09hRjIwQWlReW9iNGJxN1ExXzBHd2NSOHVRa2JXeV9HNE53UFg5b2JMZTZ5QjlmNTRUWEp5c3JkdGk4Z3pjM0NtSEV4NUc2THdrdmwzMUxfS9IBmAFBVV95cUxQaENIVEVVM21fYW1ZVFpMbWszMk1mU2xQV2VfOEtnc2J1cmlXcnNRNnVYNlNQMHpyYUZ2Tms4QmcwWElzc3oteXY3SE5MMW50TE1wM1pLVGhBTHB2RFB1MjV3ZlpQZE5fNmpZcWVhUm1IZl9YZVk5Q1BwZUVUQ20zSXNfMjdxd1lxbDV2dDJFaXUwbVhWaVBjdg?oc=5",
+    "source": "DW.com",
+    "published_at": "2026-10-22T15:24:54+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "내 치료사는 AI다"
+  },
+  {
+    "id": "2cdaedbe91eda8b7",
+    "title": "IMF, OECD warn AI could widen rich-poor country divide",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmNBeXRvRUFtNTFrMTlCRmlUMWh3MGxHelJDdjdVMlViSVBUOVI3YnotRVJfaV9heWN3NFlHSlFUQUtOMG41ZXg0bE96dHZKcGMtem1PTUZlbXI2d2NIMEoxd1kzNUpaWFdYWmN0LXdhaVhEcmFIOXExUkc3ZVZ0dGRRRWc4dw?oc=5",
+    "source": "The Arab Weekly",
+    "published_at": "2026-10-22T15:11:15+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "IMF·OECD, AI가 빈부 국가 간 격차 심화시킬 수 있다고 경고"
+  },
+  {
+    "id": "0bffbef0359b5df6",
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "source": "TechCrunch",
+    "published_at": "2026-10-22T15:03:58+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Spotify의 현재 AI 전략: 에이전트가 선택하는 음악 서비스가 되기"
+  },
+  {
+    "id": "217328bd947c8cf0",
+    "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-10-22T15:00:25+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "3자 평가자들, 시범 운영 중 OpenAI 모니터링 시스템의 취약점 발견"
+  },
+  {
+    "id": "648e2dc56157d78f",
+    "title": "New phishing-as-a-service platform uses artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0dNTVhGaFBkWGlnM2pkSVU1TU9FQVlrQlhRS1lOMGNZZmt5SHkzMDZCZkdpWjBGY19EbTczTDhiNXlDZ2dSMzJOUFpXWE4xVHJSUThoR19wZVNpQTZvTVUzd3Rnb09Gd0Q5eFEzYkJ1WkFrSlhUcWNFNmNUQkZxOVVuZWE2MFhXTUdKeVRkekZFMkZSUnEwWQ?oc=5",
+    "source": "SC Media",
+    "published_at": "2026-10-22T15:00:05+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "인공지능을 활용한 신종 피싱 서비스 플랫폼 등장"
+  },
+  {
+    "id": "5b8b5b9ce28b289a",
+    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVWkxaS10M1lTMkNibTlEeVNYcVZhQVFNTFNhbmNjSEc5VjV2T0wwOU05TmZmbEN6eFRjb1U0b0N3RWhvTk9IVnBCRnpYM3BIejZYWndkc0VIMTQ?oc=5",
+    "source": "BBC",
+    "published_at": "2026-10-22T14:28:59+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Barclays, AI 의존도 높이며 5,000명 감원"
+  },
+  {
+    "id": "494515fba3a36e2f",
+    "title": "New literary prize honours works featuring artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEdXdi14ZlM0MXlBMnMwX1F0WWtpSi1kbWpQczBxcWgxR3JPS29CRENocWRmZlhuYVRiOC1HSXN4UTI5am1vM1JoV3I4NGNHSjVHZVpZSm1KaGRPWmttcHFuSW5ROENzLXhTTVRLa1lZcFRreHRTOWdBV2hWTV85SXMyaEd2MlVXOE1WUktoX2VVSy1LUkRhdFQ0M3JPRVk?oc=5",
+    "source": "Yahoo",
+    "published_at": "2026-10-22T14:18:42+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "인공지능을 소재로 한 작품 기리는 새로운 문학상 창설"
+  },
+  {
+    "id": "cbb78b4bc89739dc",
+    "title": "Nobel laureate expects human-level artificial intelligence to emerge in two to three years. What will smart t",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBabWRXUFlUN2xWSlVPbWFNN1pXeGRvLVllWHhWclJhdUNfcHdwVUVfQ0t3aTdhNl91ZHlQXzJ3OVQxRENEaUo3bktNTdIBS0FVX3lxTFBabWRXUFlUN2xWSlVPbWFNN1pXeGRvLVllWHhWclJhdUNfcHdwVUVfQ0t3aTdhNl91ZHlQXzJ3OVQxRENEaUo3bktNTQ?oc=5",
+    "source": "Наша Ніва",
+    "published_at": "2026-10-22T14:06:04+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "노벨상 수상자 \"인간 수준의 인공지능 2~3년 내 등장할 것\""
+  },
+  {
+    "id": "6aa970c38b499724",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "source": "TechCrunch",
+    "published_at": "2026-10-22T13:53:26+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Claude Duet 앱, Anthropic의 에이전트 시장 진출 도박"
+  },
+  {
+    "id": "71cc29df2297aefa",
+    "title": "\"Gomselmash\" will produce combines with artificial intelligence together with the Chinese",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82eWxjakZDNVdIYVB2dFJaNTBsTFVnb2lEVmhCWmNHcmR2QWZfc1dzRlQtVzJjTG82SmpmcjFwTl8wRXZHcmIyM1J5Z9IBS0FVX3lxTE82eWxjakZDNVdIYVB2dFJaNTBsTFVnb2lEVmhCWmNHcmR2QWZfc1dzRlQtVzJjTG82SmpmcjFwTl8wRXZHcmIyM1J5Zw?oc=5",
+    "source": "Наша Ніва",
+    "published_at": "2026-10-22T13:46:32+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "\"Gomselmash\", 중국과 함께 인공지능을 탑재한 콤바인 생산"
+  },
+  {
     "id": "5013fc4a7aeb028a",
     "title": "Plato Was Right: Artificial Intelligence Makes the Philosopher-King More Urgent",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbklkeTVLVGNPTU82TWFhcElXY29HdC1FVjIxeHUtS3NldFY3SlNLcGpPMGVEdE44c1ZtQmtsV2ZmdXRqQkkzV1BJRVAtdk04dW9aNWhoVGRfNm9kNmJOVUJsenBZWlRpWkV6SFVjbVM0REpvUHdGU0g1bVFuZmFwZlhIZXY1cEpZYi1PSlRSM3NKZGk3LThmM0pzUG1MT25pZGZDSzVoeHZLbDdOa2lB?oc=5",
@@ -8,6 +318,16 @@
     "category": "기타",
     "first_seen_at": "2026-10-22T13:35:19.734944+00:00",
     "title_ko": "플라톤은 옳았다: 인공지능이 철인왕을 더욱 긴급하게 만든다"
+  },
+  {
+    "id": "ee592ab7bb61eb0c",
+    "title": "Danilov Iurii: UnionPay and artificial intelligence will change the way Europe accepts payments",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWhDSHlFcEJrNjdjeWx2RVR5TzdORTZrMjJ1ZmRCSDNTU3ZQQTJPX05OVkFNaW42c2RMYTlULUFnTWVwc3puVmMwOXJQVU5ULXhHOGdpMW8ydkpkS1JKdDZHOERnMlBPc2JoVkZhaVMzeEVvMTV0Q1F5eldQZWQzWHVSbkZJSnJiXzd6NFpoR2JNNkp2dTdZVlZDbUY0cHk0N0lsS084TkxXTktQZk1LRTM5RWpfdw?oc=5",
+    "source": "UA.NEWS",
+    "published_at": "2026-10-22T13:28:26+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Danilov Iurii: UnionPay와 인공지능이 유럽의 결제 방식을 바꿀 것"
   },
   {
     "id": "a4344d39d17adb1d",
@@ -40,6 +360,16 @@
     "title_ko": "DeepSeek, 미국 제한 직후 150억 달러 조성 보도"
   },
   {
+    "id": "e9ab84276f9d47c4",
+    "title": "Congress Should Put Commonsense Guardrails on Military Use of AI",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFlHRnJLNHAxMG1PTmhlVngyYXppd1NGYXFrZVNuNGVFOHFHUlZxdm9LdzBfajZvNVBvc1NldExmUWZzaFpVRW5BRUwwRFlHQVR1MXc5NjFYS3pfcHowOUNIZjVGUEJSU25wYmN4Q1FfaWNKSFZLVFpWTklnX3ptUWVxOUFlMFJXSW0wSEstUGZXcWhqNDRudG9aYXdYT3VUQTN0RjFNcmwzQQ?oc=5",
+    "source": "Center for American Progress",
+    "published_at": "2026-10-22T13:03:37+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "의회, 군의 AI 사용에 상식적 안전장치 마련해야"
+  },
+  {
     "id": "444eacd6a9784329",
     "title": "Artificial intelligence in stroke rehabilitation: A structured clinical review",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEU0dFplTnltRGstVnJEaE9WUHB0WTRDZGVnZkc5SnhXc3gyVzktWUJNWUEwcW5OeHphZUZfRTV0S0t4aUhmbjFrWURmSXVQOTdRUlM2SlBFaFg3SWpESmdfalJTMTZ4REdxVnhISlp3WTFZNS0tOFBxM3RRd2k2ei1JemVMcnl2dVpOZDVaS1l1Ul9KaVBxNVFGQmVtSGx2WV92dkVrSHMwd200SXJsbUtod1hzYjFrdHo1cC1UakpvNU0?oc=5",
@@ -68,6 +398,16 @@
     "category": "기타",
     "first_seen_at": "2026-10-22T13:35:19.734944+00:00",
     "title_ko": "칠레, 브라질, 우루과이, 라틴아메리카의 인공지능 도입 주도"
+  },
+  {
+    "id": "7da049809ac3b714",
+    "title": "Is Artificial Intelligence the Great Equalizer for Independents?",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOEM5T3YyZThMMDJ5SnU4bXVJRUJNalFOQ04tUWFUNVdvRFJ3SVMyV09aM2pjOFhsSGpZRXViTm1QTkJlMENtSmpRQWdPcVh1LWpsQlV5QUxqVmFUQVYtbkFzWXBnZTF0TWZIR0VWSUkwREZzM3hOVFhGR1ZDYU9tNzEzTlRVbXhWU1hJaE5QWVQyNWhkVWs4Z3hpeW9XcUMyNkNKRlJTcWlNRVNmMXVtdFgwV05oTlZuWUowWFNIRkRLZjA4QkpIdnFibUQ3RFUwMDlWQVhQZVNWdlFtYTFmNnJqTGpSQk1pSG1KcUZjX1ZuazJXMlBz?oc=5",
+    "source": "VisionMonday.com",
+    "published_at": "2026-10-22T12:25:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "인공지능, 독립사업가들의 구원자가 될까"
   },
   {
     "id": "6a1f8b1e39a55182",
@@ -138,6 +478,16 @@
     "category": "기타",
     "first_seen_at": "2026-10-22T13:35:19.734944+00:00",
     "title_ko": "Nvidia 회장, '저렴한' AI 종말론 비판"
+  },
+  {
+    "id": "97858b7d01a07853",
+    "title": "African faith leaders discuss AI safety and ethics at Nairobi roundtable",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDhZZzFHN1NmbmlVNXZiY3pkNmV4T2s1NUU0S0tkQUh2RTR4WF95UWtPblVuVHVzZlcwazZCMy1iWHBXNXlBTjhtc2tySVBwMzVfaldaSmdneTBZd3NwUGpsX1RaX2w2SUFTdkl3WEJWeEQ0RXFja2gzNWtodHlsRDNiTFhlbDYxMEdvVE9VanoxLUdmeVRYU3ZXTmVUUEFkWTFkSHE4OVk3R2tZ?oc=5",
+    "source": "www.christiandaily.com",
+    "published_at": "2026-10-22T11:13:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "아프리카 종교 지도자들, 나이로비 원탁회의서 AI 안전·윤리 논의"
   },
   {
     "id": "86ce822bd3269452",
@@ -358,6 +708,26 @@
     "category": "기타",
     "first_seen_at": "2026-10-22T13:35:19.734944+00:00",
     "title_ko": "AI는 인류의 4번째 대 굴욕이 될 수 있다, Swami Sarvapriyananda 주장"
+  },
+  {
+    "id": "6a6b2f324fcaa2d2",
+    "title": "Low-quality content causes “brain rot” in artificial intelligence, study warns",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjBrZDJxNVIwaXdVYUtsdC15NzNzY1dyV1lZZDVWZmZVNFlUUTBxZng3UFBBX3RPSzI5cWJlNjAyTWh2Y0RMU2VPWnBoWHZHQnZDaGFJc3MyN0xVSmRSdjFTcE14blBXQnhCVXNaNUNDTUlpaEJWaV9CbVBBdXZRbGlFT0VSS2lDc1ZyYjhqOVUxcDc2VjlmUTFWLWNqei1ELWR4RDJlQ3hRd0ZmVjg5WmxWVE10a1l2ZXlMeHBBeGZGY1pDQ3VlNWd3?oc=5",
+    "source": "www.jordannews.jo",
+    "published_at": "2026-10-22T06:53:42+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "저품질 콘텐츠가 인공지능에 \"뇌 손상\"을 야기한다는 연구 결과"
+  },
+  {
+    "id": "17911af56403c421",
+    "title": "MicroSectors - MicroSectors 3× Long Artificial Intelligence (AI) ETNs due May 30, 2046 (AIQU) Risk",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SY1JCbW05NEJGcUtxcXFES3o1YmVzSGprUXNwMWJYck1VaHFhNkJPZ0oxWmVBLXktNmstZWJKM0tiOHN3b2o5aHA1aDRNbzlKX2o2THVHdXc?oc=5",
+    "source": "Yahoo! Finance Canada",
+    "published_at": "2026-10-22T06:49:45+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "MicroSectors - MicroSectors 3배 레버리지 인공지능(AI) ETN, 2046년 5월 30일 만기 (AIQU) 위험공시"
   },
   {
     "id": "fe4ca83bbfc8e4c3",
@@ -650,6 +1020,16 @@
     "title_ko": "Blackstone의 Jas Khaira \"AI 구축 부채에 대한 우려는 과장된 것\""
   },
   {
+    "id": "c1d080de5b4338cf",
+    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+    "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+    "source": "TechCrunch",
+    "published_at": "2026-10-21T22:45:34+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "Meta, 대규모 AI 구축 자금 마련 위해 새로운 주식 클래스 발행"
+  },
+  {
     "id": "7a1215e9d3971603",
     "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
     "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
@@ -828,6 +1208,16 @@
     "category": "제품·출시",
     "first_seen_at": "2026-10-22T01:20:09.975278+00:00",
     "title_ko": "Anthropic의 AI 에이전트 출시로 Walmart, AI 에이전트 도입 환영"
+  },
+  {
+    "id": "917a313ff543ed15",
+    "title": "The evolution of immigration scams in the age of artificial intelligence: how to protect yourself",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEJFNkZJdHY0UHNWWG53MVdrMzZaZVJuR29lSFVYUmRUdWhhcmJkM0xCUFRMVFctRHdiVHJQTkNLSlk4UlZpV1gwYzBIRndNVk5LdUpBME9BZFNpcE9iRXh3RnV6cDZONzhGNEdGNFgzMVdVR1V6aTlkUklpWmo0ZGozTDlDeXdyYWJETElaUDdsTmw1NmhxR3RVUHEwMW5ZXzROR3dkdUcwVU5CS05zdDJNbDhjbnNuYWpaTXhRYWRZLUg3WW9DXy13?oc=5",
+    "source": "Enlace Latino NC",
+    "published_at": "2026-10-21T21:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "인공지능 시대의 진화한 이민 사기: 자신을 보호하는 방법"
   },
   {
     "id": "1a5b2ad53fadddc9",
@@ -1588,6 +1978,16 @@
     "category": "기타",
     "first_seen_at": "2026-10-21T13:33:43.831642+00:00",
     "title_ko": "Caltech 포럼, 목요일 인공지능·노동·이윤을 주제로 개최"
+  },
+  {
+    "id": "84d5ce701e374e70",
+    "title": "An AI model’s false tip to Philadelphia police reveals how digital agents can do as they’re told and still cause trouble",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVJxUFNHSm9UVzcxWVljcGpINmlzY1liQTl6WGJORXBzVzFvTVQ4UWhUbGxRY0tIQ3VHREppUEhsRzB4WjdITDl4MEZva295NFNpLXBVMUdlS0JGdDFkTnpBWmZYWTFYQlQ0cDA5a3hidXJPd2NDSWNxY1J1MU1hV2xQRlNYZ3pOakRfSWtmSWVlbFFFMVJWVG1aaGF3aXA4dGI0ZEpLdHRQN3k3Slh0am44bUZJanJ2S0RhZWNRRjhrT2dSSUpwN05WY1dYbEZ2aEl4QnhzZnZHZzNWcUJUNUY5SEc2S0dX?oc=5",
+    "source": "The Conversation",
+    "published_at": "2026-10-21T12:48:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-10-22T18:23:50.113602+00:00",
+    "title_ko": "AI 모델의 거짓 제보, 필라델피아 경찰 혼란스럽게 해... 디지털 에이전트의 위험성 드러나"
   },
   {
     "id": "2414e9b29970320a",
