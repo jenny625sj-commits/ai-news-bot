@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T01:19:12.266901+00:00",
+  "generated_at": "2026-10-23T07:08:02.433977+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, IPO 앞두고 1.25조 달러 기업가치로 300억 달러 투자 유치 추진",
+      "title_ko": "OpenAI, UAE 투자자 주도로 300억 달러 규모 펀딩 라운드 추진 중 - 1.25조 달러 기업가치 평가",
       "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-10-23T01:18:57.230865+00:00"
     },
     {
-      "title_ko": "중국 AI 모델 주가 1500억 달러 급락, 회복 기미 보이지 않아",
+      "title_ko": "중국 AI 모델 주식 1,500억 달러 낙폭, 회복 기미 보이지 않아",
       "title_en": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEQ2a3VYWERudU90RE16TmxGbTg2dUdPRkQ1cTE2bW42ZkFjaGdWQjRKc3g5VWpzdEtFa3hOcUFJVkZKclUtXy1wU29xNDF1MW12Y0thNHh2MDJIdkJHN2VYNVJEX3BRYjRZUkVOMUFvRmNIOU01WjVyeUd5UnpGNHhOQ1p5UmZjaVd6cVNlR1M1OGFVbmRHaXdLam1JNWp2VHExZ09kdlN1anI3dUFmZXZrdw?oc=5",
       "source": "Bloomberg.com",
@@ -21,16 +21,7 @@
       "first_seen_at": "2026-10-23T01:18:57.230865+00:00"
     },
     {
-      "title_ko": "DeepSeek, 미국 규제 직후 150억 달러 투자 유치",
-      "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
-      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-22T13:11:13+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
-    },
-    {
-      "title_ko": "바클레이즈, AI 의존도 확대하며 2026년까지 5천 명 구조조정",
+      "title_ko": "바클레이스, AI 의존도 높이며 5,000명 감원 단행",
       "title_en": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVWkxaS10M1lTMkNibTlEeVNYcVZhQVFNTFNhbmNjSEc5VjV2T0wwOU05TmZmbEN6eFRjb1U0b0N3RWhvTk9IVnBCRnpYM3BIejZYWndkc0VIMTQ?oc=5",
       "source": "BBC",
@@ -39,31 +30,40 @@
       "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
     },
     {
-      "title_ko": "구글 TPU, 메타 데이터센터에서 운영 개시...엔비디아 시장 지배력 위협",
+      "title_ko": "DeepSeek, 미국 규제 직후 150억 달러 펀딩 추진 중",
+      "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T13:11:13+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
+    },
+    {
+      "title_ko": "구글의 TPU, 메타 데이터센터에서 외부 고객 대상 판매 시작 - 엔비디아의 시장 지배력 위협",
       "title_en": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcXllYmxLcElIQjE5U2NXOXNBb3pVNDl3N2dnQVB1OThuN3pGQlNCeTNFMzNVMDc0YUt0VHk5bFFVMV94eW41Yi1SdXBTRWxzeDMteUwwbGJlUmFER0dHVDdBdl9JY1J1ZmJ0WUtKNU5nNnRXbVVKQ1dadkN4ZDBhSERxYjJ1cUFEaF9NREN4WjlZWEhIWG1pZnJLLV9KaV9DQTRIQ2VWMEhzNFQxdzd6R1NoYlByU3RYS2lHV2JIcUlJTXRXU1JndkViaEdqVnZLRkl4Q2g1RTczenVPV2hGbGVueE5GVDRNZTg1ak5XSXM1UEszY0xhX3VRbkdTbmZKWW0xcktOZnREOXhqRWFVaVJKdVg1cmNwRkV0SklRby14aU9qSmJoNjZ4Rk84TGtWX2FrN1hiZW5DQQ?oc=5",
       "source": "Tom's Hardware",
       "published_at": "2026-10-22T10:00:00+00:00",
-      "category": "기타",
+      "category": "제품·출시",
       "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
     },
     {
-      "title_ko": "제3의 평가자, OpenAI 모니터링 시스템의 취약점 발견",
-      "title_en": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-22T15:00:25+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
+      "title_ko": "마이크로소프트, AI 의료진단 능력이 의사 능력 상회한다고 주장",
+      "title_en": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T18:43:53+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
     },
     {
-      "title_ko": "캔바, 자체 첫 AI 이미지 생성 모델 출시",
-      "title_en": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-22T19:00:00+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
+      "title_ko": "DeepSeek·MiniMax, 중국 AI 수출 규제 하에서 해외 배포 허가 획득",
+      "title_en": "DeepSeek, MiniMax secure licences to deploy AI overseas under China export rules",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnV4SzNzeVJsZ09SV1IzNVRrOVRYTklVZEJtSVYxWkJFTDhnUzVoeUhwSWJfRXlRVzNEUVVpTzBJdGdPc3ZMbHR6cnZpNmdkbkZ5cmVMV3dXSVgtN1dhVHdBek9hckIzVnd1cnAwLWJpYkI1QlJweVg3dFM0anVuRzBwanFDczBJdXk4QlY4V2ItNEpOd3JDOVpDeElLWlVQempBT2pIME53N3V2ZE95aHJRTEpDakpmbTdPOUVDTzBndjlRVUkzeHVrTDE1bVl5dGgyWTdR0gHWAUFVX3lxTE9LYU1POXJiUWt2RmdwWDd6cUZHdkt5djdMUGNTdXRCcURfbV9pSVp6TFUzZmlnQTBfVHZVRzJwZDRHTjlJSldUeUxpUFgwTDMtaHROWXZiYmpKZ00wSDhvZWtrcnRuMEFvRHUwZW4wN1pkcjFJcjFGMzJzX3pvXzktbjdxWi1qLUZTT1hQNmVaSUhmdWtSSUZnUGl5OXEwQmM2OGQ0YVVEYzI4b1p1RDl3LXQ5NmdHX294ZmhEbTUxUEJOOTctR1phVmZUbUhLUDhPZzROZlE?oc=5",
+      "source": "South China Morning Post",
+      "published_at": "2026-10-23T06:00:25+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-23T07:07:51.625717+00:00"
     }
   ]
 }
