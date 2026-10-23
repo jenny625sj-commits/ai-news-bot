@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-10-22T22:11:05.794683+00:00",
+  "generated_at": "2026-10-23T01:19:12.266901+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, UAE 투자자 주도로 최대 300억 달러 투자 유치, 기업가치 1.25조 달러 달성",
-      "title_en": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-22T20:15:19+00:00",
+      "title_ko": "OpenAI, IPO 앞두고 1.25조 달러 기업가치로 300억 달러 투자 유치 추진",
+      "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T22:08:24+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
+      "first_seen_at": "2026-10-23T01:18:57.230865+00:00"
     },
     {
-      "title_ko": "DeepSeek, 미국 규제 직후 150억 달러 규모 투자 유치",
+      "title_ko": "중국 AI 모델 주가 1500억 달러 급락, 회복 기미 보이지 않아",
+      "title_en": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEQ2a3VYWERudU90RE16TmxGbTg2dUdPRkQ1cTE2bW42ZkFjaGdWQjRKc3g5VWpzdEtFa3hOcUFJVkZKclUtXy1wU29xNDF1MW12Y0thNHh2MDJIdkJHN2VYNVJEX3BRYjRZUkVOMUFvRmNIOU01WjVyeUd5UnpGNHhOQ1p5UmZjaVd6cVNlR1M1OGFVbmRHaXdLam1JNWp2VHExZ09kdlN1anI3dUFmZXZrdw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-23T00:30:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-23T01:18:57.230865+00:00"
+    },
+    {
+      "title_ko": "DeepSeek, 미국 규제 직후 150억 달러 투자 유치",
       "title_en": "DeepSeek reportedly raises $15B days after US restrictions",
       "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "source": "TechCrunch",
@@ -21,25 +30,25 @@
       "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
     },
     {
-      "title_ko": "구글 TPU, 메타 데이터센터에서 외부 고객용 판매 시작... 엔비디아 시장 지배력 위협",
+      "title_ko": "바클레이즈, AI 의존도 확대하며 2026년까지 5천 명 구조조정",
+      "title_en": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVWkxaS10M1lTMkNibTlEeVNYcVZhQVFNTFNhbmNjSEc5VjV2T0wwOU05TmZmbEN6eFRjb1U0b0N3RWhvTk9IVnBCRnpYM3BIejZYWndkc0VIMTQ?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-22T14:28:59+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
+    },
+    {
+      "title_ko": "구글 TPU, 메타 데이터센터에서 운영 개시...엔비디아 시장 지배력 위협",
       "title_en": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcXllYmxLcElIQjE5U2NXOXNBb3pVNDl3N2dnQVB1OThuN3pGQlNCeTNFMzNVMDc0YUt0VHk5bFFVMV94eW41Yi1SdXBTRWxzeDMteUwwbGJlUmFER0dHVDdBdl9JY1J1ZmJ0WUtKNU5nNnRXbVVKQ1dadkN4ZDBhSERxYjJ1cUFEaF9NREN4WjlZWEhIWG1pZnJLLV9KaV9DQTRIQ2VWMEhzNFQxdzd6R1NoYlByU3RYS2lHV2JIcUlJTXRXU1JndkViaEdqVnZLRkl4Q2g1RTczenVPV2hGbGVueE5GVDRNZTg1ak5XSXM1UEszY0xhX3VRbkdTbmZKWW0xcktOZnREOXhqRWFVaVJKdVg1cmNwRkV0SklRby14aU9qSmJoNjZ4Rk84TGtWX2FrN1hiZW5DQQ?oc=5",
       "source": "Tom's Hardware",
       "published_at": "2026-10-22T10:00:00+00:00",
-      "category": "기업·투자",
+      "category": "기타",
       "first_seen_at": "2026-10-22T13:35:19.734944+00:00"
     },
     {
-      "title_ko": "바클레이스, 2026년까지 AI 도입으로 5,000명 감원 계획",
-      "title_en": "Barclays plans to lay off 5,000 employees globally by the end of 2026 due to artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQlV6R0ZsbnFOSkhzWXYwWDdVb194cDRHS2ZZaFJWSnRaNG01aVA1R0hlSjVJX0l0STluZmtSTlpwWV9HbW4zTkxVaVJkTlVYMG5JcVhETXFZeGRZTXlaRk9tcm5oMU4yd2tGeTJpWjdKeEdvY09VYkJtVkhkTXVWcW5NODVkNlYxQXpBMWUyV2dtR3gydnpqdXkxMW5DY19vWWNqWmFaZGhTS3VaWmJYb3Q5MzE3RUZwM043QWdiaGl2REhDQlBXLThRODd1UGxvWGNXZFlsM0diam15WFhIQkZoQzRBUQ?oc=5",
-      "source": "صوت الإمارات",
-      "published_at": "2026-10-22T20:33:19+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 모니터링 시스템 취약점 발견... 제3자 평가에서 보안 결함 드러나",
+      "title_ko": "제3의 평가자, OpenAI 모니터링 시스템의 취약점 발견",
       "title_en": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
       "source": "CNBC",
@@ -48,20 +57,11 @@
       "first_seen_at": "2026-10-22T18:23:50.113602+00:00"
     },
     {
-      "title_ko": "메타, AI 투자 자금 마련을 위해 신규 주식 클래스 발행 추진",
-      "title_en": "Meta to create a new class of shares to fund AI push",
-      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "source": "The Verge",
-      "published_at": "2026-10-21T21:30:02+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-21T22:11:24.958852+00:00"
-    },
-    {
-      "title_ko": "Anthropic, 업무 자동화 에이전트 'Claude Duet' 출시",
-      "title_en": "Anthropic Launches Claude Duet to Handle Your Work Before You Ask",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdEhUdF90ZjhxQWN2OFFjakJhYUlia18wbmdVcjdodGc0Vk1yeFZTenRVUkRCTVdiQnRtM3JUcmVOV3hmbTFxTzZJSm9nUDI1bHlTT3doY2x4V1JxWl9XVy1fLUk3VTAxbFlaME5NYm5sUXR0cnA4dV9oOHBhTjU4dG53aWwzWTFwcTU0?oc=5",
-      "source": "Android Headlines",
-      "published_at": "2026-10-22T14:09:54+00:00",
+      "title_ko": "캔바, 자체 첫 AI 이미지 생성 모델 출시",
+      "title_en": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T19:00:00+00:00",
       "category": "제품·출시",
       "first_seen_at": "2026-10-22T22:10:50.832068+00:00"
     }
