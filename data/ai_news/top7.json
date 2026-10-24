@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T14:19:39.394104+00:00",
+  "generated_at": "2026-10-24T17:56:20.590263+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, 인터넷 실시간 데이터 학습 중단...\"상당한 위험\" 이유로",
+      "title_ko": "OpenAI, 인터넷 실시간 학습 중단 선언...\"심각한 위험\" 이유로",
       "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
     },
     {
-      "title_ko": "텍사스, OpenAI와 샘 알트만을 제품 안전성 문제로 고소",
+      "title_ko": "텍사스, OpenAI와 샘 알트만을 상대로 제품 안전성 소송 제기",
       "title_en": "Texas sues OpenAI, Sam Altman over product safety",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
       "source": "Politico",
@@ -21,34 +21,34 @@
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
     },
     {
-      "title_ko": "LSEG, 월스트리트의 AI 열풍 먹여 살리려 35억 달러 투자",
-      "title_en": "LSEG Pays $3.5 Billion to Feed Wall Street’s AI",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVFEYTJBeDJrREtRZW5PbHdJOWh3dkJ1dUkxV29zYTNXbEJrWGtNMXVlSG9WbjIyYnAwOWxIenBXVkV5RWNzVVNNdFBsNTR1TkNOTGM0X1NndURzMjRGenMxOXRQaUZoZkNEdElDZ2JfcEloU0xYYVJpX0NCVVJmYV9QQjdBdjl1SEJyNG9la2xOa1B5bkpNbHhITVphc0tJSmFhOExiNjc?oc=5",
+      "title_ko": "앤스로픽과 Hg, 유럽 기업용 AI 엔지니어 파견 컨설팅 회사 설립",
+      "title_en": "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQXdyMmotRUxLbzBiZE9IMjllemwxZmZ2b2xKb0VkVm9wNVB0aGdMQUg3ZHpXYjBYVnBKQTJiNUc3b0o0LVp5XzdwY0NhNGFKbzZIanZQUk1mcndWNXpuOWdSRk1WUWVkU1hPU0JZRkp1THNHX1pCRnlTMnpQMGJBQVNjdGJabFBCcTVsbldMSVZXWDdqQlRybUtfLTl1WWd0amIxb0d3TllvM08yOVNjZVc0V3BTSEhUbmxsc3g3THNzdHlpWDN4TG5kc0pCdw?oc=5",
       "source": "PYMNTS.com",
-      "published_at": "2026-10-23T17:52:08+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-23T21:54:55.723916+00:00"
-    },
-    {
-      "title_ko": "AI 칩메이커 캄브리콘, 매출 부진...생산 제약 신호",
-      "title_en": "AI Chipmaker Cambricon’s Sales Miss in Sign of Output Constraint",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQW5LVWJoYmcwMDUwMXFTa3VMWHRmajBZWjNOdzFja25YSWN0bkcwdXpkY3VMS3h4aDRXSUd3cU5UQ0lTT3BZT04xRDdpUjljaW1DWnhubzRqOUg1c3lIZThIYi1pZF9IZnQtZmRweGVtZnVmMVBOZzJfLXRMdllkNmZXc05ReGltakx5dllKdHdNVnhrWHFtMVVUZWMtMnB1Qlo5bmluanc0a3dTcVc3dm1MTTREdw?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-23T13:22:07+00:00",
+      "published_at": "2026-10-23T17:51:58+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
     },
     {
-      "title_ko": "DeepSeek 최신 AI 모델, 저렴한 운영 비용으로 주목...HBM 소비량 1/4 수준",
-      "title_en": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price — uses only one-quarter of the HBM and one-eighth of SSD storage but still battles hallucinations in agentic workloads",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxORG9YWXBTSEx5UGZiTmtTVHZXLUE1TlVvRTlWbDNlbGg0Q3paX2llTlYweWR6cEJJUW1SeXY0VHBtb19PUll1d2xLRUFacDNDelZrUkkydGwtT2YwMU5CZXZmZFFTLWJydmk0NHVyWE9DV1E0UGUwbjVKUnhjbVZRaGJsVGg4YjRkaHBtRFY2eGhpMnlJUlBnQnJZaXNLaWVPR2htenVvSks3ZUtzeVpubWI4TVl6M2xZR25HZU9OWW1yT0xYRVVLQW1POE5HMkg5bUpyUjlVblBUeDIzd1JhVm9tX3JDLTVTSVV0Um9xLWRxZFloYXdkSU1wTGpBdUtEVVBTM0RkX2s3SjEtWlg2d0NOZ0hMY2xnVlFlZ3d6MmFyUmNhZHdlYm13X0pWelZYa0JMdFJpb0FPU3FITFJnRFZ0dndEdXg2V2RjdUlRQTFCSkdzTjZKM245WXgwM0dXMTdSTlYtel9WUEZzVGl2M1E4cF9Hc0pCelY2SFg5bw?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-10-23T12:00:00+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-10-23T13:10:58.929525+00:00"
+      "title_ko": "바클레이즈, AI 전환 속 5,000명 감원...은행업 고용 지형 재편",
+      "title_en": "Barclays is latest to redirect spending toward AI as it trims its workforce",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0lCaFVHUTdKT0puTzNiNXJsNGYtd0JKTnNBaWdmV08wWjNhQktsMmEwVWpyS20yUWNsX2tUNjdja3hfYlNCMEZLdzJMMmx5bEZhaXpFRGJRVzdSRnpwMGF5MHRHRjBOZWU4Z2Z4NENhYlhlbGNpcXlQemNpZmVTUHJ4WWZoNGZSbjcybjN3LV9Hc1NDZ3VTSmFia2t5NUxoWEVN0gGoAUFVX3lxTE80RlN0djZ4cDdWcWFwWFUwVjAzSXZBOUFlU2lLRGZfek1KQ0piRGNHN0ZoWkRFa0RtZC1SdmRKZFY1RkJzcjM2b0tVVXc3NUcydmltdG45cWdJaGVhN0pWam51NXkxWWJPU2dodmVCenh0NnkyUkM3YnJCYlplank0b0VzWWpJSVhfUnFxbVlDb0JscnJDRVpqRXdQaFRTVkZ2SWRNZUdqYw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-10-23T17:02:48+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
     },
     {
-      "title_ko": "악성 해킹 집단, Claude·Grok AI 에이전트로 라틴아메리카 기관 자동 공격...400여 개 기관 피해",
+      "title_ko": "미국 대형 은행들, 고객 계정에서 무단 AI 에이전트 탐지",
+      "title_en": "Some US banks detect unauthorized AI agents in customer accounts: Report",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZy10WE55MjFudmZQTGR3VlQ0ekpfSm5RMWFobVppZWEzVUtGdkNPLTk3YVJTbS1CYU13X1JuX250VjNoaTlZRmlxbXNSSWs0cDJXYUVHYTdwcGNLRXpYRDlWZmM2STdSakJZV0YwV3lfWlg0ckVqaDVZRmVCUUoyRml1ZHlCeWR5NC04TC1HQVl4bWZf0gGaAUFVX3lxTE1TV2NxbHc5QURHYzJyVWN1a2hfck9XalBQaC1LWVpXc3RBdmk3Z0Rld3NaVzRta3FOVDBaRGFpdFdvOUJ2bFRkSnNQTVNoQnJxTTVLZ0d1ZUFTYUFkd3dqSzVBV3RqRk9NNDFOYnJKVGxQUjZVelMxaEJPcXZzQ25qaEZwZmQtdUNBYWwzVFQwZVk0UUY4Q29JNnc?oc=5",
+      "source": "NewsNation",
+      "published_at": "2026-10-23T16:24:29+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
+    },
+    {
+      "title_ko": "해킹 조직, Claude·Grok AI 에이전트로 라틴아메리카 400개 기관 공격...비밀번호 탈취",
       "title_en": "CyberCartel hacking gang used Claude and Grok AI agents to automate attacks on Latin American institutions — passwords and details stolen from over 400 institutions, including banks and payment apps",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUzNXWU9mdGNtWGktLVRRVm5KdFA0Zjd4Q29SeWs0T1lCbDF5YWdGc1BscVZSNDV5SkNzdGlPYjZuZEpfNjQ5ZTd0NUhMeHNDNHNzN01PWGFDYnNLV0ZYeEhKOE9NRjZGb3Vwb3V1NUpyZkZCdldUZDVicDhRNEhSdUhSVWREOEVsSERvVDZYSjRJUF9zSW5OcWtxWHJNc0NkVVgzTDBVWGlkb01SaTRTUzBQQmVWTkI2TV9qQjJsc2Y0Mi0xeEJnRXR2aUxYZXpYNWltLTdsVHRVOThCMmJaV1F1RjRVbnpFZHd1Ym03QUo3MUFFNlFpbjhwbU5uNHFVSzB5SUFjSWRJN0FTSTVhTE04eE9TQ1U2bDdxZERIV2RRRTVzQnUzYmVQekxJaUs2WnJCTVRCeXpLZmlXdlFfRlUxZGtES2lud21XWFl5bmFCWUltT09BN2NBUUJWOWRSTzl5YkZJNUxHQnVqbkVfclY5cmpLeWJVelE?oc=5",
       "source": "Tom's Hardware",
@@ -57,7 +57,7 @@
       "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
     },
     {
-      "title_ko": "DeepSeek·MiniMax, 중국 수출 규제 하에 해외 배포 라이선스 확보",
+      "title_ko": "딥시크·미니맥스, 중국 AI 수출 규제 승인 획득...해외 배포 본격화",
       "title_en": "DeepSeek, MiniMax secure licences to deploy AI overseas under China export rules",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnV4SzNzeVJsZ09SV1IzNVRrOVRYTklVZEJtSVYxWkJFTDhnUzVoeUhwSWJfRXlRVzNEUVVpTzBJdGdPc3ZMbHR6cnZpNmdkbkZ5cmVMV3dXSVgtN1dhVHdBek9hckIzVnd1cnAwLWJpYkI1QlJweVg3dFM0anVuRzBwanFDczBJdXk4QlY4V2ItNEpOd3JDOVpDeElLWlVQempBT2pIME53N3V2ZE95aHJRTEpDakpmbTdPOUVDTzBndjlRVUkzeHVrTDE1bVl5dGgyWTdR0gHWAUFVX3lxTE9LYU1POXJiUWt2RmdwWDd6cUZHdkt5djdMUGNTdXRCcURfbV9pSVp6TFUzZmlnQTBfVHZVRzJwZDRHTjlJSldUeUxpUFgwTDMtaHROWXZiYmpKZ00wSDhvZWtrcnRuMEFvRHUwZW4wN1pkcjFJcjFGMzJzX3pvXzktbjdxWi1qLUZTT1hQNmVaSUhmdWtSSUZnUGl5OXEwQmM2OGQ0YVVEYzI4b1p1RDl3LXQ5NmdHX294ZmhEbTUxUEJOOTctR1phVmZUbUhLUDhPZzROZlE?oc=5",
       "source": "South China Morning Post",
