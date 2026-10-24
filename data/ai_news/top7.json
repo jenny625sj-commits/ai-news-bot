@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T17:56:20.590263+00:00",
+  "generated_at": "2026-10-24T20:30:48.423956+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, 인터넷 실시간 학습 중단 선언...\"심각한 위험\" 이유로",
+      "title_ko": "OpenAI, 라이브 인터넷 학습 중단 발표…'심각한 위험' 이유",
       "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
     },
     {
-      "title_ko": "텍사스, OpenAI와 샘 알트만을 상대로 제품 안전성 소송 제기",
+      "title_ko": "텍사스, OpenAI와 샘 알트먼 상대로 제품 안전성 관련 소송 제기",
       "title_en": "Texas sues OpenAI, Sam Altman over product safety",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
       "source": "Politico",
@@ -21,7 +21,7 @@
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
     },
     {
-      "title_ko": "앤스로픽과 Hg, 유럽 기업용 AI 엔지니어 파견 컨설팅 회사 설립",
+      "title_ko": "Anthropic과 Hg, 유럽 기업 대상 AI 엔지니어 지원 회사 설립",
       "title_en": "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQXdyMmotRUxLbzBiZE9IMjllemwxZmZ2b2xKb0VkVm9wNVB0aGdMQUg3ZHpXYjBYVnBKQTJiNUc3b0o0LVp5XzdwY0NhNGFKbzZIanZQUk1mcndWNXpuOWdSRk1WUWVkU1hPU0JZRkp1THNHX1pCRnlTMnpQMGJBQVNjdGJabFBCcTVsbldMSVZXWDdqQlRybUtfLTl1WWd0amIxb0d3TllvM08yOVNjZVc0V3BTSEhUbmxsc3g3THNzdHlpWDN4TG5kc0pCdw?oc=5",
       "source": "PYMNTS.com",
@@ -30,25 +30,16 @@
       "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
     },
     {
-      "title_ko": "바클레이즈, AI 전환 속 5,000명 감원...은행업 고용 지형 재편",
-      "title_en": "Barclays is latest to redirect spending toward AI as it trims its workforce",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0lCaFVHUTdKT0puTzNiNXJsNGYtd0JKTnNBaWdmV08wWjNhQktsMmEwVWpyS20yUWNsX2tUNjdja3hfYlNCMEZLdzJMMmx5bEZhaXpFRGJRVzdSRnpwMGF5MHRHRjBOZWU4Z2Z4NENhYlhlbGNpcXlQemNpZmVTUHJ4WWZoNGZSbjcybjN3LV9Hc1NDZ3VTSmFia2t5NUxoWEVN0gGoAUFVX3lxTE80RlN0djZ4cDdWcWFwWFUwVjAzSXZBOUFlU2lLRGZfek1KQ0piRGNHN0ZoWkRFa0RtZC1SdmRKZFY1RkJzcjM2b0tVVXc3NUcydmltdG45cWdJaGVhN0pWam51NXkxWWJPU2dodmVCenh0NnkyUkM3YnJCYlplank0b0VzWWpJSVhfUnFxbVlDb0JscnJDRVpqRXdQaFRTVkZ2SWRNZUdqYw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-10-23T17:02:48+00:00",
-      "category": "기업·투자",
+      "title_ko": "미 재무부, 중국·러시아 대상 5만 달러 이상 AI·바이오테크 투자 규제안 제시",
+      "title_en": "Treasury proposes rule to crack down on AI, biotech investments over $50,000 in China, Russia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2w4MS1xYlc0NkdaNXI3MmxDOWNKaVNfN2JRRm95SVR4N2ZubzY2NkVSeUJwa1FwbWdqV0ZvZlBZZkQ2cmRXM3NFQ1JvSTNVOU4zOGQ1ZWVBYU1GQXZjVVRwaFNrWE05YUt5d1JJeUtyQ3A2SkZGNWZEam1aQnJ2cHBPc3A3S3c?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-10-23T14:47:00+00:00",
+      "category": "정책·규제",
       "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
     },
     {
-      "title_ko": "미국 대형 은행들, 고객 계정에서 무단 AI 에이전트 탐지",
-      "title_en": "Some US banks detect unauthorized AI agents in customer accounts: Report",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZy10WE55MjFudmZQTGR3VlQ0ekpfSm5RMWFobVppZWEzVUtGdkNPLTk3YVJTbS1CYU13X1JuX250VjNoaTlZRmlxbXNSSWs0cDJXYUVHYTdwcGNLRXpYRDlWZmM2STdSakJZV0YwV3lfWlg0ckVqaDVZRmVCUUoyRml1ZHlCeWR5NC04TC1HQVl4bWZf0gGaAUFVX3lxTE1TV2NxbHc5QURHYzJyVWN1a2hfck9XalBQaC1LWVpXc3RBdmk3Z0Rld3NaVzRta3FOVDBaRGFpdFdvOUJ2bFRkSnNQTVNoQnJxTTVLZ0d1ZUFTYUFkd3dqSzVBV3RqRk9NNDFOYnJKVGxQUjZVelMxaEJPcXZzQ25qaEZwZmQtdUNBYWwzVFQwZVk0UUY4Q29JNnc?oc=5",
-      "source": "NewsNation",
-      "published_at": "2026-10-23T16:24:29+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
-    },
-    {
-      "title_ko": "해킹 조직, Claude·Grok AI 에이전트로 라틴아메리카 400개 기관 공격...비밀번호 탈취",
+      "title_ko": "해킹 조직 CyberCartel, Claude·Grok AI 에이전트로 라틴아메리카 400여 기관 공격",
       "title_en": "CyberCartel hacking gang used Claude and Grok AI agents to automate attacks on Latin American institutions — passwords and details stolen from over 400 institutions, including banks and payment apps",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUzNXWU9mdGNtWGktLVRRVm5KdFA0Zjd4Q29SeWs0T1lCbDF5YWdGc1BscVZSNDV5SkNzdGlPYjZuZEpfNjQ5ZTd0NUhMeHNDNHNzN01PWGFDYnNLV0ZYeEhKOE9NRjZGb3Vwb3V1NUpyZkZCdldUZDVicDhRNEhSdUhSVWREOEVsSERvVDZYSjRJUF9zSW5OcWtxWHJNc0NkVVgzTDBVWGlkb01SaTRTUzBQQmVWTkI2TV9qQjJsc2Y0Mi0xeEJnRXR2aUxYZXpYNWltLTdsVHRVOThCMmJaV1F1RjRVbnpFZHd1Ym03QUo3MUFFNlFpbjhwbU5uNHFVSzB5SUFjSWRJN0FTSTVhTE04eE9TQ1U2bDdxZERIV2RRRTVzQnUzYmVQekxJaUs2WnJCTVRCeXpLZmlXdlFfRlUxZGtES2lud21XWFl5bmFCWUltT09BN2NBUUJWOWRSTzl5YkZJNUxHQnVqbkVfclY5cmpLeWJVelE?oc=5",
       "source": "Tom's Hardware",
@@ -57,7 +48,16 @@
       "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
     },
     {
-      "title_ko": "딥시크·미니맥스, 중국 AI 수출 규제 승인 획득...해외 배포 본격화",
+      "title_ko": "바클레이즈, AI 도입으로 5천 명 감원 단행…이익 증가에도 인력 감축",
+      "title_en": "Barclays to Cut 5,000 Jobs as Artificial Intelligence Transforms Banking Employment Despite Rising Profits",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ09ueWNDV3NyMjN5SlZGNDBDZURVblVNd3dmTFN6NXpRdjhsd1BzU0xJZVl4UHZmSU9fRVAyZWFmN29aYXE2RVdNOHl6VmJNRlpiazlLdVh1VzFMWW0wYnBHX3RpRHAzeF9KX3drM2FBU2xPdlEwM0FsZmh3QVNMYy1TTGFsRUVHc0t3dk9qdVRFYk5JVHh2bXU5MUlmSzI0U0wtSkRvTGJ4Z3BBR3JyY3dob1dfS0JzUHk1elVfOEF6QVBMOUtJM3FOZmVTNkZVMHJoQUFwYUt4X3UyTWVISFNTMA?oc=5",
+      "source": "The Workers Union",
+      "published_at": "2026-10-23T08:36:21+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-23T13:10:58.929525+00:00"
+    },
+    {
+      "title_ko": "DeepSeek·MiniMax, 중국 AI 수출 규제 하에서 해외 배포 라이선스 획득",
       "title_en": "DeepSeek, MiniMax secure licences to deploy AI overseas under China export rules",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnV4SzNzeVJsZ09SV1IzNVRrOVRYTklVZEJtSVYxWkJFTDhnUzVoeUhwSWJfRXlRVzNEUVVpTzBJdGdPc3ZMbHR6cnZpNmdkbkZ5cmVMV3dXSVgtN1dhVHdBek9hckIzVnd1cnAwLWJpYkI1QlJweVg3dFM0anVuRzBwanFDczBJdXk4QlY4V2ItNEpOd3JDOVpDeElLWlVQempBT2pIME53N3V2ZE95aHJRTEpDakpmbTdPOUVDTzBndjlRVUkzeHVrTDE1bVl5dGgyWTdR0gHWAUFVX3lxTE9LYU1POXJiUWt2RmdwWDd6cUZHdkt5djdMUGNTdXRCcURfbV9pSVp6TFUzZmlnQTBfVHZVRzJwZDRHTjlJSldUeUxpUFgwTDMtaHROWXZiYmpKZ00wSDhvZWtrcnRuMEFvRHUwZW4wN1pkcjFJcjFGMzJzX3pvXzktbjdxWi1qLUZTT1hQNmVaSUhmdWtSSUZnUGl5OXEwQmM2OGQ0YVVEYzI4b1p1RDl3LXQ5NmdHX294ZmhEbTUxUEJOOTctR1phVmZUbUhLUDhPZzROZlE?oc=5",
       "source": "South China Morning Post",
