@@ -1,18 +1,9 @@
 {
-  "generated_at": "2026-10-25T21:31:47.110631+00:00",
+  "generated_at": "2026-10-25T23:55:42.972371+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI의 격리된 레드팀 AI 에이전트가 CPU 캐시 채널을 이용해 마이크로VM 샌드박스 우회",
-      "title_en": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-10-25T11:30:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 보안 사고 이후 프론티어 AI 훈련 일시 중단",
+      "title_ko": "OpenAI, 보안 사건 이후 프론티어 AI 훈련 일시 중단",
       "title_en": "OpenAI Paused Frontier AI Training After a Security Incident",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3hFeno4WVNLOExKWXQ4bjB3dlFBMjhLOXRzRU4xQmN2X2RLc0JaNzQ0YXY4TzZLU2trNVdtUGZvLW40aVZaazhPSWVDQWpKQWZ3MVBiTlNNQjdqY3hYaXc3MVJUM3M2MV9tM0Q4VFFrdDJQa1F4bGVBZlhXa21BYk5YUnpwNmhaUWhiM01NWUxyNmI4dko4dmhnbHdjb25wZFBoNXRB0gGrAUFVX3lxTE8xelFDQ25LN3JFYnZldE45SjlaZTRTWUdUb0w0YU53YW03Rno3QkdGSHMyc1A0YTJmeGlSR1pPUWxFbzIwUEZhenhxbWRsRjhhOC1ZQ0dTbTh6a0laeThRSXRPV3Y5U0h3dS1uSkxldnV0bnhUOTlyb3JmaWZSOFVTZkk1SDllNkFvVkQ2UHI3OElzNmJaZVZyc1JYUnl4OEZpdDdhYTgzY1pmUQ?oc=5",
       "source": "Security Affairs",
@@ -21,7 +12,25 @@
       "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
     },
     {
-      "title_ko": "AI, 대부분의 기업에 '제로 재무 수익' 제공 - 아폴로 이코노미스트 분석",
+      "title_ko": "OpenAI의 고립된 AI 에이전트, CPU 캐시 채널을 통해 마이크로VM 샌드박스 우회 성공",
+      "title_en": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-10-25T11:30:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
+    },
+    {
+      "title_ko": "엘비스 프레슬리 저작권자, Anthropic의 Claude 무단 학습으로 저작권 침해 소송 제기",
+      "title_en": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5",
+      "source": "Los Angeles Times",
+      "published_at": "2026-10-25T19:42:08+00:00",
+      "category": "기타",
+      "first_seen_at": "2026-10-25T21:31:37.755136+00:00"
+    },
+    {
+      "title_ko": "AI, 대부분의 기업에 '제로 재무 수익' 제공 - Apollo 이코노미스트 분석",
       "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "source": "TechCrunch",
@@ -30,39 +39,30 @@
       "first_seen_at": "2026-10-25T18:46:40.921140+00:00"
     },
     {
-      "title_ko": "OpenAI, '상당한 위험' 이유로 실시간 인터넷에서 AI 모델 훈련 중단",
-      "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-23T23:05:49+00:00",
+      "title_ko": "Anthropic의 Claude, 조지아 주 공개 유권자 정보 접근",
+      "title_en": "Anthropic's Claude Accessed Public US State of Georgia Voter Information, Axios Reports",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON2xHSTJhUVdCQ3J6RUNrckFlcVVHaVVqT0U1dnVac2tWci1DbUVXYURudk1ucUZuZmU4b1BMb0NyNHUxaFZ1SVJoU085VklxUkxLbTNPUXRDVnJwT3c5dGEwTG55Tzk4ZndrbVNhRTY1cE5taUZYV1NwcXVua3R2QmhtSWRna1NyUEgzNkRkcGtDNGNFcEJGOU5KSlIyTWVMcmJhVUJUdFRNMmtBV1VKUUx4blRyOVRVNW1OS0ZVckpLVXVxTnJ1eDN3SjBIYndvOG1mQVc5SHhUZw?oc=5",
+      "source": "U.S. News & World Report",
+      "published_at": "2026-10-25T22:48:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-25T23:55:25.478988+00:00"
+    },
+    {
+      "title_ko": "미 재무부, 중국 AI 및 바이오텍 투자 한도 확대 제안",
+      "title_en": "US Treasury Proposes Expanded Investment Limits on Chinese AI and Biotech",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUNJajQxWWtWcDFLZE1tSENsTF9NU3RVbGlFZGs2YWFDc1IwXzcyNlpZR01RWVJ4NVRha2NzY2lyeDdUc0pWZENaNVNNVWpHTFUyQ09NRDJzdExtMEI2TkJkZ0hUOTlxMmZyeUJLM3YwT1FZLXJFZzZ5SVlyclpIRGVVakc4YVMzS3VSRU9iejZRMW1rRkNTcUdwZzg0Wmd3MjRpMENWOUQ5ZnhaVERIYWVLeE5pZS1MemlFblZRYw?oc=5",
+      "source": "RS Web Solutions",
+      "published_at": "2026-10-25T17:00:00+00:00",
       "category": "정책·규제",
-      "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
+      "first_seen_at": "2026-10-25T23:55:25.478988+00:00"
     },
     {
-      "title_ko": "수노와 앤스로픽, 마돈나·조니 캐시 등의 곡으로 약 3억4천만 달러 규모 저작권 소송 직면",
-      "title_en": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna, Johnny Cash",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2paX0g0Y1J6RkhDcDNfaVMzQnI3aTJXdHY2eWpCekpXbnlYT296bWF0Um5leklEZTh1UzdBeWg1WElOVkZMamVtVkhmbTNCQlAwcUxLX2l1WmxuaGtiWDZieEhwZzc2aFVhOGpGZEQ4SThxWXFWRGdGOGZoVUM1dWMwVktQQjZXa0daSkJB?oc=5",
-      "source": "Law Commentary",
-      "published_at": "2026-10-24T15:56:55+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-25T11:12:27.378277+00:00"
-    },
-    {
-      "title_ko": "중국의 AI 컴퓨팅 파워 2배 증가 예정, 다만 미국 칩에 상당히 의존 - 보고서",
-      "title_en": "China’s AI compute power set to double, but heavily reliant on US chips: report",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZl9scE9GTE5xLXFiT29rTlRCUFA5YWJHUS1JR2hoU2RvUnE0UlZwZk9mTDJnUXdlRGdHcHlaMFYxQ004T04wcXBfTzdxcThlN2xkZW10d2dpNlpSZmpoXzk0Sl9FRUJwSUFQN1FQZjFEOUQ1VFZLa0xNSXluZ1lNYUV2dGpwMzMzZUNzWUpydmtzWXlteWppQjk5NzJQdnRvWmpuNFlWU25OQzF2bGVLYXRsMy1iMy12MjcwZEFrNXo3S2JfN1Ew0gHHAUFVX3lxTE5JTGpieDNTZldrd0REWk1vS2d3N2xZV2E3cDVQTWNMTU1fbHR6SXQ1WGRwQVVfWV9vSUNVd04yOGlsOTE0NlM2QTduUFd4dVRSejNmOUllSWg1bDl3Y29PVE1XRWk2bWNzRVVXeFpuMm5UUHpaNV8ydDRVRmVGR0JPV0tXMEV5eE9nRlpRZHcyc2h1Y3h6SmZoUkpUUk8zbUpLeGtZZmRkaHFiMjhocHI0YkdOTy11QzkyYTdfcUdIc19yTWpmbGM?oc=5",
-      "source": "South China Morning Post",
-      "published_at": "2026-10-24T01:00:11+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-24T20:30:39.617635+00:00"
-    },
-    {
-      "title_ko": "도쿄 해상, 일본 손보사 최초로 AI 로봇 보험 커버 시작",
-      "title_en": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjNfMGFlN3lkejRoQ1lNMzhMWjgzbkwzbDZZblFPQkZvWEZ5Nmx4ZmJsenRTOUhfNEJfMFJYVU5vOXo2cVRibWMxVjJfVXNWRjBtV2NTOVI3TEs0Uk9xcDNJOC05MEVQX3lCT1BJUzR2SzBnVkFFQ1k5c1NXUVI3X0I5ZXAxWGZKYnRHdHVCR1V0YWpTXzNxOW82UWZXNFBBczhaaS05SklUWnplY2ZjaHpHcXZsZnFpbG5QQThMYnpYT3EtSWdXVnN2N3BBT3pf?oc=5",
-      "source": "Nikkei Asia",
-      "published_at": "2026-10-24T20:03:00+00:00",
-      "category": "제품·출시",
+      "title_ko": "OpenAI, AI 에이전트의 안전한 훈련을 위해 대규모 가상 인터넷 구축",
+      "title_en": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUVtbjVJbzVlbURNcEQxdmRCSXFWRFFfS2JGeHdPSnRUM1UtODYtRC1fZlgyN0JGRnVDZ3czRklJQmFDWVR6NldGMjI2WkNnaG91UXRJcGoyS0NaTDhmRV85OEtEeXMwMUhyYTExdlkxYjJidWJ6aWRGTWpyQmJEdW82YnRncHRTelhrUmhPUTV0RHdib2QtVy1DUHBqZ1NhdXJNdnk2RQ?oc=5",
+      "source": "Gizmodo",
+      "published_at": "2026-10-24T17:30:05+00:00",
+      "category": "기타",
       "first_seen_at": "2026-10-24T20:30:39.617635+00:00"
     }
   ]
