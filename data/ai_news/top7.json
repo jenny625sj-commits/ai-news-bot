@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T05:57:57.206661+00:00",
+  "generated_at": "2026-10-25T11:12:38.665476+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, 인터넷 접속 차단하고 모델 훈련 진행...보안 우려 이유",
+      "title_ko": "OpenAI, 인터넷 실시간 학습 중단 발표... 보안 위험 이유",
       "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
     },
     {
-      "title_ko": "텍사스주, OpenAI와 샘 알트먼 상대로 제품 안전성 문제로 소송 제기",
+      "title_ko": "텍사스, OpenAI와 샘 알트먼을 상대로 제품 안전성 소송 제기",
       "title_en": "Texas sues OpenAI, Sam Altman over product safety",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
       "source": "Politico",
@@ -21,16 +21,7 @@
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
     },
     {
-      "title_ko": "엔비디아 경고: 컴퓨팅 파워 부족이 유럽의 AI 경쟁력 위협",
-      "title_en": "Nvidia warns: Lack of computing power threatens Europe’s competitiveness in artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb21xbm5YNzZCcUhlbW9MaHRtZU9ZMGRnbmZyRk40MGsyWEh6MjNxUlBsSkpoQ1k4czlDNndraDZ6T2Zic2F4RkZOTVhyeHVrV1Yyam04OFVZbmYtT1R0V2dGV2QxOElCbGtRYlJpRDlMZFBBT3hpQjNMWWhJR2Zpa0xHZkNCa0d6cF9ZMHAwVFNNamxmaG5BM29BY01FU2ZkV0tCU2JkVjB0amdwUVN2UzJPV19raTcxN1JadFZFQlA5SlpSLTZoalZwZzlPVjJFVHUtVjhqcXVDTlFJd2dVSndxZks0d3FQdFdEeWkyNG01a3c?oc=5",
-      "source": "صوت الإمارات",
-      "published_at": "2026-10-24T10:32:26+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-24T14:19:30.233997+00:00"
-    },
-    {
-      "title_ko": "앤스로픽과 Hg, 유럽 기업에 AI 엔지니어 배치하는 컨설팅 회사 설립",
+      "title_ko": "Anthropic과 Hg, 유럽 기업에 AI 엔지니어 배치하는 신규 회사 설립",
       "title_en": "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQXdyMmotRUxLbzBiZE9IMjllemwxZmZ2b2xKb0VkVm9wNVB0aGdMQUg3ZHpXYjBYVnBKQTJiNUc3b0o0LVp5XzdwY0NhNGFKbzZIanZQUk1mcndWNXpuOWdSRk1WUWVkU1hPU0JZRkp1THNHX1pCRnlTMnpQMGJBQVNjdGJabFBCcTVsbldMSVZXWDdqQlRybUtfLTl1WWd0amIxb0d3TllvM08yOVNjZVc0V3BTSEhUbmxsc3g3THNzdHlpWDN4TG5kc0pCdw?oc=5",
       "source": "PYMNTS.com",
@@ -39,31 +30,40 @@
       "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
     },
     {
-      "title_ko": "클로드·그록 AI 에이전트 악용한 해킹 집단, 라틴아메리카 400여 기관 공격",
-      "title_en": "CyberCartel hacking gang used Claude and Grok AI agents to automate attacks on Latin American institutions — passwords and details stolen from over 400 institutions, including banks and payment apps",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUzNXWU9mdGNtWGktLVRRVm5KdFA0Zjd4Q29SeWs0T1lCbDF5YWdGc1BscVZSNDV5SkNzdGlPYjZuZEpfNjQ5ZTd0NUhMeHNDNHNzN01PWGFDYnNLV0ZYeEhKOE9NRjZGb3Vwb3V1NUpyZkZCdldUZDVicDhRNEhSdUhSVWREOEVsSERvVDZYSjRJUF9zSW5OcWtxWHJNc0NkVVgzTDBVWGlkb01SaTRTUzBQQmVWTkI2TV9qQjJsc2Y0Mi0xeEJnRXR2aUxYZXpYNWltLTdsVHRVOThCMmJaV1F1RjRVbnpFZHd1Ym03QUo3MUFFNlFpbjhwbU5uNHFVSzB5SUFjSWRJN0FTSTVhTE04eE9TQ1U2bDdxZERIV2RRRTVzQnUzYmVQekxJaUs2WnJCTVRCeXpLZmlXdlFfRlUxZGtES2lud21XWFl5bmFCWUltT09BN2NBUUJWOWRSTzl5YkZJNUxHQnVqbkVfclY5cmpLeWJVelE?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-10-23T11:00:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
+      "title_ko": "LSEG, AI 공급을 위해 35억 달러 투자",
+      "title_en": "LSEG Pays $3.5 Billion to Feed Wall Street’s AI",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVFEYTJBeDJrREtRZW5PbHdJOWh3dkJ1dUkxV29zYTNXbEJrWGtNMXVlSG9WbjIyYnAwOWxIenBXVkV5RWNzVVNNdFBsNTR1TkNOTGM0X1NndURzMjRGenMxOXRQaUZoZkNEdElDZ2JfcEloU0xYYVJpX0NCVVJmYV9QQjdBdjl1SEJyNG9la2xOa1B5bkpNbHhITVphc0tJSmFhOExiNjc?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-10-23T17:52:08+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-23T21:54:55.723916+00:00"
     },
     {
-      "title_ko": "디ープ시크 최신 AI 모델, 낮은 비용으로 고성능 달성하지만 환각 문제 여전",
+      "title_ko": "중국 AI 컴퓨팅 성능 2배 증가 예상, 미국 칩 의존도는 여전",
+      "title_en": "China’s AI compute power set to double, but heavily reliant on US chips: report",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZl9scE9GTE5xLXFiT29rTlRCUFA5YWJHUS1JR2hoU2RvUnE0UlZwZk9mTDJnUXdlRGdHcHlaMFYxQ004T04wcXBfTzdxcThlN2xkZW10d2dpNlpSZmpoXzk0Sl9FRUJwSUFQN1FQZjFEOUQ1VFZLa0xNSXluZ1lNYUV2dGpwMzMzZUNzWUpydmtzWXlteWppQjk5NzJQdnRvWmpuNFlWU25OQzF2bGVLYXRsMy1iMy12MjcwZEFrNXo3S2JfN1Ew0gHHAUFVX3lxTE5JTGpieDNTZldrd0REWk1vS2d3N2xZV2E3cDVQTWNMTU1fbHR6SXQ1WGRwQVVfWV9vSUNVd04yOGlsOTE0NlM2QTduUFd4dVRSejNmOUllSWg1bDl3Y29PVE1XRWk2bWNzRVVXeFpuMm5UUHpaNV8ydDRVRmVGR0JPV0tXMEV5eE9nRlpRZHcyc2h1Y3h6SmZoUkpUUk8zbUpLeGtZZmRkaHFiMjhocHI0YkdOTy11QzkyYTdfcUdIc19yTWpmbGM?oc=5",
+      "source": "South China Morning Post",
+      "published_at": "2026-10-24T01:00:11+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-24T20:30:39.617635+00:00"
+    },
+    {
+      "title_ko": "DeepSeek 최신 AI 모델, 운영 비용 1/8 수준이지만 환각 문제 여전",
       "title_en": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price — uses only one-quarter of the HBM and one-eighth of SSD storage but still battles hallucinations in agentic workloads",
       "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxORG9YWXBTSEx5UGZiTmtTVHZXLUE1TlVvRTlWbDNlbGg0Q3paX2llTlYweWR6cEJJUW1SeXY0VHBtb19PUll1d2xLRUFacDNDelZrUkkydGwtT2YwMU5CZXZmZFFTLWJydmk0NHVyWE9DV1E0UGUwbjVKUnhjbVZRaGJsVGg4YjRkaHBtRFY2eGhpMnlJUlBnQnJZaXNLaWVPR2htenVvSks3ZUtzeVpubWI4TVl6M2xZR25HZU9OWW1yT0xYRVVLQW1POE5HMkg5bUpyUjlVblBUeDIzd1JhVm9tX3JDLTVTSVV0Um9xLWRxZFloYXdkSU1wTGpBdUtEVVBTM0RkX2s3SjEtWlg2d0NOZ0hMY2xnVlFlZ3d6MmFyUmNhZHdlYm13X0pWelZYa0JMdFJpb0FPU3FITFJnRFZ0dndEdXg2V2RjdUlRQTFCSkdzTjZKM245WXgwM0dXMTdSTlYtel9WUEZzVGl2M1E4cF9Hc0pCelY2SFg5bw?oc=5",
       "source": "Tom's Hardware",
       "published_at": "2026-10-23T12:00:00+00:00",
-      "category": "연구·기술",
+      "category": "제품·출시",
       "first_seen_at": "2026-10-23T13:10:58.929525+00:00"
     },
     {
-      "title_ko": "바클레이즈, AI 도입으로 5000명 일자리 감축...은행권 고용 구조 변화",
-      "title_en": "Barclays is latest to redirect spending toward AI as it trims its workforce",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0lCaFVHUTdKT0puTzNiNXJsNGYtd0JKTnNBaWdmV08wWjNhQktsMmEwVWpyS20yUWNsX2tUNjdja3hfYlNCMEZLdzJMMmx5bEZhaXpFRGJRVzdSRnpwMGF5MHRHRjBOZWU4Z2Z4NENhYlhlbGNpcXlQemNpZmVTUHJ4WWZoNGZSbjcybjN3LV9Hc1NDZ3VTSmFia2t5NUxoWEVN0gGoAUFVX3lxTE80RlN0djZ4cDdWcWFwWFUwVjAzSXZBOUFlU2lLRGZfek1KQ0piRGNHN0ZoWkRFa0RtZC1SdmRKZFY1RkJzcjM2b0tVVXc3NUcydmltdG45cWdJaGVhN0pWam51NXkxWWJPU2dodmVCenh0NnkyUkM3YnJCYlplank0b0VzWWpJSVhfUnFxbVlDb0JscnJDRVpqRXdQaFRTVkZ2SWRNZUdqYw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-10-23T17:02:48+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-23T18:09:55.613496+00:00"
+      "title_ko": "Suno와 Anthropic, 마돈나·조니 캐시 등 저작권 침해로 3억4000만 달러 손배 청구 직면",
+      "title_en": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna, Johnny Cash",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2paX0g0Y1J6RkhDcDNfaVMzQnI3aTJXdHY2eWpCekpXbnlYT296bWF0Um5leklEZTh1UzdBeWg1WElOVkZMamVtVkhmbTNCQlAwcUxLX2l1WmxuaGtiWDZieEhwZzc2aFVhOGpGZEQ4SThxWXFWRGdGOGZoVUM1dWMwVktQQjZXa0daSkJB?oc=5",
+      "source": "Law Commentary",
+      "published_at": "2026-10-24T15:56:55+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-25T11:12:27.378277+00:00"
     }
   ]
 }
