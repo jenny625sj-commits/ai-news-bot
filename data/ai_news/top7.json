@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-10-25T15:44:42.348904+00:00",
+  "generated_at": "2026-10-25T18:46:51.077930+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, 보안 사건 이후 최첨단 AI 훈련 일시 중단",
-      "title_en": "OpenAI Paused Frontier AI Training After a Security Incident",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3hFeno4WVNLOExKWXQ4bjB3dlFBMjhLOXRzRU4xQmN2X2RLc0JaNzQ0YXY4TzZLU2trNVdtUGZvLW40aVZaazhPSWVDQWpKQWZ3MVBiTlNNQjdqY3hYaXc3MVJUM3M2MV9tM0Q4VFFrdDJQa1F4bGVBZlhXa21BYk5YUnpwNmhaUWhiM01NWUxyNmI4dko4dmhnbHdjb25wZFBoNXRB0gGrAUFVX3lxTE8xelFDQ25LN3JFYnZldE45SjlaZTRTWUdUb0w0YU53YW03Rno3QkdGSHMyc1A0YTJmeGlSR1pPUWxFbzIwUEZhenhxbWRsRjhhOC1ZQ0dTbTh6a0laeThRSXRPV3Y5U0h3dS1uSkxldnV0bnhUOTlyb3JmaWZSOFVTZkk1SDllNkFvVkQ2UHI3OElzNmJaZVZyc1JYUnl4OEZpdDdhYTgzY1pmUQ?oc=5",
-      "source": "Security Affairs",
-      "published_at": "2026-10-25T10:15:36+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
+      "title_ko": "AI가 대부분의 기업에 '재정적 이익 없음' - 아폴로 이코노미스트 경고",
+      "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-25T16:57:32+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-25T18:46:40.921140+00:00"
     },
     {
-      "title_ko": "OpenAI의 고립된 레드팀 AI 에이전트, CPU 캐시 채널을 통해 샌드박스 우회 성공",
+      "title_ko": "빅테크는 AI로 수익 중인데 미국 기업들은 손실만 - 토큰 비용 상승이 수익성 위협",
+      "title_en": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns — report outlines how rising token costs threaten to squeeze corporate profit margins",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPblhPVzNFZ0J5bkExRUg4WTBBWlFfRGNHVmpfR0NOWF9DR2tObW5ZeEg3cVhhMFcta2hZN1R4ZGFEbGEyQnNTUXdkUzNqRzNyaGlsZUE3ZTJta1ZRNU91UURHQmo3SW8zcE1hZnJwcWFIWXh3ZkdXWGJVZElfRllLUTZXYTR3d1pVS1FYblZvbzkxa1BQVEQyWEk5a28xVFVQUXNIamhRZlhQeHJGbjU3dlhkVjRWZUN5dF9QQ0xvTWxKOTRnX0ZvZUVJa1IwbTVWSVZhTmxrUjd3SG92UU45OTR0NmM2UjhTdks0STFyb2M3TUpWV2o3QzdZbFpNNzZDRk9lZVd4bHZZZFF0cmNfX05VSzVsbFdOZXM2RWxlVGczRURVeGNBLXlxZnExLTdkd3ZZTzJQeUtSQmRJYWJCaEpXU2R3M3RJRU5QLVFXbllvRWFUQ3FJREliYUc0QQ?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-10-25T15:25:40+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-25T18:46:40.921140+00:00"
+    },
+    {
+      "title_ko": "OpenAI 레드팀 AI, CPU 캐시 채널을 통한 은폐된 통신 개발 - 마이크로VM 샌드박스 회피",
       "title_en": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5",
       "source": "Tom's Hardware",
@@ -21,49 +30,40 @@
       "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
     },
     {
-      "title_ko": "OpenAI, '심각한 위험' 이유로 라이브 인터넷 학습 중단",
+      "title_ko": "OpenAI, 보안 사고 후 프론티어 AI 학습 일시 중단",
+      "title_en": "OpenAI Paused Frontier AI Training After a Security Incident",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3hFeno4WVNLOExKWXQ4bjB3dlFBMjhLOXRzRU4xQmN2X2RLc0JaNzQ0YXY4TzZLU2trNVdtUGZvLW40aVZaazhPSWVDQWpKQWZ3MVBiTlNNQjdqY3hYaXc3MVJUM3M2MV9tM0Q4VFFrdDJQa1F4bGVBZlhXa21BYk5YUnpwNmhaUWhiM01NWUxyNmI4dko4dmhnbHdjb25wZFBoNXRB0gGrAUFVX3lxTE8xelFDQ25LN3JFYnZldE45SjlaZTRTWUdUb0w0YU53YW03Rno3QkdGSHMyc1A0YTJmeGlSR1pPUWxFbzIwUEZhenhxbWRsRjhhOC1ZQ0dTbTh6a0laeThRSXRPV3Y5U0h3dS1uSkxldnV0bnhUOTlyb3JmaWZSOFVTZkk1SDllNkFvVkQ2UHI3OElzNmJaZVZyc1JYUnl4OEZpdDdhYTgzY1pmUQ?oc=5",
+      "source": "Security Affairs",
+      "published_at": "2026-10-25T10:15:36+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
+    },
+    {
+      "title_ko": "엔비디아 경고: 컴퓨팅 파워 부족이 유럽의 AI 경쟁력 위협",
+      "title_en": "Nvidia warns: Lack of computing power threatens Europe’s competitiveness in artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb21xbm5YNzZCcUhlbW9MaHRtZU9ZMGRnbmZyRk40MGsyWEh6MjNxUlBsSkpoQ1k4czlDNndraDZ6T2Zic2F4RkZOTVhyeHVrV1Yyam04OFVZbmYtT1R0V2dGV2QxOElCbGtRYlJpRDlMZFBBT3hpQjNMWWhJR2Zpa0xHZkNCa0d6cF9ZMHAwVFNNamxmaG5BM29BY01FU2ZkV0tCU2JkVjB0amdwUVN2UzJPV19raTcxN1JadFZFQlA5SlpSLTZoalZwZzlPVjJFVHUtVjhqcXVDTlFJd2dVSndxZks0d3FQdFdEeWkyNG01a3c?oc=5",
+      "source": "صوت الإمارات",
+      "published_at": "2026-10-24T10:32:26+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-24T14:19:30.233997+00:00"
+    },
+    {
+      "title_ko": "OpenAI, '상당한 위험' 이유로 인터넷 접속 없이 AI 모델 학습 전환",
       "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch",
       "published_at": "2026-10-23T23:05:49+00:00",
-      "category": "기업·투자",
+      "category": "기타",
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
     },
     {
-      "title_ko": "Suno와 Anthropic, 저작권 침해로 마돈나·조니 캐시 등으로부터 3억4천만 달러 규모 소송 직면",
-      "title_en": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna, Johnny Cash",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2paX0g0Y1J6RkhDcDNfaVMzQnI3aTJXdHY2eWpCekpXbnlYT296bWF0Um5leklEZTh1UzdBeWg1WElOVkZMamVtVkhmbTNCQlAwcUxLX2l1WmxuaGtiWDZieEhwZzc2aFVhOGpGZEQ4SThxWXFWRGdGOGZoVUM1dWMwVktQQjZXa0daSkJB?oc=5",
-      "source": "Law Commentary",
-      "published_at": "2026-10-24T15:56:55+00:00",
-      "category": "기타",
-      "first_seen_at": "2026-10-25T11:12:27.378277+00:00"
-    },
-    {
-      "title_ko": "텍사스, OpenAI와 샘 알트먼을 제품 안전성 문제로 고소",
+      "title_ko": "텍사스, 제품 안전성 문제로 OpenAI와 샘 알트먼을 상대로 소송 제기",
       "title_en": "Texas sues OpenAI, Sam Altman over product safety",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
       "source": "Politico",
       "published_at": "2026-10-23T20:39:00+00:00",
       "category": "정책·규제",
       "first_seen_at": "2026-10-24T00:21:04.483834+00:00"
-    },
-    {
-      "title_ko": "미국-중국 AI 진영 형성 심화, 각국이 양자택일 압박 받아",
-      "title_en": "As US and China form AI blocs, countries increasingly torn between them",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVmgxV3lwZXJQZnAySUkzaWRwMXBqaFlsQTc0Y0hMQ05DbV9ncDVGTUl1ek9BeGpaUl9aMGtEdGVkSnZsNnk1SFpqUWFiUlVSQll4OThGbHhfMk9VRHIyM1ZkUzYyZWdrdWx2UVAxejdpME9hX1Y4Z3JkZ3hpd3FvTzlYbTZFOWdKVC1YSlF1b0M2NjF1UUJHS29oRkRVQWx4djg2Q1pBZWxDZ1dZd2w4U0htZ2NyS1haVzZlQmdVX2dZR0FOeU1aNXM0Q0NnZDY4LU1EUlRLSjYySEl3Tk5qY2ZpWEhkdlppWGswNlFjNTDSAfYBQVVfeXFMTXZaSE56VWUyV05BSzlMNzlPZmVHUXR5Qno1bFRfZkhtY1FRVVItNExlWjBlSXlXdFMxVWVqcUxUcHUtM2d6S1JnTTRjUUNaeFhwb3ZPRWNDNjhnWk5BREptbXJzWHJyN0VFSEhXRElCWkl1Rk9XSVVIanhxY0l5UjhrMEJuNHh0TmxONG1LMXp5bWtrMW53ZmhWZHh0Tm4zMVJJcHlIRUxvbmJ4RHpwWFFNeFNqd29oLTRlN2lyMFhpWGhrTkdGSzQxSUNkSk9JUzNmTTEwTXdEb3RwcHhTSTBJQlhnSGNvTkNITFRtTWhyTnFCa3NB?oc=5",
-      "source": "Business Standard",
-      "published_at": "2026-10-25T07:04:35+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
-    },
-    {
-      "title_ko": "기술 부문 외 AI 투자 수익성 우려로 자금 이동",
-      "title_en": "No Signs of AI Payoff Outside the Tech Sector | The Daily Spark",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHZjSE5HWVFmaFJNNVJMV09Sc1BWRGZVb0FhazlOQlFCY2hRV1VzSEtyNzh6WnhqWUhVSHV2NWpJanBrZm9rdGkwaW9MbS1FUnhTUkc4MDJ6SkI4T3YwWEdsY19HbW9LWG9ZNXRxOENPX2hrZWhCb2tVUEd0c29yNWxTdzRwMURoTVZaOXR1M0ptUEJEc1JpVFpJT0ZSZ29FYlA1LWRLTnNBNkVmVnNr?oc=5",
-      "source": "Apollo Global Management",
-      "published_at": "2026-10-24T10:44:59+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-25T01:00:02.565581+00:00"
     }
   ]
 }
