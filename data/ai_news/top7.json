@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-10-25T23:55:42.972371+00:00",
+  "generated_at": "2026-10-26T03:51:44.266496+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, 보안 사건 이후 프론티어 AI 훈련 일시 중단",
-      "title_en": "OpenAI Paused Frontier AI Training After a Security Incident",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3hFeno4WVNLOExKWXQ4bjB3dlFBMjhLOXRzRU4xQmN2X2RLc0JaNzQ0YXY4TzZLU2trNVdtUGZvLW40aVZaazhPSWVDQWpKQWZ3MVBiTlNNQjdqY3hYaXc3MVJUM3M2MV9tM0Q4VFFrdDJQa1F4bGVBZlhXa21BYk5YUnpwNmhaUWhiM01NWUxyNmI4dko4dmhnbHdjb25wZFBoNXRB0gGrAUFVX3lxTE8xelFDQ25LN3JFYnZldE45SjlaZTRTWUdUb0w0YU53YW03Rno3QkdGSHMyc1A0YTJmeGlSR1pPUWxFbzIwUEZhenhxbWRsRjhhOC1ZQ0dTbTh6a0laeThRSXRPV3Y5U0h3dS1uSkxldnV0bnhUOTlyb3JmaWZSOFVTZkk1SDllNkFvVkQ2UHI3OElzNmJaZVZyc1JYUnl4OEZpdDdhYTgzY1pmUQ?oc=5",
-      "source": "Security Affairs",
-      "published_at": "2026-10-25T10:15:36+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
+      "title_ko": "스페이스X, AI칩 확보를 위해 400억 달러 규모 부채 거래 체결",
+      "title_en": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-26T00:37:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-26T03:51:30.661347+00:00"
     },
     {
-      "title_ko": "OpenAI의 고립된 AI 에이전트, CPU 캐시 채널을 통해 마이크로VM 샌드박스 우회 성공",
+      "title_ko": "앤스로픽, 엘비스 프레슬리의 274곡을 무단으로 AI 학습에 사용한 혐의로 고소당해",
+      "title_en": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelFOZFdTZmw2a1FtcjAxZk5lYktWT09FRTRaT0g0MmFrRFpHX0dIbk1IeVJNYmxVVlhBZHRYWk1YZzFHRjh0N29jSEdWd2s3OEJrcFM4SW9Tb29tLTQ5VjJaQ3BFQThpRXNJUzVPbXcwOElvcVJUNl9aZE1SaWVZTTR1VTYtcHNGZVdjU2t4MVItd2ZKYlhZZGd3cw?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-10-25T18:41:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-26T03:51:30.661347+00:00"
+    },
+    {
+      "title_ko": "오픈AI의 고립된 AI 에이전트, CPU 캐시를 이용해 마이크로VM 샌드박스 우회",
       "title_en": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5",
       "source": "Tom's Hardware",
@@ -21,49 +30,40 @@
       "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
     },
     {
-      "title_ko": "엘비스 프레슬리 저작권자, Anthropic의 Claude 무단 학습으로 저작권 침해 소송 제기",
-      "title_en": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5",
-      "source": "Los Angeles Times",
-      "published_at": "2026-10-25T19:42:08+00:00",
-      "category": "기타",
-      "first_seen_at": "2026-10-25T21:31:37.755136+00:00"
-    },
-    {
-      "title_ko": "AI, 대부분의 기업에 '제로 재무 수익' 제공 - Apollo 이코노미스트 분석",
-      "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-25T16:57:32+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-25T18:46:40.921140+00:00"
-    },
-    {
-      "title_ko": "Anthropic의 Claude, 조지아 주 공개 유권자 정보 접근",
-      "title_en": "Anthropic's Claude Accessed Public US State of Georgia Voter Information, Axios Reports",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON2xHSTJhUVdCQ3J6RUNrckFlcVVHaVVqT0U1dnVac2tWci1DbUVXYURudk1ucUZuZmU4b1BMb0NyNHUxaFZ1SVJoU085VklxUkxLbTNPUXRDVnJwT3c5dGEwTG55Tzk4ZndrbVNhRTY1cE5taUZYV1NwcXVua3R2QmhtSWRna1NyUEgzNkRkcGtDNGNFcEJGOU5KSlIyTWVMcmJhVUJUdFRNMmtBV1VKUUx4blRyOVRVNW1OS0ZVckpLVXVxTnJ1eDN3SjBIYndvOG1mQVc5SHhUZw?oc=5",
-      "source": "U.S. News & World Report",
-      "published_at": "2026-10-25T22:48:00+00:00",
+      "title_ko": "오픈AI, 보안 사건 이후 프론티어 AI 학습 일시 중단",
+      "title_en": "OpenAI Paused Frontier AI Training After a Security Incident",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3hFeno4WVNLOExKWXQ4bjB3dlFBMjhLOXRzRU4xQmN2X2RLc0JaNzQ0YXY4TzZLU2trNVdtUGZvLW40aVZaazhPSWVDQWpKQWZ3MVBiTlNNQjdqY3hYaXc3MVJUM3M2MV9tM0Q4VFFrdDJQa1F4bGVBZlhXa21BYk5YUnpwNmhaUWhiM01NWUxyNmI4dko4dmhnbHdjb25wZFBoNXRB0gGrAUFVX3lxTE8xelFDQ25LN3JFYnZldE45SjlaZTRTWUdUb0w0YU53YW03Rno3QkdGSHMyc1A0YTJmeGlSR1pPUWxFbzIwUEZhenhxbWRsRjhhOC1ZQ0dTbTh6a0laeThRSXRPV3Y5U0h3dS1uSkxldnV0bnhUOTlyb3JmaWZSOFVTZkk1SDllNkFvVkQ2UHI3OElzNmJaZVZyc1JYUnl4OEZpdDdhYTgzY1pmUQ?oc=5",
+      "source": "Security Affairs",
+      "published_at": "2026-10-25T10:15:36+00:00",
       "category": "보안",
+      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
+    },
+    {
+      "title_ko": "아폴로 이코노미스트 \"AI, 테크 업계 외 기업들에 제로 수익 창출\"",
+      "title_en": "Apollo’s Slok Says AI Has Delivered Zero Payoff Outside of Tech",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1FnYXFIOUpyU1VUdzNDazE4cFE2VDFyNU5DS3h0R0VSR2xHa0k0V2dHZ0hKbTZ6dFo3X1hUSW96S2dRRE5GODJUSUlCQ0dHUTVpSUJ0ZExNM1FBMVFld0JmSTBDMkpfSG5IOXVlS0hPX1h6OHpRT0xhbzNweEVxVDBLZGRreHVCc0VPZjVEQjN5dEIxQ2x4TGhfN2o3UHA3dVZrTXhRNVhsV216MGxNSnZWUGdNU1JiQjMxbQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-25T09:28:36+00:00",
+      "category": "기업·투자",
       "first_seen_at": "2026-10-25T23:55:25.478988+00:00"
     },
     {
-      "title_ko": "미 재무부, 중국 AI 및 바이오텍 투자 한도 확대 제안",
-      "title_en": "US Treasury Proposes Expanded Investment Limits on Chinese AI and Biotech",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUNJajQxWWtWcDFLZE1tSENsTF9NU3RVbGlFZGs2YWFDc1IwXzcyNlpZR01RWVJ4NVRha2NzY2lyeDdUc0pWZENaNVNNVWpHTFUyQ09NRDJzdExtMEI2TkJkZ0hUOTlxMmZyeUJLM3YwT1FZLXJFZzZ5SVlyclpIRGVVakc4YVMzS3VSRU9iejZRMW1rRkNTcUdwZzg0Wmd3MjRpMENWOUQ5ZnhaVERIYWVLeE5pZS1MemlFblZRYw?oc=5",
-      "source": "RS Web Solutions",
-      "published_at": "2026-10-25T17:00:00+00:00",
+      "title_ko": "중국 AI 기업 딥씩, 150억 달러 규모 펀딩 라운드 진행",
+      "title_en": "Chinese Artificial Intelligence (AI) Firm DeepSeek Reports $15B Funding Round",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGF5SjFTYVJ4WTc4N0Z6d19WcDF6ZEFtVHY5akIzamZYVVhfVmV5NmwyZUt5dWxaTWJJNlpGck5jUXNsbTdZd3R1dnl2Q2ozX1VWTVZZZEVDUnd4ZC1YNHRUZjd4bGtyZjByVnR1cmxGZVhWdG9pSGJMVHJJR3BoTkQ5QVZad2dxVTdQZVpQb2EwT3RVbHdLME9oUFFYRHVSd2R6TERVbDVmTGp2R05UWmhacGpzN1I0ZXE4dzltY28?oc=5",
+      "source": "Crowdfund Insider",
+      "published_at": "2026-10-25T04:16:19+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-26T03:51:30.661347+00:00"
+    },
+    {
+      "title_ko": "엔비디아 경고: 컴퓨팅 파워 부족이 유럽의 AI 경쟁력 위협",
+      "title_en": "Nvidia warns: Lack of computing power threatens Europe’s competitiveness in artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb21xbm5YNzZCcUhlbW9MaHRtZU9ZMGRnbmZyRk40MGsyWEh6MjNxUlBsSkpoQ1k4czlDNndraDZ6T2Zic2F4RkZOTVhyeHVrV1Yyam04OFVZbmYtT1R0V2dGV2QxOElCbGtRYlJpRDlMZFBBT3hpQjNMWWhJR2Zpa0xHZkNCa0d6cF9ZMHAwVFNNamxmaG5BM29BY01FU2ZkV0tCU2JkVjB0amdwUVN2UzJPV19raTcxN1JadFZFQlA5SlpSLTZoalZwZzlPVjJFVHUtVjhqcXVDTlFJd2dVSndxZks0d3FQdFdEeWkyNG01a3c?oc=5",
+      "source": "صوت الإمارات",
+      "published_at": "2026-10-24T10:32:26+00:00",
       "category": "정책·규제",
-      "first_seen_at": "2026-10-25T23:55:25.478988+00:00"
-    },
-    {
-      "title_ko": "OpenAI, AI 에이전트의 안전한 훈련을 위해 대규모 가상 인터넷 구축",
-      "title_en": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUVtbjVJbzVlbURNcEQxdmRCSXFWRFFfS2JGeHdPSnRUM1UtODYtRC1fZlgyN0JGRnVDZ3czRklJQmFDWVR6NldGMjI2WkNnaG91UXRJcGoyS0NaTDhmRV85OEtEeXMwMUhyYTExdlkxYjJidWJ6aWRGTWpyQmJEdW82YnRncHRTelhrUmhPUTV0RHdib2QtVy1DUHBqZ1NhdXJNdnk2RQ?oc=5",
-      "source": "Gizmodo",
-      "published_at": "2026-10-24T17:30:05+00:00",
-      "category": "기타",
-      "first_seen_at": "2026-10-24T20:30:39.617635+00:00"
+      "first_seen_at": "2026-10-24T14:19:30.233997+00:00"
     }
   ]
 }
