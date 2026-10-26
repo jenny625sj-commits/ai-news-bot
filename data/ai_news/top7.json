@@ -1,9 +1,54 @@
 {
-  "generated_at": "2026-10-26T09:53:10.340207+00:00",
+  "generated_at": "2026-10-26T16:38:04.540380+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "SpaceX, AI 칩 확보를 위해 400억 달러 규모 채무 거래 체결",
+      "title_ko": "Anthropic, IPO 준비하며 80억 달러 손실과 급증하는 수익 공개",
+      "title_en": "Anthropic reveals $80 billion loss, surging revenue as it prepares to go public",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmtiU2pPX05WX0lNRndwX1E5VkZ5ejV6azhBVUpfWWJMM1RMeHcycHo5OGcyemtKZUVWOFdwQ3FYUW1zR2N0eEFqUEJPZ09JSkU0NzNZQzExX1FuMjRXaUtyODNSeDlRdWpsLVItdE01YXhwc0JreW5veWdHSUJXRjI5c0hTa0pmQ0ZKYzlVZGhKbmNmdlN6QTJjX3dRZU93LWZpVFc1UWppSEl5UlVrWnQ4SWsybkE?oc=5",
+      "source": "The Washington Post",
+      "published_at": "2026-10-26T16:30:41+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-26T16:37:21.321511+00:00"
+    },
+    {
+      "title_ko": "엘비스 음악 저작권자들, Anthropic을 저작권 침해로 고소",
+      "title_en": "Owners of Elvis music rights sue Anthropic for copyright violations",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVmhNa2tsSmhYbXlPTGh2Tk5mMHJoUXZ3Y0ZhYlNpVV9CMk9OWGQ0V01wODRfTTBPaHdpQXVqNlpWNGR1QzRYbHJhdlp3a0phSlZXU19SMnd3eFE?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-26T14:37:12+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-26T16:37:21.321511+00:00"
+    },
+    {
+      "title_ko": "'스카이넷' AI, 다른 모델들을 납치해 공격 수행 - 연구진 발견",
+      "title_en": "‘Skynet’ AI hijacks other models to carry out attacks, researchers discover",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01UTZlM1lwYnFBX0FpT0lhR00wTnpxdFp0eWpQMGpCOFBBaW4zSm54WnN1RFRfUXJDaXVGZG51emc1ZWt3MmNDTHQyaG1qdVY0dzQ1QThjUW1tNjZyeTBCVmpTSjYxUV82TWdDLWViSkhRbzU3c3FUbXRuQQ?oc=5",
+      "source": "Yahoo News New Zealand",
+      "published_at": "2026-10-26T13:45:46+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-26T16:37:21.321511+00:00"
+    },
+    {
+      "title_ko": "전직 DOGE 직원들이 설립한 AI 스타트업, Anthropic 해킹 방법 공개",
+      "title_en": "How an AI start-up founded by ex-DOGE staffers broke into Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5",
+      "source": "The Washington Post",
+      "published_at": "2026-10-26T12:00:16+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-26T16:37:21.321511+00:00"
+    },
+    {
+      "title_ko": "Meta, AI 확장 자금 조달을 위해 950억 달러 규모의 주식 공모 발표",
+      "title_en": "Meta announces $95 billion stock offering to fund AI expansion",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV0gFwQVVfeXFMTmZORnFJWGJWQ296RnRpdXY1aFRXRElQZWw2Y3dpNWFtekxSZlc4eTc5NEJuVWFSLUFLWDNfOWV4aGxBTENheXpVMXo0Z0ZmQVRjSVo2bGo2MnFqdGVlSVNrNnJIbEdWZTIzQklXQmEwNQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-26T11:34:42+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-26T16:37:21.321511+00:00"
+    },
+    {
+      "title_ko": "SpaceX, AI 칩 구매를 위해 400억 달러 규모의 채권 거래 마무리 - 머스크",
       "title_en": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
       "source": "CNBC",
@@ -12,58 +57,13 @@
       "first_seen_at": "2026-10-26T03:51:30.661347+00:00"
     },
     {
-      "title_ko": "Anthropic, 엘비스 프레슬리의 274곡 무단 사용으로 저작권 소송 제기당해",
-      "title_en": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelFOZFdTZmw2a1FtcjAxZk5lYktWT09FRTRaT0g0MmFrRFpHX0dIbk1IeVJNYmxVVlhBZHRYWk1YZzFHRjh0N29jSEdWd2s3OEJrcFM4SW9Tb29tLTQ5VjJaQ3BFQThpRXNJUzVPbXcwOElvcVJUNl9aZE1SaWVZTTR1VTYtcHNGZVdjU2t4MVItd2ZKYlhZZGd3cw?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-10-25T18:41:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-26T03:51:30.661347+00:00"
-    },
-    {
-      "title_ko": "AI 투자가 기술 기업 외에는 '제로 수익'을 창출 중, 아폴로 이코노미스트 지적",
-      "title_en": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-25T16:57:32+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-25T18:46:40.921140+00:00"
-    },
-    {
-      "title_ko": "OpenAI의 AI 에이전트, CPU 캐시 채널을 통해 격리된 샌드박스 우회",
+      "title_ko": "OpenAI의 격리된 레드팀 AI 에이전트, CPU 캐시 채널을 이용해 샌드박스 우회",
       "title_en": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5",
       "source": "Tom's Hardware",
       "published_at": "2026-10-25T11:30:00+00:00",
       "category": "보안",
       "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 보안 사고로 인해 대규모 AI 학습 일시 중단",
-      "title_en": "OpenAI Paused Frontier AI Training After a Security Incident",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3hFeno4WVNLOExKWXQ4bjB3dlFBMjhLOXRzRU4xQmN2X2RLc0JaNzQ0YXY4TzZLU2trNVdtUGZvLW40aVZaazhPSWVDQWpKQWZ3MVBiTlNNQjdqY3hYaXc3MVJUM3M2MV9tM0Q4VFFrdDJQa1F4bGVBZlhXa21BYk5YUnpwNmhaUWhiM01NWUxyNmI4dko4dmhnbHdjb25wZFBoNXRB0gGrAUFVX3lxTE8xelFDQ25LN3JFYnZldE45SjlaZTRTWUdUb0w0YU53YW03Rno3QkdGSHMyc1A0YTJmeGlSR1pPUWxFbzIwUEZhenhxbWRsRjhhOC1ZQ0dTbTh6a0laeThRSXRPV3Y5U0h3dS1uSkxldnV0bnhUOTlyb3JmaWZSOFVTZkk1SDllNkFvVkQ2UHI3OElzNmJaZVZyc1JYUnl4OEZpdDdhYTgzY1pmUQ?oc=5",
-      "source": "Security Affairs",
-      "published_at": "2026-10-25T10:15:36+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
-    },
-    {
-      "title_ko": "미중 AI 진영 형성으로 전 세계 국가들 양자 택일 강요받는 상황",
-      "title_en": "As US and China form AI blocs, countries increasingly torn between them",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVmgxV3lwZXJQZnAySUkzaWRwMXBqaFlsQTc0Y0hMQ05DbV9ncDVGTUl1ek9BeGpaUl9aMGtEdGVkSnZsNnk1SFpqUWFiUlVSQll4OThGbHhfMk9VRHIyM1ZkUzYyZWdrdWx2UVAxejdpME9hX1Y4Z3JkZ3hpd3FvTzlYbTZFOWdKVC1YSlF1b0M2NjF1UUJHS29oRkRVQWx4djg2Q1pBZWxDZ1dZd2w4U0htZ2NyS1haVzZlQmdVX2dZR0FOeU1aNXM0Q0NnZDY4LU1EUlRLSjYySEl3Tk5qY2ZpWEhkdlppWGswNlFjNTDSAfYBQVVfeXFMTXZaSE56VWUyV05BSzlMNzlPZmVHUXR5Qno1bFRfZkhtY1FRVVItNExlWjBlSXlXdFMxVWVqcUxUcHUtM2d6S1JnTTRjUUNaeFhwb3ZPRWNDNjhnWk5BREptbXJzWHJyN0VFSEhXRElCWkl1Rk9XSVVIanhxY0l5UjhrMEJuNHh0TmxONG1LMXp5bWtrMW53ZmhWZHh0Tm4zMVJJcHlIRUxvbmJ4RHpwWFFNeFNqd29oLTRlN2lyMFhpWGhrTkdGSzQxSUNkSk9JUzNmTTEwTXdEb3RwcHhTSTBJQlhnSGNvTkNITFRtTWhyTnFCa3NB?oc=5",
-      "source": "Business Standard",
-      "published_at": "2026-10-25T07:04:35+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-25T15:44:29.574368+00:00"
-    },
-    {
-      "title_ko": "중국 AI 기업 DeepSeek, 150억 달러 규모 펀딩 라운드 완료",
-      "title_en": "Chinese Artificial Intelligence (AI) Firm DeepSeek Reports $15B Funding Round",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGF5SjFTYVJ4WTc4N0Z6d19WcDF6ZEFtVHY5akIzamZYVVhfVmV5NmwyZUt5dWxaTWJJNlpGck5jUXNsbTdZd3R1dnl2Q2ozX1VWTVZZZEVDUnd4ZC1YNHRUZjd4bGtyZjByVnR1cmxGZVhWdG9pSGJMVHJJR3BoTkQ5QVZad2dxVTdQZVpQb2EwT3RVbHdLME9oUFFYRHVSd2R6TERVbDVmTGp2R05UWmhacGpzN1I0ZXE4dzltY28?oc=5",
-      "source": "Crowdfund Insider",
-      "published_at": "2026-10-25T04:16:19+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-26T03:51:30.661347+00:00"
     }
   ]
 }
