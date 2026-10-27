@@ -1,5 +1,1015 @@
 [
   {
+    "id": "549ad7325aa59004",
+    "title": "OpenAI reports 87% coding benchmark pass rate across 20 programming languages",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzNUX1RZUFBTUFBIY1JiY2x0WnpzalhkUmZ0ZC1hcENtbDloSEdUUUNQdG0wYW5CWW5NdXZfU3ZPTTBsTXNGZ2NMY0RhX2VOaXA4M3FSRXNRQk41emx6Q2JnbDIwWkwxWkptUzN0djBXQU85R0VteG1VTkJkc2NNOTJPRGs0a1VzR1M2UTFmdkZrbEw1RFhyWWl4QmtJbWt3Y3I5Q1g3MlhFN1hBZWxGVEUwMU5jUlFH?oc=5",
+    "source": "EdTech Innovation Hub",
+    "company": "OpenAI",
+    "published_at": "2026-10-27T01:05:47+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 20개 프로그래밍 언어 코딩 벤치마크에서 87% 통과율 달성"
+  },
+  {
+    "id": "6daef52725e66f29",
+    "title": "iPhone Lockdown Mode: The Pros And Cons Of Enabling Apple's Security Feature",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IbnhHSEllRVFrMGotTGN3NWxGdk9XTS1kenRSYlRjUS00UEVUX2ZuVnpDS1FRbnV4M011bVhsMEVBVW5uYlVMREFmeDJxU29FSnNSRFBYQkFhLVVxVkFudlZvc0FxOUpQZ1hwQ1Q4U2Jtdw?oc=5",
+    "source": "Engadget",
+    "company": "Apple",
+    "published_at": "2026-10-27T00:58:24+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "iPhone 잠금 모드: Apple 보안 기능 활성화의 장단점"
+  },
+  {
+    "id": "2d9704f7430ca508",
+    "title": "Microsoft Buyouts Hit Xbox: 60,000 Eligible [2026]",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KZ0RXUTdKR3JhOUZyV2NiSUdkTXd5Y0hlb19MWE1uR3kwYVZqRDZqaE9walhWMTVQeWRMM1QteEtkVDdESERYaTYxOHlaZl8xYXlsMUl0ZFFFQ2RDMTlkMnRUZmNFa0FWY3lBczB2YkJsb1JaNWI3Vk5ZRQ?oc=5",
+    "source": "shattered.io",
+    "company": "Microsoft",
+    "published_at": "2026-10-27T00:55:31+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Microsoft 인수 Xbox 영향: 6만 명 대상 [2026]"
+  },
+  {
+    "id": "49084d64f6e83e19",
+    "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWdRMGxYY0YzTnNEbkFLZFlYb0pTaUpJSjBDSF9tdkhkQlV0VHRENW1Ed2JFdFZ6VUZfWWd1ZHkyaVpocUQzN0RHY2RWeFlGVFN5dVlzTmY1NHlkZjdweVZNdVhGZGhEcTlmaDdtRFJJc0NHM05ocTI2bUVCMFZpN0lRUmxfS0VoM3RMZ3hsLXJ4S3dYNnBrRGlkTktGVmc?oc=5",
+    "source": "Spaceflight Now",
+    "company": "SpaceX",
+    "published_at": "2026-10-27T00:52:33+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "West Coast Falcon 9 로켓, Starlink 위성 27개 발사 예정"
+  },
+  {
+    "id": "1febb37ecb684ac1",
+    "title": "You Can Buy a New iPad Mini and iPhone 18 Pro for Less Than an iPhone Duo",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85bndzWmRnRjBYejZFUFgyckRZMzRBR0NSTV9mT216NWpFdlFVR3dBZXE4X3c4d3hhMnplNjl0cEg0aUZjdFRrSnNPZHR2REFldTc0ckxxRVNtd0NfRG16WmRQcm9IcDg?oc=5",
+    "source": "Man of Many",
+    "company": "Apple",
+    "published_at": "2026-10-27T00:52:20+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "iPad Mini와 iPhone 18 Pro를 iPhone Duo보다 저렴한 가격에 구입 가능"
+  },
+  {
+    "id": "79b193ca892e9b61",
+    "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjEySE5Ra2ZzMUFpWUNyaGVKWEc3cHlkcmRpdVRQZnZxeEZCYnZWWGZtSWJKeXdsMFB4QWN2cWN5YWxPV09FcWV2cXpTV1RlSkY5OHRQaVZ0RGNxQXVFelhVYUdQV0FfU0F4cnBfVE5IODhMUkVDX2FERTNXUnVmejFHaU55X3JDTWRHSzVKVFduWUdBeGpWdDB4ZlBDSzA5bTc1WFlpX0gzNHpIbXNUZlZ2aUZjT3ZyZWlSN1YwNms?oc=5",
+    "source": "SiliconANGLE",
+    "company": "OpenAI",
+    "published_at": "2026-10-27T00:39:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra 출시... 절반 가격에 더 빠르고 우수한 AI 에이전트"
+  },
+  {
+    "id": "7578ddbca9e2f528",
+    "title": "What's Going on With Meta Stock?",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQktxaFpDVzduWTBBd2ZtbUtfT2gxUGRBNUJDdl9BUXVhbGh2S1JHUnN4ZU9ZM3FGS2x4dDlEbW41V3kwMzR3bWZrRGlFSTUyeHRId0V5WTA3TG9hUGxqRWFZaGdMNFNLb05iajA2dVV2S3BLSzBoTWVsS18xd183RTVsdF9uaW10dUoxYXF4MHBqYXhTckhYZ2NEeGlxdHlRdTNJakRzMFl4OS03UTFVenF1ZTRGdw?oc=5",
+    "source": "The Globe and Mail",
+    "company": "Meta",
+    "published_at": "2026-10-27T00:36:50+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Meta 주식에 무슨 일이 일어나고 있나?"
+  },
+  {
+    "id": "495ccc24d9cf9070",
+    "title": "OpenAI Releases GPT-6.1 Terra: API Prices Halved, Agent Task Costs Drop to One-Tenth of Flagship Model",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Qd3l2VXZtODEtWEk0dG1rcVJrNG1QSXkwR0VIUW1NU21RNkhiS284TFNDNDJlVW5MN21lRFNKWl84c21LVnFSZ09VSWI4TVhvdVBacTlldUFteWZfdTRSblM1VUJUaE1OdVRDaWdXVTRGX0pRMFE?oc=5",
+    "source": "BigGo Finance",
+    "company": "OpenAI",
+    "published_at": "2026-10-27T00:36:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra 출시: API 가격 50% 인하, 에이전트 작업 비용은 플래그십 모델의 10분의 1 수준으로"
+  },
+  {
+    "id": "7765529100dd45bd",
+    "title": "Google DeepMind promotes Iason Gabriel to Principal Scientist and Director at DeepMind Institute",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDJDVFU4OTNOVFVmN3NCN2lxVzRuSThuU3paTENtd2VmYk9EOVdhMkVZVTBBRzBYRmR3QnQ0ZlFwWHVzWF9KVXBHQkh1VlFLSXR3cnU4Zk9ySV9GUTE3VFBJVVQtd1dNbGctR21wTVZlX19IV1pIWjhXaUNZb3lrUXZXSktaQ3dUbjVla1VZbi1xZUJxcnROMVVTOTZCaFA4LUNTYTlEWnRPOF9WOXA0VVN5UHh2NjJ5Q29LUUF3YTJzS1NSQzlHZzRuWkVGcXpfMUVv?oc=5",
+    "source": "EdTech Innovation Hub",
+    "company": "Google",
+    "published_at": "2026-10-27T00:35:47+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Google DeepMind, Iason Gabriel을 Principal Scientist 겸 DeepMind Institute Director로 승진"
+  },
+  {
+    "id": "40910dd77084540b",
+    "title": "OpenAI Claims 3 Science Proofs, Taps Shepherds [2026]",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVJNbTB3SzJsblk5MWlkX3c1ZW5FeXFXWnpaUzRUN25oQ2sxaDlFVGExcUxJenFIS0hLMXZibzIwaDJmVjNCVnRicXNaX1U2ZHJKVGwzVEktVWJlRkh4YVhreDdwdC11V0w0VEFNVkNTelJlSW5wY1hBMVU0dXpCX0oteGY?oc=5",
+    "source": "shattered.io",
+    "company": "Microsoft",
+    "published_at": "2026-10-27T00:33:01+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 3가지 과학 증명 주장, Shepherds 영입 [2026]"
+  },
+  {
+    "id": "0b89d89568f5831e",
+    "title": "Azure AI Foundry Pricing: Luna $0.10 vs Astra $10 [2026]",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWlFTkNUdzRSd1hQWWE0amNjclgxaUEyLXZPd1dSTkpXUGF6UHZIOFdNZmdRQlRGcWpHcUVncXZMRXI4OFRYcjNkTGZjaXJwZHNhdG5oMndDTFFWMDBrVjZMREQzV2tkQVV0b1RSRjdId25RNFFZVk56amVMVDU4WnN3?oc=5",
+    "source": "tech-insider.org",
+    "company": "Microsoft",
+    "published_at": "2026-10-27T00:32:12+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Azure AI Foundry 가격 책정: Luna $0.10 vs Astra $10 [2026]"
+  },
+  {
+    "id": "488802fb7ac10d04",
+    "title": "OpenAI GPT-6.1 Terra Cuts Standard API Prices by 50%",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLaXpySzVVMmlyc09aM2NsZmJDbzRkVm1Wem5VU3Z0YU9rM1NpYjZyek03TUVGWjJ0c2pMZ3prbUxZbnpfN3htUC1HamQ3MlJZaUdUZGdoS2hHRVVZc2J4XzZKQ0FSUl9rdWFDZHNuVTRudWljWUhr?oc=5",
+    "source": "Technobezz",
+    "company": "OpenAI",
+    "published_at": "2026-10-27T00:25:13+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI GPT-6.1 Terra, 표준 API 가격 50% 인하"
+  },
+  {
+    "id": "7ec212f1c08c5a77",
+    "title": "Claude maker Anthropic files for IPO with potential $2 trillion valuation",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3VFMFpjdTAyWTFNVUJVVWpHUktEVTdKdWJmRWVtaXlza0RZemRNYTJ5SlVQZWxvaGxuRFdkbXRhSm1FeFN2X1NiYWs3SXJUZlFjeU8wQ3ZkZGJJRE5fdGEwZHcxNUpmYTRfQk1UR2FoT1dCZktINDhMMnpOTHNtSW51ekNfNmNTcDlrbHZBcE5kanRDSDZkOFJtM19fR0JMMUZTSkh4Y0l6R0VackszWWJrbjNpdE42V05aUFdnS0FETThFUDlRcWE5QTBCb1lLQkozdThjUnh0eW5KS0xYUTZkRWE3MVE?oc=5",
+    "source": "KGW",
+    "company": "Anthropic",
+    "published_at": "2026-10-27T00:18:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Claude 개발사 Anthropic, 2조 달러 예상 가치의 IPO 신청"
+  },
+  {
+    "id": "5b9d0ad5a9a800aa",
+    "title": "Judge orders Abbott to let Hinojosa review unredacted Elon Musk communications by Thursday",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2Nzb0luQlhxZEZzUHZ4eUU2TG1hVkUxYzkzdFJnaE1EWDY2cWFWSm5oTGRjU2FCUXdZSXplMjZHZ2lWcUdZQ19yRzBvamlrNHdTaWJPZ2hmVWRkTEJJdkNLX2V6YmcxVkNPMHN5bVIwNlAxUHhFdlBCV3FmZ1dBTXBuYVIwTkM5b2I1ZFpBN1hZcWt5S3gxTUIxRzlnbTRxakRwdExKN3pSaEEteXo1aEZzS0gzU1RobTFoYnM1SmI?oc=5",
+    "source": "KEYE",
+    "company": "Tesla",
+    "published_at": "2026-10-27T00:17:58+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "판사, Abbott에 목요일까지 Hinojosa가 Elon Musk 통신 비공개 내용 검토하도록 명령"
+  },
+  {
+    "id": "83d61e2cd9c55338",
+    "title": "OpenAI unveils GPT-6.1 Terra, cuts prices and boosts coding performance",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM24zcU1WLVJOS0tjZ3NRRFJZcTlFZWkwX2k5ZklYdjVkMU94dFFfdWFMQ1lqbU9UX1JqdE1jNVZHVFZETnlLaE1WMk1nQzVGTWR6QnRTVm96WmZwbENUcWZXQmNkekpMVkNEbXZDNUUtdnNyZ3p2bGotT3Jvd0hHb0tUd2pCR3djVnJkanZYR1NEYnJuRzBJLWZaMkcxdVJUaGl3U05mVDhJWnlQUHptQV9B?oc=5",
+    "source": "디지털투데이",
+    "company": "OpenAI",
+    "published_at": "2026-10-27T00:15:02+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra 공개, 가격 인하 및 코딩 성능 향상"
+  },
+  {
+    "id": "13fdb7daf4e4890d",
+    "title": "Codeifai QR code platform on AWS Marketplace",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOTlwcm9RWFNtWGc3SDJhS0FnUEZrUTBBY01jVXktTWdFNzRqV2V3TWZmdkhqN1d4Z1NmdmlEVTU3VGFUVjBLSEtLQ1FIZ3lST3FUUngzamhwXzgxTDROamdDV3ZMS0ZiSzlwOVBYejQxdVF6WkVzYkZPV25PZk1GTmtRMzV1cDJQUnRIRFBXb2todklVZVpOQVgwREpoSXhhYXFUa0drc1cxUGdCNndKTHplWmZlYlU4Z2tsRlFZT1RVM1VNdDhxQ2tFWF80dmUzZGtfZk5xRUplaVpROTNpZnA2a25vZzROUE1MSUJSbktTMU45cEd4UjBsVnh4cGVDWW9qZTFiYXY?oc=5",
+    "source": "The Australian",
+    "company": "Amazon",
+    "published_at": "2026-10-27T00:13:24+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AWS Marketplace의 Codeifai QR 코드 플랫폼"
+  },
+  {
+    "id": "9e9c91f5e5a062a2",
+    "title": "OpenAI Trumpets 3 More Math and Science Results, Along With a New Plan for Publishing Them",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSlRxb1FuMTFpXzUzQ0NXcmZwcFZNeTlBUmtVaWJBRHViVUdIU21HWHpNaGJxeC1MSm03SFdqRVBrMkZyQnEzWlRVZkVSSHZuY2tmekhJLXo2Z05QajhMeWtNS0dadjJiUUZOa0RKUVVSNGdfV01RTzRncmtQVHpjWTVPQnBuRy1iazRCSW1IZVdsOE5hVUx1Zk90N19aLWpIRC04ZHc4aktiOTZBTHF6S2xtMEN2VFJJNEVpcw?oc=5",
+    "source": "Gizmodo",
+    "company": "OpenAI",
+    "published_at": "2026-10-27T00:13:11+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 수학·과학 분야 3건 추가 성과 발표, 새로운 논문 공개 계획도 제시"
+  },
+  {
+    "id": "e750fc6f5f78a5d9",
+    "title": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15eWdXajR6MWxENkhDMHZfOFUwak9GeW5aOGo0dzVrcFlFTERzLTFTdnF3Zk1qWWRBWHlYcXhHUm81dWxEQ1pNaXNUWEZuZXFBY1JIdS0yTDVRWVpVZ0ZjbWRZcFVZbUFZNW1oWFlWeEREQVct?oc=5",
+    "source": "MacRumors",
+    "company": "Apple",
+    "published_at": "2026-10-27T00:13:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "구형 Siri Remote, iOS 27.2와 함께 '나의 찾기'에 표시되기 시작"
+  },
+  {
+    "id": "616683509651340a",
+    "title": "Five Factors and Artificial Minds: A Sarkarian Reading of the AI Age",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXFzcTByeXpNVUNDQXZ1aDA3bVpOem50d3ZaZEVaTlVUZEM2OWhmcVh0NGgtLXBjUlhPb2JJcjRfOHhYRjZkR1lCNXBGR1pNQW9Qb0k5NGtMV29BZDloUDVRbllCenpOZTBQLVkxZUhBQTI5V2dqeWVaNkxqVjVSNDVsT2p3eFBhbG1GQk1lOHBSLU1PNlF2cmRVU1gwVVZyb1E?oc=5",
+    "source": "The Times of Israel",
+    "company": "Nvidia",
+    "published_at": "2026-10-27T00:11:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "5가지 요소와 인공 지능: AI 시대의 사르카리안식 해석"
+  },
+  {
+    "id": "2bbbbef475ae2e8f",
+    "title": "Prime Minister Carney says it's time to move 'beyond' the Indian Act",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GNXFiOGtVN0ZFTWhucDV1bmp5aDY5Y2dIbE9xX2VUNUFFSTJkYnN4VVRkanU3R1B1NzN6c0N6aldvcVE4UlJsWlV4Y0pzMmFBdHo1Q3N1T0dMNGdmZEE3X1VmNXJELVhRRThwdjAta2FDNjlDdnVMbFVWVW5DUQ?oc=5",
+    "source": "Yahoo News Canada",
+    "company": "Amazon",
+    "published_at": "2026-10-27T00:09:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Carney 총리, Indian Act '넘어서기' 때라고 표명"
+  },
+  {
+    "id": "cb2cdd9bd989964d",
+    "title": "Google DeepMind's AI model outpredicts traditional hurricane forecasts",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDQ2aEk2Zkk4YUZEUG1aOU1ZVmI5ZTlraXBuZk0wdG43RnVkNFBUQUVyQVJJRWNiLWVtbXRhUGU5MXZQVlpPdTBFQ2xEeFJRUk8yYTFuTmo2R2J5OVR2MVJMSllmTjJqOGVyelhZaHNCR0NBRGNFdnRRX3ctaUpRM0ZBQWJIeWdLOVE?oc=5",
+    "source": "Fix The News",
+    "company": "Google",
+    "published_at": "2026-10-27T00:07:07+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Google DeepMind의 AI 모델, 전통적인 허리케인 예보를 능가하다"
+  },
+  {
+    "id": "25e3b7c5b40b395c",
+    "title": "Court rejects DOJ bid to block some California votes; Anthropic admits Claude accessed voter data",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE82UEtTa3hoTVlMZGpwZnBsVE9MNkJobndRNnUyandmR3o3b2s3UFRBbVNQSDF0UWdRdlVQaXpYWEkzYTh6U0ZuNVMxNWVaVTNfOUpibFNzejJxbkRJTzZWcTJYTC1PRnZLMl9jaVh0a2hUZnNWbVVlaGE4dkZQMEhn?oc=5",
+    "source": "Yahoo",
+    "company": "Anthropic",
+    "published_at": "2026-10-27T00:07:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "법원, DOJ의 캘리포니아 투표 일부 차단 신청 기각, Anthropic은 Claude의 유권자 데이터 접근 인정"
+  },
+  {
+    "id": "c9c4724c782d215a",
+    "title": "Siri AI is still unavailable in the EU on iPhone, iPad, and Apple Watch",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTNBWjgxU2RVMkZfNGdrQkdPYW5UX3dLZGNYMkN3QjVwaE40STVqNUlQV0lvb1VPTzlHMDNiLTVxT284MVY0QmNxdHBEYWZ2T25aY2U3S2VWOF9DcTEzbTJ4UVlXNUZ5Mk5MX29VOHh0bzBDelR0clRHTUhZM2htY0N1ZVVlLUpsdXcwOUlNa2pmMHR1cGxTampvdk55TzFZOTRnb3NZWjBRSGhHV1QtZHZaX2F1OU3SAbwBQVVfeXFMT0JWbVVnQ09QS2hPQ0ZXUGJ1aXFKOFF2NzI1WkdFdnJackR6WDNVZFgzclpaeHlGNXhabElTSEVLcFdoLWFWLU9zSm96LW1Eem12ejgtd2JPcGFIQldCU1pURF8zVlY1Q2V5YUxLX1A1NkgzeFdUazY2X0dOUFJQMTFQVldad3EtOEtXcHdPZ3RpUTQ4YWg1OGRUOFpDMG5RVDQ4bk5saXdOamZ1eEVwek5VdmVQTTV1aWZxR1E?oc=5",
+    "source": "The Apple Post",
+    "company": "Apple",
+    "published_at": "2026-10-27T00:06:53+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Siri AI, iPhone, iPad, Apple Watch에서 EU에서 여전히 미제공 상태"
+  },
+  {
+    "id": "9fc1e9aa67762278",
+    "title": "T-Mobile’s new plans let users swap between Apple TV and other subscriptions",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGVWbzJpaVBtNnFSTERwVWhzZF9wZS1rY0pjOWdFYlpGRTFjQVpIMmtZTUVPVXh0MFdKMG0tbVMyRWk3WUpkVzQ2Ykdfb2thc1o2RzlOZ3Brbk9qMkZlYkxhUlFKM2tqNlpPdURmdzcyTmZJYWZwanRWXzY4MHMxblh2MVRPVV9CRWhsSlN3UnFNRmNXNzN6T3NKQi0zR3FZUEdyOGx4MXotRVU?oc=5",
+    "source": "9to5Mac",
+    "company": "Apple",
+    "published_at": "2026-10-27T00:06:36+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "T-Mobile, 사용자가 Apple TV와 다른 구독 서비스 간 전환 가능한 신규 요금제 출시"
+  },
+  {
+    "id": "6d0c363223b1749d",
+    "title": "Google adds Gemini app publishing and teacher insights | ETIH EdTech News",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0FTMXRCT201OE01R3NyVHptOHpQU1ZoOGlhdFFPMzhhUnBJRS1Bb1RORHJBRmlobFp5a0xONmx1bkRERkx5QlNidF9jRUVGMWRLbEc4eFNweUI2aWVhZTB3LXAwblV6aUNXXzZGdHFQSDJvb2JPMENwT1lJeGFiWlVSMHo3YTVMUDlPbzlxTkxJLXZwZzd6OWxXOXNkNlQ2YlctYzVpNWNpamhGYThhaDRMSERoZnEwS0E?oc=5",
+    "source": "EdTech Innovation Hub",
+    "company": "Google",
+    "published_at": "2026-10-27T00:05:46+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Google, Gemini 앱 출판 및 교사 인사이트 기능 추가 | ETIH EdTech News"
+  },
+  {
+    "id": "eac422e57a5021e1",
+    "title": "Amazon's Lord of the Rings Gandalf Costume Has Dropped to Its Lowest Price of the Year",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGo0X2ZkQWFQR0EtVGw3NTl6aF9TRkhNeUFzYkpKTUpkM2lCRDVsdm9IWUVRZkQ1QzlHZkVJV3o5anBGekd4NXZxMV80dWxtSUJoMHozWHRFb2tobE8yWV8xbXJSOUhKSDEzLWRfRlZuaU1aYkx2MWFoejJmOTVqNjJYbDExM3l3QmZ5OUg5RF8tUQ?oc=5",
+    "source": "IGN",
+    "company": "Amazon",
+    "published_at": "2026-10-27T00:01:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Amazon의 반지의 제왕 간달프 코스튬, 올해 최저가로 인하"
+  },
+  {
+    "id": "15a455b1e5f31d7b",
+    "title": "Windows modding is back, and the open-source tools are better than Microsoft's own",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObi11ZUlaTnJmYk1JNGU2UVRfcUwxVUo2bV9GckdzQzJoTW9DbkdYLU5HZ0hyNXJpZDhXNWFOVng1YWg0WFVXX3VzbEFxVHVHOUJnYkVHUG1iVzRNXzRqZ29hNEpFTkY0T3k3bklPRExERXQyR1ZfMEx2Slc0X1ZsUkxYVFpiaUtTd3pCUGZwVmhrTENrV1QwSDlYanBheWRTeTB4YUJZSHhiTTA?oc=5",
+    "source": "How-To Geek",
+    "company": "Microsoft",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Windows 모딩이 돌아왔다, 오픈소스 도구들이 Microsoft 자체 도구보다 우수"
+  },
+  {
+    "id": "f4c0dd3059c2e404",
+    "title": "These 4 built-in Windows recovery tools keep saving me from a clean install every time something breaks",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHFLLUFhWDY5VjJjV1FJdW9YLUx3TC1kXzN1MlJraGVRSHozMTFCTHBTLXpNNnlIZHFkTEo2NGF4TGRrREl2ZHBjU0hmQmxveHBvLXctTFNGM3VvWUJiVDBrRkEyNk9qRnhVdjZGT1JkTlkzWHR0TTl6dG5lNlN5SWxtMjMtUGM2OFNESEZRV3M5ZTl4RTlRWTNNU2VRZWlsRmU5RU03YmwxQXFyOGpsUXV6WmFxSFBDNFk3UTg5amZITXVV?oc=5",
+    "source": "XDA",
+    "company": "Microsoft",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Windows 기본 복구 도구 4가지, 초기화 설치 매번 구해줌"
+  },
+  {
+    "id": "c54b744c31bc5e80",
+    "title": "T-Mobile Is Offering $1,000 Off the Latest Apple iPhone 18 Pro and Pro Max",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92enQyYnBfcXlzYzhGNEpVelp1amthdm5waGJqRU95U2Nzb0Q2Vmc3RWYxc2JQOTZrMTBIUlZSRVIxa0FaQ1hFQTZGRWFDamp6YVlaaEQwTGx3b3JFdWtyeExTUjBtWnF1OGxLelZfSTVuTE9ac1hJ?oc=5",
+    "source": "IGN",
+    "company": "Apple",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "T-Mobile, 최신 Apple iPhone 18 Pro 및 Pro Max 구매 시 $1,000 할인 제공"
+  },
+  {
+    "id": "08f11d2e7a076927",
+    "title": "'F1' star Damson Idris returns to Apple TV for Utah-set thriller",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWWJaY201XzdpSXlmTEVTZkdxWXN4S25XRnJ2eTM3N1UyMnpfaGlSWkt2ZDl3MHpTZlAxN3ZKT3dLTThoVE52MUpiSzh4U0lYa0gxXzFlUG93R1htdnI4Ul9zTENwWFNGM0lOeFktZ0ZCcE5OeFc5TlExRGhRODFJbHBBTUNFUGt5TDQ2aDU5bFRnZkxhZ2MxQ1A2Z2p0Y0tFNzJqdzhmaGg?oc=5",
+    "source": "AppleInsider",
+    "company": "Apple",
+    "published_at": "2026-10-26T23:58:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "'F1' 스타 Damson Idris, Apple TV의 유타 배경 스릴러에 복귀"
+  },
+  {
+    "id": "2e9dbe6906f497ab",
+    "title": "Budget Android Phones Aren't Worth The Savings If They Lack These Essential Features",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdUdqWlRTbzZVbm42MEZqU0JkZURNdmhHZ2NHamtZcWFsY2Q3MUhxTEs5SDVkNGNyYlBPSWVSdlJOOWtfRzF3Nnh6SU9WbnM5TW12LXV3NFZ4ckNyUVBLNDNVSURiREdUN2VxSGdVaGJybFp2V3JIcEVLeTlJUWFvbzR6WQ?oc=5",
+    "source": "BGR",
+    "company": "Google",
+    "published_at": "2026-10-26T23:47:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "저가 안드로이드 폰은 필수 기능이 없으면 절약할 가치가 없다"
+  },
+  {
+    "id": "15658f7663aae862",
+    "title": "An AI model accessed voter data in Georgia, but officials say there was no foul play",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMEtWZkVYbmRyc1YwRGQ2THE0YmVlN29rQ09EQVdYNHh1aGJ0TG8xdUQxMHF6dUdMQ1drTFBRN2lvT0pXQmZoLTlWSG05S3BPQ0xic0pHNU82N3RSLVE2dlRzWDNDTDRlOTF5bWFwNXpjR25FYzFpcUc0ekFCUGxzNTNHeDZCVFBMUDJFZHd3MnpKQXFpZExOSDZPbVZPNVB3TjkxWWt5RmJZZDIzcE0zNmpnU3hYVkRwTkJlaEhsNmFjdWRRdW5heE5WYW83M2QtUUpkNUptVEFtQXo3VlE?oc=5",
+    "source": "WTXL ABC 27 Tallahassee News",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T23:46:44+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AI 모델이 조지아 유권자 데이터 접근, 관계자들은 위법 행위 없다고 발표"
+  },
+  {
+    "id": "447de7e6df0eca07",
+    "title": "Apple confirms a 'small number' of iPhone Duo screens are cracking",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaUxGLUc1M3ZycmhQbUgtd3lCN3NmS1doZUZkWGRGdkNKQVNaUy1DTHMxNjNqUHRwSi1hZGRLX3prc2JRd0VhS2VaQ2N3OHZ1X1I5QnBxeW00UVBtbl84SGlWODhzRWFINlhFU2plVHhvMFFweDFBd0hlMnZIWUdMWkM1MFNaYnl3dmJIYnBCYw?oc=5",
+    "source": "USA Today",
+    "company": "Apple",
+    "published_at": "2026-10-26T23:43:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple, iPhone Duo 화면이 균열되는 사례가 '소수' 있음을 확인"
+  },
+  {
+    "id": "583d36faa222af63",
+    "title": "Owners of Elvis Presley’s Catalog Sue Anthropic for $41.1 Million, Claiming AI Company Pirated Star’s Music to Train Claude",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUU3c1J4d3dSdEpIT1lXNnFpUmhOeHBzSmszd2RkZzh6dklXYWNGZzNfU0NJdHhBdjBQX3lnZjVnSXJwMjhOVUdJNUIzSjZpVUozZGRfNWhvNmVzR1dZWHc3ZDhwRnFqU3hJN2ZKZmdxR2U3a2dOVWpXTHFRcVpsV1hNZG5CNHc0UU9wcGJDbWJEd0o5MG1qM2xFUjlQV00?oc=5",
+    "source": "Yahoo",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T23:42:45+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "엘비스 프레슬리 카탈로그 소유사, Anthropic을 상대로 411만 달러 손해배상청구, Claude 학습용 음악 불법 도용 주장"
+  },
+  {
+    "id": "5327f77d2d15904b",
+    "title": "Google Gemini taps Sunil Grover’s many avatars for Diwali",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2o0ckZXQ2NYa2p3MENDbkRvcFdQb2VzUVg0bnhBNDlpd1lDUzVaUzhEQlVEdTJHVkNqUlN3NjBMM3N5dVVFWW9pNm4tUEhjYk1rOVNoRExPemhYUVdEU0JfSWpQVFlGLTZTTUNMN2wtVjFkM2NvNFJZSzZncjFwbDA4UXRQV2VPSm1hTzlyS3FpMnc0LVUtcGNXWVhpZzNtdF9ZbTNWRQ?oc=5",
+    "source": "afaqs!",
+    "company": "Google",
+    "published_at": "2026-10-26T23:41:37+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Google Gemini, 디왈리를 위해 Sunil Grover의 다양한 캐릭터 활용"
+  },
+  {
+    "id": "6657cc12195c7fcf",
+    "title": "GPT-6.1 Sol vs Gemini 4 Pro: Google Never Shipped That Name, and the Price Match Ends December 1",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRUdGNkpXY2E1RzA3cmZ2Rzhza3haRDVQYWJBdVdKTm4yeW9NQS03RDJWd1A4NnVQMDllaDExcEh2U29MejhBclpjZXJmU3RqbnlXanM3cjIzblVuX3B4TVFmMjVWOGVWMEE?oc=5",
+    "source": "OrcaRouter",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T23:32:47+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "GPT-6.1 Sol vs Gemini 4 Pro: Google는 해당 모델을 출시하지 않았고, 가격 동일 정책은 12월 1일 종료"
+  },
+  {
+    "id": "55246b116332ca3e",
+    "title": "The AI “enthusiasm” gap is a dangerous misnomer",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWdjWnl4LWNrTGRxQ0gyTzJXUlNFOFhvQjFWckZhN1lVUHFhb29LLVZyVDZUWlNlaTYyYnRaQ2JZQnBfZ1lvTFJuQzRpcHpXLW9lRXNBYlRPWmNralNzVm4yZE1laTlCMUpMVGFIX3JuYTZuei1YY0pfWGN6QUFUWW9CQTh2ZkdycHBHejY1d1pQWW01Qnc?oc=5",
+    "source": "Lowy Institute",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T23:32:14+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AI '열정' 격차는 위험한 오류"
+  },
+  {
+    "id": "28c55e46f80f3cfe",
+    "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFFEWHYtU0JwODVGZGw5MS1qN3F0Q0VZM3BsR053TGRpSWJOVm1qU3VoMUdBSFphV1ZabW9ra01SVUNyMFlTR29VbGFmNnBNZ2dEdjhqQk16b283eGk1cFVZRDIwM2FCcW5tMF9fa0NMMmdkTElsd2lqUktIMFB4N2tqd0RtZ2RjQ1REd3NhQjlGeDVhRGc0a1pJaw?oc=5",
+    "source": "Not a Tesla App",
+    "company": "Tesla",
+    "published_at": "2026-10-26T23:32:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Tesla의 신규 Houston Robotaxi 구역, 로켓 모양으로 설계됨"
+  },
+  {
+    "id": "29705e7447f79522",
+    "title": "Anthropic’s delay in reporting ‘rogue agent’ Georgia vote hack alarms government officials",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeTB4YzhPSTgzSWdSOFp2QTdBUE93YllRcXJKU0lMTllCT0RVcWI4RnBmSTV2NUdXMFJwbUNac0Q4LU9FZDk1SDlzZXY0M1BSVENiT2hoeTFiaUNkZ054a1dEb0dMUGIyUVppaEtIdnptdlNNZzF0WFhXRXdNUnh0Y3VKdVp6MUk0YjEtQTJndzlGMnFFWWw0Q09ueXZSdnREZWlrb3RUVVFEckNIcFUwWTNvemVUZU9XT0UxWFJ4WFRHZmNBWGc?oc=5",
+    "source": "New York Post",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T23:32:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic의 '악성 에이전트' 조지아 투표 해킹 보고 지연, 정부 관계자들 우려"
+  },
+  {
+    "id": "317c14c33a7b7403",
+    "title": "GPT-6.1 Sol in CodeRabbit: What Free Scans Really Get You",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82bWs3Nk9UUHVZenBFLXU3aldrb2Eyb19pWU1rZE9EZUZJaW03Q2xtRlVjRXE2VHJ1TGxwbFFUTWh6eUVZSHpwM0luVUVkSF9vWDdodi1MZnNoMWRZc3U4RGhDLXhRQ1VyVjVGeEF0Z0cteFlGckMwbg?oc=5",
+    "source": "OrcaRouter",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T23:26:52+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "CodeRabbit의 GPT-6.1 Sol: 무료 스캔으로 실제 얻을 수 있는 것"
+  },
+  {
+    "id": "bd71c91fcc7342eb",
+    "title": "Sacha Baron Cohen’s ‘Ali G: Who Iz I?’ to Stream on Prime Video Days After Brief Theatrical Stint",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajl5Y2pJeUhZUDFSSlFXRXdCX0ktR3F3NndPVE5iREE1bmRuLUY3NEUzR3RlRXV3dkppSFVvVkNyM2hRdURkeW1ScllMX0w5Z19rZktQcmF2YnpvVHpycHBmakZ5NFFGV0FSc1NxdGxIRVVuaWRRVEM5UXZCOUluVVdxTVFJNFc1QTY3X0JpUk9mTUJmOXBVOTlDaENnNnFJQW52dzZiV2VxSGJ4d3BwVUFPZ0VVcjhFNzFZZWVn?oc=5",
+    "source": "The Hollywood Reporter",
+    "company": "Amazon",
+    "published_at": "2026-10-26T23:24:45+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Sacha Baron Cohen의 'Ali G: Who Iz I?', 극장 개봉 며칠 후 Prime Video 스트리밍"
+  },
+  {
+    "id": "76eb615b79a7ebb1",
+    "title": "Apple Rolls Out iOS 27.2 With Siri AI In French, Japanese, Korean, Portuguese, Spanish: 12 outlets compared",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYXRMZjJzcUNnVGdEUVRUQnJtLWRRc0pxYlVKN3o0X3FCZ01iZlFrNWYxaHpqTlhOWUVaWW82ZlhWRTcwZHJWM20wcHd0ZDJ5MjR2ZmJBaVhmSFV0UTVGVFdUbjFhZzd6Slgwb3RrMUJZUENQR2hDdXNnS1V0TTV5bVpaeVlUckpoNHVBM1JkcExMNE02ZG04WVhmRnFJQVVnQXdKb2JTaGxEMHl5dU1MazRHSVdMWk5SRVQzSTI1MkhURlpPNjh2YUctbWhkUlB5S3pvbHJYODJjOGljM1dKbmlZemZXMEtNdVE?oc=5",
+    "source": "NewsCord",
+    "company": "Apple",
+    "published_at": "2026-10-26T23:19:30+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple, Siri AI가 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어로 지원되는 iOS 27.2 출시: 12개 매체 비교"
+  },
+  {
+    "id": "373abef6bcb4dd99",
+    "title": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN5THZQLTZnZjdTSDZmRlo2ZldLSFA4M3I3NnNPaDBQMWp2RUtjTjhpN1hWU01qbGk2UllUcG5vMk5uOEpxTHpxcUpiUXNoNUxqdXVFLVQ5Q2NhRmhwWkUtb0tDUEs3VVFiWXNtTFJQcGh1RjFYWVFWajB5T0d1bXhrUnlZOXh4YS1Hb3hDOTdTZFFndjlmVEItRXRmc3oyZ1ZBeVJvRjZkeGhXcnBkcDBMY0ZwVzdRdWkzcVRvOHhBZw?oc=5",
+    "source": "PYMNTS.com",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T23:15:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 엔터프라이즈 자동화 겨냥한 반값 AI 모델 공개"
+  },
+  {
+    "id": "afcae97a8304295f",
+    "title": "An old problem that affected the iPhone many years ago starts impacting the Apple Watch",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcE1pNGxtQ0RTNVU3LXMyQWUyN2R6VDRwdG90XzFJeWtKdXB1a1hxSGxZNVA2ZWw5X1p2MmtQSVM0OVhKckRIQWxvTVVndXlXZTJfd0djSDd1c2RBSW5BbUtHYUl4LWgwNXozdnRIX2pwZW90VUYxSGNvX1pnb3Y3M3pKR25VcEhabEdlNDFnMWN1aWswNWpXbFgzdFFzRGw0eFhlM3ptWQ?oc=5",
+    "source": "PhoneArena",
+    "company": "Apple",
+    "published_at": "2026-10-26T23:10:29+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "수년 전 iPhone에 영향을 미쳤던 예전 문제, 이제 Apple Watch에 영향 미치기 시작"
+  },
+  {
+    "id": "7ecfecc72dbfa139",
+    "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlaQlJZSTRmSnp5WkJ3ZmprNUU4VnZkNjRCdTFYOEN1QVBSRXlTVnRmVmdWckFMMWc2N2V1OEJhN1VqMVZ3TFhNX0xuUlZsRk10aW9iUTJRNVp3eC1VbzVmOWJtN2ZBS05TUEtyNmkwekpjdU8yVlFuS3R5ejRySlBobEpWam9DS1BJNXBfd21lQlpjTkpSSGVtS3ZXaU0tVHJxN0JiZVlWeUlmZ2c?oc=5",
+    "source": "The Register",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T23:08:59+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 저가 중급형 GPT-6.1 Terra 출시"
+  },
+  {
+    "id": "66626b3d05f8abac",
+    "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHhkeUE5djllRk9yaGhBbVpJR1ZJNFhSMUZBV3pobE1KRFhtWkgwVVpuQ2ZsX1p2Sk4xd1c3MDBqdldlaU9JY1puVkI2VHVDcTlYcGs1VEVjNjV0bWlZeVpUNjg4cFVURTd6NUw3TWZ0eVNZZHE3eVJLZ0FSblZRTWduZW5nNUhHSFhZMFlnWkItYzNRTm5qbkN1SFEtU04tcVlYdVpLUlVBR0JwVmVSeF94eWE0OHdNX0o3WUlDQmFZQ1BvRTNtNWhNclIyREwzaDhSQw?oc=5",
+    "source": "Robotics & Automation News",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T23:06:30+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Comau, Nvidia 기술 통합해 AI 로봇 개발 가속화"
+  },
+  {
+    "id": "47ed3cdbdf4f796c",
+    "title": "iOS 27.2 is rolling out. See new features, compatible Apple devices",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNTczVGdaeURPVWRrQUFJdUZSVGJLNlB1dlB1c040TlBVME9OaVV5a1BCbmVvNUpUQllrS25XSFl0MFpRNFNtR1pVM0N1dWlGV2NUY3dvWFdVeVhuZ0lMSjZqUFp6QTllMTl2cWVHeWNXWlBNLTBPT3BmcFBBMlVROEI4dFVhMGsxNEFzYUFpZVpVbDlrdlBvcVpKVlBUNjhMWlJtcmx5NURmX2lHd1dTLWpjdmlfQQ?oc=5",
+    "source": "USA Today",
+    "company": "Apple",
+    "published_at": "2026-10-26T23:05:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "iOS 27.2 롤아웃 중. 새로운 기능 및 호환 Apple 기기 확인"
+  },
+  {
+    "id": "8f75301cc7a574b3",
+    "title": "OpenAI's New GPT-6.1 Terra Delivers Flagship Computer Control for Cheap",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTZvU2RTTWtWa2R6YldMN3VEaXFhcEtfN1dmcUtPRWJuR2t4cGZMRnFsT0FWZ1M0TnZQQjQwTU5VRG1reUFXVUczeV81LXU0YkFtdV9Kb0JLN3pQZU8xb0NmTkFlSm1GYWNaeldzTVBTWEV6ZlNIcl9RWHVDRGVYeW5PQjFHZw?oc=5",
+    "source": "Android Headlines",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T23:02:29+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI의 신규 GPT-6.1 Terra, 저비용으로 플래그십 컴퓨터 제어 성능 제공"
+  },
+  {
+    "id": "2d8be95f59c98066",
+    "title": "How to keep politicians from flooding your iPhone with campaign texts",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1d4ZUZ5aU55M0dPYk9xcU1hTkdOLThoQ1FuSTRVM2J1ZWtRQndfZzlNaTdvVHl0aTh6dU5sX0U4U0FyaUE1cEJfLWxxX3VEWGdkdXZiUTNfdnd4RnI4UUJscm9jNEppbVhXMHdYQWQzU3pjeGJUZGZUaVBXbk1NZFF6WW5JX2lzMURiOWgyUVlIMVRmYk1RbXZYMXpqS1Q0Z2wxRDRfUzNpSzJtdjVPRlhjWlVJdw?oc=5",
+    "source": "AppleInsider",
+    "company": "Apple",
+    "published_at": "2026-10-26T23:02:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "정치인들의 캠페인 문자로 인한 iPhone 폭주를 막는 방법"
+  },
+  {
+    "id": "62a9d2f2d63b992f",
+    "title": "Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16QW5PSFRuZllfaWVqVmRrWXM4Vk01LTc0VjZlalphQi1Ld2RodkN4cVpMZHB5dXRCME0wU2h1ckJmYnUxajVTcFk5MjlGWVVTSnBQNVZDbEdrTnY3Vmx2Y3RzeFcwa2VwazN1Y1NsbUUwM2FVT1pzcDR1Zno?oc=5",
+    "source": "9to5Google",
+    "company": "Google",
+    "published_at": "2026-10-26T23:00:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Google, Gemini 4 Argon이 Android 코딩에서 Claude·GPT-6보다 뒤떨어짐"
+  },
+  {
+    "id": "fd32b9683b689eb2",
+    "title": "Microsoft found another place in Windows 11 to promote Microsoft 365",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVV6ZERCS290SUlkQ3NOVFVUSUFJWnZKY2RBZVN5dmtfVy1oRm1EaXdPNkQ1R0U3T2JIX01xRURNS1JuQ2Vsc0lzWF9PaWN3X3hsM3BHWUdleTJfNzdkMkUzMkNXZ0NXellvTFpDYzlRb21qbDRrQlN6RGItOW5vV05QVzR6T1hBLVJ4cTJ2eExpTk5Dc2lSR3h3RTdTUQ?oc=5",
+    "source": "Neowin",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T22:52:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Microsoft, Windows 11에서 Microsoft 365 홍보하는 또 다른 위치 발견"
+  },
+  {
+    "id": "1a1238ab981eaae7",
+    "title": "Halide Releases Its First Batch Of Updates For The iPhone Duo",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY1VZa016bVB2bFNxZkFJTW9IeEFDZ3JpN25WMFhBMkdxZUlzTE9wTC1qbWtNNDFKQnJLR1RQaTJZRmtzak9Ja3hyOUgyQ1dwRVJ3SDcxcG9YTWc2NXlLU3VkTG1YY3QzTldySnVvMHA2a0FoTjlvWnV3eW13SFJqMHJpVllwQ3BZNU1lV3lyVldRUkpscWZqUEtEMA?oc=5",
+    "source": "Engadget",
+    "company": "Apple",
+    "published_at": "2026-10-26T22:51:46+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Halide, iPhone Duo 첫 번째 업데이트 배치 출시"
+  },
+  {
+    "id": "0d7ee6cde5f3acd1",
+    "title": "GPT-6.1 Terra Arrives at $1/$5 — Half the Rate of a Model OpenAI Shipped 27 Days Ago",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1JXdGZsSUxjMlRiTW9JNDMwbFBkWjNfUHExdG9YeVIxckdUaFVJeE90SVFTX2FvdFRTSHZCQUxseWFuM0t4NXNacjNyNElZdkg3LUJ3UW55UTJRRGlSTVZHVmhnWmVqTEJheHFPenhNNGNrQjRWZ1BkVHVKdHlWZGRTdlkwclBWNW5BWktjLURwMndvSXNBUEF3aUxoSG1RZnVJVA?oc=5",
+    "source": "Forkast News",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T22:50:51+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "GPT-6.1 Terra, $1/$5 가격대 출시 — 27일 전 출시 모델의 절반 수준"
+  },
+  {
+    "id": "b364097c92a16eee",
+    "title": "Microsoft confirms Windows 11 26H2 is now available for everyone, and it installs in under five minutes",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEJVdjhDTWM1VTBkM3VzeDNnOHR4QXFPeUdkbDNUOXRJZlJ4Z2hHNjZhbW13bjA3ZXVoVUhzTmJodWw5RTQtejdPY0k0RGJCMWZqd3hQdmh5RUowWm9janNFenRIdW9mUkcyNWx6cm52Y0tHemJ6NEdMcURKNzVqbDZDQ2ZRaGNVVzVlMGo3d2tsanh6dmJ0UTFtVHRDcC0wVDNiRTNxYzJ3UEFOZVNiMEpBSDVTVWpwYXdHNTlBWjZmM1F4QVJFQ0pJMGpNS3d1ajlSUXlfMFYtM2xo?oc=5",
+    "source": "Windows Latest",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T22:50:41+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Microsoft, Windows 11 26H2 이제 모두 이용 가능 확인…5분 이내에 설치"
+  },
+  {
+    "id": "f61cc1e29a574a6c",
+    "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5",
+    "source": "CNBC",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T22:50:07+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "월스트리트에서 실리콘밸리까지, Anthropic IPO '광범위한 파급 효과' 기대"
+  },
+  {
+    "id": "fd7a19d37fbdb57c",
+    "title": "Microsoft to offer redundancy to 60,000 workers in new AI cost cut",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTk9HZkpPLXM0UjZic2pkenE5TzdqWGJveUVYRXZ3ZkxybVRsZDdGTE9rOHBDeTBkQ1llR19TdmNmVktGTTBDUmtLU2JKYmJKdkc5LUVXQ2lLUFVjUEt6dllFYzV2aktpVmdaUWJRcjNNTHNBYllIRVhSbzBtczd0Y2FnNVRDeWU2TlFXOTF0RzZRMHZOTVhlMEFaVlFRVk5HcmEzTGQyanBGMXZ4WWVZS2thYkEwNkQzb1Nj?oc=5",
+    "source": "AFR",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T22:50:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Microsoft, AI 비용 절감 위해 6만 직원에 명예퇴직 제시"
+  },
+  {
+    "id": "7e446fa33e3652cb",
+    "title": "Why Can't iPhone Duo Users Make Eye Contact on FaceTime?",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0w5V2FaRHlrZnluc1p5bENQWEV3dnp4VHF1U05hV01JNWJyc1FrU1REZW44WkJ1UGN6RjdWdFBlS0dvcFFDR1QwSzNHNG5GaE1kNWtSMFVIcWtRcF9td2duUkdYaEJhZDFrMFVBcml4MmFRM0d3QzgwcFdLR2tzR1RFWU1rejE0Q1ZhUA?oc=5",
+    "source": "MacRumors",
+    "company": "Apple",
+    "published_at": "2026-10-26T22:49:02+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "iPhone Duo 사용자는 FaceTime에서 눈맞춤을 할 수 없는 이유"
+  },
+  {
+    "id": "674b0492bb76b57f",
+    "title": "New Amazon Prime Video TV Shows and Movies in October 2026",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBUU1HTnVWUGxTd2dJQmV2QWo0U2hablpjV194RDQ0OHlRLVlUS241MDJBUXNHTHV5azB3M015Q093VGNmYmlOTG9pSlZCN1lGMkRhb0J6NzhYNHJ5SkxrNmgwbW1CVERLbzd1c2NPZmVJY2U2Mzhr?oc=5",
+    "source": "TVGuide.com",
+    "company": "Amazon",
+    "published_at": "2026-10-26T22:48:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "2026년 10월 Amazon Prime Video 신규 TV쇼·영화"
+  },
+  {
+    "id": "493989573d69224b",
+    "title": "What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vcWpUa29zVzhWVXpaWDgwRHRtZ2otQ0dzRTg4UTdxV2JLU0U3cHQxY1JlM0FxZ0pKT2xsdHlxaXRWOEFVRzFMamZoUGtkLWVRdmQ0eU5YM2ZmbHQxQjBzQU5RdzJHWGk2YjVzLXFn?oc=5",
+    "source": "The San Francisco Standard",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T22:45:48+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Claude가 감정을 가진다면? Anthropic의 가장 시급한 IPO 경고들"
+  },
+  {
+    "id": "864fd65699e5998d",
+    "title": "Analysts Stand by Meta’s AI Push Despite $95 Billion Equity Plan Scrutiny",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JYSGg4R2VTek4tbFpnbGFNZ3lSMkhWLVFYVmNNcFNxbTBubE5JMF9WOXQ0RnZIV3Q1ZjIxbS05bWZEZjVIV1lXVGVQcHJIMVJHa0I0VWJGalNsSjF1REJhdmFIMWljMEFCZGo0Y2d4U0FjbU9UUUs1Zy1XWFFTQXdmZ1ZmNGczZmpjWFFUQ0hVZElLLWJfeEJKRFprTEpsdkZYQXZKZmV1d290WG00WWJoRDVkajA0cGpNUERITjROdw?oc=5",
+    "source": "PYMNTS.com",
+    "company": "Meta",
+    "published_at": "2026-10-26T22:44:25+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "분석가들, 95억 달러 규모 주식 계획 논란에도 Meta의 AI 추진 지지"
+  },
+  {
+    "id": "3d20fe512019b362",
+    "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE9tQzJpUFg1WGx4RlNNd1JnMnBzaXdiY2Y4U0xTNmgwcGZhRnR2NVcyemp2YmRHTEJ3SDAxVTY5NnJYMjc5WkZ2MEJ5LW1ldzUtM0N4YVA4Z1hQTC1GTTkwTVVHRHd0MzRpVjJCdlAtZnJ5Z1d3VU5iSXZDSGxoUEJqNDh2X2ZBQkRXdjRRSE9xY3ZXajEwNXAtWHBUbzRRR1pkY3RaUlBVNWs?oc=5",
+    "source": "WIRED",
+    "company": "xAI",
+    "published_at": "2026-10-26T22:40:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Grok, AI 생성 '오디세이' 버전이 '역사적으로 정확하지 않다'고 언급"
+  },
+  {
+    "id": "44c3439042fc4b99",
+    "title": "Apple officially responds to reports of the new folding iPhone cracking within hours of use",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmtuUHlXYk9rU0Z0VmNYNzdRNk1fUUlRRGFBNDlWekJTMXhsYU1xTmpCOGZPM2VvdDI1Tl9wRkdiVjg0U0lhVFoxUU5aRnAtdExIcHZRT0JzOXZjSXdrSzhsT0g2VF9YQ0dQN0MwSUt5eXpUS09DdmdtSDhDM1VsOS1Cd3JoVVdMTUNXNG9hZ1hoSmwzR1JpbnVwU2dzZF9oc19vWV9Qc0tQYTJDcV81SkY5bFpBNm1MM09FZUloMXlMZ3NOWTRiWg?oc=5",
+    "source": "WBIR",
+    "company": "Apple",
+    "published_at": "2026-10-26T22:38:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple, 새 폴딩 iPhone 사용 몇 시간 만에 균열이 생긴다는 보도에 공식 답변"
+  },
+  {
+    "id": "b7fc70f417301e4e",
+    "title": "GPT-6.1 Terra: why is it not showing up? Here’s what OpenAI says",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQk5TQ2diZGpONlRGRjFpeEotWmxqeWo5ZXk3Nm04UHlZalBMWU5vdjJIY0prZmNGempSXzk3Y09ST08yWmt5WWlJc2h4VjVEd2lLT2VDWTdCUXZqU3Bvb2xuMGhJTG85NWh2d09GM0pHQ3pfcWJkeWlSWE5EV05ycw?oc=5",
+    "source": "MIXED News",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T22:36:20+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "GPT-6.1 Terra가 보이지 않는 이유는? OpenAI의 설명"
+  },
+  {
+    "id": "42ae42a16a397caf",
+    "title": "Elon Musk shuts down Starlink internet in Ukraine",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TaC1wMU1MbV9IVnd6QUZ2TWpKRkR4OU9ha1Q0NU5aM0laUXpSNndMMmZLeGNQSF8zblNiS3ZqZGJTT29TRlJEZ081MGI4dmNIQmFZYjVSc1FMSTgtLVdlV2Fub9IBaEFVX3lxTE1LNWNxRnc1a3J3TW04T0p2Wlh0aVVVY2paXzZjZ0N5b1NjeHJZMTMzOFl6Q3AtZUNTRWozZXhUN0NsWkloOXVVTHZzTWl2NWFHNWtiamt6UkpWVlFQd2Y1SVMzeE1FdEh2?oc=5",
+    "source": "FOX 7 Austin",
+    "company": "Tesla",
+    "published_at": "2026-10-26T22:36:02+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Elon Musk, 우크라이나에서 Starlink 인터넷 중단"
+  },
+  {
+    "id": "a7097a289f754807",
+    "title": "3 Best Movies To Watch on Prime Video Before October Ends",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DT25IQVF1TjhfbW92ZldGcUViZEpULU1LejNqSWRUVzc4WFNuQ2RGSWpFMGNsR3Z4Z3VTRHA3V0p5Y3kyU3NTTi1RWDBkd3Y3ekVrandaWXAtMzJGUWFEUDdSZHVQRmNrYjRCZll3?oc=5",
+    "source": "Collider",
+    "company": "Amazon",
+    "published_at": "2026-10-26T22:34:12+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "10월 말 전에 Prime Video에서 볼 만한 영화 3선"
+  },
+  {
+    "id": "857942f1146606d2",
+    "title": "Sweden bans ChatGPT and Claude for government use",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjNUa2ktaHdwSlpLQk9meEYwcmd2Q3pRTHJkQmxWQkhVM2VXT2Eta2lVWlFMQW1sWFdFVUJnRkpVYjhFVkRzUWQtZWJnWVdZYy1jT2RHZE4tbWx6U3ZmUXhwekJac1o5WFl0NFZzdlBTcU9ZWXpxdFIyTDNQV3NQVlhfX0xSUQ?oc=5",
+    "source": "SC Media",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T22:32:48+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "스웨덴, 정부 사용을 위해 ChatGPT·Claude 금지"
+  },
+  {
+    "id": "a1325da0ba356620",
+    "title": "iOS 27.2 — Apple Has New Features And Important Fixes For iPhone Users",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUI4aGF3M2tiNUQxUkZsdElsOEhtYmNQa1JrTkFtcFZVYjh5ZlBOUXpZajQydVNoUmxtQnJneU1PV2xVUGlOWkN3aFU3LTRvamFUeE0wWlhkSzZFZjR3SGMzZHY5VVg0ODVDTWk5ZTJ0TGxZdnZTeWRLOXlHUWtac00zNGVfNjBCS0FTQ2Z5NkxRR2dKbHVjWmpBcU1pY1c1WVZETXVLQUNrMkxkNEhkRlR0MF82NTBBQTZ6S1ZHNA?oc=5",
+    "source": "Forbes",
+    "company": "Apple",
+    "published_at": "2026-10-26T22:30:26+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "iOS 27.2 — Apple, iPhone 사용자를 위한 새로운 기능 및 중요 수정사항 제공"
+  },
+  {
+    "id": "36eed7becf32a7e8",
+    "title": "Satya Nadella says he was wrong to think AI alignment would just happen",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDFhazFqem5YSWVQQVpoNFNLUlpDQ29JQTY2dkphVTFVbUF3dGRiR1QyMU4ycjBfSWxKejVhUVNuU2pGZXl6QklVRThvZkZYMlE5ODZ1ZF9kTVJLQW51NE1ONEdNMHpWQ2k5T3YzQWtNbVpkZzlHeEwzd0tjOThTOUFlT3lUcU5DQnNUdDFyZVYtZlRqdDJLMnNHZkVqMmJSYXAtaDUyZw?oc=5",
+    "source": "Business Insider",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T22:25:16+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Satya Nadella, AI 정렬이 자동으로 이루어질 것이라 생각한 자신의 실수 인정"
+  },
+  {
+    "id": "cdcc6264609c8fdd",
+    "title": "Apple confirms some reports of iPhone Duo cracking near the seam",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3VRWW5mVU93LWdSTF9zUEdrUC13RGdHSTlMVlp1TlhyeERLWkxoV3UxYlVDRGl0X053aDFZWmdsSUhUeGV0Szl2Z2swc2VuMGl1Q1pFcEZta2k4LTh2X01GZk9ObGJmSk9oeTZXenV2MDAxNHlILWUxSnJpOU8wVGxmUk9DanhIZ25n?oc=5",
+    "source": "CBS News",
+    "company": "Apple",
+    "published_at": "2026-10-26T22:25:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple, iPhone Duo 화면이 이음새 근처에서 균열된다는 일부 보도 확인"
+  },
+  {
+    "id": "d268ef289f5295e4",
+    "title": "Lumentum stock surges 10% as AI components ‘completely sold out’",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzZqRTBDZTZ1cGdLZGowNEdodUF3VG9CSzB2Z0hmWExseUVoQTNreDBXNXJ5VjdmZElVcnNqTHBzdnNub09qM2RRYzA5cXotRFNfVkZMUXF6a3g0NEUwSjdVa1lQNXFzcGtnYldadHZUa0N0dUlnZVAzeHlYeEg0UVRuSE1QbTF1TG1SeTdkVW4tb2UzTHBN?oc=5",
+    "source": "Yahoo Finance",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T22:24:40+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Lumentum 주식 10% 급등... AI 부품 '완전 품절'"
+  },
+  {
+    "id": "da9ae2baa2fe4178",
+    "title": "The AI boom is happening at seven companies, the rest of the S&P 500 isn't seeing it",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnhKdzBBcjcwdkxLZXZpeTE0QmVTSUp6Sm94Z1llNUNsVnV3STE5QmdLdGpKRlFkSGh6T0Zic0lUR0JBNUt4cUpnTkptM0FfTUFaajdNMVpIdVdJM2dldmJhaEJ4dnUxeWp1T1M4TFc0RG9aSlp4TUJYOG5rUFR0aUo5U21OX0tOSExQbkp3bWk?oc=5",
+    "source": "TechSpot",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T22:22:31+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AI 붐, 7개 기업에서만... S&P 500 나머지는 외면"
+  },
+  {
+    "id": "58e9272d6c43c2ae",
+    "title": "Apple’s ‘Pro and Tell’ Event: Everything Announced So Far This Week",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZG5xRl9lTlVHckVwbTJxTEpyN2YzbTNqbHJ4RHJJS0Y0MXF4RTFwNF9OUkJFVDNENUZDd2c5OTEwYk9BYU1qNWZjdDN1TWxnTGNuMzRTTEhtMGNRQXFSbE5Namd0T2duSm14OGpGUkQ4X0ZOeC1BeXo0bTYtRXZXeS1OOTFxQzhUVDZmWjV4YlI2LXN1dGNyal9iZGQ?oc=5",
+    "source": "CNET",
+    "company": "Apple",
+    "published_at": "2026-10-26T22:21:39+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple '프로와 함께' 이벤트: 이번 주 발표된 모든 것들"
+  },
+  {
+    "id": "eaf623d9fd2de346",
+    "title": "SpaceX Falcon 9 rocket to launch on record-setter. Track liftoff",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Tld2dlM2LXItRm9RMnBQUDRwblFlNGt4SDVYNF9DRlJJM3VKeFNucWdxM1pKakRmOGh2eG9zRkFvMV91dUpENlExMi1STk15cURJcWtmYnFDVVNnTEliR0g5NG1QMjA?oc=5",
+    "source": "San Luis Obispo Tribune",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T22:18:07+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "SpaceX Falcon 9 로켓, 기록 경신 발사 예정... 발사 추적"
+  },
+  {
+    "id": "7b72d269c30760a0",
+    "title": "Apple responds to reports of iPhone Duo screens cracking within hours of use",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObmNuNnBBUXZCUnh5NXNDWDVLY1N5UG9zTE8zMGE5eHdOM3RfNWNmalV3dTBiS3hsbVlid0VfQXNvcC16cGZreUZvM2dwMTdBNVZUSzVPbEV0dlgybEZpU3plWWxwQXpzNzhRQXVFTGoxU21qMVUzdHJXanBKQUdMdjR1ZThGb19sYnpDOE1yMDA0TTNwd1VRN2g2YjVscU5wMXdvNGpmanNtazV1Z0ZvcXQyYkxuMmE2Nmp3SGVzTWVFcllKdHZEM2EtcDFORFMzWVh2d19uTkx3bjE4M2tFSmp6UDRPdTVzUHdiNTIyTEJEVXF1WmNITzUtYw?oc=5",
+    "source": "weareiowa.com",
+    "company": "Apple",
+    "published_at": "2026-10-26T22:18:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple, iPhone Duo 화면이 사용 몇 시간 만에 균열된다는 보도에 답변"
+  },
+  {
+    "id": "d2aaafaef0f0c8cb",
+    "title": "OpenAI Says Its Models Produced Three Proofs in Math, CS, and Physics",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONW1JX0dNNHJ5ZUxiZ2dhZFAtakZ4MTJhcktGd0J2cmxndkt1Z19TdUUxbXg5LVdHTmZLbUJVSW5TTExBWHFQYjRIU3BXZzUtTU1HWlhMTzhNSjdhdFRPU0hmQU5ZTm1TU1NrTjNVdzJmOTdvQVVZd3IwX3QwZGphT3pRVGhrUlB0Z0RsU1UzTFk3RzQ?oc=5",
+    "source": "Unite.AI",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T22:17:01+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 수학·컴퓨터과학·물리학 분야 3가지 증명 모델 제시"
+  },
+  {
+    "id": "d494a9a49275f10c",
+    "title": "Elon Musk’s 7-minute AI ‘The Odyssey’ shakes up Razzies race: ‘Looks like he’s creating a new category’",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTVNUEVaakdFeS1DSWljWUMxWjJGN1FIZkpzZ2s1Uko0WEtBNmFsLVYxdHpQQ0RZWjZIWVdYeHdBb09xU3N5Qmp3d2thWEVsakI1MnpURWI0RXloTXlBd2xLVVRQSkludGdZYWZyUVJocDBGT2dMQlYyV3h2Q21PenMtN0M0emFZVFlqYk5tRUhUUXFleUE2cQ?oc=5",
+    "source": "Gold Derby",
+    "company": "Tesla",
+    "published_at": "2026-10-26T22:15:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Elon Musk의 7분짜리 AI '오디세이', 래지상 경쟁 뒤흔든다: '새로운 범주를 창출하는 것 같다'"
+  },
+  {
+    "id": "4c8bff36ac30fcc5",
+    "title": "Meta’s AI bet is getting more expensive: What its $95 billion share plan means",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVktweXVTbGRMLURSeDFUZ1JidHR3OFRlS3hUeEZwdHJtUzdJMEk5NWJudGxfR3NQUnFKNnY4YXY1LUYyZXZmNExmejByNU05dV9RM2tjU2h5VjZvOWpmOEZVaVA2X3hTemdyZW5hNEtzcWI4NTVvMkVuMUllNjVhVndTTjBqdGxrYTNJVjltUXQ0d0NQUHd5RmpXTmdwb2gwWnlFVUxSaWptREdwbjkxV3hMaTJCQTlXTDYzM09tRUhiLVHSAcgBQVVfeXFMTUhBYi1rdXRYcC0xRTFDRGU0UEFIR2daMnRjLTloYWhURFc1Y2dJMmVvMGwxdW1wcWM0RXZUaXVrYnFuYXNSYllNUHZYbkItQl9lWHlCQl92QkwwaExtamREU0wxNXN6ckVSV2l2OGxVWl9iSTlCczRSaEdraGptVEsyZTIyaXpfa3Q3QWZONV81bWw5OTB0Q2toTUxnc1JWbXRHZGxsRU5xejZSMmRsc0hxNkhiUnhPMEY0TFJPeVFDWk1PNkcxNVg?oc=5",
+    "source": "WION",
+    "company": "Meta",
+    "published_at": "2026-10-26T22:10:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Meta의 AI 베팅 비용 증가: 95억 달러 규모 주식 계획이 의미하는 바"
+  },
+  {
+    "id": "a2f598d96b2a0a20",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pOTNhSUYxckRBNnBHTDJEV2ZPZ1M2ZmFNclFvUEk0OWZOakx3UEJzU1ZETnM3VVFMMi1xYVRlWnNoZ3ZyZGlQOFhiaGRuX0c2dXNSVlhBQ0FHWjRMTFY2U0FmNnh0akNQOXc?oc=5",
+    "source": "OpenAI",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T22:05:13+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Greptile, GPT-6 Astra로 코드 리뷰 넘어 버그 탐지 확대"
+  },
+  {
+    "id": "3944fd787434bd9e",
+    "title": "Canada’s Push to Replace Starlink with Telesat Still Depends on SpaceX Rockets",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFFnS0RVNjE4b1NQNUYwcWNickpGSzkxMDVBUVJ0UkdhSUk2Q2dlYk9reUdiWW41cWNpYi1OYWVPTEVrVWIwdWk1NWFhZHRfcG1tS0RYUXA4Vklwa1o0X2M1aF8yY1JKR0VNN0xfR2dxS28xb3d6c1hiNzA5Qnd0MkVyOFVYWk5TY0FTdg?oc=5",
+    "source": "Drive Tesla Canada",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T22:02:37+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "캐나다의 Starlink 대체 Telesat 추진, 여전히 SpaceX 로켓에 의존"
+  },
+  {
+    "id": "3860e916dda2ef4a",
+    "title": "Meta plans record $95 billion fundraising effort to fuel AI expansion",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDdwOG9lNzRXR2FMUnlsZjNJMVFMT2YwbFEtRElKQnhzRngzRXl1dmYzZGVTY29NUnpwX1FsTVNyQkRxWFpSS0dqVGpvR3pxdVVONmdlc0pPSTY2dEVtdnJiaThYTnpRV3d0Qkl4U0dXaG1BMjB1REstMExqMjZLcHB5ZEdmNjRUcDJQS1VsSFpVRkhmSEVTdTJ6bVpBOVRrci1VX1NTNnpFVDNvblVYdk1yQ3pEbGE3RWJNdA?oc=5",
+    "source": "The American Bazaar",
+    "company": "Meta",
+    "published_at": "2026-10-26T22:01:24+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Meta, AI 확장 추진을 위해 기록적 규모 95억 달러 자금 조달 계획"
+  },
+  {
+    "id": "d715af0f150c2693",
+    "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWlKQmJQMTNLR2pEaTY2U216UFBxc0huZDlzX2NGeHVkTlJwQ19BLXdqSHVzRG9kaDFuT20xMzlqaDktZC1SRk5UQ3VhQWxhbUlSaFhVVlBza0xyNE5Pb255TGdZZlB1UThEbGg4VWRaaUExN0RGQTlDd1I0SDdFdDJhb0QtQ0tja3ZmMlJ0YlQ?oc=5",
+    "source": "Dark Reading",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T21:56:32+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "위험과 보상: AI가 CISO의 역할을 재정의하는 방식"
+  },
+  {
+    "id": "635877b6153a4b5a",
+    "title": "Anthropic Founders Say They Will Keep Claude Free of Advertising",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcG5GYXdaM3NGOVloOGM3YmYybmVIQ2wwWWlySERuQmJqVk5UcW5Xc2ZGVXZkelFTRkxPYjdYX05JeklRUk5Gb3NvYWlpWTRNWEhxUHBFekZnQkhSWmJFVllndVZVb203ZS1nSlZZeVdTWUVDQlRyQ1BMcm9qajFaLUwwYkVsaExmVUNIeHVVR0ZOdmpNZnVnUU9QTzlpQQ?oc=5",
+    "source": "The Information",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T21:56:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic 창립자, Claude 광고 제거 의지 표시"
+  },
+  {
+    "id": "b348964fe629bd0b",
+    "title": "OpenAI releases GPT-6.1 Terra model upgrade with improved speed and lower cost",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVzdqNFFxY3ZUX3FUNmkzeDRsblp2a1B0RWd1Q0N0N293Q2V3U1VPaU5FQXQ4VDRsTFNrSEVWdG9FNHVxVnVRMkJKQUxQRXNqeUFDMzVsa0REdkNIVUtKYzdRS29rcU5MRUtlVjFWTVRKYWFJV2cwVl9oaThEWEtZWUdCTGpKQQ?oc=5",
+    "source": "Online Tech Tips",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T21:50:52+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 성능 개선과 비용 인하를 반영한 GPT-6.1 Terra 모델 업그레이드 출시"
+  },
+  {
+    "id": "77dee5efb4714078",
+    "title": "Anthropic says its AI model Claude accessed public voter data with prompting",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmVwVGx2VUR4dlU5eXhnb193Sy1DZ0tBR1JlNnpxZU9Sc056ZGhoVFM5M09lWDhzSmQ3RDZsVHRIRDQzcURIVkpaMnVHcmZucVBUbHdUWHRBeHpCbXl6RlI0Tjc0VWthZmZDVDhuS25BdkpvU3h1V2pvOEMxMjdTWkhfal9HVENVeDZWVnJQNkgybC15TndkcFJCTFhTemxjUXVRS2VNVHJtdGpPaW0xaW9jcw?oc=5",
+    "source": "CBS News",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T21:50:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic, AI 모델 Claude가 사용자의 요청에 따라 공개 유권자 데이터에 접근했다고 발표"
+  },
+  {
+    "id": "358fc46bf2bd88ce",
+    "title": "Rhode Island is first state to sue Meta over alleged profits from scam ads",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmpXRHhLeThqaU5xRThQLXV5XzQtNm1jZXR3VGUyc29jWXRxbUU3XzNpQV8xSHZZemVzMEM3SGxfcnBxSDhPbG8yXzRWTng4Z0JUaTVTRFdhUU56QzBvN0kzLThNX2RYME16OGl0a0NTVk1HQkhWWkpfVjhQN2VkQzVEX2NHeGszbGJIcEhkVHl4R3RzaWMtWDFrdHFIT2t2ZTUwdHVKRXV5c2tKNUN5S2QxQnBnWmpC?oc=5",
+    "source": "Rhode Island Current",
+    "company": "Meta",
+    "published_at": "2026-10-26T21:46:59+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "로드아일랜드, 사기 광고 수익에 대해 Meta를 상대로 소송 제기한 첫 주"
+  },
+  {
+    "id": "1941e9f7f851a4bf",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTC1GQUF5NlJ1MHBZcnk5RkN1M254dzUzN3VJM2NyN2JHTGo2OW5ORDlvN0oxUk5IMmN4NS1GMjE1bDhndmh0X2xRNExDS19RNmNSUkJ4LWhsQVBYVEppNElBdi1vaEwxVV9DcmNEdw?oc=5",
+    "source": "OpenAI",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T21:46:26+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "GPT-6.1 Sol, CodeRabbit의 복잡한 코드베이스 보안 강화 지원"
+  },
+  {
+    "id": "a99d6d420c3ac8a6",
+    "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVU2V3Q0WElDSlhyRGJBS3IwMkRidWZHTVk4dmhNWWt0d2tMRlFTWHVjU0E1RXkyUlMzZ05YSzFWcnJYU1p4MUlhblBqcy1PeTJPWXYtaF9VUHJoc2FCYUhITUZPVHhsM3NRX29zSEpFSFRSbXpodEcxVGtvYy1pWnZ3?oc=5",
+    "source": "Decrypt",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T21:46:02+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra 출시…절반 가격의 준수 수준 AI 모델"
+  },
+  {
+    "id": "a63a8b4304031390",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHJjRElTTVd1TFppMk1PZnBuZjdYaFNuLVZUU0ZDTUdlYmszVkM2RUNQNmk4elRxclp2VDE3RE9XSVY4YjVrUGlGZDRzUFg2THg5R1Q3cnNkMF9WTXBJTVRvU01pUlVOZlU4QUVNZE1MN3lpNHFOMWYxVl9nQURNU0RaT2lBLW5hYnc3NENDX2R2V0xEMjBEQlFpYzZJVzg0Qi1tSmNhR3J1YzhO?oc=5",
+    "source": "The Verge",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T21:45:31+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic, AI 붐을 먹여 살리느라 자금 소진 중"
+  },
+  {
+    "id": "7e4916da69775fbd",
+    "title": "Apple iPhone Duo vs Samsung Galaxy Z Fold 8: I've tested both passport-style foldables, and I still can't tell you which I prefer — but that's a good thing",
+    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPOUhabF9meDVMQWVCekU0bUEzMVNJNjFYUXNRX21PNTNmTGJsckhxMFlDX1g1NkVkcXV3eVg4dW43cjNDV3dGdzNqQTc4MWd1bkdVU1pYZUxvZ3dKQURPSW1rSURJRVdIaS1YbW13Ykc2YjZMa25HR3ZscEZIV25HRGw0RGQxamluSGt1di1rcldjaDNva1JUQWNGc2V5QlRYT2NRekZVbHRiMlh3anp0QXQ4OGlJWldMdjRpemZnVEQ2REotUGgzUDJKVFVJM0hkVGR5NFByY0JUN3ppSmt5WUxvNVpWZUVUUGgwb1c2MzBITzNxUHRsblFhV3dMT0V4WTFQeGlGb3JzZzJUMHFtck1mS3cwQzBNLWpLT0d5b29jYl9yVlMzTml6WQ?oc=5",
+    "source": "TechRadar",
+    "company": "Apple",
+    "published_at": "2026-10-26T21:45:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple iPhone Duo vs Samsung Galaxy Z Fold 8: 여권형 폴더블 두 기종을 모두 테스트했고, 여전히 어느 것이 더 나은지 말할 수 없다—하지만 그것은 좋은 신호다"
+  },
+  {
+    "id": "98f91a9e251ca5bd",
+    "title": "Working with academic communities to build scientific understanding",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5",
+    "source": "OpenAI",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T21:42:50+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "학술 커뮤니티와 협력하여 과학적 이해 구축"
+  },
+  {
+    "id": "6031f06c58ffe6af",
+    "title": "Boost Run stock surges on AI infrastructure deployment",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMSlBmM2RUcTNDam5kT0NVLXY2Y2dtYzBPRnhKUUhuX2hGWDlNNHpYbWd3VWNKVGlvbFNCc1N1UGVHcWdOblVraHU4cmwwVE9pckZteFA3SnJ4STNfS0tXNUlkSF92d3d3QW05eFM2ZE5ReVpHQzBpMVdobVB4ZWM?oc=5",
+    "source": "Yahoo Finance Australia",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T21:42:14+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Boost Run 주식, AI 인프라 배치에 급등"
+  },
+  {
+    "id": "7772163664ec69bd",
+    "title": "Is Meta Platforms (META) Undervalued Following Its $35b Capital Raise?",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0QxUl9FWlh5STZWNkszdjZxNk9HbjlRZmhDbEFKdEMyWWhBQV9UZU9FbHhRMFhMRHViRy16LWdNcnQ0T25rMmlqaUo1QldleDdpV0o1SV8zblQ3UENsNG8yM1VfTUdNQlQ5TzZqS3NFRzh0bUdjOTN5STRDSm1GOTF4bVhLN1pvRUtQVXVRejg4eGRhcmE4ZTQtV29RQ1JDR2tSZE1XNWlQWFJpX09weVdMQW9kRGdyakNhXzlycEhuVXdjN3I3ZlN30gHPAUFVX3lxTE5reU5ZcWxNRUkxdm91cXNPa1ROdlJZSUJBejRRRlRFZDR2NVJGMlVKbWdpMHBVTm1lRlBDWXZtdGZJS0ZTVHZhOHVxT1gtWHl6Zk5lRGtDeFNiUlJOTXFnYVRGVFNEMnZkQXRHa3Z5MVFndmRrZzBSd2NEYUxCRXFmR2dlYTV2QlNuOHZQRjlfX1VTUXZWdkNXNV9zQlJQRkRfZWpla3lQcW93X2xfZk1sV25NSExock5yRG5HUHlvT0xSTE1LNXI1dVdNaWZCUQ?oc=5",
+    "source": "Simply Wall Street",
+    "company": "Meta",
+    "published_at": "2026-10-26T21:41:04+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Meta Platforms(META), 35억 달러 자본 조달 이후 저평가 상태인가?"
+  },
+  {
+    "id": "61cc666153a10dae",
+    "title": "Don't wait to update: iOS 27.2 brings security fixes over 130 vulnerabilities",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjZiaUFQNGw3LWRrUVlFODFhcm94UEZnZ3FqTHpqT1lzYmp5YTNUWlR6NG1kMzQwU2s4NDEtYS1fNDBodnlUOFFEbVhLNXlQeWtWT3RQaWtUNEtUZDRtVzZNU1hNU1RXaWNwZUk3MkZvZ3NVODJoOXdUOUdtUzVlV2NiZjlFNUhmclczaFBmdDNwRjJiajdMLXg2UDJhRUVTczJsVWRhVU5WQzRoNzJkbnFHVXFsWElO?oc=5",
+    "source": "AppleInsider",
+    "company": "Apple",
+    "published_at": "2026-10-26T21:41:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "업데이트를 미루지 말 것: iOS 27.2, 130개 이상의 취약점에 대한 보안 수정사항 제공"
+  },
+  {
+    "id": "f5279ab8880c2f4d",
+    "title": "Opinion | Elon Musk, Starlink and Vladimir Putin",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVBtMWlPTUl4RXZqNWF6VUlMNDJ1TEcwVWNxRWQ4bVZXV3JpNzBuSklmM0lFU2JSR3JfcDJZNEZjczZuR2RFX0tWZ1pYQlZMVy1GdEpNVGdjTVZ1LUVzQ0hlSkdyZjFjS2RORWpEVVBxcEhGZWNTZUl1WmM1b0tIUlc4RDBvLVN5NWEtd2JTcllvQnpiZUhTeDdmS2Q?oc=5",
+    "source": "WSJ",
+    "company": "Tesla",
+    "published_at": "2026-10-26T21:41:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "칼럼 | Elon Musk, Starlink, 그리고 Vladimir Putin"
+  },
+  {
+    "id": "f9c2449e9ccdd299",
+    "title": "Xbox Seeks Partner to Help Arkane Lyon Finish Marvel's Blade - IGN Daily Fix",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYThQTDZra3d0WmJ0QkFJTnFLencxMHFOdWdKa1g4dnlNREJEZ1VRUkxUUzc3eENKZW42MjdHcmNkSlhRUWRvNUdQV2lIMHdMTFR4VTgza3FSRWlWT1ppWjVZalJoZllFbDFzVEs2akdLcTRXNTZvZW5mTzdjRDZEcm9qZEswUXhvd21yUlhkU2lKWExzTEZIR1UwVEVmOGNQalQtcW8tU01wcmVCdU5YSUVrRQ?oc=5",
+    "source": "IGN Southeast Asia",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T21:40:53+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Xbox, Arkane Lyon의 Marvel's Blade 완성 지원 파트너 모색"
+  },
+  {
+    "id": "e4bab1470d76f2bc",
+    "title": "The Apple iPhone 18 Pro is (almost) free before Black Friday — how to claim",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2Y21QaW9Fa25yREt0enNHcElVenhIMVFTdHg3cjN3RFhTWXZndDd0ZmM3VHhNQy1iYnRQVE5EV3BLMnBPU1FzeHB2RlRmQU50ajYzUmU0UTIzcEdUWTdDNFMwejZVc3lKOEE?oc=5",
+    "source": "Mashable",
+    "company": "Apple",
+    "published_at": "2026-10-26T21:38:06+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple iPhone 18 Pro, 블랙프라이데이 전 거의 무료—청구 방법"
+  },
+  {
+    "id": "bf2304c3a2331ade",
+    "title": "Neronha Sues Meta Over Scam Ads on Facebook and Instagram",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0lKSFkzbFpLSDlUdXZPTk5wTXRwLXBqVDA3ZUVpVlV3TmpBSTNCTUhpX2FGcVFJLTRnSGs4Rl83T0RpMUdIS01TWnZRdDVLVFZEeGE3MEhGMTBXLTI2WXp0akJmdm5uVklSMHdqNGZ5RmFDbmJCNml1eUFud2VQcUtla29vMVlSRXRRM1A1MmczRWpkQzZ5TWMtT3BQUQ?oc=5",
+    "source": "Uprise RI",
+    "company": "Meta",
+    "published_at": "2026-10-26T21:37:47+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Neronha, Facebook·Instagram 사기 광고로 Meta 제소"
+  },
+  {
+    "id": "e744f5895dd34b02",
+    "title": "OpenAI launches GPT-6.1 Terra at $1 per million input tokens — Openai 6.1 Terra",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BLTN2MVJRNmJsRHN5UDRBeDhldzNjYUJDdWxVT3lmOU4wSWpjZ2l5MnN1c0dqQlo1Z2NrRzh0d0ZNM3pHVnBPTUdNaGdseE1XZ1RF?oc=5",
+    "source": "شبكة تواصل الإخبارية",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T21:36:39+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra 출시, 입력 토큰 백만 개당 $1 가격대"
+  },
+  {
+    "id": "974b06847b9808cd",
+    "title": "OpenAI releases GPT-6.1 Terra with impressive performance at massively reduced costs",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdl9jcGpvUEZkbTdFNS1FTFRVaDNoR3Ywd2d5Sy16WU9uWW1HeE5IRHNaenMwM1ZhcUJnQ0x1akg0V3FLdVE1V0RscktoLUpJekwta3ZYNEN1VW9UbnIzM1dfX0ZZX2hLU291TkJteDNwT3lIR0syNEJNdGRKNkRBT0phS1FkZTVSS3R1QV9hV3I1eFU5dUowbHlSSU02ZnJOUnpPTlE2d3ZrN3lua0Ftemdn?oc=5",
+    "source": "Neowin",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T21:36:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra 공개, 대폭 인하된 비용으로 뛰어난 성능 제공"
+  },
+  {
+    "id": "7183e527550cf849",
+    "title": "Apple confirms iPhone Duo inner screen fault and offers replacements",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWxwUkdEWWJVMGtNQk9pWDd3YlhOanBZaWpPMTdySVJXaGhwZE9jNGEwcF8tR2xTdmVhWVZETzJpTFVFZVlBSkl0OWFXQTVMWkJWNFp2VHhIN3ZIcUdjQWNqSHJneHFQd0RxUTVBZkx4NEV5SjBHczBja1pNZVV6TV9ycG45VzJFQTF3Yk53?oc=5",
+    "source": "The Next Web",
+    "company": "Apple",
+    "published_at": "2026-10-26T21:32:28+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple, iPhone Duo 내부 화면 결함 확인 및 교체 제공"
+  },
+  {
+    "id": "a05dee873d4c4af0",
+    "title": "Musk Says SpaceX Closed a Starlink 'Loophole' as Ukraine Reports Service Restored",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOak92RmpPdUxrVmt6blBCWmN0TnFQdFo2WERhMl9FTjZzUmJBbV9ncC0xd0llNHI0YV9DQjBzU29ILXlCaE4xSUNvR0I1OFlOX2ZacnFGbk9adjYyWU1pT3BoVnJMb2o5aEkybGxQX3hKdjlxak5oSENUZ2wwVHpoMngxVzdMMlhVc25wenltbFJrRTBBSmE3UHBvUmxZM3RjeFY1dExvZTRqZ1BYLVJPcC1nYlpfZktkQUtNTzQ4dw?oc=5",
+    "source": "The South Shore Press",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T21:31:30+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Musk, SpaceX가 Starlink '허점' 해결했다고 밝혀... 우크라이나 서비스 복구 보도"
+  },
+  {
     "id": "5918826a69eb6939",
     "title": "Here's what Microsoft's buyout offers actually include",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0bGF2VkRBc2ktcUdMLUpOZV9JaFlmUGRnNk5wMS0wb1R0aXJVN1JhVXZTaWNoczRrbEpmZVdVbkZQMGtYeG9RLWVOMFVCMHBTTW84MlBPRm5GTlJ2NmFsbVpXWlBseS1MT3I0YVR4dDRVSGxnSzhzdERJaw?oc=5",
@@ -50,6 +1060,26 @@
     "title_ko": "NTT Data, Cisco와 협력해 AI 팩토리 확대 — 기업 AI를 파일럿에서 실제 운영으로 — 단독"
   },
   {
+    "id": "8ce9a969d23480a9",
+    "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjV4MjBtaXZzVGU2M0ZiQU14UmItU0pvNGdxTUhfVkpLT1U1T2pjOVhYTHI1ZmpqdUhTSkp6RVduUlV3Q2tuX29DOHFVN1FzUGJQX0plOGNkNUwxNDEwS3ZTaE1BS0RtOFdCZ2pWb2lfNG5pd0k0dmgxcEFOT2dqSl8weEVzY3U4UjRPYWNUUE1HV2VzZVZEeHdTVzFrNGh5Q3U3UHg2VjRFaEk4ckhNLUp6TmFXOF9VSTFqN0NPSEdnR0g1WjROTW9OdFJQRWJ4LWdlbg?oc=5",
+    "source": "TradingView",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T21:23:32+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Injective, Nvidia GPU 렌탈 비용 추적하는 온체인 선물 시장 출시"
+  },
+  {
+    "id": "fc66358ca1fa0f39",
+    "title": "Video: Astronomers Create Detailed Simulation of the Early Universe",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckJpYUNwZXdUWXlCOGlCM1BJLXJVMG12UlNNZ1RYR01wb2k1QW9NN08ydWVVemc2ZjlrV2M2WjNrME1tSXdGd3QyZVNvU1UzUjAxOGgyZzA3Z3E5cmFDbldhRExReXpxRVJwd2JPcDVpZm1ZZnJSakhPWWFfV3IxVHd2ckFQOTlZWWZtS2hn?oc=5",
+    "source": "The New York Times",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T21:22:50+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "영상: 천문학자들, 초기 우주의 상세 시뮬레이션 제작"
+  },
+  {
     "id": "ef7439761624372f",
     "title": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGplcVV3cXREWkI2RkdjaGU1YTl0WjJMd3V0dzVjTExDT0NFVGN4MGx4OFUxX2ZWWHMzNG9CYl94M0dDYjR2c2R2QzBZOEZ0c1h3cWRlX1FCQV9EUkcxOFFweXUwQmMwYzg5NmhZQk5YUzlYN0NPQkxuMFB4WGxwaw?oc=5",
@@ -80,6 +1110,16 @@
     "title_ko": "Apple, 광란 같은 출시 이후 불과 며칠 만에 $2K iPhone Duo의 화면 균열 보도에 대응"
   },
   {
+    "id": "75dadc4b71c1f02e",
+    "title": "iPhone AI Images and Edits Now Have a Hidden Watermark",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOaUZqbVZIczQwRklNejQwd3JOU0l2ajRBdTEtM09JYVBUWDloQnBDX3hNR0Y4RUlOaVZrbmJpVm9ONWktWUFmVHVZWkNLQlk2MzlkSFJBSi02S0tIQlpmRGJaVm5uOFREcVd3ekZNbW8?oc=5",
+    "source": "MacRumors",
+    "company": "Apple",
+    "published_at": "2026-10-26T21:15:02+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "iPhone AI 이미지 및 편집, 이제 숨겨진 워터마크 적용"
+  },
+  {
     "id": "8114ad6f7d11fade",
     "title": "Wall Street rises as AI stocks keep swinging",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHIxNGRubVBPWkRHVkp2YkZ0ZXdjeEpXcXVPV1YxUDVWc3BuUDdpYW9CcHIySm5Oc2xGOWFGYjNLMDFsaElSZGxIeWF1cUlSblZUdnc2aDNmd0V5eXE5bkRqRUxMRkZKSEl6eC1jSGdHczh6NXJ2QmJsekQ2V2w1aUZKYzIyeS1N?oc=5",
@@ -98,6 +1138,26 @@
     "published_at": "2026-10-26T21:13:04+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "공군, 병력 보급용 '로켓 화물' 시험 추진"
+  },
+  {
+    "id": "839b65c0b50ef3f9",
+    "title": "Vertiv Simplifies High-Density AI Infrastructure Deployment Across Data Center Environments",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmdHTzNwaF9YUTF0NGpBand4NndCRjdWeFhqZTd0MHlzaGQ5c08tR1N2R1k1X1Y5bGdrMjczUm40N3VsQlRsMXZGMnlJZjR5T20zWjdpUzBjSWI4OXR3ZzBhUjlKcmNSTVdpc2RxdlVpci1XSkphU2xPV0tHeTAyM1RoWFZJTU56Wjg4b0ctaWpNWDZsM29RNDR0ZzlJUQ?oc=5",
+    "source": "Yahoo Finance",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T21:12:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Vertiv, 데이터센터 환경 전반의 고밀도 AI 인프라 배치 간소화"
+  },
+  {
+    "id": "7f0270aa9eb7e70f",
+    "title": "Yes, You Can Still See ‘Musk’ — Here’s What’s Happening With the Film’s Release Plan",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkNlSEJ5UWtDOVg5Nk94bUhwWGdoYkgwY2xUMVZJT3N1YWlJVEdiaFM5emlYdTktSzZpcWtyQlQ0X3RESUxGcThiNHJPLTdNa2ZYU1R2cjZaVndWT05ha0RTaFh1VTlFYllHczZCRXNzZjlUZnhNb1Y1X2c0b2JINGhoVlZGZDFjeTFodmpfRXlrZFpVWjh5X0x2aFl4N2pGUnc?oc=5",
+    "source": "The Hollywood Reporter",
+    "company": "Tesla",
+    "published_at": "2026-10-26T21:11:50+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "네, 여전히 'Musk'를 볼 수 있습니다—영화 개봉 계획에 무슨 일이 일어나고 있나요"
   },
   {
     "id": "b79d0e790b179c72",
@@ -210,6 +1270,16 @@
     "title_ko": "Apple iOS 27.2 업데이트, Siri AI 대규모 업그레이드 및 FaceTime 듀얼 카메라 지원 제공"
   },
   {
+    "id": "0394e80592e5f944",
+    "title": "Surface Laptop Ultra Gets Its First Firmware Fix for Flickering and Slow Reboots",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMG5YemlwTGc3UkRaUWZCdVRFT3VZMTMzWlRqYVRNcXpJMGNFSlA1VVR3aFNsNlNqQmFQRjhRN08wSFNJdDU4VE56dVNrcUVURmNCSzVUemltRGJEVERTRVRZa0VzTkE2bFZnLWw1djdMeWw4aDNhUnB2WlNqVmZqcHlMZ3FsbXJhbVVlWlhQMlpIMUUtcnFnODRPNzZoUTZuZ2t6eEtlWFdjLU5vb3ZoWmw2WXdDTnBBQzJF0gG7AUFVX3lxTFAwblh6aXBMZzdSRFpRZkJ1VEVPdVkxMzNaVGphVE1xekkwY0VKUDVVVHdoU2w2U2pCYVBGOFE3TzBIU0l0NThUTnp1U2txRVRGY0JLNVR6aW1EYkRURFNFVFlrRXNOQTZsVmctbDV2N0x5bDhoM2FScHZaU2pWZmpweUxncWxtcmFtVWVaWFAyWkgxRS1ycWc4NE83NmhRNm5na3p4S2VYV2MtTm9vdmhabDZZd0NOcEFDMkU?oc=5",
+    "source": "TechPowerUp",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T20:52:01+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Surface Laptop Ultra, 화면 깜빡임·재부팅 지연 문제 첫 펌웨어 업데이트"
+  },
+  {
     "id": "2d1dc7d8be667692",
     "title": "Tesla Isn’t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjRfMmVucXFSYXJ4bS1FazRfZUVHR2JzWV9ndjc1b0phV0p4ZFB3eklsZHJWdC1DeXNyRjhjRzl5eGgydUhlOTJyLS1vSEdkYUc3aWUwQ29RMmtyUlFRYS1paUFMUW1jeWxZTVRhck82WnBJQ1o3RTBKTlVyd254bkw2d0p5S0pzQzFUcXY1SUE5MTFMNGEwZ0kxUGlBV2JsY2lSOFFWZ0Myck1hODFlRWEyQjRNSGdiWDloTWs0QUs?oc=5",
@@ -218,6 +1288,26 @@
     "published_at": "2026-10-26T20:50:12+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Tesla는 하이퍼스케일러가 아니다 — AI 약세론자들이 50억 달러 자본지출 삭감을 오독하는 이유"
+  },
+  {
+    "id": "2ba0ae1a11e4be41",
+    "title": "The Best Meta Smart Glasses for Everyday Wear, Ranked",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjdoN29WY3JkVncweTlzRmtsa0pxaldSVFJ1bE9ZS2c3ak4xRFlGWTBTakpUc2Q4bWFmUzB0c0RFTHVkQkxORG51M3A4czlDVTd0c1R2bUZvU3N3YzUxRnQyY1VtYXRsSjZOcFVqYV9HSVZIR194WVJXWTZXSWtXNDBMYThlam92bmpVeGt3?oc=5",
+    "source": "Popular Mechanics",
+    "company": "Meta",
+    "published_at": "2026-10-26T20:49:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "일상용 Meta 스마트 안경 순위 평가"
+  },
+  {
+    "id": "2c9469fc15222a46",
+    "title": "ChatGPT Voice Beats Gemini Live & Grok: 5 Tests [2026]",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUtMdXdiNmxOV3ZqVnYzTVJObEhqZTROaWx1bm4wQWxSMXlBdUxnOGg0U0xGV0lJYUNpRjhFMHA4NVVUMVRmLThhZllkaFlYazZMS2FWM1pqdVd2SnYxWENoQWl2TldaODRBMHlmd01DQlpQWU1HV2pIZXVkcmw1MDVveFRpSWdwYnp1VHotYw?oc=5",
+    "source": "tech-insider.org",
+    "company": "xAI",
+    "published_at": "2026-10-26T20:48:56+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "ChatGPT 음성, Gemini Live & Grok 제치다: 5가지 테스트 [2026]"
   },
   {
     "id": "6b4f267f1d48be55",
@@ -230,6 +1320,16 @@
     "title_ko": "iPhone Duo 화면 균열이 걱정된다면? 로봇이 부러질 때까지 접는 모습을 보세요"
   },
   {
+    "id": "69d80e92ccd3a687",
+    "title": "Tesla Cancels Cybertruck in Two Countries: An Omen for the Vehicle's Future?",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVRwNXhndDJoQzdZNWhUYVl6d1Zzc2dBX3M4N1poSnNqejl0aHV1bWxiZFJCR0g1VHV5WWJIT2hmcEFkZ0pHZklpczRoZXQ4TmVLU2pzV2dQbUpNYzdWSnN3TWNnaTRpRUNDU2FSeWRrMFhMVU1FR1FZTWVydXpXeGdZb2tFRWRlSWR3ZUhPbV9VVVdRZVBYSG91WGhNNWdNV0E5dUVzSWZuWEYtSVM4YTFlb3lBZ0wtSUNEOGJKUTdhRC1IdkY5T0VyVVY1WFRm?oc=5",
+    "source": "Benzinga",
+    "company": "Tesla",
+    "published_at": "2026-10-26T20:48:20+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Tesla, 두 국가에서 Cybertruck 취소: 차량 미래의 흉조인가?"
+  },
+  {
     "id": "1f514f45843c7fdc",
     "title": "New iPhone Duo Screens Are Already Cracking, And This iFixit Report Explores Why",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wRnlQOF9qZWo5R1h2NG1VZDJCVE9EVmhyS2RIaDUzLU02a0dUcm44Y0d1RFcwMWlJa2dPMnppODhGZnVSNnFtMGtBWjBSaUotanNuLWtHUFNFY2c1UDZjRFBtVWhTM1VDczc4T2FtQ0hGc1gzU1hWZnlFQVhwWFU?oc=5",
@@ -240,6 +1340,16 @@
     "title_ko": "새로운 iPhone Duo 화면이 이미 균열되고 있습니다, iFixit 보고서는 그 이유를 탐구합니다"
   },
   {
+    "id": "34a7d11a92587c32",
+    "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTVsMGhXeWxBdE9qYThMVkdXUWNZd21ZcWZpQnc4UV8wVW5QN0pBMWtNdWpHdTQzaVZmOXdJVHJaZmlmcDZoYVYxUHFwOXhtVk40aDhyYXhaVWJZRHhVOUVZcFdXMExWNFdtTzdFS2J1aC1XNER6M1FXa1hQXzJ4cEc5bE5GZk0tY1d1eHlKSlVCN0xmeUQwclFFY1FtV0ZHNU4xSExTTVh4LVdfb3lCU05uU3d1a3lPeU5yYjREbkZ3TUZuRnlEbVRZTkdVNkFkdVhkVGVoQWzSAd4BQVVfeXFMUEZPQlY2Ti1HcG1GZ1pzYi1VSTV3REFnaGlSbkZoX1BLbERvNDk2dW5OQkx1ZExCblhwTEFfOFMxMERmeVVnY0RyMU5rUTNCeU5uTFVHQXlzMnQxWlUzMTJIUi1tUWdsTFZUc2NVSHExbndjZGVlQ2JlS1JYeVRJRGNjTzRCZERFakdRcEdFclVaYnhmTmpvVENSemZ6cGgzWEpzNTVfNnhyUmZuZTNXWXRudlVOSVF5VEgwSy13cXJoRU9KY2pJS01vVmNJZWdxSkZqdGdaVHJpWkwxbk9R?oc=5",
+    "source": "BleepingComputer",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T20:46:49+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra 출시... 3배 빠른 AI 에이전트, 50% 인하된 가격"
+  },
+  {
     "id": "5b881d7948d6e99f",
     "title": "I asked Claude to explain Anthropic’s IPO",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBza2QxNFoyWmFrS01XUFNGR2E0NVVYOGhTSTdzYkxVaXM0cUdWc1BCaEVjWFdLNUw0eDJENzRwVnBmUkMxUEh3Y0ZkQktzeEJrWUs4QUVXTmhFRWp0a1ktTExrZXZrNGZlQmZCTWR1M2hOSGZBT0JN?oc=5",
@@ -248,6 +1358,16 @@
     "published_at": "2026-10-26T20:46:09+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Claude에게 Anthropic의 IPO를 설명해달라고 요청했다"
+  },
+  {
+    "id": "0f6497d1f376deaa",
+    "title": "OpenAI’s GPT-6 Astra pushes computer-using agents toward expert human speed",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBud0ZRbmVmaTR2WUozOEVTcEkyTkxQeTRGOEFrV0JQVmVDZU0wMmd1S3gzcENFSGpSZWJOSUtxSVM5MDAzMWpyX195UUFmQVRIRXlkOVlWSC1McjRpWDEwRjBCRUxPVHdiX0Y2ampqcW1TXzZN?oc=5",
+    "source": "Crypto Briefing",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T20:45:32+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI의 GPT-6 Astra, 컴퓨터 조작 에이전트를 전문가 수준의 속도로 견인"
   },
   {
     "id": "61fd31df44f31183",
@@ -280,6 +1400,16 @@
     "title_ko": "Anthropic, Google·Amazon·Microsoft 판매에 점점 더 의존"
   },
   {
+    "id": "d98dc0a5c6b4b071",
+    "title": "Fort Bend County Sweetens pot to Land $10B Tesla Solar Plant",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3F0eWJ2cXcxZ3dYcWlJX0poVTV4R1I3S2dNWnVaX1ZYN21PenlvSGh1dnRTM0lvT3o4Y2l5X1lVeEF4U3laSWltSjJfSnJiSm1VOE5kbDBpZGJ4Qmdpb2xCQlppX2ozaGhTSGp1ZnUyZjZmWWo0RUZvV3JoVkZaOWhRbEJXQld6U0Z2STNvMzJCNkZYcjVuS3VMcDQ4dmdpVzFr?oc=5",
+    "source": "The Real Deal",
+    "company": "xAI",
+    "published_at": "2026-10-26T20:43:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Fort Bend 카운티, Tesla 태양광 발전소 유치 위해 조건 강화... 100억 달러 규모"
+  },
+  {
     "id": "d4a6371eddecd0b8",
     "title": "Apple officially rolls out iOS 27.2. Here's what's new",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEUjFqY1RRTzZaNVhLYy11TUtVVmNqYTZERE4wZngxaU5FbDIwX1QwOUFwRkV3YjFySnF1U2FVZmRqdndhTGtPNWxHanhsQVNqN2RjbF9PeE8tQ3l5Y2hoLWdZZ2ZicTQ?oc=5",
@@ -298,6 +1428,16 @@
     "published_at": "2026-10-26T20:41:00+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "OpenAI의 GPT-6.1 Terra, 빠르고 저렴하지만 회계 작업에서 선도 AI 모델 뒤진다고 DualEntry 벤치마크 지적"
+  },
+  {
+    "id": "3b600c2fa690fdc6",
+    "title": "AI, Security, and Strategic Competition in the Indo-Pacific",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVnQwcXBhSnpOTzZONjBKV2hNdFFlY3Z3NWpqYnhIdUNyZjV0Mk1UOUwyUnoyQ2s1QnN1TVlpX0NCQ05PWC1zMU0tZkh6bS1lWnhRWDAyWFMwNlpmVi01eHo0SkZwMG1HUWtZOVYwYmRVaFpvaFVITkFOYmgtcmR6U1h1WExUMnl1MlVvd3hJZzdrQXB6?oc=5",
+    "source": "The National Bureau of Asian Research (NBR)",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T20:38:12+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AI, 보안, 인도-태평양의 전략적 경쟁"
   },
   {
     "id": "8ae08b7bc99c0df5",
@@ -380,6 +1520,16 @@
     "title_ko": "iPhone Duo에서 Mac까지, Craft가 보여주는 기본 생산성 앱의 가능성"
   },
   {
+    "id": "a28e95f447258323",
+    "title": "Ukraine’s Satellite Disruption Exposes a Central Risk of Modern Warfare",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORW5oa0pYa0hxVXNUWHU3clI2SjBESjJvOXlES0QyX3RuaTl6cnBaOTZZLXNneUMtODg5UWdXa1VVZTRfSnZ0bzc3X29MVGN0RGFxREZiODAtS2tBbnNFTGtJOHVBY0EzVW43TlRfWEhXbms5aXRmY2NnblBjOC05TDE2cldua25lam9EZkk0UU4xS040aHJxQ1paUGVWbUNlNld1ZGUxVTdSdGNO?oc=5",
+    "source": "Time Magazine",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T20:28:45+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "우크라이나의 위성 중단 사태, 현대 전쟁의 핵심 위험 노출"
+  },
+  {
     "id": "cdfc13592fb02a22",
     "title": "Patriots-Bears racks up 19.86 million on Thursday night",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlhoQkRQeU1EemhSMkZ2Z0xPQXhHb05tQzhsclFKV3NBTnlHcEFZTTc3R08wYi1iVTl6NEJtaW1sc2ZuN2dCVmFWQ0VYUzR3ZkhlX3R6M3JhS0RYcTkxVVEzakhObW1VVTJPZ1A5WW5PMFJKY1BIdEs0aFUydWtaSw?oc=5",
@@ -398,6 +1548,16 @@
     "published_at": "2026-10-26T20:26:15+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Scott Galloway, 350억 달러 자금 조달로 주식이 상승한 가운데 Meta를 AI의 '큰 승자'로 선정"
+  },
+  {
+    "id": "ddda142c62735716",
+    "title": "The Key Numbers From Anthropic’s IPO Filing",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0gwS2ZOLWduOWZzM1FvdFNodDZnTU91SWR0U1dCY2VxOGxQcXY0THNnanJjWFhYb054WXotQWlvNTYwa2g3aTVEXzllX1pfTHcyTGhZVG1NT25MSmwzd0xUQ1c3VGdJbGJ1OHZPSm53d05zc3g2cGV2X3JlaTRGY3c3U045cUdO?oc=5",
+    "source": "The New York Times",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T20:21:28+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic IPO 신청서의 핵심 수치"
   },
   {
     "id": "917a7529dcd6fc87",
@@ -428,6 +1588,16 @@
     "published_at": "2026-10-26T20:18:04+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Micron의 로드맵, Meta의 AI 인프라, NVIDIA의 공급망 전략｜더 서킷"
+  },
+  {
+    "id": "b47e429d065149cf",
+    "title": "Meta Announces Plans to Raise Up to $95 Billion",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmpQZmZiSElaTjFKcWhNYTlnZjZiQWcxcDVNcEFYbTZUOVd0TDBNOXFDc1VaVl9JUWFCc1dxOUdhMTc5TW9KZnJKNzZmeHluNWlSRUFJbTNZYzFQTko0WUJYczVYMllhQVpuY19nb3k5eGRoZ3VQUldqMk5RMzRpZ0hUcWZNUjg?oc=5",
+    "source": "77 WABC",
+    "company": "Meta",
+    "published_at": "2026-10-26T20:17:10+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Meta, 최대 95억 달러 규모 자금 조달 계획 발표"
   },
   {
     "id": "240c87ea1a617622",
@@ -468,6 +1638,16 @@
     "published_at": "2026-10-26T20:15:28+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "BNP Paribas, Copilot이 Microsoft 매출에 기여하고 Azure 성장한다고 전망"
+  },
+  {
+    "id": "533098438678cb6c",
+    "title": "Prime Video Cancels 4 TV Shows in 2026, Renews 14 More & Reveals 1 Is Coming to an End",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmsxZGVkVDV3RjdjU0ZMRk8tZkMzeGJsX0M5WXJOaWE3c01UVGxLZXVXN2swNlZCb1F4dkNvQzRXazhJTnFaSEFVdlU0Mng4X0xQdDB4cnNNLUx5aWZFckdWN1QycVRxVHBjdkl0YlVPb0htRzBJUkNsOTVfMUcxU1NMOTRIaWNXNVhlRllBcWU?oc=5",
+    "source": "Yahoo",
+    "company": "Amazon",
+    "published_at": "2026-10-26T20:15:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Prime Video, 2026년 TV쇼 4편 취소·14편 갱신·1편 종영 발표"
   },
   {
     "id": "33a64665ae4e824d",
@@ -568,6 +1748,26 @@
     "published_at": "2026-10-26T20:06:05+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "내 iPhone Duo 매장 체험이 거의 하나를 사야 한다고 확신시켰다"
+  },
+  {
+    "id": "61ba0dc7cf5dd515",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3M1cEM5QURPSDJPTVZRaW9hUXRyZzRLa2xCem1JZlJQN0pvX1p2OGNiRUo3RTBBRXJ6WDM2c1hZZVpubDlNYWJEeGt4cDJrckprVjFEN05QRFkzUXcxYml1T3pNckpJdFhHeVVGSldrLW5wWWYzb2xsM2FoZDdOMHlHVF9nZThlM0RuTVg0QldFMXY2MXI3cjJWQmlNS2tJNTNBeFRVR3M3WlIxTlVyLTd1TQ?oc=5",
+    "source": "Ars Technica",
+    "company": "Apple",
+    "published_at": "2026-10-26T20:04:16+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple, Siri AI 신기능과 새로운 Music 로고를 담은 iOS 및 macOS 27.2 출시"
+  },
+  {
+    "id": "600b8e993a184bfe",
+    "title": "Apple’s $299 Apple TV 4K draws praise for hands-free Siri and speed, but high-profile reviewers question the value",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSGk2RWZtNy1ZSVRPUmUwb0dFaU9ZcmFobXV3UUJZc2xNNjV4NThPUTlqdXhIQUw3czJwWWphaUJkcWFsQk5XOGhDMlNnbm03c0psZkRvLV9raWRlSEtITjdxMXpfVFdfRDduaXhiN2J5UUtEd1R5MHNRMmRDSFpnVjZLdnZkX2x3QzdIT0Q2aUpoZ3Y4endQczEyajY5VGtkVVpHVktOYWlrYVdqRXpNQzRrWlo4RjFKLUlfU185S00wS0ZXMGNEaVh4QVlFZHdnSUZRNllxQV9oVW5NM0dCa0pn0gHnAUFVX3lxTE5Vb2x1MlRreEZmOW5kSldXOWVBUEZ6OVZfcFoyUjFHY2xXUXJaUzhhRFFNSUd4UEkzU0c4eDNnc3l2aXpSZXIycDU2MjQ5M0NONzh0WkI1Y3JTanowd2hVSU9oWkZmaWZybDV2MWJjNDRMZUpkd1N4My1uWnFoUVhVNGlzLXNCUUtxQTJBT0ZOV3oxNUdXTjB1VUVWYkdwX1cxejdlaWYwNUxNTmw3ZngzUjNtU3Qyc1h5OThqOWFfbnM3bzVHWlY0TDItMGNCZXdoSG9TSGtPV2dmQWxnWXY0ejJHZzhmbw?oc=5",
+    "source": "MacDailyNews",
+    "company": "Apple",
+    "published_at": "2026-10-26T20:00:36+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Apple의 $299 Apple TV 4K, 핸즈프리 Siri와 속도로 호평받지만 유명 평론가들은 가성비 의문 제기"
   },
   {
     "id": "92960c112306f848",
@@ -710,6 +1910,16 @@
     "title_ko": "Apple, 오늘 출시된 27.2 시스템 업데이트에 더 많은 Siri AI 도구 추가"
   },
   {
+    "id": "175808f2b247d1d9",
+    "title": "iOS 27.2 Expands Dual Capture to Group FaceTime",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GLVFuQmdOdk0wUF95TDIyTUg1NVRVQzJaY3N3THk0Z0pwQkJOdHhFNGU5U2VpaXBIcnB6ZS14RThuWHZFQUtlMUh3R0Y5THlUYmNJNm9ZQXVwOUhFdVkxNEpxaVFKMWpYV3FrX3ZHQ1UxWE43Z284?oc=5",
+    "source": "MacRumors",
+    "company": "Apple",
+    "published_at": "2026-10-26T19:46:23+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "iOS 27.2, 듀얼 캡처를 그룹 FaceTime으로 확대"
+  },
+  {
     "id": "256b6c221a39bc01",
     "title": "SpaceX Fires All 33 Engines on Starship Booster Before Next Launch",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSDc5elpUZjZKQlRtS0dnMTJ0RTRhTWhqOEx2ZHQ2dGNPSlhvWENoLTYzRVgxLWltWUdTcG9BcWhjaUd2YXUzREdjcTN4TkpzQW1nN05JTEhsc0I4NURieHpMUDZlYnpFdmNtb0VNanJLYnFsMGxjMmx4SVIyNjlEVEVTbi1VLXNSVTB1WjZpVkltR0xOejVrbjFwQVhhTWtmb1RHSGd5ekVqQQ?oc=5",
@@ -830,6 +2040,16 @@
     "title_ko": "Apple, iPhone Duo 화면 균열 관련 사용자 보도 확인"
   },
   {
+    "id": "1fd9de97b773a6ea",
+    "title": "OpenAI releases ChatGPT work activity data across 100 countries",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFJjN1FEUVRvUWRrajZWWHBFODl3Z21yRW9kQTdodE5JXzhuMGNvb2ZGVy05VUp3bTFlMFd1SEcxdGlhQ0Vsd3M0YVpkUUxMTGE3cmVOTUkwMGhOVGZWc0U1UWtHZG95dzhrcWFBWk1iWmt3QldMTzhRYnJQTTliVA?oc=5",
+    "source": "Crypto Briefing",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T19:32:18+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, 100개국 ChatGPT 활동 데이터 공개"
+  },
+  {
     "id": "5ae3a742e77a383c",
     "title": "Claude Bypasses Georgia Paywall, Experts Debate Security Implications",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXI0RkxyYmM0SFZHMmVHWklzOEVpczNIYjZPdDNkOWc1ZjFaaFFoSGRwV0NBZkUxWkFVVlRKVnRjczc5bmttcHhNV3c2d19DT083RHp6SlFjUjB1NTU3dmkzclctV1A2d0pycWRHOU1SR01CbmdudHp3WjZ3bzZxeVNZZzZLbktsMFZtcjRIeFBDUGlZMnJibW9fNXNZcE9Kc0xaVVN3cTVVV01rUFlodkJYdUtQbkZFelVpSXRydGFrazZqSll1SnE4RHNaZHIwVmNZb3BsUQ?oc=5",
@@ -870,6 +2090,16 @@
     "title_ko": "Anthropic의 급격한 수익 성장, 급증하는 컴퓨팅 비용으로 상쇄됨"
   },
   {
+    "id": "1daf22df5a4bdd05",
+    "title": "AI fills front office staffing gaps, but who manages the AI?",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblhCSDVxU2RHcmVZMGRMLUw1a3l5ZTJyNm1yYzJHNXNscy04cVBzcHpHWWJuN3lTcnY5bThaaFJOZDBjeV9fUG1tOUR6am04X3lmaGVYRlN4V3JHUVNIR3FkcS16OEVPMERWdm5zdzNlUm5nQkRQSlVxY0xZMmNiVjk1dXc3Y0p5YnVndUVhemR0WUhYZExNQXg2QkNfZGdfLUE?oc=5",
+    "source": "TechTarget",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T19:25:59+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AI, 프론트오피스 인력 공백 채우지만, AI를 관리하는 사람은?"
+  },
+  {
     "id": "c2aa6c3d78beefd3",
     "title": "Apple TV carves out position as SVOD for premium scripted hits",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT25jVTdReGdYSzhKV0NmZHJ6M29EanRKNERVbWdxa1ZtbXN3Q1RrTHBHbE1MOE00UUtDYVdKbDVwNEVFejdrRzZqY0dCRWRwSkYyRnZ6aUhlWTVLeDhDamttWUk1Q19QVU1HVnVuc3JqOURhYUk3T0dxUUZHTXBhcVRiREZIeGlxSFoxN2FKR0ExTkpzUkZhSUxJdw?oc=5",
@@ -908,6 +2138,16 @@
     "published_at": "2026-10-26T19:23:27+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "SpaceX, 캘리포니아 신기록 달성 비행에서 로켓 발사 영상"
+  },
+  {
+    "id": "aceed07805bf5304",
+    "title": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX09XVmlSS01jT3lubFZUV2pxODhTM3JaOFpwX2k1cVNEdkItaFNCcGtNU3dRSnV3eXVTZ19JRm5pcGRFcDIxLVNLb3U0QkxZNlhSU3k2U05vZndadGNtb3FrUzhoUFNhVWpPYUVpX1FxV0hjejJiRzB1M2w3MzJSdUlDb1oxZENReEFmdE1qUU5HUQ?oc=5",
+    "source": "The New York Times",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T19:23:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Elvis Presley 음악 소유자, Anthropic을 저작권 침해로 고소"
   },
   {
     "id": "0f4bfc9189a6c214",
@@ -988,6 +2228,16 @@
     "published_at": "2026-10-26T19:17:32+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Instagram '피처스', 장편 콘텐츠와 와이드스크린 영상의 시작"
+  },
+  {
+    "id": "1a4ebcdf2d676dc2",
+    "title": "Anthropic’s S-1 risk factors include human extinction, the Pentagon, and Dario Amodei’s reputation",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2FOZVp3R0Y4M2dWMEVPaVd4WmVfRjR4ZV9tR2RNVElFNDE0QTJsVmtCaXg4a0Exb2xkMGkteVRmZGktYnBHNUdXU19NMXhvdTF6VTZTaVZ1OFpDSTVjdFBzNWhpRVkzZ2pMeW5WV2FhY0dlTzNrazJzaUpTTThPaGxZWHVUWXhMQ29DcFd1M0E0M2ZXQ21kdkFNTQ?oc=5",
+    "source": "Fortune",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T19:16:55+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic의 S-1 위험 요소, 인류 멸종부터 펜타곤, Dario Amodei의 평판까지"
   },
   {
     "id": "d8f2c90619699bda",
@@ -1110,6 +2360,16 @@
     "title_ko": "Windows 11, 곧 중요한 새로운 개인정보 보호 제어 기능 추가 예정"
   },
   {
+    "id": "94113f4832d45ee8",
+    "title": "The AI Arms Race Nobody Talks About",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNERVTE1qV09vZkVuYlNJQlRxQXNyS3RtdXpQVFRGRkhwdHZIZVc0WEdXcHppUl8tdUVGX0ZrRi1ZbXBDNUdBSVRvTEN4TlVfSkpsVmdTWVNXR0huYzNmY193WnRyYl9kTEFtRnJaMUJRaUNKTzBSWmRYdE1hcDUyc2xfUTVxMXVUYXoydmJYbnBaS2tj?oc=5",
+    "source": "Entrepreneur",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T19:03:25+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "아무도 이야기하지 않는 AI 군비 경쟁"
+  },
+  {
     "id": "3dd5b53602ff1d74",
     "title": "Analysts Mull SpaceX’s Reported Interest in 80,000 Tower Leases",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDlkcTVYclg4NGdiRkNoU2phOUdydllMMDh5MS1Nay1jN3dNM1JsTnZQRTJQTXd2Sk0xVzNtTzJrRFBvYnZQQnRTOWd5ak5rU21RWDJsTE83M01vU3JOaEx4NUpubVVmOFlXcXl6Z0F4Mk9TaUl3Qi1MSTc0QjZhUDBCbUVIbXdvZXdqTU5DaGpqalh0a0huQVF3?oc=5",
@@ -1128,6 +2388,16 @@
     "published_at": "2026-10-26T19:02:24+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Ray-Ban Meta와 Doja Cat의 다큐멘터리 개봉"
+  },
+  {
+    "id": "2d44f44971bedbab",
+    "title": "Rhode Island sues Meta, claims company profited from scam advertisements",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2puQU94NzhpYkdRenBDTlI5aDQ3aW9SOVliNFVBa24tNFBMdnRKb3NBQkgyaXRFS3hXMUdTZzZhaXNoeHhGSUk4NmZic3RNQWtpcjhzRXo2SVJJd2ZkbnVnNjBhMDMwMzRoNW1UZGlXd2VMUUQwVUFtbnFaU2VhbGZLZzZscTBWUUI4VFJXb1h2R2Y2b2lMUVEzYVl5Mktt0gGgAUFVX3lxTE5Pam5BT3g3OGliR1F6cENOUjloNDdpb1I5WWI0VUFrbi00UEx2dEpvc0FCSDJpdEVLeFcxR1NnNmFpc2h4eEZJSTg2ZmJzdE1Ba2lyOHNFejZJUkl3ZmRudWc2MGEwMzAzNGg1bVRkaVd3ZUxRRDBVQW1ucVpTZWFsZktnNmxxMFZRQjhUUldvWHZHZjZvaUxRUTNhWXkyS20?oc=5",
+    "source": "WPRI.com",
+    "company": "Meta",
+    "published_at": "2026-10-26T19:02:18+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "로드아일랜드, Meta 제소…사기 광고로부터 수익 창출 주장"
   },
   {
     "id": "d2fa2bee33fcc3ed",
@@ -1188,6 +2458,16 @@
     "published_at": "2026-10-26T18:59:00+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Anthropic 창립자들의 80% 기부 서약, 거의 80억 달러 가치"
+  },
+  {
+    "id": "98d5a38116950c1d",
+    "title": "Owners of Elvis Presley’s music sue AI company Anthropic over use",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2ZPazM0dTNPclU2WjZrWElvcTMwcmpMQkpiVzIzcUtDc0wzYnY3ZE9tTHhSLXZfTVVweUNKQWl5RVdnUFVodTd5Unk2ZEFxekhnTEFVZjZtdUdZOEtRcDh6OE9YSko5ZGpzZmJITjhXajFvQWRtakZVYm03czZ6M0tJVC1SOXd4ODBhQTJfVjNwZ0lWS2FhWdIBngFBVV95cUxNdldUZkc0bnR6RkgzWjhOb3NzRW1JZmhabVY3cUozWVNmY3dNamI4VWV1ZVlhNS1ybUVsRU9GUGZMR0d0WU9rdlk0ZjJrdmhxOURtOFhpalV2czhlYXU2UXVTbHp2SkZlU2hTQlRULWZBR0Z6dFJJZ3R3MHVleWpjUHlmWjNhT3l4TnJPSjA5YU5tVUstWlFKSzhOREt5dw?oc=5",
+    "source": "WREG.com",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T18:57:02+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "엘비스 프레슬리 음악 소유사, AI 기업 Anthropic 상대로 소송"
   },
   {
     "id": "37aa6411e7ba2520",
@@ -1560,6 +2840,16 @@
     "title_ko": "AWS 용량 부족 상태, Lambda에는 호재"
   },
   {
+    "id": "58acf05ca4febb67",
+    "title": "OpenAI puts GPT-6.1 Terra into Agent Arena and Code Arena for public testing",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jaE8wXzhsa21hblJsMnlETmxCU3VuM3RHalA4ZUhKUUZiel81TXBydENxZ3ZHTjdaTFprNlBXY18zS0xua1U0VlFNd0RmaUtzNmxsUjZnbldMX1AyQmtDUmhmZUNaODVFV25HVg?oc=5",
+    "source": "Crypto Briefing",
+    "company": "OpenAI",
+    "published_at": "2026-10-26T18:34:03+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "OpenAI, GPT-6.1 Terra를 에이전트 아레나 및 코드 아레나에 공개 테스트용으로 배포"
+  },
+  {
     "id": "e23a98fd4f394e41",
     "title": "Meta unveils staggering $95B AI buildout — fueled by offerings of new stock",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN19WeW1id0dIZFlfTFFSNXhVU29TQWNPM0xPaGQwQkt2Z1BIQTZTTldQSnVGemhoczcxdC05d2dwZkxJWFpZamVKczMxd0VibzJhVHQwMElPZ2pFTTdlYlQ0TTZEQ2pwQXN3Wl9ya1VSVVBxMk4wcExWc09OOFNTaU8zZlY0OHQ3R3lsSjUwVFFmYmduRHhQMkpsQnZ2eHlVMkVEdHQ3NXdYclJVeTBWbEVR?oc=5",
@@ -1658,6 +2948,16 @@
     "published_at": "2026-10-26T18:28:54+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "OpenAI, GPT-6.1 Terra 롤아웃"
+  },
+  {
+    "id": "e8925769a92b1b14",
+    "title": "AI company Anthropic files its IPO in hopes of raising $100 billion",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3lRSS1yYXk5S0YybXlpdlpFYkVhSEZNSl96blpWUzg1LTdXVThXNDRoZU9NSy01U0lQT1lPMTV2dUg0SnNxd3lWbWQ4d2cwYlAzN0tiSlFQVUlrMkEwNE9kdUNhaXQySHdHa3lnVXVXcnM1cldGdEdaN2ZOVHpaZ0lDNmtkM0gxZF83bmctamhjcmtMOTEtUi11aDBSNnpv0gGgAUFVX3lxTE5sTnNuV1NuR1FFMDRiRXdBZWI4dExCdDN1VWU4VlVLdWFOSHFSb2NRVVZqR2RrVkl6VEtJNkZvSjBKQ1V3ZzdidWxPcllWbktiQnB4NG5WZWF6THJCR2M5NUkzZHJSOGl4OXNtNW1oUnVoek1DMmJndHh4bm5CTFc4Q2o0bVpDSmhJb1AzTy1wdXMwSTZRcjNsYng4eFh6UEQ?oc=5",
+    "source": "DW.com",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T18:25:13+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AI 기업 Anthropic, 1000억 달러 조성 목표로 IPO 신청"
   },
   {
     "id": "9d2bfa41bd986c8d",
@@ -2080,6 +3380,16 @@
     "title_ko": "Apple, macOS Golden Gate 27.2 출시"
   },
   {
+    "id": "3cc82322fd18656a",
+    "title": "IBM Integration Intelligence Hub gives AI the context to act, not just access",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmZHa0k3TDBmNmVYZEd1bGdKWUdjOEhuLUFwaXkyV2dtYjQ2ZjJ6cG5tbGk4UExJY2RrWTB0cHlLb2VFbWRrOXRjbEJpaURueTRZbmVqTDcwUFRGZGVLQUtSTjVXX2d1RWh6dEpMRS1hODFqT3R5enJQVk1nODlpa1p3R2xqRVpxSDdUTlA1WC1kNk1XNVgtdFdNczBFcEhzN2l0Q05YSC1ZMWpSNi1sQnZGTmw?oc=5",
+    "source": "IBM",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T17:48:35+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "IBM Integration Intelligence Hub, AI에 접근성만 아닌 맥락 제공"
+  },
+  {
     "id": "01f2c0f8e55fbb79",
     "title": "Google Cloud Outage Puts Financial Sector Resilience Under Regulatory Scrutiny",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHFlQlhLM0JLMzlIN3Z0Tk1LTWRPUlRCa19YNl8tcVhybXMtT0RwSkxnLXZ0M0t2TEJsd296NkE4RmNGTHJ2djJ6MDhqTWR6QjZPSTNjTi1vekExSHJrdUpYRTh6Wmt4bzBDYVJjQ0RDVjB1VkhlRXMyZGFNelNPNndKN2l5ems4UVRXdDJEYzB2MmcyZUVvZDNtZnNpR2s?oc=5",
@@ -2130,6 +3440,26 @@
     "title_ko": "Apple, iPhone Duo 화면 균열에 대한 소셜미디어 보도 인정"
   },
   {
+    "id": "b8530afae2262595",
+    "title": "Bitcoin, AI stocks and Elon Musk: Analyst makes 3 bold predictions investors can't ignore",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkJFdnBqM256XzhKREtVTzBud2F5WGlVLTkwNmRYckJWYWM2VTN6VGJXVnlsSTdqcG92bG1OZERfZFI0YnRfTk9FRXNtTV9CLTZWZ0xCY2RiamlfeHFvWXRMcTY0S3J4R1daNnJtYy1vVkFYOURQdzhvWXBXQTE2OHhaYlJYVkJGbGh6Vzg5YjBMUEdKbVBObGNMaXBxVzdXdGtSUndZRnhudFVGcGw4emtOOWNhLVRzMTZaVDNiU2lVUlE2UXc?oc=5",
+    "source": "TheStreet",
+    "company": "Tesla",
+    "published_at": "2026-10-26T17:45:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "비트코인, AI 주식, Elon Musk: 분석가의 3가지 대담한 예측"
+  },
+  {
+    "id": "56e39240789e3c7e",
+    "title": "Elon Musk's SpaceX agrees to a $40 billion financing lease with an Apollo-managed firm for Nvidia's next-",
+    "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQc3VTTThvMzMtS0pSZzRWdG5BcVVJWVFIYzZfeTJwUW9ScVNzRDBHd1VTSkZEVWhULUM4NWlMU1lxbkNLME96X290NVgzSXN2UnUtUV9WVThJX1Foc3RjSDN4M3RWNlpybmhUQ19YTE5mRnpYeHlZTGp5b202ZHNERTl0N0tITkZEUzFWOGl3blhlRlM2UHpSOWRPcFVCbkphSjdEcXNuZGZoVzhFa0lVN2hqS3RJdlhpRV9lOGNGVjhxS2tWak81M3NCLWNfRHJQTTh3cWt2bGgycVFERmVMYlY0dk1HajVhNVNFV0xEY0dwdklHWmpKVzJBMnczMC10MFM4MFJrQ3ZvbEY2ZE5lM3BKTnlVbjJla3BKTFlzWUk5VnR0bkVVVmpROEtwLTBPM1U3dDBPZjhEdUxKMFFpR1NYeXpwTEFMSm1JSzl3UlUwaWMxMzZiaU05RkpuamotTGNZcjlTWWYxQWk0SF92MzJBZ0VMVjRkckNGRzhmSmN4TmgwNjRQdGVKSFBHQdIBkwNBVV95cUxORTVuRHFZclpZOUtHMmlMdGJ1ZmI5NzEwNEx3UG45YlMzcXdaV1R5eEdNd2pjTkdQaVh0U016RTYxX2RibmdhV0NjMUY2WHJKSkNHMC0yQWN1SzdlZ29aSW95Q0FobVVxdUwxUzg1NGZyVDFOdlBTaUlQNWQ5SDBWQWhRdU9yMUJ2WGl1RGxXS21SUF9ScmRVVzBUSmIzeWFYRy0xRUhKdE5jbjhMeS1TeExYS2QwWHFENUZnbW5LYzQ1WnUzZ085ZnRkNzIxVDdFTmZ4VUdPOGJUSzNUQy1xTnRxd1drRC1ZQlBTUXdfWkU4R1RWVjhoTUYzTGtvY0x2b0R5eUNzLWdCZUE1bU9EbEFTTUdoRUE0eWNWNFZyeGdSZ3p0d2p0ME8yazhxYU12d2ViS1F5YmRNa25tTURBek91ZnR3T0NOSEtBeGNueExUN3FuWmpRX0V0cWxjRmtjV1JiNmF4ZjB3T3d4R3BNRmwwaDQ0QVdzdWFPZFVkRjZpWXIzQzZPb0VSN1hsQWg3NERn?oc=5",
+    "source": "The Times of India",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T17:45:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Elon Musk의 SpaceX, Apollo 관리 계열사와 Nvidia 차세대용 400억 달러 금융 리스 체결"
+  },
+  {
     "id": "63665378077dbfd7",
     "title": "Walmart (WMT) Joins Meta’s AI Commerce Push as Retailers Explore Agentic Shopping",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVlzN3hKRm05OWlLWExlZVo1bzZUN0podjdJLWQ4WXFmZUFicExfS3ViN3NOQkpHdG1VMjVNQzNjaFQzMzcxMlZGeVE2TUs1VXVJT3BOSHhncTVtNXo4U29DNW9ZcVhRc05EbW1Bb1dDcHdzeXBaa1l6UE4xWFpJQzByWU91bmRTVkU4MWs5QjlQRXkx?oc=5",
@@ -2140,6 +3470,16 @@
     "title_ko": "Walmart, Meta의 AI 커머스 사업에 참여 - 소매업체들의 자동화 쇼핑 탐색"
   },
   {
+    "id": "067a937d8fe49d52",
+    "title": "Musk unveils AI film project based on ancient Greek epic ‘The Odyssey’",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2dEVlpmcDJ0eGRXYTZZcm1xejZSRUptak13NUZUYjc3bHhxM21HX3BMWjBaMVgwb3hMOW5IbmpkNElfa0Z1d19IRFhFZTA3X284bUI3Mkl3dVM1a2hQSllxSFNtaU1vNV85bXROaTdDck9wQ3MtSURqNkYxQkFrT2IyZS1icVVhTlMyLVpnZU5uMXVLdVlhWlNPN2JJQQ?oc=5",
+    "source": "24NewsHD",
+    "company": "xAI",
+    "published_at": "2026-10-26T17:42:50+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Musk, 고대 그리스 서사시 '오디세이' 기반 AI 영화 프로젝트 공개"
+  },
+  {
     "id": "0433639ac088c8b6",
     "title": "Anthropic IPO: Claude Maker Files S-1 for Nasdaq Listing Under ANT",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXBiTWNiYnRPMjhxVmZlNzRrY0VDaUpidEFaeG1oSzkzM0ZfU1N5NjhwYUZ3cDgwMUxtUjZvZndEdXl5MGhOVnpJNWQwTERLYzljdW9CUFRjS21hX2ppemQ3ZGdIUXpLOU5TY0k3VUlyanlzNWNKWXd6UXNVWURMZ05hT0RYbm42d3pOa2JoaEhzQWR2VGZEakE1RzBJekJJZUNJ?oc=5",
@@ -2148,6 +3488,16 @@
     "published_at": "2026-10-26T17:42:03+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Anthropic IPO: Claude 제작사, ANT 티커로 나스닥 상장 신청"
+  },
+  {
+    "id": "70b6eb18db0e67c5",
+    "title": "About 60,000 Microsoft Employees Are Eligible for New Buyout Program",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2JnTndMNmx5MXNTZmZwLVd1MjZjZDQzTVhKUmJfQ3NfamMzTmUxZ0pSVWpsMHFfU1dZSlJtYmJzeXA2YVhOeWhNeDhad2dYWUFaTnZDRGdfMFU2ZER6Qi03RUFFVWpubG56UVVmLURlSlFyOU9teWZicnNWMGVOaGxnZTBuVGdnbEJEWHhzTjI0QUNueVZSSVpIcXZhME9GSjYzZ0p0VnduN2N1elhYQXpGT0ZCaFdm?oc=5",
+    "source": "Investopedia",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T17:41:38+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "약 6만 Microsoft 직원, 새로운 구조조정 프로그램 대상"
   },
   {
     "id": "a01fbb64a6ef2a9c",
@@ -2820,6 +4170,16 @@
     "title_ko": "SpaceX, Apollo와 400억 달러 GPU 금융거래 확정"
   },
   {
+    "id": "4c464bf7c436986b",
+    "title": "Microsoft Offers Buyout Deals to 60,000 Staffers",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTlDSkd1eU9DQ0xZQVlGaUJha1V2TFpkdGVpa0tFV0x6eW5BN3ptUzJnT3h4UC1PdkUxLUJxeGEzcVZXMkRlV0tNTGtyclRXa3RLLTJwNVowNWlZa1JjVll5bWxpNk1ndmw4azA3Y0htSlVKT1JXLVhlNExLM3pRLWZWM0x6c2NDZWNxRnlZU3BVQ1hSRVd3THZWVQ?oc=5",
+    "source": "Forbes",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T16:46:26+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Microsoft, 6만 직원에게 구조조정 패키지 제시"
+  },
+  {
     "id": "52e3a41177c7d72d",
     "title": "Here's How Much It Would Cost To Build A PC Similar To The Xbox Series X",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81Rk1ZeGI2TE51dWVwdklVQ24xZHc1V2dEVlJrdmRLcERKN1ltZ2JUN19KeVhKbjRYUmFobV9VeHhmbWM2Y1Q1LUhvU2NPS2FDRHFpYXZ1UzZTYUZCY19SOFpIWUhEUWg1NjU0R2IwUVNGRnBVWGlMREFzOFFkUQ?oc=5",
@@ -2838,6 +4198,26 @@
     "published_at": "2026-10-26T16:44:37+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "테크 주가 급락, AI 비용 부담자가 누구일 것인가에 대한 논쟁 재점화"
+  },
+  {
+    "id": "bff3b954fa1af5db",
+    "title": "Carrie Season 2 Is the Right Call, and Three Is the Number",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjdrYmdZVC03SG03alhRenRYRjFvMzhaLTFYSWRVVmxhNlcycWVwYnhJeFlfWGswYXRQMlVpMGtEQVBxcmdYQjRDejZZdVRDRkJhNEp0RWxwM2Vvdkp6YllWQU5VWVMtVkJOSzg4X01mR1U5LXlRUFU1VWJOcVdnR2FlTjFDYkk?oc=5",
+    "source": "Horror Obsessive",
+    "company": "Amazon",
+    "published_at": "2026-10-26T16:44:07+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Carrie 시즌 2가 올바른 선택, 3이 그 숫자"
+  },
+  {
+    "id": "f5c715411902fbd8",
+    "title": "AFRL Evaluates Rocket Cargo Logistics Pods Aboard SpaceX Bandwagon-5 Rideshare Flight",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnExZjdZTnZEM2tpSHJvNHlCWXVEb0pPMzNqLWlvRXBydGhQaFBNV0dUcWxCaU5DTjB1WXZsNWxhOU90Ml9HZFdVZGt4aDRmenRfZGZRazlVQW1YbG54QnFTTVhfV29KMlhmbEdubDFNVVo2ejB6MkVZZnVOclYtYUJOUHNmOGJYVXNrUW5BeUZSNXNLM1JDcS1TRGxFUHlfcWZzcnFQbGQ1V3RqYVpxa2tBVFNwc21w?oc=5",
+    "source": "SatNews Publishers",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T16:43:37+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "AFRL, SpaceX Bandwagon-5 탑승 비행에서 로켓 화물 물류 포드 평가"
   },
   {
     "id": "e672058938340add",
@@ -2888,6 +4268,16 @@
     "published_at": "2026-10-26T16:35:11+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "SpaceX, 다음 스타십 발사에서 '획기적인' 성과 시도"
+  },
+  {
+    "id": "d4c805f76865e4ba",
+    "title": "Not Nvidia. This Chip Stock Has More Upside, According to Wall Street.",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWtmUTBoZGtrTUhrSnVKMUZZcU9TVVhQWlFSME0xemREdklmMk1zbmlINHN6WlVNN1djeTJkTEpHS0J3cExLNDh1X1FGcmM0WWNadDlqTWttUUhUQTl5STFIQ1Z3Uy1aZkFKb1loZVgtbmdIcDZNNzRfZExfbWdnTC1iZW5GNW42YjR0UGx5aEtVZlJFSHc?oc=5",
+    "source": "Yahoo Finance",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T16:35:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Nvidia 아닌 이 칩 종목, 월스트리트 따르면 더 큰 상승 여력"
   },
   {
     "id": "81b57d09361b8bf3",
@@ -2958,6 +4348,16 @@
     "published_at": "2026-10-26T16:30:03+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Transtelecom, 카자흐스탄 AWS Outposts 호스팅을 위한 인프라 제공"
+  },
+  {
+    "id": "bc127930abf56cc6",
+    "title": "Xbox's first-ever COO is out after just three months",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHJJaXB5LUNCemMydERMZDRGX29Sa2RvenJjNHBVbTJJMUlCcU5wZXVDdzJzc3Y1VENaT2JiX3AzRlhZQVcwZVJkc0lnS0VMU2ppd3NIV2ZyOVpYUzBKTENfS1dGaG1zT0tBdFA3Zk1yTjlPc0dzSXh5b0ZyZFRWSmd6Ymlmb2ZEVWlHOUlla3pFYXhFb09RX1pFSWtWVVk?oc=5",
+    "source": "Game Developer",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T16:29:54+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Xbox 최초 COO, 취임 3개월 만에 퇴임"
   },
   {
     "id": "cb4ee61ae692daae",
@@ -3270,6 +4670,16 @@
     "title_ko": "일론 머스크의 안티-워크 AI '더 오디세이' 영화, Nolan 비판 후 '영혼 없는 쓰레기'로 비난"
   },
   {
+    "id": "5579ef36c547432a",
+    "title": "Starlink Mobile Goes Nationwide in Brazil: 6 Details That Matter",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWC1FUk9yUjZLb0NPX0pVZFJkZXc2bUdJQlp5MFgwLXhIU3VpbGhNaGRGNzVnTzRIVDM4UnJwVmhQQ2lldFIyWVhfa0w4eld5YlV6M1hGMFhBaTlYR013VlBzZHZ2MGpONzVlUFhzTHdmbzZ4ZmZrNXB3V21UOXVlaXczT3FLazZabWJPZDhtNE5NYlNYOWZaV3JPM2xRS3M?oc=5",
+    "source": "BASENOR - Tesla Accessories",
+    "company": "SpaceX",
+    "published_at": "2026-10-26T16:06:16+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Starlink Mobile, 브라질 전역 서비스 개시: 주목할 6가지 사항"
+  },
+  {
     "id": "7595a7dff14acd5c",
     "title": "Rogue Anthropic AI accessed US voter data",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFY3eTlnM0pORnAyOVRXMjBXZXAwdE1TZ0J2bkxjT2dfdTJJRGpUUkdMeVBuTDZTUGpKb3psZ1FETWZNaXFGTmJmMTNaNWJsMGJ0bFRGc3VGWkx6UFlCcGtpQTIxVVV0cC1KOVhoQVNmaHBZRVpNanFIdkgwUFJ3MGp1dHUyM2I4VDIyOHdyc0FERHBUa0VQRWxrVFNJb0ttREdIbVY2TQ?oc=5",
@@ -3358,6 +4768,16 @@
     "published_at": "2026-10-26T16:01:00+00:00",
     "first_seen_at": "2026-10-26T21:27:58.910501+00:00",
     "title_ko": "Anthropic의 S-1 신청서, AI 종말론 입문서이기도 하다"
+  },
+  {
+    "id": "09906f48557c097b",
+    "title": "Instagram and Facebook users have until Friday to make changes in phone settings",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm51Qmxpcmg5cFhGTWpTNlBaVHpqQ3lVb1l0MnUwb3dpRGtDcUdRN2tRVnp2bXB3b1JJVkRsYmxmNXAwYmY1a1lULUZpUXhzR3lSY2pxblVIYWRfS2VRRHB1eVVwdUVodThINUwxc0YxdjdSQ1VzZTR6R1ZTeEo4S1hrOWkwUng4?oc=5",
+    "source": "AOL.com",
+    "company": "Meta",
+    "published_at": "2026-10-26T16:01:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Instagram·Facebook 사용자, 금요일까지 휴대폰 설정 변경 필요"
   },
   {
     "id": "a7bc442e0f9529ed",
@@ -3538,6 +4958,16 @@
     "published_at": "2026-10-26T15:54:57+00:00",
     "first_seen_at": "2026-10-26T16:38:09.580035+00:00",
     "title_ko": "버라이즌, SpaceX의 미국 통신사업 구축에 4~6년 필요"
+  },
+  {
+    "id": "4c85b1ca94744913",
+    "title": "How Anthropic overtook OpenAI to become the AI lab to beat",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVZwRXpsRzl5WXZ2S3ZhRmJCNUJDOUd1cjFjWUY4TS0tWHNoM19XQU5PRGl1VGRybk5MbG5EWS1PWEZCMFlJSHRMVnk4dTVvOE1lUldmejVNUDFwaTNscXdPdm1zQUVZVjM5ZVZiVzVERzdjVldxMC1IZHhxaFFzSXpQMS04UElKRjhsTzhQQklSVzQxeGNDblVsaHQtcDAzZjhMYVNNVlU0RGh1aWh1cFNsN25WblZSeFdIS3c0MA?oc=5",
+    "source": "Yahoo Finance",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T15:54:41+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic, OpenAI 제치고 '꺾을 수 없는 AI 연구소' 등극"
   },
   {
     "id": "3eea01b0e2f30408",
@@ -4120,6 +5550,16 @@
     "title_ko": "Anthropic, IPO 앞두고 800억 달러 손실과 거액 지출 공개"
   },
   {
+    "id": "d1d7de359ff21482",
+    "title": "Tesla Cancels Cybertruck Plans After Buyers Waited Nearly 7 Years",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDNQMHBuM21oMlA1NG55bGFxV3hZeHpyTEplbXNZN3hNdHctcWJwcjBqOWFPZXh1V0EzX2tnbWlSN21heFZNaE10aVRLc0tPbDNFWldodmFybm9UZmZUV2trYWVGMjJMSFEta05EWktDejlWQXQyQ0p2UWpQd25nR2NjQzlHM3k5eklTYnV0QVlLMjVHSDFTNks5UQ?oc=5",
+    "source": "Autoblog",
+    "company": "Tesla",
+    "published_at": "2026-10-26T15:15:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Tesla, 구매자들이 거의 7년을 기다린 후 Cybertruck 계획 취소"
+  },
+  {
     "id": "9b281e86acbf0c0e",
     "title": "Nvidia May Be Bankrolling More Than Chips in Oracle’s AI Expansion",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMV9tYlRUZ1ZmanJ6Y2NwRF9RU0YzTnZDcS1BVFVfXzV2OFVUaEx6R2gwQ3V3ZGpzNGZ1OUJrNXZwVDRLUUFlYy1WRUhpTDJtT0FWdDZYNFpMUkx2YTllTkhBbnI0ZXJ2UVZfOGxqNXUtV2RhbDVoT2tOUVJURWg1U3VXcEh6cnlZTWdCaURXeVhnQWlFNF9xWF8zNGw1Nnkya1ZpSTVHUkNqLWtpX2c?oc=5",
@@ -4158,6 +5598,16 @@
     "published_at": "2026-10-26T15:12:00+00:00",
     "first_seen_at": "2026-10-26T16:38:09.580035+00:00",
     "title_ko": "24GB RAM 15인치 M5 MacBook Air에서 $200 할인, 현재 $1,499"
+  },
+  {
+    "id": "0e713912645fdb32",
+    "title": "Microsoft rebuilds OneDrive around Copilot, from hero links to AI‑driven files",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXhQek50WWFzS1ZXcUlhVElnLUlEVVVUdURyZktlaUQwV0p1aG5VWFluQS1IMHR0LXhZR1AyaktNU1I4WmhXSGpHNXlST2hqenpLaE81Y0hPRi1nNEZzUUFsOVd5ZmU2RGRxbk8zb3Z3emZQY3ZBUW9xazZXcFZOVUlTLXdUS1F0VVd2Z3BQZVVOQ1J5QXRDNmpyX1V1Y3ZQUjdVZktmTQ?oc=5",
+    "source": "Capmad",
+    "company": "Microsoft",
+    "published_at": "2026-10-26T15:12:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Microsoft, Copilot 중심으로 OneDrive 재구축…AI 기반 파일 시스템"
   },
   {
     "id": "8d8ab5310a6d53c0",
@@ -4748,6 +6198,16 @@
     "published_at": "2026-10-26T14:37:59+00:00",
     "first_seen_at": "2026-10-26T16:38:09.580035+00:00",
     "title_ko": "Anthropic의 Claude AI, 조용히 허가 없이 조지아 투표 데이터 수집"
+  },
+  {
+    "id": "12a44ac5c16b0b4b",
+    "title": "Anthropic plans to go public at a time when AI tokens have never been cheaper",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVJaeVE5NGJfU1JxYmpfeVJhVUw5THRLSDlJaDZKSmpWajFhRjVOZEszdHNfRGVWaVNhemxWYTgta2drNFBLOGlCa3oycXZXbjZ2U1JSX1AtSTN6NmFVQ1dzWDhEbHhhZGl1U01kVFVDS0pyTkdwNGdDbnRNeXVwdDM3eGNBVjFtZFJPVXc3a0dNeWxGNnpmQzROa0h4b29FSVNZVFZ1cFd6dGJ2ZUk4RWtvbjY1WFl0c1daR2FoeWRKQ0JiYmljYnVfY2VMZ2s?oc=5",
+    "source": "Yahoo Finance",
+    "company": "Anthropic",
+    "published_at": "2026-10-26T14:37:35+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic, AI 토큰 가격이 역대 최저 수준인 시점에 상장 추진"
   },
   {
     "id": "9c01648b39498dd9",
@@ -5840,6 +7300,16 @@
     "title_ko": "Anthropic, IPO 준비 과정에서 성장 14배 증가 공개"
   },
   {
+    "id": "aca18b9d3cbf6e68",
+    "title": "Anthropic agrees to spend up to $120.5 billion on compute from SpaceX",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FUU9uVGRfWDFEYWNxejh6RXBaNHVnMllkeFBOR2NscHR2dVpKczBFTUFHZU1JTUUtWmhGdmpVRkZVN0VGR1A2cmZXZmVUbTZ2T2t0bTZsQ0swTFdoLWlBbEpsQkxRa09Qdl9PRmJUZnZlbmtRRGVpNA?oc=5",
+    "source": "Crypto Briefing",
+    "company": "xAI",
+    "published_at": "2026-10-26T13:20:16+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Anthropic, SpaceX로부터 최대 1205억 달러 규모 컴퓨팅 자원 구매 합의"
+  },
+  {
     "id": "d22611e97ffd0340",
     "title": "Zelensky Adviser Slams Musk Over Claims Ukraine Violated Starlink Terms",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXJPREtvM0psUVpBUEh1VzRmLVFYd0RRX1RodVJuUm5uT045RVN0ZDZHLTRMMXA1SVZKMnk3RG9LNDlvS1ZUa0l4MzVNWkhiazRKcVJHM2U4MzByWUg3cFFNa3NTdnJXWDFkWGJZaEk2Mi1iR2J3VlBFTGZ5R1RSbXYyNnlDSm9EMjdIalJmNmJGQzdmNFNnUDMtMEhTYmVlRHlCeHlxU0I?oc=5",
@@ -6578,6 +8048,16 @@
     "published_at": "2026-10-26T12:28:23+00:00",
     "first_seen_at": "2026-10-26T16:38:09.580035+00:00",
     "title_ko": "x47.c 봇넷: AI API 드레이닝 및 Grok 선택 은폐"
+  },
+  {
+    "id": "d66d4fb1e000aef5",
+    "title": "Netanyahu tells police chief 'left-wing anarchists' could disrupt election",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWl83NUNlME9mRVFHdlVJU3JEaGl5VWd6YnpuQ2dMU18wOGdLWU8tNS1TcUNrZ28tS19TQjhfR3lGcVVaTjMyQThPUWNPaWd6cTJaOUpqWUtJZ1BtSC1rX2plWW42RnBVSVVyb3JoRmZESE1ZQU10dWp5Q0VjTzh2bmZZSzNPUGdFTGZmYkgyUFk0TzJXUS0xYzc5bV84cnVycFhnSkxVQmFEeEZYbzU5RDh1bW9wV1h2V011LWwyVGZJVXRyTEVRLXBzX2p5LWxicTZtRXBmY1B3V013SGs0M2pYTURXNDZPZHBXTmNiLUVQSzFGdktqLXVfM3BXRjczU1B0ODRNN1JnTGRZUFpqWjEyT0Y?oc=5",
+    "source": "Haaretz",
+    "company": "Amazon",
+    "published_at": "2026-10-26T12:28:00+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Netanyahu, 경찰청장에 '좌익 무정부주의자'가 선거 혼란 초래 가능 경고"
   },
   {
     "id": "547d5da2d086df8a",
@@ -8050,6 +9530,16 @@
     "title_ko": "일론 머스크, SpaceX가 AI칩 구매를 위해 400억 달러 차입했다고 밝혀"
   },
   {
+    "id": "8e8fd5121d50dd47",
+    "title": "A new Brooklyn Summit goes beyond 6G and into the AI era",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXpYTFZRLU9ybURiSW42aVRhd1NuTHNBLU1hdmJjeUlsamRJUlZ4M2E5ZXAxNXlUX0pmemstTE55NWFPOEo1OEtOSmFQbWxkT1JlMlJjZUR0TG51WGRiWVM2OVBSS0xWNHZhMjFHd3JsNU9xa2pFOVJpMkVEX2UySHBiUF9vcnVRdXQxdQ?oc=5",
+    "source": "Nokia",
+    "company": "Nvidia",
+    "published_at": "2026-10-26T10:17:27+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "뉴 브루클린 서밋, 6G를 넘어 AI 시대로"
+  },
+  {
     "id": "5e054d3a073ff089",
     "title": "MacBook Pro's Switch to OLED Could Spell Trouble for Mini-LED Industry",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHpjWUVXZHpvN0hjdWNwcTVBZm1BcWJLYWJ0emtZbFNnc3pNWTlDRWJqYjZiNGxBRlRxVVYtd1NFbXVyZ2FPUVpEX3E1WTN2SGtNSE84a0pub3VfYUY0Rnl3dTJBcHlFUXp0WWczRUs0bVdTZWpFaUpuN3BzUWNISjV2SXZmNzZiNXU1VzlsV2Q?oc=5",
@@ -9368,6 +10858,16 @@
     "published_at": "2026-10-26T07:11:13+00:00",
     "first_seen_at": "2026-10-26T09:53:15.040018+00:00",
     "title_ko": "Elon Musk, SpaceX가 AI GPU용 부채 융자 $40B 확보했다고 발표"
+  },
+  {
+    "id": "e3f1fb3594ba8ae3",
+    "title": "Google is Training Gemini 4—And It Could Be Their Largest AI Leap Yet",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSbWd3UUJ2ZTdRLUZ1ejBPOGZQY2Nqd1V4Qkp3Xy1iT2Q4TGh3cURtYnBnVzhWRlNGaVBDTlBwMVNxRUpiZHpsVlB2a3REOG5GQUlXSEFsNGRYdjIyM3N1d1dtMzZFbTRkRE5OYmJIeWlUSDJmVzUw?oc=5",
+    "source": "Nokiapoweruser",
+    "company": "Google",
+    "published_at": "2026-10-26T07:08:20+00:00",
+    "first_seen_at": "2026-10-27T01:16:06.878509+00:00",
+    "title_ko": "Google, Gemini 4 학습 중—역사상 최대 규모의 AI 도약이 될 수 있어"
   },
   {
     "id": "765c3c5b3e540776",
