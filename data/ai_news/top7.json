@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T19:55:11.395977+00:00",
+  "generated_at": "2026-10-27T23:36:47.275687+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤쓰로픽, 수조 단위 기업공개 신청서 제출...AI 위험성 경고",
+      "title_ko": "Anthropic, 역대급 규모 IPO 신청 시 AI 위험성 경고",
       "title_en": "Anthropic files for IPO that could be among the largest ever, with warnings about AI risks",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVRpdWJ4ZnhlRWRfUTdNRGpOUS1ldWtXWjU4TURrQjZKZkRjZFVKOGlqWndrWkpKYWFzTFNBb1NuVjY1Nm9taDA0b1BIdEJnMkl2Y1Ywcllya2ZWUjVoTkdDRkprQTVQbGRheFJFdkJidWFfS2c2dGNWNVJzZFBpN1hzZmg3Y2VLbWdGNHRWS3l2SUd4TTBtSHo2ak1YOUp6R3JCQVVGcGw3QUUwbDlrZTM0bEs2bzl3WEhnb3ZHUHZmMVJ1YWRXUjdURnVVb1pFYmxwZW1fSG5zdmVPNkozdTdwWU42aG5lR1ZtUXpEMHl4VGk4?oc=5",
       "source": "BNN Bloomberg",
@@ -12,7 +12,16 @@
       "first_seen_at": "2026-10-27T14:07:16.982421+00:00"
     },
     {
-      "title_ko": "8개 주, OpenAI를 상대로 집단소송 제기...ChatGPT 안전 결함 주장",
+      "title_ko": "트럼프, '인공지능' 용어 금지 의도 발표",
+      "title_en": "Trump says he will ban term artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-27T16:26:16+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
+    },
+    {
+      "title_ko": "8개 주, OpenAI 상대로 ChatGPT 안전 문제 집단 소송",
       "title_en": "Eight states file coordinated lawsuits sues OpenAi, alleging ChatGPT safety failures",
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxObGtfUm9uU1hrX2JPeGxoanlBQmRvSXl5QjlpOFhqOTMxdnNpUWJHT3NfVWtsWXJJQWViM2I1dkV4MDVMbGRPMzlwRW5qRUNPcm1ieFlzeGRVamVvcGJqN3p5WDZvdVB5Q1RQRHpGVzc5X3VBR0hxMDRyYmd0NFRGRnFvNXNxN1VhMXVMWkVzSkZwenVCT2FHd1BsX0g2dlJmRFg1ZHlqeTVWbnczNFpXd3Q0Y2RpUUFiLXptb2VnZ1puVGppUVBnUU5Ka2xWREwzbGVaM2NkSmxLVV9vVVhTZ0ZDdHN2ZWh0dDZEYnJfTGVZWjR1WDA2Rjd2MW9hdG93WnN3a014cGxxbGU2dU04WlljclpsaE5lSEt3VlY2UEY5d1Vqb3doV2R0aFVFV0QzcFVaS1kwNEZUbzJhNE45M0JyeWlWbmxEYmNhUGpmSDIzb3F3Z3piV3doNnU4MzJ1V25lY1R5VlI4TWM?oc=5",
       "source": "www.fox23.com",
@@ -21,48 +30,39 @@
       "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
     },
     {
-      "title_ko": "DeepSeek AI 모델, 독립 테스트에서 안전 문제 노출",
-      "title_en": "DeepSeek AI model shows safety gaps in independent tests",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-27T10:51:37+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-27T14:07:16.982421+00:00"
-    },
-    {
-      "title_ko": "구글 지니 4 월드 모델, 오디오 지원과 실시간 조종 기능 추가",
-      "title_en": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-27T16:30:57+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
-    },
-    {
-      "title_ko": "메타, AI 확장을 위해 950억 달러 자금 조성 계획",
-      "title_en": "Meta Plans to Raise $95 Billion to Fund Artificial Intelligence Expansion",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DSlN6b2puYmlvcHdlSDZhR0M0VFJvd2VOTVlZTzZfczA4N1VET1ctREZCQW84MGFUal9EdTkwSE9LM0hUNm5MSm0yZXNlMWlFUHVqZUNkWk1hZWF0S1lraVZqWWRBaF9vOW9v?oc=5",
-      "source": "صحيفة مال",
-      "published_at": "2026-10-27T13:20:51+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-27T14:07:16.982421+00:00"
-    },
-    {
-      "title_ko": "트럼프, '인공지능' 용어 금지 의지 표명...\"초지능\" 용어 사용 추진",
-      "title_en": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3BBOFRzNmhiVi10YzJyUVAwWXdVUlRzOHg3bi0yZENqUWk0VzFxUFFMV2NFWUxtdEhyb1pNaTdLcU9RbWU0TDVBUXBHdnN5emZ4SzdVck8zUE5mbnNwbkdqV2VzTHY1cHdBWjlWUmppbDZyMWk0T3FLOUNKR0hwQmIyWlJ5ZlRFbUM4dFJrVGRnb1d4T2tqNUNXUjZUZzQ?oc=5",
-      "source": "Forbes",
-      "published_at": "2026-10-27T18:50:11+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 과학 분야 3대 성과 발표 및 학계 협력 새 모델 제시",
+      "title_ko": "OpenAI, 3대 과학 발견 발표 및 학계 협력 새 방안 공개",
       "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
       "source": "The Verge",
       "published_at": "2026-10-26T23:47:59+00:00",
       "category": "연구·기술",
+      "first_seen_at": "2026-10-27T01:15:44.917235+00:00"
+    },
+    {
+      "title_ko": "DeepMind, 현실적 물리 엔진 갖춘 Genie 4 세계 모델 공개",
+      "title_en": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "source": "Ars Technica",
+      "published_at": "2026-10-27T16:00:22+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
+    },
+    {
+      "title_ko": "Cohere, 알리바바 Qwen 모델의 베이징 서버 접속 시도 적발",
+      "title_en": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-27T01:12:21+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-27T01:15:44.917235+00:00"
+    },
+    {
+      "title_ko": "마이크로소프트, AI 투자 증액에 따라 6만명 직원 구조조정 시행",
+      "title_en": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOTl3d0VSZGF4NHdNektaWTY4YTdoQmczQWZpeU96bVRkSGU2eFl3eTFwVUJJQ19yVjMwUXl0M1NDWjloaUpxd2hJVFRTYU5laW4yOHZjVmlJdHp1LVd3cERpMlNfTExtLWpQa1N6YVNHZ0czOVhvc3J3UWswWGcxa2g3bHF3bFNXbERjXzBJX1J3eldLS0xVVFFaMnNOWWM1WjM2ZmZRbWhPNEVfYldVR3BhQjRxczVGMGdOOGtTOGZteEU2dEdnQk1acDIzSWc?oc=5",
+      "source": "Nikkei Asia",
+      "published_at": "2026-10-27T00:39:00+00:00",
+      "category": "기업·투자",
       "first_seen_at": "2026-10-27T01:15:44.917235+00:00"
     }
   ]
