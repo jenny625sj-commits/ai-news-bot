@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-10-28T11:05:27.873697+00:00",
+  "generated_at": "2026-10-28T18:02:01.628886+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, AI 구축 확대를 위해 구글 칩 구매 계획",
+      "title_ko": "트럼프와의 긴장 관계 속 Anthropic 상장 임박",
+      "title_en": "Anthropic’s Tensions With Trump Laid Bare Ahead of Landmark IPO",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3UxTXZzZ05vcUJoNEhNdmlPZXZwMWNUVUQwWnFYVklZTDN4NVdrMmFzd2pQS2NTdVlrRUtyWTlfV2ZQLXQ3U0pJMUNJTjEwMk82dGJTb0VvWjBHbGIySThLdTJLRzVWb1RaVnljNXN0NWRqbzZGRWhRaWJZWHV1N1dIbE1xUTJSaTB3YmNpZG56dFI3VlpSU1lsWE5oUk9HSk9qdDNTMFgwSVlPX3JHYmtWTlk?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-28T12:45:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-28T18:01:32.404534+00:00"
+    },
+    {
+      "title_ko": "OpenAI, 구글 칩 대량 구매로 AI 인프라 확장 추진",
       "title_en": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEpmdVROdmhkd0RpU0tZbEF2bkstVmxlcjRTZUJYNWV4VlFNU21tcmRaNW1ZUjdkT0N1b1JlMzA1NF9WUHR6WGpvS3BObGRQUm5Rc3Q1NjNpMkNpZzNoWWJGczJlWGVOQWpsZ0MwcEJrWHBBV3JrZHY0ZWREZngtRklId3lXbV9jLUM0a3JvRy1yUFV4SlpSOGo2VUlxWW04cTJIZlhuaWdnWDd1dExxSkJKVQ?oc=5",
       "source": "Bloomberg",
@@ -12,16 +21,16 @@
       "first_seen_at": "2026-10-28T04:38:59.091809+00:00"
     },
     {
-      "title_ko": "Anthropic IPO 서류, 90페이지 분량의 위험 요소 공개",
-      "title_en": "Anthropic's SEC filing devotes 90 pages to risk as it prepares for IPO",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWxld1lscnMyQmlQTkUwRkVCN3Y2VkZmdDFyOHFUTlhZNmRQbUZiS0RMRkJjeUFreTVQbEhXaEhVUzRiNXZWdnZpbHpJVjFHaHZQUnQ4OWRKdjdLRGNvNFdFT3hFRGpMbFNuY3dqd2MyVGcwajRjankzaV9VdUtkLWdBd1cwWElZd1VJZTZlRkx4NFhqam9HNW1IZUpsbG50MUHSAacBQVVfeXFMTU5fMjdsd0x2TVFBaUxIMV9Vc1lTSjltazQ3bHI0TVFiaURGZzFEclZUcks4T2ptMmhZZDlyY1dGRXhMU0tUdl9aUDZYU25Wd3BaY3RzbGhERERBT195emhkZUQxRUluVjFIdU1oTUo4S09YN2REOGM4eWk5YnR3SGFkUnJQajExSXFpYTBDTHlSOEVuZllnbmJPaEdZQkExeDU5T3I5ekE?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-10-27T21:56:58+00:00",
+      "title_ko": "Anthropic 상장으로 VC들 수십억 달러 수익, 아마존은 훨씬 더 큰 이득 기대",
+      "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-28T01:15:28+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-10-28T04:38:59.091809+00:00"
     },
     {
-      "title_ko": "중국의 신규 수출 규제, AI 핵심 기술에 선을 그어",
+      "title_ko": "중국, AI 핵심 기술에 대한 수출 규제 강화",
       "title_en": "China's new export curbs draw a line around its AI crown jewels",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
       "source": "Reuters",
@@ -30,40 +39,31 @@
       "first_seen_at": "2026-10-28T11:05:00.714172+00:00"
     },
     {
-      "title_ko": "트럼프, '인공지능' 용어 금지 의도 발표",
-      "title_en": "Trump says he will ban term artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-27T16:26:16+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
-    },
-    {
-      "title_ko": "구글 제니 4 월드 모델, 오디오와 실시간 제어 기능 추가",
-      "title_en": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-27T16:30:57+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
-    },
-    {
-      "title_ko": "8개 주가 연합소송 제기, OpenAI의 ChatGPT 안전 결함 주장",
-      "title_en": "Eight states file coordinated lawsuits sues OpenAi, alleging ChatGPT safety failures",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxObGtfUm9uU1hrX2JPeGxoanlBQmRvSXl5QjlpOFhqOTMxdnNpUWJHT3NfVWtsWXJJQWViM2I1dkV4MDVMbGRPMzlwRW5qRUNPcm1ieFlzeGRVamVvcGJqN3p5WDZvdVB5Q1RQRHpGVzc5X3VBR0hxMDRyYmd0NFRGRnFvNXNxN1VhMXVMWkVzSkZwenVCT2FHd1BsX0g2dlJmRFg1ZHlqeTVWbnczNFpXd3Q0Y2RpUUFiLXptb2VnZ1puVGppUVBnUU5Ka2xWREwzbGVaM2NkSmxLVV9vVVhTZ0ZDdHN2ZWh0dDZEYnJfTGVZWjR1WDA2Rjd2MW9hdG93WnN3a014cGxxbGU2dU04WlljclpsaE5lSEt3VlY2UEY5d1Vqb3doV2R0aFVFV0QzcFVaS1kwNEZUbzJhNE45M0JyeWlWbmxEYmNhUGpmSDIzb3F3Z3piV3doNnU4MzJ1V25lY1R5VlI4TWM?oc=5",
-      "source": "www.fox23.com",
-      "published_at": "2026-10-27T18:16:19+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-27T19:54:32.190203+00:00"
-    },
-    {
-      "title_ko": "1인 스타트업, Anthropic에 인수됨",
-      "title_en": "A One-Person Startup Just Got Bought By Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRjZYNUtVSTd1SkR1cGNOd1JzalhVdlpDcFE1MERoRUdleW9FOWZ2T1ZYOFdUQ21OLVRtSW00OUJibGpDMFdTbzFPa1dwZGN4ZXlSSVEyYmhLYnNydlcyOV9zaFRfejU5SHhmZmhoYVluVzdHN21XRjZzRm1teHpzdXRpWXRWOExDZGZZOEFkblNrNTQ2aGNNMk5laTgxTzdzNWhoc1I3TVNSXzE5NTREUW16bGxGLWtyUWFwX0pNRGN2d1lPTzVDQUUwNjdwVE8zY3hORkwzemw1TndrOC1ja1hFSlhJOFdj0gHwAUFVX3lxTFAwMFNTSmJNa3hXb1hpcVZlWEVRdVpFbWpVMkc4WEJmTnpGTk1zVU9sc0VxUXRLblJzZG9iQWJGbVFBNTVvWVc1QzUzTnNoVFQ0NFFlamtTSjZPUzNPUEU1VGNrS0FWZjRreEdCWWVwVW5IRVFaNXNOVXA4RUlvcWc1TXJJWnFuUnR6LWRzakJ4ckQwNDNKM0V6LVVGT2RScUlCWGdWSFQxalVnWW9hNThlaUR1RXRXeXdYYmZ5UXoxVFhTdWxKbm5ZNUxsSWxDaVUxZUFROGlURU83bnZIQzBBUzg0dDBZaXhnb3J4SS1XVw?oc=5",
-      "source": "NDTV",
-      "published_at": "2026-10-28T07:02:44+00:00",
+      "title_ko": "Anthropic IPO 투자설명서, AI 리스크에 90페이지 할애",
+      "title_en": "Anthropic's SEC filing devotes 90 pages to risk as it prepares for IPO",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWxld1lscnMyQmlQTkUwRkVCN3Y2VkZmdDFyOHFUTlhZNmRQbUZiS0RMRkJjeUFreTVQbEhXaEhVUzRiNXZWdnZpbHpJVjFHaHZQUnQ4OWRKdjdLRGNvNFdFT3hFRGpMbFNuY3dqd2MyVGcwajRjankzaV9VdUtkLWdBd1cwWElZd1VJZTZlRkx4NFhqam9HNW1IZUpsbG50MUHSAacBQVVfeXFMTU5fMjdsd0x2TVFBaUxIMV9Vc1lTSjltazQ3bHI0TVFiaURGZzFEclZUcks4T2ptMmhZZDlyY1dGRXhMU0tUdl9aUDZYU25Wd3BaY3RzbGhERERBT195emhkZUQxRUluVjFIdU1oTUo4S09YN2REOGM4eWk5YnR3SGFkUnJQajExSXFpYTBDTHlSOEVuZllnbmJPaEdZQkExeDU5T3I5ekE?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-10-27T21:56:58+00:00",
       "category": "기업·투자",
+      "first_seen_at": "2026-10-28T04:38:59.091809+00:00"
+    },
+    {
+      "title_ko": "해커들이 44개의 AI 에이전트를 활용해 사이버 공격 자동화",
+      "title_en": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3lVc055blpGbHViOFh0cWpYTjREeFU0Nk14WXgySE1CeHpJUW1vLS1LWWhOb0Z2c2VSenZ5NkdWd3M1MnQwbGh5aXJ1cWFNY0J3cDlaa1hiTUcyeFY3OW1QT0M1a21RbHpIVG5qRTkzUmZYVEVNSG11UUoyczF0S1doNXE5LWNSd0RIWElaWGRFZURyZzZONEV4M1FEMW5GbEdjT1JfSjd4VVh1Skt0NWJRU0VYZ3I0WTY1adIBxAFBVV95cUxOemhKTVFYY0dLYXFfZmhPVER3LVJwV3VxenNFQkZVQnZIV09HOHdSVlQ3VWQwVWFvU1hVUHlISUtsYzBKUGVEYWtqZWhVRlM4aXJIeFZVVkVJWExrRVdldXdfNVNJSmJ4c2JDbktPODVRd3VKb1hKaEFaSjJYN1NSTE1KNXcweVJ3OUJxdVZmQ2J2M3J4NmU2R2M3SHhZSWNNTGdKczRzZGk4Nng0OVpQbzJJMUlyQjBzcVU2VzBQaVhobVlh?oc=5",
+      "source": "NDTV",
+      "published_at": "2026-10-28T08:07:46+00:00",
+      "category": "보안",
       "first_seen_at": "2026-10-28T11:05:00.714172+00:00"
+    },
+    {
+      "title_ko": "Anthropic의 Claude, 알레르기 치료제 연구에서 3만 5천 개 설계 생성",
+      "title_en": "Anthropic says Claude generated 35,000 designs in allergy drug research",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUZVT0hVeWJ5b2FOdWxuZldFZlVabURHZENrNG1sM1NtWXh5YzN5VzBueXIzR2V0a0ZjdmpMdF9qdHhVZjB6emVPRjFWZ1ptR0prc25jUGtTUm9hQkk4RDlpMnFtNW1DMFl4UkZhNkg5eGZkYWxsdTBuU0lyYWhyYnFvN2NlWWE2TW5fSVM1MDVVaDJySGtpSElLNndIR25xdHJ5MXpkOU5pOEo4ZzlsTWxCbEtoNmg0ZmJz?oc=5",
+      "source": "KOKH",
+      "published_at": "2026-10-27T20:45:52+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-10-28T04:38:59.091809+00:00"
     }
   ]
 }
