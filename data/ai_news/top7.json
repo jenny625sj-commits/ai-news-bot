@@ -1,36 +1,27 @@
 {
-  "generated_at": "2026-10-29T16:43:06.234486+00:00",
+  "generated_at": "2026-10-29T21:37:55.480671+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic의 IPO 공시, 계산 자원 대부분이 고객 서빙 아닌 R&D에 투입",
-      "title_en": "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZ19jcFFQMTkwa2UxaVNfSXFQSlZZbXNXOE9MV1gzR1RjYm4wVUc4NjI4YzFrU3BSYzA5UmpKekhOX1l0MkRTMEpPeGJqUF9NMDZJWXRVUjFNVG8zZm4xbUZzUF9sRG5kSzlUVkctN2xzNnkyX3ktS2RwREpNX2R2LWhiNUkweUgtUk1fNFRQbWJvVnNFR1FNZDFEeFFzZGZNUm1NUE83dFBLbnFEUjZWRGdTczJHMVFCVmVta2RWWmQ2T3BtUGlCcUJnVDItVU00WTd4ZXh5QjBuSmU0cERuUW5oRzBDSHQ0bXVHSlc3WU9oZmRfNXpzRGoxM181M1RBdWZjT3VsLXRiMUxrVS1qQVZtV3ZncU1UNWxFUWcxTFZzMUFEOEI1Tmc2bjBkZGl1OGNrUlZZRkRTZlN5?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-10-29T11:30:00+00:00",
+      "title_ko": "Anthropic, 월스트리트에 AGI 신뢰 호소 중",
+      "title_en": "Anthropic is asking Wall Street to believe in AGI",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge",
+      "published_at": "2026-10-29T13:47:56+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-10-29T16:42:33.475682+00:00"
     },
     {
-      "title_ko": "마이크로소프트, OpenAI로부터 100억 달러 수익 기록",
-      "title_en": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-28T21:34:30+00:00",
+      "title_ko": "알파벳 5000억 달러 시가총액 손실, AI 기회 숨어있을 수 있어",
+      "title_en": "Alphabet Just Lost $500 Billion in Market Value. A Once-in-a-Generation Artificial Intelligence (AI) Opportunity Could Be Hiding in Plain Sight.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVZGenR2bUloX0p5YXJGVWRGa3RZdGF0RnpDV201eldWLUppSGpRc21vbWpCOU5Pd015YTkwdE1ja3JoSjBqR3ZpRC1ZSm5GN0JtX0NyaFo2VE1GVHViVEJHa1dIVDdEaUctc3hPSHg2M2ZsMkY1N0JxaWg0Vy03bW13S1drNko3UUtWb3VwazV4ZnQydmRDMA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-10-29T18:34:42+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
+      "first_seen_at": "2026-10-29T21:37:28.784703+00:00"
     },
     {
-      "title_ko": "마이크로소프트, Azure 실제 수익 공개: 332억 달러",
-      "title_en": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-28T21:58:32+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
-    },
-    {
-      "title_ko": "구글, AI 검색의 수익성 낮음 인정하지만 광고 확대로 해결 추진",
+      "title_ko": "구글, AI 검색이 수익성 낮다 인정, 광고로 보완 전략",
       "title_en": "Google admits AI search makes less money, but it's fixing that with more ads",
       "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
       "source": "Ars Technica",
@@ -39,16 +30,16 @@
       "first_seen_at": "2026-10-29T16:42:33.475682+00:00"
     },
     {
-      "title_ko": "Mistral, AI 모델 'Le Chonk'로 오픈 가중치 경쟁에서 중국을 능가했다고 주장",
+      "title_ko": "Mistral, AI 모델 '르 숑크'로 중국 제치고 오픈 웨이트 경쟁 주도",
       "title_en": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
       "source": "Wired",
       "published_at": "2026-10-29T14:00:00+00:00",
-      "category": "제품·출시",
+      "category": "연구·기술",
       "first_seen_at": "2026-10-29T16:42:33.475682+00:00"
     },
     {
-      "title_ko": "중국 AI 모델, 통제된 테스트에서 복잡한 사이버 공격 수행",
+      "title_ko": "중국 AI 모델, 통제된 실험에서 복잡한 사이버 공격 수행",
       "title_en": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
       "source": "Reuters",
@@ -57,12 +48,21 @@
       "first_seen_at": "2026-10-29T09:33:39.393933+00:00"
     },
     {
-      "title_ko": "뉴욕주, 아동 대상 '부안전' 챗봇 규제법 제정",
-      "title_en": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFZqQVNLcWtJeVZhWWxYeVN5ZUlHV1N2eWxMVmVqRXByalFwZWdwNnNSOEJGcW9aaEpXeXdSbVpvbTdPRURHbVdGNF9qcHJzZV9kVDJhWTlDLUt5QTBkTEItMnZFckRDQnR3aVZUQkRST3VSOHdleWV2aUZwUkd3XzVWbXhMRER1V2pfU0c2OWl2SnloYXVpQ1MyVHRPNnc50gGmAUFVX3lxTFBDanBmVTEtT1J0SDl2WWlQU0dhYjBETzVONkIzSnN4emU2NTBRQUN2WGpINGVPMXp3UC1Hd3NNVU9hUlllV3dpVGw0S2c5QWRmYlZLd1JsUFhHVEJWb3J6Nk1TdDJndVRIN0Y2SWFDVzBDTnZPYS15YnhtZktvVy1aZUJfdl9tNm5ZOUZLb3c0WmQ4VjJ2bDlVYVVNb1VBUkllcWFIUnc?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-10-28T22:30:00+00:00",
-      "category": "정책·규제",
+      "title_ko": "Anthropic, AI 지출 효과 측정 도구 출시",
+      "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-28T19:19:58+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
+    },
+    {
+      "title_ko": "구글, 사이버보안 '비약적 도약' 이룬 Gemini 4 Carbon 출시",
+      "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge",
+      "published_at": "2026-10-28T20:03:00+00:00",
+      "category": "제품·출시",
       "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
     }
   ]
