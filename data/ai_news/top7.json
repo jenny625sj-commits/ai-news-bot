@@ -1,54 +1,18 @@
 {
-  "generated_at": "2026-10-29T02:18:16.110386+00:00",
+  "generated_at": "2026-10-29T09:33:49.886663+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic의 상장 S-1 공시에서 나타난 5가지 핵심 내용",
-      "title_en": "NEWSLETTER: Should you invest in Anthropic? Five takeaways from its S-1",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0k1aFM3cXppSjREQmI3Y3phQzItVW5CdXQ2Y21sN3pnRDd0YWp5YjdWNFJieVFwa2daeVhpV1NTWHNYT21CSm9LOW9hVDByaF9mSlY3VU9NNnliWW9vak43OGwzRnZTa2FVeXdob3hZejZ1R3BWSHpRTFljY0RTaWhnRUNmZ1J5M1B6eDNoSV92LTAxTFpsVi12OHVScWdKc0RXbDJUWF9SX3lzZEZjSWptSmtDRVJ2cXFxcDN3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-28T21:16:00+00:00",
+      "title_ko": "Anthropic IPO 앞두고 주요 위험 요소 공시 - AI 보험 커버 불가능한 리스크 경고",
+      "title_en": "Anthropic filed to go public—what retail investors should weigh before its IPO",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Vc2N5SUR3WmY1a1l1cWJRbFM1RXVLakdBUGc1YWZ0dWRjLVhfN2ZZX2lHUG9pcU1HVno0cnMyY096UWp5b1lmYmlSRTN6SnI5ZFhGTGE2NGtUWkM0cUhCazlDM0l1LTh6ZkNYWFlwbGZuQ3pDdUZjLUc2bU9JZ9IBgwFBVV95cUxPbnp1REdiQWJ3c1Vic0N1cEtITFRkbDlraEY0VzJhTVhLdmd5RHYweHVCWllTNlJsajJ3d3gxa2RhV0ZWRjZJNkRZYjFjQm0zZWJkTTRPSlBrRjZnQmk1RFlsUXpjc3NiakxuVlZfckNxcC1lbHUwMTZNQnJOR2FNbzMyRQ?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-10-28T19:11:25+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
     },
     {
-      "title_ko": "마이크로소프트, OpenAI로부터 100억 달러 규모 수익 기록",
-      "title_en": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-28T21:34:30+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
-    },
-    {
-      "title_ko": "마이크로소프트, Azure 실제 매출 공개: 332억 달러",
-      "title_en": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-28T21:58:32+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
-    },
-    {
-      "title_ko": "Anthropic과 트럼프의 긴장 관계, 상장 직전 수면 위로",
-      "title_en": "Anthropic’s Tensions With Trump Laid Bare Ahead of Landmark IPO",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3UxTXZzZ05vcUJoNEhNdmlPZXZwMWNUVUQwWnFYVklZTDN4NVdrMmFzd2pQS2NTdVlrRUtyWTlfV2ZQLXQ3U0pJMUNJTjEwMk82dGJTb0VvWjBHbGIySThLdTJLRzVWb1RaVnljNXN0NWRqbzZGRWhRaWJZWHV1N1dIbE1xUTJSaTB3YmNpZG56dFI3VlpSU1lsWE5oUk9HSk9qdDNTMFgwSVlPX3JHYmtWTlk?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-28T12:45:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-28T18:01:32.404534+00:00"
-    },
-    {
-      "title_ko": "Anthropic, 캘리포니아 주지사에 위험한 AI 모델 차단을 법원에 요청",
-      "title_en": "Anthropic tells California governor courts should be able to block risky AI models",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-28T19:04:22+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
-    },
-    {
-      "title_ko": "중국의 신규 AI 수출 규제, AI 핵심 기술 보호에 선 긋다",
+      "title_ko": "중국, AI 핵심기술 수출 규제 강화 - 글로벌 AI 산업에 영향",
       "title_en": "China's new export curbs draw a line around its AI crown jewels",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
       "source": "Reuters",
@@ -57,13 +21,49 @@
       "first_seen_at": "2026-10-28T11:05:00.714172+00:00"
     },
     {
-      "title_ko": "해커들이 44개의 AI 에이전트를 활용해 사이버 공격 자동화, 연구진 발표",
+      "title_ko": "연구팀, 44개 AI 에이전트를 활용한 자동화 사이버공격 적발",
       "title_en": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3lVc055blpGbHViOFh0cWpYTjREeFU0Nk14WXgySE1CeHpJUW1vLS1LWWhOb0Z2c2VSenZ5NkdWd3M1MnQwbGh5aXJ1cWFNY0J3cDlaa1hiTUcyeFY3OW1QT0M1a21RbHpIVG5qRTkzUmZYVEVNSG11UUoyczF0S1doNXE5LWNSd0RIWElaWGRFZURyZzZONEV4M1FEMW5GbEdjT1JfSjd4VVh1Skt0NWJRU0VYZ3I0WTY1adIBxAFBVV95cUxOemhKTVFYY0dLYXFfZmhPVER3LVJwV3VxenNFQkZVQnZIV09HOHdSVlQ3VWQwVWFvU1hVUHlISUtsYzBKUGVEYWtqZWhVRlM4aXJIeFZVVkVJWExrRVdldXdfNVNJSmJ4c2JDbktPODVRd3VKb1hKaEFaSjJYN1NSTE1KNXcweVJ3OUJxdVZmQ2J2M3J4NmU2R2M3SHhZSWNNTGdKczRzZGk4Nng0OVpQbzJJMUlyQjBzcVU2VzBQaVhobVlh?oc=5",
       "source": "NDTV",
       "published_at": "2026-10-28T08:07:46+00:00",
       "category": "보안",
       "first_seen_at": "2026-10-28T11:05:00.714172+00:00"
+    },
+    {
+      "title_ko": "마이크로소프트, 10분기 연속 매출 기록 경신",
+      "title_en": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-28T21:25:30+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
+    },
+    {
+      "title_ko": "구글, 사이버보안에 '획기적 도약' 이룬 Gemini 4 Carbon 공개",
+      "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge",
+      "published_at": "2026-10-28T20:03:00+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
+    },
+    {
+      "title_ko": "구글과 마이크로소프트의 복잡한 AI 경쟁 구도 심화",
+      "title_en": "Google and Microsoft weave tangled AI webs",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzFlZ1RtVFN0OTdOS0l3WHlCMHlXanNzNGlLeXVkak1wOEFRdG1rMFFuVjN6UFF6ckZONTRyTkpvdzZRUHJnckFEQUJBMmtEalh1NkZUUGVncERmUFIyZDVRSVJIN0VrM1hHblF6S0xfZHVsNzFpaUoxcEM2NGdrZkg0VWc1cW04VUREX0RocWptZzZwLUQ2Ti02Yi1NbXdvMGZiYg?oc=5",
+      "source": "Breakingviews",
+      "published_at": "2026-10-28T21:56:15+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
+    },
+    {
+      "title_ko": "Anthropic, 캘리포니아 주지사에 위험한 AI 모델 차단 권한을 법원에 제안",
+      "title_en": "Anthropic tells California governor courts should be able to block risky AI models",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-28T19:04:22+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
     }
   ]
 }
