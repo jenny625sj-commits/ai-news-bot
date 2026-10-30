@@ -1,18 +1,9 @@
 {
-  "generated_at": "2026-10-29T21:37:55.480671+00:00",
+  "generated_at": "2026-10-30T01:40:55.992136+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic, 월스트리트에 AGI 신뢰 호소 중",
-      "title_en": "Anthropic is asking Wall Street to believe in AGI",
-      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "source": "The Verge",
-      "published_at": "2026-10-29T13:47:56+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-29T16:42:33.475682+00:00"
-    },
-    {
-      "title_ko": "알파벳 5000억 달러 시가총액 손실, AI 기회 숨어있을 수 있어",
+      "title_ko": "알파벳, 시장 가치 5000억 달러 손실... AI 기회 재평가 필요",
       "title_en": "Alphabet Just Lost $500 Billion in Market Value. A Once-in-a-Generation Artificial Intelligence (AI) Opportunity Could Be Hiding in Plain Sight.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVZGenR2bUloX0p5YXJGVWRGa3RZdGF0RnpDV201eldWLUppSGpRc21vbWpCOU5Pd015YTkwdE1ja3JoSjBqR3ZpRC1ZSm5GN0JtX0NyaFo2VE1GVHViVEJHa1dIVDdEaUctc3hPSHg2M2ZsMkY1N0JxaWg0Vy03bW13S1drNko3UUtWb3VwazV4ZnQydmRDMA?oc=5",
       "source": "The Motley Fool",
@@ -21,48 +12,57 @@
       "first_seen_at": "2026-10-29T21:37:28.784703+00:00"
     },
     {
-      "title_ko": "구글, AI 검색이 수익성 낮다 인정, 광고로 보완 전략",
-      "title_en": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "source": "Ars Technica",
-      "published_at": "2026-10-29T16:24:55+00:00",
+      "title_ko": "AWS, 향후 1조 달러 규모 사업으로 성장... 대규모 투자 계획 예고",
+      "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-29T23:42:22+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-30T01:40:39.378759+00:00"
+    },
+    {
+      "title_ko": "Anthropic, IPO 추진... 월스트릿에 AGI 신뢰도 입증 필요",
+      "title_en": "Anthropic is asking Wall Street to believe in AGI",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge",
+      "published_at": "2026-10-29T13:47:56+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-10-29T16:42:33.475682+00:00"
     },
     {
-      "title_ko": "Mistral, AI 모델 '르 숑크'로 중국 제치고 오픈 웨이트 경쟁 주도",
-      "title_en": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "source": "Wired",
-      "published_at": "2026-10-29T14:00:00+00:00",
-      "category": "연구·기술",
+      "title_ko": "중국 해킹 집단, DeepSeek 등 AI 도구 악용한 대규모 글로벌 사이버 공격 감행",
+      "title_en": "Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2tBajRGcFVPX2VqQ282N2Z5bWNzZXlvaFlkNkw1djJST1FyNDNhWDAyVHRacU5WckRKaDNSTWJZNVRKZ3pSWi1NR0JUeGM0RlRCTlRncS1uME1lUDNOVExMdE51ODN1TEpLLUFFdUcxN19CRnNwOW9JVnpHQW9EZ0tFb2wtMkMzZTlJTEVpTF8tVUxGZENlUzdfUlk0UDdpYkRxQkh6d1RHRVZ5QUVHSlJsanRNQVZKNlNZ?oc=5",
+      "source": "NBC News",
+      "published_at": "2026-10-29T22:00:40+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-30T01:40:39.378759+00:00"
+    },
+    {
+      "title_ko": "가트너, 2030년까지 3조 5000억 달러 AI 인프라 투자 위험 경고",
+      "title_en": "Gartner warns $3.5T in AI infrastructure spending could be at risk by 2030",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWllLcC1jU19wMGZsQjluRTZWckN3eDNEMGUwX2hJWWxtUjg4RE9XR3pCTzhOMEJaQjM4MThiTVhzdFJ3cnZzTEFhRGNjdUJLM05tZzVxQUI3dG1jc1Bqamk4V0Mzc25uRmtzbmVjOTFsTVlrQmpZeFhQaFF3NWNWb0haNHpEbDRPc1piaW5acnE4ekpNYi1SWXQwZGhiMEJYMnUyRXFhV1kwcWNZV3JpOVpyWGxBazBsZnJlLVZaUWM?oc=5",
+      "source": "Network World",
+      "published_at": "2026-10-29T18:15:18+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-30T01:40:39.378759+00:00"
+    },
+    {
+      "title_ko": "뉴욕주, 아동 대상 AI 기능 금지하는 법안 제정",
+      "title_en": "New law in New York will ban artificial intelligence features for children",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkx4QUJhQl9QMjU0T1NTbmItLU5pLWVqQUY4VkMxcTlEZFotOUJ4T25nSmZLenBMVjBOTWlWLWxPSGQxbHc4bFd1a2R5VzhaVm5Gc1BXMlNzY2dxWEJ0a0toWjNVaVJHYVBVbThTeDlVaGFDRzRmdGE2bk4zTExYb0Y3dXJWTG1tb1YyUExqNTgyOUZqY1A1eDlWOTdXYk0xVUcxRmY2TF9xOHgxcUYwT1FJRUR3Zw?oc=5",
+      "source": "Baltimore Sun",
+      "published_at": "2026-10-29T12:38:14+00:00",
+      "category": "정책·규제",
       "first_seen_at": "2026-10-29T16:42:33.475682+00:00"
     },
     {
-      "title_ko": "중국 AI 모델, 통제된 실험에서 복잡한 사이버 공격 수행",
-      "title_en": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-29T03:28:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-29T09:33:39.393933+00:00"
-    },
-    {
-      "title_ko": "Anthropic, AI 지출 효과 측정 도구 출시",
-      "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-28T19:19:58+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
-    },
-    {
-      "title_ko": "구글, 사이버보안 '비약적 도약' 이룬 Gemini 4 Carbon 출시",
-      "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "source": "The Verge",
-      "published_at": "2026-10-28T20:03:00+00:00",
-      "category": "제품·출시",
+      "title_ko": "구글과 마이크로소프트, 얽힌 AI 투자 구도로 경쟁 심화",
+      "title_en": "Google and Microsoft weave tangled AI webs",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzFlZ1RtVFN0OTdOS0l3WHlCMHlXanNzNGlLeXVkak1wOEFRdG1rMFFuVjN6UFF6ckZONTRyTkpvdzZRUHJnckFEQUJBMmtEalh1NkZUUGVncERmUFIyZDVRSVJIN0VrM1hHblF6S0xfZHVsNzFpaUoxcEM2NGdrZkg0VWc1cW04VUREX0RocWptZzZwLUQ2Ti02Yi1NbXdvMGZiYg?oc=5",
+      "source": "Breakingviews",
+      "published_at": "2026-10-28T21:56:15+00:00",
+      "category": "기업·투자",
       "first_seen_at": "2026-10-28T22:57:59.437963+00:00"
     }
   ]
