@@ -1,27 +1,45 @@
 {
-  "generated_at": "2026-10-30T20:30:40.053658+00:00",
+  "generated_at": "2026-10-31T00:31:28.907879+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "AI 우려로 알파벳 시가총액 5000억 달러 급락, 월스트리트 흔들려",
-      "title_en": "Value of Google parent Alphabet plunges by $500bn as AI fears rattle Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
-      "source": "BBC",
-      "published_at": "2026-10-29T22:17:52+00:00",
+      "title_ko": "인텔 주가 급락, 정부 지분에서 120억 달러 손실",
+      "title_en": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-30T21:54:34+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-30T08:14:40.270373+00:00"
+      "first_seen_at": "2026-10-31T00:31:07.460677+00:00"
     },
     {
-      "title_ko": "AI 투자 우려 속 테크 주식에서 2조 달러 증발",
-      "title_en": "$2 trillion wiped from tech stocks amid artificial intelligence spending fears",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFlZQTNQRndSbnpQdUVHODEyZTdibzYtNEZKS2ljZWZjSXNpZ0VJSzlNN1BDMmRpeV9qSU9XNl9WaW43VmM0azF1aDZZRzZSaVlQdjB0NV9ScnVFcVZjNVJNT1k1Y1lNT3VEWkFfaHRjM1VHUm1FVEVzek14bVpzLU5iOHc5VUJXLWpMUWxDY3NpWmhrdmlv?oc=5",
-      "source": "The Independent",
-      "published_at": "2026-10-30T16:08:00+00:00",
+      "title_ko": "AI 투자 우려로 기술주 급락",
+      "title_en": "Earnings stoke AI fears and send tech stocks tumbling",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUV9HVk91NlhYX1lmZWJKUjd5dTRJUzFnSTVWN0xaYWROMERpSzl3U1Q3N3dCelctRmxkZ24xTHoybjlCTjhGc3JQYnRGMjEtTmpGb0RlWDZQRDNjNFF3Q1U2bGVXblpoSVhBakxjaFU3aHNfNkI5UHNLSXQwdEdJbHVUTTlaLTc1WTlNTzVDQ0sxb1U4a1huS3hrMUl1OVVjYUJ2dnZ3R2tSb01IWVNqaXhGNWRRQ0t2cDNkUFp3?oc=5",
+      "source": "Le Monde.fr",
+      "published_at": "2026-10-30T21:39:54+00:00",
       "category": "기업·투자",
+      "first_seen_at": "2026-10-31T00:31:07.460677+00:00"
+    },
+    {
+      "title_ko": "AI 투자 붐에 균열 생기기 시작",
+      "title_en": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-30T21:17:40+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-31T00:31:07.460677+00:00"
+    },
+    {
+      "title_ko": "구글·마이크로소프트·OpenAI·앤스로픽, 간편한 AI 교육 도구 제공",
+      "title_en": "Google, Microsoft, OpenAI, Anthropic to offer streamlined AI training tool",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYXREOG5HanF3RzJaMmlIV0h1NEs4RU44TnRFalBHOEdKeFFsM1dMeEQ5YWkzdWtUdzNwNGJpVnFzQ0pqbzdOS0M4Z0Z5VjBRZWRNLUdHdVlRZ2hfUDV3MlIyLXRfMmxWNjNGLVkwY25iemNNZlFYSHFTV3c2cjBtSEZRVWFfN0JuRmMyc1dGN3hleEhrUWtmN09fSEQtZ0dqWjJJYkZ5WVFJaW9sTTg2Tnpadmk2VFNhVm5rVmh6Z2lvVEtMbm4xVXNiRm1sVmx2aWh3NtIBWkFVX3lxTE81QXNIMWZHTExQeC1uQzF5Y1NJTDFvcmM5NmI5T0dZai1zNEpKMDdqdTlySTVmRms5WTZLZmlQNFlUYnFVdjg4N28tWGYzUWp0amlBMEEwY2J4Zw?oc=5",
+      "source": "MLex",
+      "published_at": "2026-10-30T18:43:58+00:00",
+      "category": "제품·출시",
       "first_seen_at": "2026-10-30T20:30:20.490804+00:00"
     },
     {
-      "title_ko": "일본, Anthropic·OpenAI에 고급 모델 접근권 확대 요청",
+      "title_ko": "일본, 앤스로픽·OpenAI에 고급 모델 접근 확대 요청",
       "title_en": "Japan asks Anthropic, OpenAI for more access to advanced models",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblF0dzUtdkZyalRKaDU3MG5oWVRxY2JWRThRZEN0a0Zwa1Q1ZTE1bVhIcWhMM2J2Sm9JejhrNmRLNGQ3TlIzS0JzRzh4VDZsaXdyVmd5cHN1ek5xLWQwd0dxZ2FlTDZfVDdtdTgzZ0YxOUJBMlh6R2VYNDY1N3RXSkh6VF9DV1VILUtzOGZIcGZucnpoenp1ZDlrMzdCM1hrUXU5SWVPS3o1MnJpWjIweDdPUlRwSTlpcUltcWhldFJ2Z0JQWGZXZ0Fn?oc=5",
       "source": "Nikkei Asia",
@@ -30,7 +48,7 @@
       "first_seen_at": "2026-10-30T15:40:20.195211+00:00"
     },
     {
-      "title_ko": "Anthropic AI 모델, 리눅스 커널 원격 루트 접근 취약점 발견",
+      "title_ko": "앤스로픽 AI 모델, 리눅스 커널 버그 발견해 원격 루트 접근 가능",
       "title_en": "Anthropic AI model finds Linux kernel bug that leads to remote root access",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0I1UVQxSWpUXzlZWGNaZ19IZEEweHYzQUdhNUhBdENhUWRsNGdBcmI3NlFGbmI0N2hEU2toOU50ZEZ0aTBwN1hvdEdqX3F1dFFJbTJZUUFDRzBESjBwamJ2SzZQVDVrZUt6SXRXSjZqZUJvRUc4c1lzamFTQXVIdTQxbGlRWWozLUVFMjVPM2dBYW9URC1kbTdGYjBLSDRrMENTV3NuQkZCNUxWSTFhdDRoQlRVRzZmOGZodTFn?oc=5",
       "source": "CSO Online",
@@ -39,31 +57,13 @@
       "first_seen_at": "2026-10-30T15:40:20.195211+00:00"
     },
     {
-      "title_ko": "캐나다, AI 기업 Cohere 지분 매입으로 기술 주권 강화",
-      "title_en": "Canada buying stake in AI firm Cohere to bolster tech sovereignty",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlJqYmZwRUZkeDFHZWtoaVdsMUk1bkJwNk8yb25nUy1fNVlaeFBKcVJHc1ZJRU5RUVNKZkI3R1BYTVJjeVFWbWtROXdSLTZ4b0JWWkV6c1pqRFNDeHNza29MMW4wbVNrd1c5MFdra0VuTFBFV00zWUp0R0VUOGQ1QThYclJMczk5QzlBVk5hYmFJUVA2OTdreGVRckxRX3IzZFBVd2lRc1ZTSlNUYVVuU01B?oc=5",
-      "source": "France 24",
-      "published_at": "2026-10-29T19:51:50+00:00",
+      "title_ko": "알파벳 가치 5000억 달러 급락, AI 우려로 월가 흔들린다",
+      "title_en": "Value of Google parent Alphabet plunges by $500bn as AI fears rattle Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-29T22:17:52+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-30T01:40:39.378759+00:00"
-    },
-    {
-      "title_ko": "가트너, 2030년까지 3.5조 달러 규모 AI 인프라 투자 위험 경고",
-      "title_en": "Gartner warns $3.5T in AI infrastructure spending could be at risk by 2030",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWllLcC1jU19wMGZsQjluRTZWckN3eDNEMGUwX2hJWWxtUjg4RE9XR3pCTzhOMEJaQjM4MThiTVhzdFJ3cnZzTEFhRGNjdUJLM05tZzVxQUI3dG1jc1Bqamk4V0Mzc25uRmtzbmVjOTFsTVlrQmpZeFhQaFF3NWNWb0haNHpEbDRPc1piaW5acnE4ekpNYi1SWXQwZGhiMEJYMnUyRXFhV1kwcWNZV3JpOVpyWGxBazBsZnJlLVZaUWM?oc=5",
-      "source": "Network World",
-      "published_at": "2026-10-29T18:15:18+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-30T01:40:39.378759+00:00"
-    },
-    {
-      "title_ko": "중국 해커, DeepSeek 등 AI 도구로 글로벌 대규모 사이버공격 수행",
-      "title_en": "Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2tBajRGcFVPX2VqQ282N2Z5bWNzZXlvaFlkNkw1djJST1FyNDNhWDAyVHRacU5WckRKaDNSTWJZNVRKZ3pSWi1NR0JUeGM0RlRCTlRncS1uME1lUDNOVExMdE51ODN1TEpLLUFFdUcxN19CRnNwOW9JVnpHQW9EZ0tFb2wtMkMzZTlJTEVpTF8tVUxGZENlUzdfUlk0UDdpYkRxQkh6d1RHRVZ5QUVHSlJsanRNQVZKNlNZ?oc=5",
-      "source": "NBC News",
-      "published_at": "2026-10-29T22:00:40+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-10-30T01:40:39.378759+00:00"
+      "first_seen_at": "2026-10-30T08:14:40.270373+00:00"
     }
   ]
 }
