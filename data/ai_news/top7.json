@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-10-31T13:25:26.286461+00:00",
+  "generated_at": "2026-10-31T18:19:23.043403+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, 나스닥 상장 길 더 험난해져",
+      "title_ko": "OpenAI, 새로운 펀딩 라운드 목표액 낮춘다",
+      "title_en": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-31T16:12:55+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-31T18:19:11.736175+00:00"
+    },
+    {
+      "title_ko": "AI 추론 작업 임차 플랫폼, 앤스로픽 토큰 가격 77% 급락으로 일일 수익 $1.23으로 폭락",
+      "title_en": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs — Darkbloom network sees earnings drop to $1.23 a day as Anthropic tokens fall 77%",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQb3d1LS16enNVOHNfejNON0kxenFocnEtWlMwZnVyU2RFeGdpX2lIcTR0VFdyQ0ZnT2ZDcHlkUkhHT2hmNzl2UTNWamJwX244R2V5QzRfbjlzNGhka1JzU3A5QlF4RVdjMHVzRlZ0VDJwb1F2NEJsVHJjUTlPbHlfUFFLcmljckRHVExHUnpDSVNQaXdoX3FselNFUEhVaXNPMEkzVXphVmNmVXY5VVB3aC1mV0s5X1dOOUZyTGlYYWdtN25udjFNMzhCUzlNelpMdEFGZ1FCWjJCUEdkTEZLZ21ReDZOZXFLdV9FeS1Xd2luQWFvRWtHd0k5ZEpNWlgwZ3Zjb0tDS3EwZ0xQMFc5dmdGeUNqT2xNVS01YU9kY3pKdzI1YlA4Tzg1b2tGYnhORlh5VFRfUnhYVkJaOXFLRndTQUV3dkJXaElLVm1mS1RSODlaSGxzcnFVRi1HTXlKbHFxbDBHajgzMDkyM0g4TFN0NA?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-10-31T13:49:09+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-31T18:19:11.736175+00:00"
+    },
+    {
+      "title_ko": "앤스로픽의 나스닥 상장 길, 더욱 험난해지다",
       "title_en": "Anthropic's path to the Nasdaq just got a lot bumpier",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
       "source": "CNBC",
@@ -12,7 +30,16 @@
       "first_seen_at": "2026-10-31T13:25:03.287643+00:00"
     },
     {
-      "title_ko": "앤스로픽, IPO 후 신용평가사로부터 정크급 평가 예상",
+      "title_ko": "나스닥 폭락의 원인은? AI 지출 우려, 인텔 부진, 앤스로픽 부채 문제가 촉발",
+      "title_en": "What's fuelling the Nasdaq crash? AI spending fears, Intel rout and Anthropic debt concerns drive selloff",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaGpVa3dMaF9FY1lWVGFoUW1Cekh1Q29MNlhzSW9HWE1JQWxrVG5FZHpFcWNVdmxwWGJUbWR1eEJTQlBmOWtObk45SkNXUHJBdDVjbGdQc2kzbEJDSGVHUmVaUk1MU25QQWlMRFYySXpSTTBLTHJVVHZTSjF1UjFpZTBubjZyc0xJal81MG1xVzl0UEJzNnFSS0tROHhQTGt4QmtwTFB0clVGeXdETkJuX090a2lsa20tRHFkdnU3cEdJbF9wNzFGemZoN1RoYWFyRC1aQ2gzUVVBV1BjMzVMYXNGTk9kcXVT0gHuAUFVX3lxTE5helZHeWZLWlh4QmNoWEZpWUVwSnRpM1RQdGVfT1E5ZUhKZ0R6Y29xd24xUDBtMms3Z0ZYRVlOa0o0Q2Z5ZEFET3M5MUNPLXZpNjFlNXVMeGgzUEFpeXVBWEVUdDFyUkVwQWk5VVg5c1JScUdVTWh4UUtoeEtSWkRhS2I5WFRzNGkwRWtialFOWVdFdlZTOTN3NU9ham5IcnVWMTFwOU1ma0Y1OE9mc1hhZ1RWUm1ZSk5hWXFEV0ZEQWl3MkZ4RDN2Zk5QWjhGRnFnclAxUkhlNGowWk9wQy1iYVBjNjJtcUhoeFJfVkE?oc=5",
+      "source": "Moneycontrol.com",
+      "published_at": "2026-10-31T07:35:22+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-10-31T18:19:11.736175+00:00"
+    },
+    {
+      "title_ko": "신용평가사, 앤스로픽 IPO 후 투기등급 판정 예상",
       "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
       "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "source": "TechCrunch",
@@ -21,7 +48,7 @@
       "first_seen_at": "2026-10-31T00:31:07.460677+00:00"
     },
     {
-      "title_ko": "AI 지출 1조 달러에 가까워지자 미국 기술주 급락",
+      "title_ko": "미국 과학기술주 급락, AI 지출이 1조 달러에 접근하면서",
       "title_en": "US tech stocks see sharp falls as AI spending nears $1tn",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
       "source": "BBC",
@@ -30,40 +57,13 @@
       "first_seen_at": "2026-10-31T06:44:38.786830+00:00"
     },
     {
-      "title_ko": "앤스로픽, IPO 앞두고 규제 리스크로서 개인정보보호 우려사항 상세 공개",
-      "title_en": "Anthropic details privacy concerns as pervasive regulator risk in advance of IPO",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjQzNG1oYWU5d1VsNXZKVVVsaVdlWjNjc1BfdW9Tek9yZF9tZnRjdHJ5a1Yya3lRRnJBa0F1RGM1RHBBV0VvWU1tREpic2NEUDhUM0VxQjBQeHEtc3pfZG1DVTBpREpqT1RpY1BfQzFsQW9LaDZzZnNNbDVySFFiaU1rWjhudl9LYXRHNGJTWGp4WjZ4UVVpWFN1QWtndlMwMXhCX0FQazFlLTBmUFNVLTg0Tkp0eUJiN0Rrak1NQ0hSRTlOTVVQNVozS3dPV1E5ZVlKZ3VYc2pRbjM2YWg4atIBWkFVX3lxTE1DV3VubDFwZy1peXdmYlVQNllLbnZYZTBZSkNEWXhrUHZDVmRZVGFWa2hIc0pfUUdKT25GN1ZzTDdBMTZEVnRPeUs3Mms1cU5vbTlLRXo4ektkZw?oc=5",
-      "source": "MLex",
-      "published_at": "2026-10-31T00:19:29+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-10-31T06:44:38.786830+00:00"
-    },
-    {
-      "title_ko": "앤스로픽 클로드 AI, 비디오게임 클로닝 및 역분석 차단… 정상적인 개발자도 영향",
-      "title_en": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-10-31T12:20:00+00:00",
-      "category": "기타",
-      "first_seen_at": "2026-10-31T13:25:03.287643+00:00"
-    },
-    {
-      "title_ko": "앤스로픽 AI 모델, 리눅스 커널 보안 취약점 발견",
+      "title_ko": "앤스로픽 AI 모델, 원격 루트 접근 가능한 리눅스 커널 버그 발견",
       "title_en": "Anthropic AI model finds Linux kernel bug that leads to remote root access",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0I1UVQxSWpUXzlZWGNaZ19IZEEweHYzQUdhNUhBdENhUWRsNGdBcmI3NlFGbmI0N2hEU2toOU50ZEZ0aTBwN1hvdEdqX3F1dFFJbTJZUUFDRzBESjBwamJ2SzZQVDVrZUt6SXRXSjZqZUJvRUc4c1lzamFTQXVIdTQxbGlRWWozLUVFMjVPM2dBYW9URC1kbTdGYjBLSDRrMENTV3NuQkZCNUxWSTFhdDRoQlRVRzZmOGZodTFn?oc=5",
       "source": "CSO Online",
       "published_at": "2026-10-30T12:28:18+00:00",
-      "category": "보안",
+      "category": "연구·기술",
       "first_seen_at": "2026-10-30T15:40:20.195211+00:00"
-    },
-    {
-      "title_ko": "애플, 알리바바 파트너십으로 12월 중국에서 아이폰 AI 기능 출시",
-      "title_en": "Apple to launch iPhone AI features in China in December via Alibaba partnership",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2tkN3NFenBvWmVSMHFlWEJGWnlfeWpyVzFQQzhoUllDZ3ljS05venFUT1ZnT3pQai13c3hmUHU0RTlESklTekVvU2VuTXJXeDF0Z1k4THFicC1ybU0wcVk5MVBuNmdaMXVCUlZ3dTBPcmtLTVBjTnBKV2lHZEFGRmlKU0loWWttaWlXbDM3QkxLS1RkaHhic04xYm5FWGcyWWxDZDZFT01kVXl5WTFWQUtrcW1uZU020gG4AUFVX3lxTFA4YTg1dUhJeDhZajg5NTFxU29RRWNNeVZzZXRxMmpoUjZ3QTNuWktwS0FQVkxvbUQ3YjQ1NGcwa3hVRDE3TnNOTmVhdXk5QTVuYUhuMGgxR0tmWHZGbDdKV09tdnhWQWhJWTdnaW9mNmhZRWowaV9wQmdvZTRTa3FzdExZakVlTHpXT0RGNGxYS0RpeXd1emlfYXBqVkVCMk1MUjJhbmlQdV90M2RqN3FiakNEM3VYU2w?oc=5",
-      "source": "South China Morning Post",
-      "published_at": "2026-10-31T10:02:17+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-10-31T13:25:03.287643+00:00"
     }
   ]
 }
