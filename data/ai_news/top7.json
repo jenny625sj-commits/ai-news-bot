@@ -1,27 +1,9 @@
 {
-  "generated_at": "2026-11-01T09:03:34.811638+00:00",
+  "generated_at": "2026-11-01T16:37:35.106489+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "클로드 개발한 앤스로픽, 나스닥 상장 추진",
-      "title_en": "Antropic, which developed the artificial intelligence (AI) service \"Claude,\" is seeking to list on t..",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aSzlIZjRQd2NxQ18wU1FVaTFYTWROQThNN1NWaFM0YU1JRVZuLU0wZzQ5SFQ5Tk1ZaE0zRG9UMmxfdGdaR3JKaWVBaUt5Tkk?oc=5",
-      "source": "매일경제",
-      "published_at": "2026-10-31T22:37:14+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-01T09:03:22.699025+00:00"
-    },
-    {
-      "title_ko": "오픈AI, 새로운 펀딩 라운드 목표액 낮춰",
-      "title_en": "OpenAI reportedly lowers funding target for new round",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-31T16:12:55+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-31T18:19:11.736175+00:00"
-    },
-    {
-      "title_ko": "앤스로픽의 나스닥 상장 길, 예상보다 험난해져",
+      "title_ko": "앤스로픽의 나스닥 상장 계획이 난관에 봉착하다",
       "title_en": "Anthropic's path to the Nasdaq just got a lot bumpier",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5",
       "source": "CNBC",
@@ -30,25 +12,16 @@
       "first_seen_at": "2026-10-31T13:25:03.287643+00:00"
     },
     {
-      "title_ko": "나스닥 폭락의 배경, AI 지출 우려와 앤스로픽 부채 문제",
-      "title_en": "What's fuelling the Nasdaq crash? AI spending fears, Intel rout and Anthropic debt concerns drive selloff",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaGpVa3dMaF9FY1lWVGFoUW1Cekh1Q29MNlhzSW9HWE1JQWxrVG5FZHpFcWNVdmxwWGJUbWR1eEJTQlBmOWtObk45SkNXUHJBdDVjbGdQc2kzbEJDSGVHUmVaUk1MU25QQWlMRFYySXpSTTBLTHJVVHZTSjF1UjFpZTBubjZyc0xJal81MG1xVzl0UEJzNnFSS0tROHhQTGt4QmtwTFB0clVGeXdETkJuX090a2lsa20tRHFkdnU3cEdJbF9wNzFGemZoN1RoYWFyRC1aQ2gzUVVBV1BjMzVMYXNGTk9kcXVT0gHuAUFVX3lxTE5helZHeWZLWlh4QmNoWEZpWUVwSnRpM1RQdGVfT1E5ZUhKZ0R6Y29xd24xUDBtMms3Z0ZYRVlOa0o0Q2Z5ZEFET3M5MUNPLXZpNjFlNXVMeGgzUEFpeXVBWEVUdDFyUkVwQWk5VVg5c1JScUdVTWh4UUtoeEtSWkRhS2I5WFRzNGkwRWtialFOWVdFdlZTOTN3NU9ham5IcnVWMTFwOU1ma0Y1OE9mc1hhZ1RWUm1ZSk5hWXFEV0ZEQWl3MkZ4RDN2Zk5QWjhGRnFnclAxUkhlNGowWk9wQy1iYVBjNjJtcUhoeFJfVkE?oc=5",
-      "source": "Moneycontrol.com",
-      "published_at": "2026-10-31T07:35:22+00:00",
+      "title_ko": "AI 지출 붐에 균열이 생기고 있다",
+      "title_en": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-30T21:17:40+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-10-31T18:19:11.736175+00:00"
-    },
-    {
-      "title_ko": "AI 업계 거물들, 스크래핑 거부 새로운 방식 지지",
-      "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "published_at": "2026-10-30T22:04:23+00:00",
-      "category": "정책·규제",
       "first_seen_at": "2026-10-31T00:31:07.460677+00:00"
     },
     {
-      "title_ko": "미국 기술주 급락, AI 지출이 1조달러에 임박하며 우려 고조",
+      "title_ko": "AI 지출이 1조 달러에 가까워지면서 미국 기술주들이 급락하다",
       "title_en": "US tech stocks see sharp falls as AI spending nears $1tn",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5",
       "source": "BBC",
@@ -57,13 +30,40 @@
       "first_seen_at": "2026-10-31T06:44:38.786830+00:00"
     },
     {
-      "title_ko": "AI 지출 우려 속 기술주 2조달러 증발",
-      "title_en": "$2 trillion wiped from tech stocks amid artificial intelligence spending fears",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFlZQTNQRndSbnpQdUVHODEyZTdibzYtNEZKS2ljZWZjSXNpZ0VJSzlNN1BDMmRpeV9qSU9XNl9WaW43VmM0azF1aDZZRzZSaVlQdjB0NV9ScnVFcVZjNVJNT1k1Y1lNT3VEWkFfaHRjM1VHUm1FVEVzek14bVpzLU5iOHc5VUJXLWpMUWxDY3NpWmhrdmlv?oc=5",
-      "source": "The Independent",
-      "published_at": "2026-10-30T16:08:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-10-30T20:30:20.490804+00:00"
+      "title_ko": "딥시크, 오픈AI·앤스로픽과의 코딩 경쟁에서 AI '슈퍼 에이전트' 공개",
+      "title_en": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFU5NlZJMVBaQ0txUnotazkwaWdmQzJwb3JvWUY4dTFHd2VERGZtdVJiMmxaTG9vR0pjZjFLOXZoZVRfRlFFZzM3dV81VVM3RDZLckQxZ01nc2ZFWGVvQlVoalk3X21iWDdBa29WcWNvblY1YVpGc3hPbDJCVVA3a2d2YVJDbFlZRUdkZ0NXTHplVTlEUGJ6RVBXTXZ1bWQ5eVRNNtIBpAFBVV95cUxQY3o3SXYteGFPRF9kQ3psaFZaTDJHMzhibnhoVE5LdjhGVUxkN2VBNnVuNHd2XzhodEpYLTRyMzhRcXNpWjY4SjBhMmdzek1oN0ZGRnh6RU5aWm12QUxYdDVvaktJUUU2UE1QVVdXUzhvdHFPZ0FrOHpOODJNQUlHYm5DSlI3aW8wS0dpMHFDWTNfNGpQeS0wYnU1TkIxbmtxVGRfSw?oc=5",
+      "source": "South China Morning Post",
+      "published_at": "2026-11-01T10:00:26+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-01T16:37:23.191803+00:00"
+    },
+    {
+      "title_ko": "판사, xAI 데이터센터 오염 관련 NAACP 소송의 진행을 허가하다",
+      "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-31T21:17:03+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-10-31T22:18:17.232641+00:00"
+    },
+    {
+      "title_ko": "AI가 27년 된 컴퓨터과학 이론을 반박했을 가능성이 제기되다",
+      "title_en": "AI May Have Disproved A 27-Year-Old Computer Science Theory: Report",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVJqektWUExlT2h4NkEyZUFlMzFOOHRMb0NwVWI2dkFRSnB5WEF5UDNuZmNMWmI5Wi1kVXB6c2xUY1MxOG1hWFVRYjZUV1dVLWtyZWh5ajdyUXdWVV9fX21HN08wd3FQTTV1a2hMTEFvR3JpVkNXdFJyWEprZzh2QXFTVEpkNFpyal9WUlRmdlpUWnlLMWlFdHlhWm1XNmVZRURHWS1pZTU0bmc2TGg3WDFCRk1yc2xpcTgtMNIBxAFBVV95cUxNTGZBX084YW9EMjUxSHlSREtPQkhwbXRvTnRQNGROMGVDQWJ1YWdTTjJPZlQ0UXRMZktuZENJcVZ2UmpkTE1QbGN5VjZOckNGTjZWenpCcmhaQjEzVE8xb2ExSGxxMWZ6VnkwMWw3Q1VuZDR2Qk9iZkpybmVsLTNHMkNFREI4NkZudFQyZF84N19abXpEZ1VTS0tielBzNGRQMjRQandWR3VmLVY5SlYwRDR0dFpqa1Qtb2lCVFJfWFNzb3Rv?oc=5",
+      "source": "NDTV",
+      "published_at": "2026-10-31T06:17:59+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-10-31T06:44:38.786830+00:00"
+    },
+    {
+      "title_ko": "중국 해커들이 AI 기반 ARTEX를 이용해 전 세계 200개 이상의 조직을 표적으로 삼다",
+      "title_en": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMElqbDJpeTlKRTVSSUZMRU10X1ZGMmh1UTlmN0hDQUpRYU8za2xaSUpkQWt4NVFJdUtfTmlRWEZ5RDNIa1hTdlVLOEhEdnpCUmV5VWY2dGp2dUZRM1dnMXRQRE1odUd6VU1Gako4RHRESHBlNnZUVkY4b3E2Zk83aV9xZDk?oc=5",
+      "source": "The Hacker News",
+      "published_at": "2026-10-30T16:58:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-10-31T00:31:07.460677+00:00"
     }
   ]
 }
