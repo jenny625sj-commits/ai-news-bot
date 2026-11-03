@@ -1,9 +1,36 @@
 {
-  "generated_at": "2026-11-03T15:57:25.952893+00:00",
+  "generated_at": "2026-11-03T21:40:17.346062+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "메타, AI 확장을 위해 200억 달러 규모 채권 발행 추진",
+      "title_ko": "AI 추론 스타트업 Fal, 급증하는 수요에 힘입어 기업가치 160억 달러로 2배 상승",
+      "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-03T19:34:43+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
+    },
+    {
+      "title_ko": "Anthropic, 계산 비용 경제성 문제로 여전히 고민 중",
+      "title_en": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-03T17:07:01+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
+    },
+    {
+      "title_ko": "Anthropic, 자기개선형 AI가 예상보다 훨씬 빨리 도래할 수 있다고 경고",
+      "title_en": "Anthropic Warns Self Improving AI Could Arrive Much Sooner Than Expected",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0RsMjhzaEMzck1sUWN2QjcwWGZaLTBpOGRJTWNjZGVuRDBMbl9JMnc3TF8yRVZidEZ5X2wzdUd3T0pVYjRmeGRPWDVIX3ZBYlgxVExOVE81bE5QY2t2RjV2cnpsUkc1UWgwc0hKVUhlekJXZWpWaThfQ0tzbXZPSjB5UXdEQUFYak1ubjFrbi1kZnVBT01jTg?oc=5",
+      "source": "Android Headlines",
+      "published_at": "2026-11-03T15:03:07+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-11-03T15:56:37.034250+00:00"
+    },
+    {
+      "title_ko": "Meta, AI 확장을 위해 200억 달러 규모의 채권 발행 추진",
       "title_en": "Meta eyes $20 billion bond sale to fund artificial intelligence expansion",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTBrZFVWcTFMVDZSMHhNZWducGc2RkR3Y1JBQzNCZ25NN1FVRlNNYkdPc2JXLTljRHpjUkVtdnZtMWdMZlRrc3dQRjNiNmo1RlB2RlR2UWM1ZU02Z1BDRVQ3ZTU0d21ZZ2JxTXVPQ2xhNHNwOXlDa3hZc3J3TE9tM054TmhtdUhjZUQ2TUlEUDRYNEstNVJmeVhKa1FRSE9ObjhfR0twRmNUZw?oc=5",
       "source": "Indian Television Dot Com",
@@ -12,16 +39,16 @@
       "first_seen_at": "2026-11-03T15:56:37.034250+00:00"
     },
     {
-      "title_ko": "슈바르츠 디지츠와 불, 유럽 AI 컴퓨팅 서비스 구축을 위해 파트너십 체결",
-      "title_en": "Schwarz Digits and Bull partner up to build European AI computing services",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWQ2WUFhNnhncGQtQnItaF9xaUl3QU1qSXY0YVRlYWxFN3JpZ0U4M2V1V3Q2LWhOencyZTVaY3hnaUNVR1FUbkZLS2ZvREpZS1oxT0Y2Ym91cE9FRElVRDZsbDRYMzhlMGtXMVMxcm9TblN4cmlPNW9fb1psM1E1ZUN2VE9iRVhHODMwSlBYZlp1RzJvNGRoTEZIVDhlTXJJSmJJZXVzbWV6ZjVQNGZHRjRwWl9XV3Q4UmtjZ2YzeE1tS3VFZHZr?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-03T13:08:09+00:00",
-      "category": "기업·투자",
+      "title_ko": "Google, 새로운 Gemini 4 Carbon AI 모델 공개... Claude Opus 5.5를 좁은 격차로 제치다",
+      "title_en": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTWhTVENnM3JSMkhHSWh6bDNNcVh4Nk9PRXJsUkJKSG9rLTRmNTB4ZWRydEctZnJFWWJvVWpKOU40VkhhWkdVTTdXZHU3WmxCRmd4czZ2WDF5OE5NNXJvY0FIVl80S1BNWXh0SFBDNFpBT1FXWldXaTQ3NWM5aGN0VmR2Q3VKRWE4bHctVW9OODFxbGwtaDZ5ZFY3a21wZ1oxaHJpRDJrUW12Ykd0VkMzcy1MZmJoeFlRaHdscHhaak91SkhncnY1Z0tOVFRGWWFBMVlKSWM4TzQ1NjVMdzU4bjI2ajJ6YWY4c2tLZnZOa2ZkSmd4eWNUc2ZtQUxfZ2k0dk92eDEyLTJHU0tMRG9kVWhTOUZIYnJBLVZkZ0dyaWdWeUNVczF2SDhWWmZSSXZaMUNobE9xcmQ3cTJZdFZN?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-11-03T13:00:00+00:00",
+      "category": "제품·출시",
       "first_seen_at": "2026-11-03T15:56:37.034250+00:00"
     },
     {
-      "title_ko": "오픈AI, 전직 미육군장관 댄 드리스콜을 국가안보 담당으로 영입",
+      "title_ko": "OpenAI, 미국 육군 전 장관 Dan Driscoll을 국방 보안 역할로 영입",
       "title_en": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFN0VmlqRTB5WmVmamcxbEpIaDQ2UHFNeG4zWURvWGtXRnZLQTI0amFSY3gyODk5RjdOSjc5SVN5U2VxLVk5Z0tqT283M0tOeUxFQjR1NmY3Q0tJc0xndl9vYVM2NDJKemhOVm9ReU9kQWNuU25QeWxYZHZDMEZtVzNUcHJHWnPSAYwBQVVfeXFMTTdUTG1Bb3pveHRyWmxCVG5oZ01Obks4bkFTUlI1YmRacHl1anZkSnYzQ0E0NjNhRktOOE96QmZ3MFd4TVNnTHJIQnBCTWhCdERTaG1xT3VVU0FTbVdTbFFTZ0tzSV9mdVJaRWEyNjloNXExQ3RSQTdwc2dmZjJ4VG5OdFZwNzl1RjQ3UFo?oc=5",
       "source": "CNBC",
@@ -30,40 +57,13 @@
       "first_seen_at": "2026-11-03T07:40:53.603310+00:00"
     },
     {
-      "title_ko": "앤스로픽, 자기 개선 AI 능력(RSI)이 임박했다고 경고",
-      "title_en": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-02T22:14:50+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-11-03T00:53:17.457152+00:00"
-    },
-    {
-      "title_ko": "앤스로픽, IPO 예정 전 3분기 매출 170억 달러 기록하지만 손실 지속",
-      "title_en": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzZUd3FtU3JuVEF2U0prTmpZSDVRc2pLLV9tRzVEMk1CQ2FLaERveVAzckJhcTI2QzlvMkd5bjZRQWVpUGdZS2x0b2JELUdNMlcwQ2VXOEQyeXc1eGo2UG9ETEY1aVBSeEphS1diamtQeklkUnRGSWlWSS1lX3JCLUw1THVad1RiLTV1emMzeEpuVWs4clJuSVp3SDN4VTJfZjVOZ29DN3lOUXZDWHA1RVNZNA?oc=5",
-      "source": "WRAL",
-      "published_at": "2026-11-02T17:11:51+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-02T17:57:28.573502+00:00"
-    },
-    {
-      "title_ko": "뉴욕타임즈 등 언론사, 웹브라우저 브레이브를 콘텐츠 스크래핑 혐의로 제소",
-      "title_en": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-02T19:19:17+00:00",
+      "title_ko": "Google에 타격, EU 법원 고문이 AI 챗봇이 저작권 규칙 위반할 수 있다고 경고",
+      "title_en": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-03T19:16:17+00:00",
       "category": "정책·규제",
-      "first_seen_at": "2026-11-03T00:53:17.457152+00:00"
-    },
-    {
-      "title_ko": "트라젝토리, 비전문가를 위한 AI 모델 훈련 접근성 확대에 4500만 달러 투자 유치",
-      "title_en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-02T23:13:53+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-03T00:53:17.457152+00:00"
+      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
     }
   ]
 }
