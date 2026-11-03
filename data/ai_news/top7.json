@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-02T17:58:22.038031+00:00",
+  "generated_at": "2026-11-03T00:53:43.868323+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, Q3 매출 170억 달러 기록...IPO 앞두고 구매 약정 8954억 달러",
+      "title_ko": "앤스로픽, Q3 매출 170억 달러 달성...IPO 앞두고 급성장 입증",
       "title_en": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ydDVnYVkzYzk0NlJUZXdoaWtFMkEtRDRmQk5qTTI2N0JhQzA1M0k0S0FRS2hmdEVqMkd5Qm5RVmcxclN5ZUxNOU0tcVJmUVlBN2hvVDFoZDVBWjZKN1ZrdlJ2WEJ5RDJaNUJhcTV6LTZjWnM4WjZzS2Z0bTRpd9IBgwFBVV95cUxPT2hEMEdnakVCU2tPNkRIeXpiMmFGalFrT25NR0lxWkE0S012bUZyVmVaN0pQUmRudzJWYVJOYjdJbV9zU0VIc1pYVl90RGlLSlRxVXJ6a0ZLeUhpaWh6TmRTSHJYMFczMGZ1dk54bVBVcV9LNE9jTDNsbDUxek1oZS02cw?oc=5",
       "source": "CNBC",
@@ -12,16 +12,7 @@
       "first_seen_at": "2026-11-02T17:57:28.573502+00:00"
     },
     {
-      "title_ko": "뉴욕타임스 등 주요 매체, 브레이브 브라우저의 AI 학습 데이터 무단 수집 및 페이월 우회에 대해 소송",
-      "title_en": "The New York Times and other publications sue Brave web browser for AI scraping and bypassing paywalls",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "The Verge",
-      "published_at": "2026-11-02T17:54:47+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-02T17:57:28.573502+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 투자 펀딩 목표를 100억 달러 삭감...AI 시장에 투자자 우려 확산",
+      "title_ko": "OpenAI, 펀딩 목표를 100억 달러 하향 조정...투자자 우려 심화",
       "title_en": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFlfRFRVcWY1U2JQWW1wSEpaSEE0NDVYLVRvb21mdnpGRzdnbkh0eW9HSGkxNXhWNkVwX1J1RURXR1QtVG5rTnYyQTY0aEdzN1ZmeVZ1MEt5ZVFXMldQbTh1VEh2OWJQN3dsUTBleUdROTVQaVU5ZzJ5MUI1V0o1Vy1nR1hsanZXN3U2a1BrbzNFZ3RfbDQ0M1ljYllrNzFrOXpUWVZ0Vi1HYnA0N3hqTC1Qb0x5UjJiRzQzampJV3lReFk1VGtsVktfdERWcWNN?oc=5",
       "source": "PYMNTS.com",
@@ -30,39 +21,48 @@
       "first_seen_at": "2026-11-02T00:32:48.871152+00:00"
     },
     {
-      "title_ko": "앤스로픽, AI 컴퓨팅 파워 확보 위해 긴박한 추진 중",
-      "title_en": "Inside Anthropic’s Urgent Hunt for A.I. Computing Power",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzNBLTZEQWd3WGJtSVlvWW9BYnlFNW91WUowLUhCZFJ4NmREYU4tUG9hM1Jzb0RaOVNKczZPTUZQVHk3SHVSVlRFRGM4UnZtdHhMcnNWM1FLOWFUSzlGVXpiYUpPNElWcnpzWmliRUk4Z2JIaE0yeVFhc3NLcEZUdl9NdVN3Zw?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-11-02T15:08:36+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-02T17:57:28.573502+00:00"
+      "title_ko": "앤스로픽, AI의 자가구축 능력인 RSI 기능이 임박했다고 경고",
+      "title_en": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-11-03T00:53:17.457152+00:00"
     },
     {
-      "title_ko": "딥시크, 코딩 분야에서 OpenAI·앤스로픽과 경쟁 위해 AI '슈퍼 에이전트' 공개",
-      "title_en": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFU5NlZJMVBaQ0txUnotazkwaWdmQzJwb3JvWUY4dTFHd2VERGZtdVJiMmxaTG9vR0pjZjFLOXZoZVRfRlFFZzM3dV81VVM3RDZLckQxZ01nc2ZFWGVvQlVoalk3X21iWDdBa29WcWNvblY1YVpGc3hPbDJCVVA3a2d2YVJDbFlZRUdkZ0NXTHplVTlEUGJ6RVBXTXZ1bWQ5eVRNNtIBpAFBVV95cUxQY3o3SXYteGFPRF9kQ3psaFZaTDJHMzhibnhoVE5LdjhGVUxkN2VBNnVuNHd2XzhodEpYLTRyMzhRcXNpWjY4SjBhMmdzek1oN0ZGRnh6RU5aWm12QUxYdDVvaktJUUU2UE1QVVdXUzhvdHFPZ0FrOHpOODJNQUlHYm5DSlI3aW8wS0dpMHFDWTNfNGpQeS0wYnU1TkIxbmtxVGRfSw?oc=5",
-      "source": "South China Morning Post",
-      "published_at": "2026-11-01T10:00:26+00:00",
+      "title_ko": "뉴욕타임스 등 주요 언론, 웹브라우저 브레이브를 저작권 침해로 고소",
+      "title_en": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-02T19:19:17+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-03T00:53:17.457152+00:00"
+    },
+    {
+      "title_ko": "영국 인프라, 2028년까지 AI 기반 악성코드 공격 '매우 가능성 높음'",
+      "title_en": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVNSQVUzUFl2ZHdCNlAtOGQtRTVmekF0NUU4cDlHYlFTYkw3U1lPYUpRVmVGQ3hzWnFqcUVEdkV3dlNpWVJoWERHRFgzQVBJXzVjUTZIcUgyMTF1MG5ZZGlHaE52MXhXTEsxQmRxUDhvVkplSUd3MG5FRVUyeGtPczlqZWthYnZDY3NZcmVtUjVKUnZVUjUyNWQ5dFE1UzFNczVyNXQ4V0RGb0JTc214bkotWnRTMXZvbFV0d2o1VjdJOEpXc1hZ?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-11-03T00:03:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-03T00:53:17.457152+00:00"
+    },
+    {
+      "title_ko": "애플, 2027년 FaceTime과 스마트홈 제어 기능의 1000달러 로봇 출시 예정",
+      "title_en": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-02T18:32:21+00:00",
       "category": "제품·출시",
-      "first_seen_at": "2026-11-01T16:37:23.191803+00:00"
+      "first_seen_at": "2026-11-03T00:53:17.457152+00:00"
     },
     {
-      "title_ko": "ADNOC, OpenAI 및 G42와 협력하여 UAE 에너지 부문 전역에 AI 배포 확대",
-      "title_en": "ADNOC Partners with OpenAI and G42 to Expand AI Use Across Operations",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUtVV2xKaVgtWTlmYVJoRWt2S1ZneGpTNXBJc0wwcUFmWERnLXZSb2RfbVN5MVQwSDJsSmFPanRSSGpsOVB1LTBkeTZiT3ZlTXVZaGFlRXhiUV9xTEhZRUt4dTJ6aU90Y3BvYkNPb1BpYVZwRmtvRDI5SmNxNjJ2dXl4NDRSNjZkRzgwaUszcm91M05jY0Q2RmhNQXRwTWk5akE?oc=5",
-      "source": "Egypt Oil & Gas",
-      "published_at": "2026-11-02T13:12:13+00:00",
+      "title_ko": "42AI, 인간 행동 예측 가능한 월드 모델로 6250만 달러 투자 유치",
+      "title_en": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-02T16:30:00+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-02T17:57:28.573502+00:00"
-    },
-    {
-      "title_ko": "딥마인드, 앤스로픽과의 경쟁 심화시키며 '슈퍼 에이전트' 론칭",
-      "title_en": "DeepMind escalates competition with Anthropic by launching \"Super Agent\"",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1NMbU1OSHNzVTZFVlR2YXlVV2FDTHF5OXBLYm85ZjRyTWhPV0NNYnI0UFpqYUJYbE5FRDVqbmQ2OGdkTFVKQVQwaW5JbURESFhtbkx0ei0tNkN3Z2RsNm1FTzEwOWc2SEo0SHp5OEFoei1ZNkhJX1ZLTnJBMktDb3BLdnlCQUhWY19VUHMycjNEU20zcGJHZGNlN3EzcjZDWXYxZl92T0VzcmdVTzFlWHVnbFBhY0ZMbTl4Z1YxczdWR05Jamc?oc=5",
-      "source": "المتداول العربي",
-      "published_at": "2026-11-02T10:36:18+00:00",
-      "category": "제품·출시",
       "first_seen_at": "2026-11-02T17:57:28.573502+00:00"
     }
   ]
