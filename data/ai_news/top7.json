@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T01:58:46.310182+00:00",
+  "generated_at": "2026-11-04T08:58:04.124108+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "AMD의 긍정적 매출 전망이 AI 산업 투자 우려를 완화",
+      "title_ko": "AMD, AI 지출 우려 완화하며 데이터센터 매출 급증",
       "title_en": "AMD forecast eases AI spending fears as data-center sales surge",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
       "source": "Reuters",
@@ -12,7 +12,34 @@
       "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
     },
     {
-      "title_ko": "AI 추론 스타트업 Fal, 수요 급증으로 밸류에이션 160억 달러로 배증",
+      "title_ko": "크라우드스트라이크, AI 에이전트를 위한 긴급 셧다운 메커니즘 출시",
+      "title_en": "CrowdStrike launches emergency shutdown mechanism for artificial intelligence agents",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObVZDejQxZ3dkZng3WkdkTTVLZlNGa29pWS1CcnNVekt2b2VfOHQ3NUxOLTl4aXAxMFNubS10WXB3Q3FkTXE5QnUxdG1hV09NSUM3MERLeXM0ZDhVWExvLVg2RnRfNlVCR0dmSTlYSGhXQWVEOG96dlEwazZTSXVTa1VTeHl2cV9xcnRIcjFyZnNtV0wxTGtsX0hKMVl2UmRYOTZJUms1ekhSeG5JdDdJN1p4SmpsaEd3VlJ1WXRWU2VqZzJ4MHlXZVdTaGJ3bmwyZV9n?oc=5",
+      "source": "marketscreener.com",
+      "published_at": "2026-11-04T08:21:46+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-04T08:57:47.899221+00:00"
+    },
+    {
+      "title_ko": "미국 기술 대기업들의 숨겨진 AI 기술 부채, 6개월간 90% 증가해 3.2조 달러 도달",
+      "title_en": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2ZaWEJmWkg2SkRXRVB0Y3VReEpxb0FWYlFIT3ZoMllPSWRPNjlpcGdrTjdET19TUjdXXzhIdzZpcnFucXB1dUNmZGpmSlBwYXRxR0dZNXRPMk5XeVlKTTUtb2ZaODlJYUh4WlA3NFp5MmswdEhnanFsRF95dlVYNDBJUWxTOWdWSmp6eWxPNE1tNUJXdU1iZVQxaDRpdEVYMG9XdEpQS1U4aFo3aFdXUHduZjlRMlFJelhwMEJLSTZ0cWx0NGFF?oc=5",
+      "source": "Nikkei Asia",
+      "published_at": "2026-11-03T20:02:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-04T08:57:47.899221+00:00"
+    },
+    {
+      "title_ko": "중국, AI 기업들을 위한 새로운 안전 표준 시행 준비",
+      "title_en": "China Prepares to Impose New Safety Standards for AI Firms",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnZINVNNd09HMWRDTF9oQ0NJZDVfckxkWXJTWTBHQ1FjOVJtdXBBSlIxdmxKLUdlUzBFQVZPVUtialVPMU9BSG51VnlPQ1ljeDNGWFBFMUNJNVlYc3YtU05fU0ZMdEZSQVh6YkdQLVBSMHI0Z0k5RWRQTHZma0liMlEtVlNFNkF1bG1icTZaSGtlYVBRZURrQVh0dXlXRTF0Ykc3Q3lkREFnMTZmbUhKa2NpNG1SWUU?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-11-03T21:04:50+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
+    },
+    {
+      "title_ko": "AI 추론 스타트업 팔(Fal), 수요 급증으로 기업가치 160억 달러로 두 배 상향",
       "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
       "source": "TechCrunch",
@@ -21,43 +48,16 @@
       "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
     },
     {
-      "title_ko": "OpenAI, ChatGPT가 구글의 검색 서비스를 따라잡고 있다고 주장",
-      "title_en": "OpenAI says ChatGPT is catching up to Google in search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "source": "The Verge",
-      "published_at": "2026-11-03T18:38:47+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 보안 강화를 위해 Anthropic 해킹 경험이 있는 DOGE 출신 인물 고용",
-      "title_en": "OpenAI Hires DOGE Alumni Who Hacked Into Anthropic to Strengthen Security",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUhrSGxaV2NYak9yUHU4Sk1yalo3QmJYOVAzV2dtRm5leGdwc2tpekRZYjlWTWVlUUtuWmszNFpmcF9rN0tzZDllQ01QdHhzVktYRnUwMlViYUYzenZuOXNZLUdFQnBiYTg3cXUxak9hZUFwa2s5MjMtdGc5VmVsRkZrVFVJX3JIc3lEV2xZOFVLV1BTVklnN256YjJ5NUE1RUVOdURJTQ?oc=5",
-      "source": "Gizmodo",
-      "published_at": "2026-11-03T18:15:34+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
-    },
-    {
-      "title_ko": "Anthropic, AI 모델 개발의 경제성 문제로 계속 고심 중",
-      "title_en": "Anthropic is still grappling with the economics of compute",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-03T17:07:01+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
-    },
-    {
-      "title_ko": "Anthropic, 자기 개선 AI가 예상보다 훨씬 빨리 도래할 수 있다고 경고",
-      "title_en": "Anthropic Warns Self Improving AI Could Arrive Much Sooner Than Expected",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0RsMjhzaEMzck1sUWN2QjcwWGZaLTBpOGRJTWNjZGVuRDBMbl9JMnc3TF8yRVZidEZ5X2wzdUd3T0pVYjRmeGRPWDVIX3ZBYlgxVExOVE81bE5QY2t2RjV2cnpsUkc1UWgwc0hKVUhlekJXZWpWaThfQ0tzbXZPSjB5UXdEQUFYak1ubjFrbi1kZnVBT01jTg?oc=5",
-      "source": "Android Headlines",
-      "published_at": "2026-11-03T15:03:07+00:00",
-      "category": "연구·기술",
+      "title_ko": "AI 확장 중심으로 중간선거 돌입하는 앤스로픽, 정치적 시험대 에 오르다",
+      "title_en": "Anthropic faces a political test as midterms put AI expansion in focus",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZjNDeDRDSjQydU51NUFDQlJ0bUFUVDM0WXZwZWY3Z3hFc0RNQXNfWFJfcWVNNmU0NkRMVEx0SC1TckhVSS1ZODRPanJvQktaUGltOVVsQzMyUG14MTI0X0VKVDlZcU5SdlFuaUdKMmRwVXdSY2xIYzVWdWw0LTJlRDM2RWFKZUlsY0w4bWR6cl9ia0cyRnNkRWJodHRPeS1Kczd1VnVLLWoxVEZ1M05UNWVhY2c0SlRnVmc?oc=5",
+      "source": "Los Angeles Times",
+      "published_at": "2026-11-03T15:13:00+00:00",
+      "category": "정책·규제",
       "first_seen_at": "2026-11-03T15:56:37.034250+00:00"
     },
     {
-      "title_ko": "Meta, AI 확장을 위해 200억 달러 규모의 채권 발행 추진",
+      "title_ko": "메타, AI 확장을 위해 200억 달러 규모 채권 발행 검토",
       "title_en": "Meta eyes $20 billion bond sale to fund artificial intelligence expansion",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTBrZFVWcTFMVDZSMHhNZWducGc2RkR3Y1JBQzNCZ25NN1FVRlNNYkdPc2JXLTljRHpjUkVtdnZtMWdMZlRrc3dQRjNiNmo1RlB2RlR2UWM1ZU02Z1BDRVQ3ZTU0d21ZZ2JxTXVPQ2xhNHNwOXlDa3hZc3J3TE9tM054TmhtdUhjZUQ2TUlEUDRYNEstNVJmeVhKa1FRSE9ObjhfR0twRmNUZw?oc=5",
       "source": "Indian Television Dot Com",
