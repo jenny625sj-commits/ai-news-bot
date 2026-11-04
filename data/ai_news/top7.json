@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-11-03T21:40:17.346062+00:00",
+  "generated_at": "2026-11-04T01:58:46.310182+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "AI 추론 스타트업 Fal, 급증하는 수요에 힘입어 기업가치 160억 달러로 2배 상승",
+      "title_ko": "AMD의 긍정적 매출 전망이 AI 산업 투자 우려를 완화",
+      "title_en": "AMD forecast eases AI spending fears as data-center sales surge",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-03T21:18:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
+    },
+    {
+      "title_ko": "AI 추론 스타트업 Fal, 수요 급증으로 밸류에이션 160억 달러로 배증",
       "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
       "source": "TechCrunch",
@@ -12,7 +21,25 @@
       "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
     },
     {
-      "title_ko": "Anthropic, 계산 비용 경제성 문제로 여전히 고민 중",
+      "title_ko": "OpenAI, ChatGPT가 구글의 검색 서비스를 따라잡고 있다고 주장",
+      "title_en": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "source": "The Verge",
+      "published_at": "2026-11-03T18:38:47+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
+    },
+    {
+      "title_ko": "OpenAI, 보안 강화를 위해 Anthropic 해킹 경험이 있는 DOGE 출신 인물 고용",
+      "title_en": "OpenAI Hires DOGE Alumni Who Hacked Into Anthropic to Strengthen Security",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUhrSGxaV2NYak9yUHU4Sk1yalo3QmJYOVAzV2dtRm5leGdwc2tpekRZYjlWTWVlUUtuWmszNFpmcF9rN0tzZDllQ01QdHhzVktYRnUwMlViYUYzenZuOXNZLUdFQnBiYTg3cXUxak9hZUFwa2s5MjMtdGc5VmVsRkZrVFVJX3JIc3lEV2xZOFVLV1BTVklnN256YjJ5NUE1RUVOdURJTQ?oc=5",
+      "source": "Gizmodo",
+      "published_at": "2026-11-03T18:15:34+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
+    },
+    {
+      "title_ko": "Anthropic, AI 모델 개발의 경제성 문제로 계속 고심 중",
       "title_en": "Anthropic is still grappling with the economics of compute",
       "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
       "source": "TechCrunch",
@@ -21,7 +48,7 @@
       "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
     },
     {
-      "title_ko": "Anthropic, 자기개선형 AI가 예상보다 훨씬 빨리 도래할 수 있다고 경고",
+      "title_ko": "Anthropic, 자기 개선 AI가 예상보다 훨씬 빨리 도래할 수 있다고 경고",
       "title_en": "Anthropic Warns Self Improving AI Could Arrive Much Sooner Than Expected",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0RsMjhzaEMzck1sUWN2QjcwWGZaLTBpOGRJTWNjZGVuRDBMbl9JMnc3TF8yRVZidEZ5X2wzdUd3T0pVYjRmeGRPWDVIX3ZBYlgxVExOVE81bE5QY2t2RjV2cnpsUkc1UWgwc0hKVUhlekJXZWpWaThfQ0tzbXZPSjB5UXdEQUFYak1ubjFrbi1kZnVBT01jTg?oc=5",
       "source": "Android Headlines",
@@ -37,33 +64,6 @@
       "published_at": "2026-11-03T14:25:34+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-11-03T15:56:37.034250+00:00"
-    },
-    {
-      "title_ko": "Google, 새로운 Gemini 4 Carbon AI 모델 공개... Claude Opus 5.5를 좁은 격차로 제치다",
-      "title_en": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTWhTVENnM3JSMkhHSWh6bDNNcVh4Nk9PRXJsUkJKSG9rLTRmNTB4ZWRydEctZnJFWWJvVWpKOU40VkhhWkdVTTdXZHU3WmxCRmd4czZ2WDF5OE5NNXJvY0FIVl80S1BNWXh0SFBDNFpBT1FXWldXaTQ3NWM5aGN0VmR2Q3VKRWE4bHctVW9OODFxbGwtaDZ5ZFY3a21wZ1oxaHJpRDJrUW12Ykd0VkMzcy1MZmJoeFlRaHdscHhaak91SkhncnY1Z0tOVFRGWWFBMVlKSWM4TzQ1NjVMdzU4bjI2ajJ6YWY4c2tLZnZOa2ZkSmd4eWNUc2ZtQUxfZ2k0dk92eDEyLTJHU0tMRG9kVWhTOUZIYnJBLVZkZ0dyaWdWeUNVczF2SDhWWmZSSXZaMUNobE9xcmQ3cTJZdFZN?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-11-03T13:00:00+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-03T15:56:37.034250+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 미국 육군 전 장관 Dan Driscoll을 국방 보안 역할로 영입",
-      "title_en": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFN0VmlqRTB5WmVmamcxbEpIaDQ2UHFNeG4zWURvWGtXRnZLQTI0amFSY3gyODk5RjdOSjc5SVN5U2VxLVk5Z0tqT283M0tOeUxFQjR1NmY3Q0tJc0xndl9vYVM2NDJKemhOVm9ReU9kQWNuU25QeWxYZHZDMEZtVzNUcHJHWnPSAYwBQVVfeXFMTTdUTG1Bb3pveHRyWmxCVG5oZ01Obks4bkFTUlI1YmRacHl1anZkSnYzQ0E0NjNhRktOOE96QmZ3MFd4TVNnTHJIQnBCTWhCdERTaG1xT3VVU0FTbVdTbFFTZ0tzSV9mdVJaRWEyNjloNXExQ3RSQTdwc2dmZjJ4VG5OdFZwNzl1RjQ3UFo?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-03T02:17:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-03T07:40:53.603310+00:00"
-    },
-    {
-      "title_ko": "Google에 타격, EU 법원 고문이 AI 챗봇이 저작권 규칙 위반할 수 있다고 경고",
-      "title_en": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-03T19:16:17+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
     }
   ]
 }
