@@ -1,5 +1,325 @@
 [
   {
+    "id": "88d1bdb9c1605fea",
+    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "source": "Wired",
+    "published_at": "2026-11-04T23:13:14+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "블루웨이브에 테크 업계 인사들, 우주 데이터센터 확보 서두르다"
+  },
+  {
+    "id": "60e26af5e45b0abb",
+    "title": "AI’s role in book publishing raises questions about quality, transparency",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdXZLWDgzbFQ1OHVZUmVfZXRCcjluWnlLTFNpX1B2UjlGMFk1REJRTjhtdVJYUzlRSTlkbjR5LUlDOTBxN0tYVGR5Q3ZrcXdhdnAySTdocVJWWlJTVTJ4Qi0waHZfQ2JoQWxZc09TcVFkV01qWVVDOWdTUEtmUmVSSjYxdTRkTlhHaFh0NHFacnVaNHVKYkVBTlA1eVZKQ1labUJn?oc=5",
+    "source": "WLOX",
+    "published_at": "2026-11-04T23:12:00+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "도서 출판에서 AI의 역할, 품질과 투명성 문제 제기"
+  },
+  {
+    "id": "33a7076609087ff9",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T22:45:09+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "AI PACs, 의회에 영향력 행사하려 수백만 달러 지출 - 결과는?"
+  },
+  {
+    "id": "0fe6af992c68f578",
+    "title": "Column: Artificial intelligence becomes artificial connection, too",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnJxQlRoYl9pdlBxX1hVSWdhUWhVT3hpTkJIeXFveWxQb3I1V3NvM0lQTlMteGdkQXAwc1JHNW1WQ0ZFMGtXQWg1aTJ5Z0N6bXV0RmYycFhjbW1Rc1ptN3FFZG04QmJGMWh3YWlveDEtRDUyUXgtVEx2YWQtdUlIOWZKOA?oc=5",
+    "source": "The Daily Tar Heel",
+    "published_at": "2026-11-04T22:43:07+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "칼럼: 인공지능이 인공적 연결도 만든다"
+  },
+  {
+    "id": "90248c1ffce43a9b",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T22:13:16+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Nothing CEO, 신비한 AI 우선 기기가 다음 달 출시된다고 발표"
+  },
+  {
+    "id": "f3f4f568585b6de9",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T21:56:01+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "거의 아무도 Uber 예약에 AI 에이전트를 사용하지 않는다고 회사 발표"
+  },
+  {
+    "id": "6050c43be029e750",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T21:25:44+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "OpenAI, 이미 2028년 선거 영향력 행사 시도 중"
+  },
+  {
+    "id": "acc18a2d45f62402",
+    "title": "Arm Holdings Sales Climb 27% on AI Demand",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+    "source": "WSJ",
+    "published_at": "2026-11-04T21:23:01+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Arm Holdings 판매량 AI 수요로 27% 증가"
+  },
+  {
+    "id": "d1edd24ae916cf43",
+    "title": "Google Tries to Walk Back Controversial School AI Policy Following Political Backlash",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWtmZGRlNUN2NDd2UzZQNFBpUUY0SHJiS3hsakRvSmR1MzVnajc5WVpmSmVtT0Jja29VMTR6bXdObWVuVkFwV2xmbEoyNTQ5MUNGY180N3NQNGFfUzBGZVdtOWFLMDdOZEgtVjZJeTBXSjhOMFBheFlKUF9vOENVVDV3SW9zVzlQVTFvUmZJaTN6NC1DZ0pocFV5Y3M1YmtvVjNubWJBVTFWN0FmX2JmNFNhOGhzM1E?oc=5",
+    "source": "Gizmodo",
+    "published_at": "2026-11-04T21:15:17+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Google, 정치적 반발에 따라 논란의 학교 AI 정책 철회 시도"
+  },
+  {
+    "id": "70e60e39b2082f35",
+    "title": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T21:10:56+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Meta, AI 코딩 스타트업 Conductor 인수"
+  },
+  {
+    "id": "2bd85cf5be7dc0a2",
+    "title": "The Intellectual Property Office of the Philippines reminded Filipino creatives on the ethical use of artificial intelligence in their body of work, emphasizing that it should never replace human creativity. | via ANC 24/7 Link to full story in the comments section.",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0NSQ3Nyejg5S001WEVvMHcwV1BPcDJhUTJBQ2dTd3M5VVFNaGRwVzMyUy1RMHVGV1FxZXBScWx6X0FDdWFVcGxkenhwT1JyTGFNeTdTRDBWN0lsY0tndWhLTy1SNGptbEg0MVhkblhDS19oM0duLUtwc2J6U3VFNlJOcWJIUEJzcUUyMmJKbGh2dFBBTmdXb2NySlRCeXF3TktfX29hbHFERlo4TWFGSGxKV0lFTHVxZG5IZWpZb2ZtX1Azc3l3WXBJUTJnNk5nNjZmblltOA?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-11-04T21:00:05+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "필리핀 지식재산청, 필리핀 창작인들에게 창작물에서의 인공지능 윤리적 사용 당부, 인간 창의성을 결코 대체해서는 안 된다고 강조"
+  },
+  {
+    "id": "e5cb2e6663b2cf73",
+    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+    "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+    "source": "Ars Technica",
+    "published_at": "2026-11-04T20:55:50+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "빅테크, 유권자의 AI 반발은 '반기술'이 아니라 '반트럼프'라고 주장"
+  },
+  {
+    "id": "375e8d830db912a7",
+    "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+    "source": "Wired",
+    "published_at": "2026-11-04T20:41:29+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "최대 규모 친AI 슈퍼팩 네트워크, 중간선거에 실질적 영향 미치지 못해"
+  },
+  {
+    "id": "fbdb83ed48e025de",
+    "title": "Anthropic Develops Tools to Confirm AI Models’ Identities",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHhWLVF6WmpYalZHbnpFM1NMU1FDbUI1M084cGNIS3M1WHg1RkI5TjN4WmVMZEVFS1NJSXZQR19EcTRVTU5idDNRM3RXYlJYMDZGWE1rNzZ2Z3dNYUNrc0Z3Rl9lSVFJaUdjaGNVOEVqZU04UGJ0SXU4bDNQaWFXekwtX2U0dENsTmVMUHFRQjJ5T2loc3YtREZNRHBWR3ZTdWtRS0lXZGw0cjFYTXFSZ0xqMXI?oc=5",
+    "source": "PYMNTS.com",
+    "published_at": "2026-11-04T20:34:50+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Anthropic, AI 모델의 정체성 확인 도구 개발"
+  },
+  {
+    "id": "b9201ced0589dfb2",
+    "title": "As Shoppers Warm to Agentic Commerce, Terms of Use Have to be Clearly Defined",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDlnMnRfNjk5V0ZsYUpZalY3QklUdC02TG1oeHhFekZjTGlyU0VjZ00zRG5faE1OTklWNkpjZ3JNYXJmazBRZ0E4V0FxMncwQzVISG1ndmhId3N0em00SWo3c2Rmb21tal80Rm96aDNLRlZCR1RJUXV1eFJVRjFnVUx4TUZHYjREVldpRF9zWjZibmZSdUQ0bXo0UjVoOFFsSUEyWnVWR0ZCTXpGQmk0ZmdhRQ?oc=5",
+    "source": "WWD",
+    "published_at": "2026-11-04T20:27:47+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "쇼핑객들이 에이전트 커머스에 관심 보이면서 이용약관을 명확히 정의해야 해"
+  },
+  {
+    "id": "b6ceabf91c49350f",
+    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "source": "The Verge",
+    "published_at": "2026-11-04T20:23:24+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Gemini for Home, 이제 AT&T의 스마트 보안 시스템과 연동"
+  },
+  {
+    "id": "d6e23a6b838c0a53",
+    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+    "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+    "source": "Wired",
+    "published_at": "2026-11-04T20:06:21+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Google, 교실에서 AI 개요 강제 도입... 학교들 탈출구 찾는 중"
+  },
+  {
+    "id": "c470ea76ddf3e9d4",
+    "title": "How Artificial Intelligence Is Changing the Way People Explore Hairstyles",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcUM5SjZEa1NXdkRXMVJ0RTRiLVI1RC1vZXVzbC01WU5KZDFmN25VVWxVQ3NwMkFBbnNPdmYwam5YRFZRNlBZLUVDUmdJZncxX2lnc3lhbXE5T3RtZEN4cEVyeHlkbm5VU3FJRVNFMlllYlZSUVp0NTNVdXEtZ09hcXcyYy1WRnRIaElNYXVDRjAxTEd6c2JqZzFpdlM5VkUtQ3JybFkzZXdHZXpGSnZxUG1JOA?oc=5",
+    "source": "Eye On Annapolis",
+    "published_at": "2026-11-04T20:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "인공지능이 사람들의 헤어스타일 탐색 방식을 바꾸고 있다"
+  },
+  {
+    "id": "45e4fa33fc287b5d",
+    "title": "Sovereign artificial intelligence agents pose potential national security risks",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXB0dHJjd2pVUWJKeGlTclVBaEgzRTFTVlhWck5QdnRvV0hSRHBndUZTVmpGeTMwVl84ajIwWkFRR2lOY1ozZXhaMmpzekFsMG9Yd29ILUE5T1pjWTNaVEJhZXFMM2llQnZSNXNHUlYydFNVVTkwOTZPb3Z3OXc0VkVJb0swTi1lVFVsOEpON1FFVHFEd25PWldlSHAyOHVpTVlvX1REZUx6ajN5UkE?oc=5",
+    "source": "SC Media",
+    "published_at": "2026-11-04T19:37:29+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "자주적 인공지능 에이전트, 국가안보 위험 초래할 수 있어"
+  },
+  {
+    "id": "e63ac3983dcb1c44",
+    "title": "Regional council unveils AI weapon to tackle plague of potholes",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMF9pT1pncFEtUm1EZ2swU2lOdzNNSW5mMEtWaVJhOHF6Q0RQeVYyVjY5RW5MME5DaTJUdjFocF9nSjBwUE9fLTBSSG82NUhTOGNzUlRUSEdsYVE5SC1KM09TZm9tQkpBNGl5RWlUd1JLa2Y3YkJHRTVaSFZISnBrcHA3ajdnclQ0N1paZk80SzBENXZGbUxNYnRoTzN4QQ?oc=5",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "published_at": "2026-11-04T19:33:30+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "지역의회, 포트홀 문제 해결을 위한 AI 무기 공개"
+  },
+  {
+    "id": "604513e69c2ae428",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T19:30:04+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "오픈소스 AI 붐, Hugging Face가 수익 구조 설명"
+  },
+  {
+    "id": "add91e24e3212a5f",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T19:29:52+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "DuckDuckGo, Google의 AI 정책 논란 속에 학교 대상으로 자신의 서비스 홍보"
+  },
+  {
+    "id": "5c83259af9283ac2",
+    "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+    "source": "Wired",
+    "published_at": "2026-11-04T19:16:25+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Hugging Face CEO, 자신의 AI 멸망 확률은 '거의 0에 가깝다'고 발언"
+  },
+  {
+    "id": "346ddc359bc7f365",
+    "title": "JEPS Management Reports Strong Growth in Private Equity as Investor Interest in Artificial Intelligence Accelerates",
+    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxON3NBVFBPdkdTdTROa3B2VkMzd0h1MXBoUnJ6cUN3UWRkRzU3eG5YZ1BKbE9PaU1FMm5wdUJQTHZMUlppaVBaUVBSR1hMLWN0d2tZY1dnMVFEWGplR2pnMUtkTFhTVHN6QnA3VHlkWnlGbkNEU3lEQ3VCV3pNVkZmQnpNOTRpaGlpOXNTRjBtWFhHYkV4X2dJT2RmOGVabkRhZ1dqZV9halA5Zkp2d0wzSlFQaEh1RHpHU3lPbkR6bVU3S2d0UG1HMnhEYzdmVmZlSkszZm9rbmlzSjNDeTFHUUkzdVdscnUtamVDOWxNR0EwMDVOT2UyaHR3aGt4NVM0TlIxQkVfNlN2MHFOaTNxcC1KdzFPNzVYb1RtcE05RWVvaUJRREFPSWxnMUlVbnR6NXVRSkphOHhoLUVRaXc?oc=5",
+    "source": "WBOC TV",
+    "published_at": "2026-11-04T18:57:46+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "JEPS Management, 인공지능 투자 관심 가속화되면서 사모펀드 부문 강한 성장 보고"
+  },
+  {
+    "id": "543c1e4672b217d2",
+    "title": "Sánchez calls for an Ibero-American response to Artificial Intelligence and demands a common voice against powers that \"disregard international legality\"",
+    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNejVLckE3SjlDZXFqR0xySUVYaDl4VldvdU5DMUxCUUZkZFBRQU5PSmNCQllFdmpnOW1lZnAxVnY5cGhoU2djUEdzb0dicjdNb0RjSzNTeVNZOFB5YVNlVFE4NWplYjBLSGFyUVhNc0JTQlhCSC01bDdIbF8tejcwWXdYbm5LRVlLcUgwVmpxbzZDTFJXUzBWcG1UbnBTWU0yYXFGOFhvWUJ0dFYwZjNkTENqSWF5bEhiNTlXckZaaVdNSmU3VGQyX1FrN2RMU2hvZzdaaURTa3VidkR5bTVDb1RSTllDUUxuQU5xYndydVBvM3d1Z2dWQmwyTjRYWEg5cUw0akR2UTNzS2R1aldQRUpmcHRrZUV1Z1VhMUQtNjFhSWw0Y0NkM0lockk3amRM?oc=5",
+    "source": "El Constitucional",
+    "published_at": "2026-11-04T18:57:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Sánchez, 인공지능에 대한 이베로아메리카 공동대응 촉구하며 '국제법을 무시하는 세력'에 맞선 통일된 목소리 요구"
+  },
+  {
+    "id": "d0178f35064d57a6",
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "source": "The Verge",
+    "published_at": "2026-11-04T18:51:06+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Nothing, 다음 달 출시 예정인 스크린 없는 AI 기기 미리 공개"
+  },
+  {
+    "id": "2550523e2a0eb13f",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source": "MIT Technology Review",
+    "published_at": "2026-11-04T18:50:55+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "AI 데이터센터 건설의 새로운 중심지였던 텍사스, 이제 그 위치가 위태로워질 수도"
+  },
+  {
+    "id": "eaaf0b942f75d29d",
+    "title": "Artificial Intelligence Expert #1 AI Speaker Scott Steinberg",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalpobWtneGdZaDhhQ2hvMWlpRnFJaDk2X3lKdTE4blJFOHNsNXQ3bjYxbVJ4c1dpMjlFUnRUTi1ieTdUZHdobHloc2lRbk0yYW5aLXJabU1nbW1iVGtsTE1wbFVfNW5Zel9QZVd2Q3NfZVc4R0U1ZzlGOFl3cXp0Z1dPV21VSUM2SWYw?oc=5",
+    "source": "https://www.futuristsspeakers.com/",
+    "published_at": "2026-11-04T18:49:23+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "인공지능 전문가 1위 AI 스피커 Scott Steinberg"
+  },
+  {
+    "id": "089b0efaf055aae1",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-04T18:44:57+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "오픈소스 AI를 기반으로? Hugging Face 정책책임자가 말하는 비용, 위험, 트레이드오프"
+  },
+  {
+    "id": "83475cb22ac6d569",
+    "title": "trust, training, and the future of law and medicine in the AI era",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQjVPVFlFY1JOZ3M4cDUzYTZNa1QyTm1VT3pIVk9sNjNKdTd1ZlljcVN0WXpVOHlkbnA1UWRITDI5MDgxSS1vS1dZVE1iY3dEejIyZHBFYnlSMWZSOFlwLVlRUGVPR1FpSEM0eGwyRzM2M0RMNnc?oc=5",
+    "source": "Stanford Medicine",
+    "published_at": "2026-11-04T18:35:43+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "신뢰, 교육, 그리고 AI 시대의 법과 의학의 미래"
+  },
+  {
+    "id": "c9c7dbbb58d665aa",
+    "title": "Little Friends: Artificial Intelligence and Human Services… a Lot To Think About!",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXFsQ2t6aW1VX0ZEUDFmdkxmMFZEMHhYMzBDNVR1ZnY3WWwtUG5SZXM1LTVuUlU5bkp2c3RqamdpQzdUeGFXY1NjNlNqdmR1WVFiTTh4eFhIVGZsNWY4TWQ0RXdKS3VvT1dsMFFiUnIxbUZvRXZvZzR2QWVLMXhsWFVnWHF1bVBVc0ZLb1FNVUVNWGF6dlZlZ3ZxSUxuWDdKVHJhdExsYXR0aVdnM1BXYnNOaGZZbFhuclpKeEt1cGgwUXIxWlVYZ0N0TzVWZw?oc=5",
+    "source": "Positively Naperville",
+    "published_at": "2026-11-04T18:13:52+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "작은 친구들: 인공지능과 인간 서비스... 생각해볼 게 많다!"
+  },
+  {
+    "id": "6c5784800c35bdf6",
+    "title": "OpenAI’s approach to mathematics does not add up",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFh5RG43Smk1X05pc3ZtX1dybGFjWjBqamE0VjlFVm1Ga25fdXJPcWp6TnBJSnZvRFVpSVF1LTA0UURrLVo5QUk2dWl6SFBUcTk3Rl9qYlpDajJLOUFuZzBkSVRrX3ZhZ0hkWXRfQlBEM3pVZWxGeHp5LWxfTXBJdHVDN3U2YUYzdlRuWmlOS1MwYWsyeEZveXJmUGtmTHIwMDF2OFNfOGdxZ3M?oc=5",
+    "source": "The Economist",
+    "published_at": "2026-11-04T18:11:10+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "OpenAI의 수학 접근법은 계산이 맞지 않는다"
+  },
+  {
     "id": "0d2f61a42e6273be",
     "title": "The Results Are In: Voters Hate Data Centers",
     "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
@@ -60,6 +380,16 @@
     "title_ko": "Google, AI 제한하는 학교 검색 서비스 차단 계획에 반발 직면"
   },
   {
+    "id": "31a55762c14fb905",
+    "title": "Apple cuts employee budgets for artificial intelligence usage",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2FabHFUZ2RrSzFrWDJPYjdvbnhYb01wWDR6aTA0b0oyQjlfWmdaNy1XUW81TGxWVXk4UmFqVmlCSktNakJyS2lYZDFndHdQN0RBUlpYejRwLVZPeDN4RFBzTU5ITUxaVHJSLWZwUDRWbXFEQ0ZZanZHOWg0NGhGbWVBWDdTNTNmV25mM3RoTWNKejV0MnVRM1RRWQ?oc=5",
+    "source": "Apple World Today",
+    "published_at": "2026-11-04T16:13:08+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Apple, 인공지능 사용 직원 예산 삭감"
+  },
+  {
     "id": "afa26c9f16d3c799",
     "title": "The 3rd Annual Globee® Awards for Artificial Intelligence Invite Product, Service, and Business Achievement Nominations Worldwide",
     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVDZmM19mU3BqUXBvc05GdVpld0Q0WjFpV19ZNURuVmlXQnBYOWJ0WjEzLVB6STBvSmQ0alcwMTNaSjBDY3NLdV9qMFJ4ekJLYTFCSENyb0pFWmt4TDZkY1FLcS1RcWlnTDI4M0s3RVJEejNNaUlRYy1uR1hMNVpMVVRYaENrWTZPM1g2WjItaU5ST3N2ZTQ1MGdCRnB5elZuYTBxMFJTT3RxSXV1UDNKMTBndzMzS195aEVKSFFpVUV3M0RwLVB0QnU1cTQ4OVdqYXhYb0xLYWwzLUdVcDFUaEZvMVlZcUFfUXEyYm9PejVCWW42WjBPbkwxN2RqaWExNTBwVFVqSFNjSEEwX01N?oc=5",
@@ -78,6 +408,16 @@
     "category": "정책·규제",
     "first_seen_at": "2026-11-04T17:02:32.047518+00:00",
     "title_ko": "미국 하원 과학위 간사, 의회에 AI 규제 촉구"
+  },
+  {
+    "id": "4730d6be1457ed72",
+    "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZFQ5eG9nV2ZMQ2lGa1FkWHhGZU5sWnhtd1g2NElVQXJsaVFBQzdOU2t3TWluN3BUVXQtaG9UQTFzRXQ2YnR4NnhoUjdsWW1HR2JTNk1xVHZHRG95M3J6ZnFIMlpLVHJPVm1RTzU5S2xhSFd5bG9fcWtiV08?oc=5",
+    "source": "The Hacker News",
+    "published_at": "2026-11-04T16:06:00+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "연구팀, OpenAI Codex 탈옥 도구킷에 숨겨진 프롬프트 애드웨어 발견"
   },
   {
     "id": "e818c1486ecfa20d",
@@ -308,6 +648,16 @@
     "category": "제품·출시",
     "first_seen_at": "2026-11-04T17:02:32.047518+00:00",
     "title_ko": "CrowdStrike, 악의적 에이전트 차단용 AI 긴급 정지 장치 출시"
+  },
+  {
+    "id": "63c72c1fc66a5a44",
+    "title": "Argonne’s AI STEM Education Summit focuses on preparing a super intelligence-enabled future with humans in the lead",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWF2cGxHUmU3cVdwQklGcWRyRlN2NUMzWjFDZmZuODRwaWNVUUdHSjdPUHREYXZndU9LVFdCS2RlelNtbWZHblBlVUpVcDRpQ0pZWVRJY3Z5V1JVRlJsd2lfX3ctTWE0c2ZWNkpPNF9TNG4yc2lkcWJpZW1DR29iNUhHQ25TbWVOaGEwMVp4OTBCTkFtRjRuV0xOVkRFSjl1SWhUSzBEd29zRTZJOE1lYm9paC1nZE01dUdIY0RmZw?oc=5",
+    "source": "Argonne National Laboratory (.gov)",
+    "published_at": "2026-11-04T12:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "Argonne의 AI STEM 교육 정상회담, 인간이 주도하는 초인공지능 미래 준비에 주력"
   },
   {
     "id": "9a20401ef04970aa",
@@ -3668,6 +4018,16 @@
     "category": "제품·출시",
     "first_seen_at": "2026-11-02T17:57:28.573502+00:00",
     "title_ko": "CloudKeeper, 인공지능 소프트웨어 비용을 추적하는 FinOps 플랫폼 출시"
+  },
+  {
+    "id": "986d45ac9dde59b3",
+    "title": "AI in Healthcare: Uses, Examples & Benefits",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWpEOVlwZWJUNDZoaGJ2Sy1sbURaUUo2ZHJJNVRJdWVCakNlZWFkLWsyazNCVXVVY25FOVBFa3loV3VUaldMZlEwd1pqUEtfbnAzLVEwWUFzVmVpZVpUWUt3R3MzanFVUGVXYTh0djZsUmZxVFd1S2dJZlUzS0ZNVUlHazg?oc=5",
+    "source": "Built In",
+    "published_at": "2026-11-02T08:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-04T23:21:28.794025+00:00",
+    "title_ko": "의료 분야의 AI: 용도, 사례 & 이점"
   },
   {
     "id": "f93f80216c255cce",

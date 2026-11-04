@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-11-04T17:03:02.352522+00:00",
+  "generated_at": "2026-11-04T23:21:53.271850+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "AMD, AI 칩 수요 약세 우려 완화하며 데이터센터 매출 급증",
+      "title_ko": "AI 수요에 힘입어 Arm Holdings 매출 27% 증가",
+      "title_en": "Arm Holdings Sales Climb 27% on AI Demand",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-04T21:23:01+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-04T23:21:28.794025+00:00"
+    },
+    {
+      "title_ko": "Meta, AI 코딩 스타트업 Conductor 인수",
+      "title_en": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-04T21:10:56+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-04T23:21:28.794025+00:00"
+    },
+    {
+      "title_ko": "AI 데이터센터 건설 붐의 중심지였던 텍사스, 계획 축소 위기",
+      "title_en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "published_at": "2026-11-04T18:50:55+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-04T23:21:28.794025+00:00"
+    },
+    {
+      "title_ko": "구글, AI 도구 거부 학교에 검색 접근 차단 계획으로 강한 반발 촉발",
+      "title_en": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-04T16:17:22+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
+    },
+    {
+      "title_ko": "CrowdStrike, AI 보안 강화를 위해 Fiddler·Dreadnode 인수",
+      "title_en": "CrowdStrike to acquire Fiddler, Dreadnode to extend AI security across agent lifecycle",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDN1U09KS1BBSHFRRG01QnlCT0RMdnlQQnNCX3hZVF9VdG43VE1ZM0NFX0JJZ3dNb2Izd1NTSWcxTWxUaGRtYXZfZGtUVTZ5bzFMaEVSTFZLS2tNaGhGakowYVZKSmNNdWgwbmtVSGhCY1k5N3dYWE9RRnBNM2M2dTVjSThpLWFaa3oxM25fVFMxeV9nMkxsRXg5c1BqRVZnMjBSSDJXS1VDNjNmLVlpZXUxQnU5LXEyVFZqamlyUGFQdjRPc0Z1X21Sa2o?oc=5",
+      "source": "CSO Online",
+      "published_at": "2026-11-04T11:34:40+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
+    },
+    {
+      "title_ko": "CrowdStrike, 폭주하는 AI 에이전트를 즉시 중단시키는 킬스위치 기능 출시",
+      "title_en": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmsxR1FYWlNubkpfbXhSNmZDcmlhWjBWb3ZETDRnOVd2VWp4bU11Rmg0Rnc4b2hnLUF5WEJtWE0tT0EwdGswZE54ODhRWl9EYWYzLW93S2ZhVDFOTWRXSFg5WWN4TS1IdGJ3YnNMb2JEdDU2cnlkb2JPVl9HcnNJdUNkLU9BaXdFWkxDMkRYNXBqSnBQNGlDd1gwQW5uZzhvLWJsTnZaR3otbEZSVUxjamNUdlhKN0poblR30gG7AUFVX3lxTE1OazFHUVhaU25uSl9teFI2ZkNyaWFaMFZvdkRMNGc5V3ZVanhtTXVGaDRGdzhvaGctQXlYQm1YTS1PQTB0azBkTng4OFFaX0RhZjMtb3dLZmFUMU5NZFdIWDlZY3hNLUh0Yndic0xvYkR0NTZyeWRvYk9WX0dyc0l1Q2QtT0Fpd0VaTEMyRFg1cGpKcFA0aUN3WDBBbm5nOG8tYmxOdlpHei1sRlJVTGNqY1R2WEo3SmhuVHc?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-03T23:37:07+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
+    },
+    {
+      "title_ko": "AMD 실적 전망 상향으로 AI 지출 우려 완화, 데이터센터 판매 급증",
       "title_en": "AMD forecast eases AI spending fears as data-center sales surge",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-03T21:18:00+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
-    },
-    {
-      "title_ko": "CrowdStrike, AI 에이전트 보안 강화를 위해 Fiddler·Dreadnode 인수",
-      "title_en": "CrowdStrike to acquire Fiddler, Dreadnode to extend AI security across agent lifecycle",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDN1U09KS1BBSHFRRG01QnlCT0RMdnlQQnNCX3hZVF9VdG43VE1ZM0NFX0JJZ3dNb2Izd1NTSWcxTWxUaGRtYXZfZGtUVTZ5bzFMaEVSTFZLS2tNaGhGakowYVZKSmNNdWgwbmtVSGhCY1k5N3dYWE9RRnBNM2M2dTVjSThpLWFaa3oxM25fVFMxeV9nMkxsRXg5c1BqRVZnMjBSSDJXS1VDNjNmLVlpZXUxQnU5LXEyVFZqamlyUGFQdjRPc0Z1X21Sa2o?oc=5",
-      "source": "CSO Online",
-      "published_at": "2026-11-04T11:34:40+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 전직 육군부장관을 국가안보 및 사이버보안 고문으로 영입",
-      "title_en": "OpenAI hires former Army secretary as adviser on national security, cybersecurity",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeU1XZ2tyOWNiSkRnZkJ2U1JvN0gwWmVUcmlHWkRwNENQMVdmUmFOVlJMLXlsYWNmSTFHTVRsX3RGdW9EQ3FXRWUwVnRBQldRQlJvZjd2ZUNyeGNKVl9pemtoY2k0ckpocFVOenp0dFQxdUZDWHRQTWRfaHZicmQ3c3Z1WHdSVEozalZEVXhJZFJlVTJIWjhrdWFvVHh0RDhGWi1XSE8wc2NlRUNVQ0x4b2djOFU0amJYVjloTWl3?oc=5",
-      "source": "Baltimore Sun",
-      "published_at": "2026-11-04T13:30:33+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
-    },
-    {
-      "title_ko": "AI 추론 스타트업 Fal, 수요 급증으로 기업가치 2배 증가해 160억 달러로",
-      "title_en": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-03T19:34:43+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-03T21:39:39.974807+00:00"
-    },
-    {
-      "title_ko": "구글, AI 도구 거부 학교 지역에 검색 서비스 차단하기로",
-      "title_en": "Google to block search engine for school districts that opt out of AI tools",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeTNiaHNHN2xUN0RXTm9TYkNRdXd1QUpKc1ZhSWFrMTJiUkgzeVl1RXZuWnRka3lHVTQ4RUtRcHNoTU1jelJYaDE5eUZBM3VIdDdtMWtaRkFITHZmLVVCeFctNHFpSXBQdHlnSm9ST0lhNDVkSHZ1dnpxUHVVZUltZFlJWDJpS3Q1ck1KZEdZVFRkTnJ5VzR3MjhnaTlGeThkbWRscU9WQQ?oc=5",
-      "source": "WBAY",
-      "published_at": "2026-11-04T16:48:00+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
-    },
-    {
-      "title_ko": "CrowdStrike, 폭주하는 AI 에이전트를 중단시키는 '킬 스위치' 출시",
-      "title_en": "CrowdStrike launches AI kill switch to shut down rogue agents",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2xUeGRGMUhiOTlvaVBybzl5dnBGUm5VOTR5eG95V3llYWtJX3pwbmdtdDhZd0l0cm4xQW1YbGVPQ2x1LThkVWxkektDd0Q2b1BCaFdFRElscF9uZEt4LXB4anhrX2tzSm9UeG1ydUx4QnB6a2VxbDRTWXhYWGxzUFE4YUJMdFF3M0xjZXdja3ZxcG9yaE5iZ0ZiOWFUTkFQTEcxSHRaSEg4X2Zu?oc=5",
-      "source": "CSO Online",
-      "published_at": "2026-11-04T12:08:10+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
-    },
-    {
-      "title_ko": "바이낸스 해킹 사건, 가짜 채용 면접과 내부 AI 도구로 63억 달러 탈취",
-      "title_en": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "source": "The Verge",
-      "published_at": "2026-11-03T23:02:47+00:00",
-      "category": "보안",
       "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
     }
   ]
