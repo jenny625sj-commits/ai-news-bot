@@ -1,5 +1,475 @@
 [
   {
+    "id": "d51f62aa0d3ca8ee",
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-05T14:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "Box, Nvidia의 Nemotron을 활용한 새로운 에이전트 중심 콘텐츠 검색 시스템 출시"
+  },
+  {
+    "id": "7587b1572e755f0a",
+    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "link": "https://www.wired.com/story/aina-smart-ring/",
+    "source": "Wired",
+    "published_at": "2026-11-05T14:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "단독: Aina의 스마트 링, AI 에이전트 리모콘 역할을 노린다"
+  },
+  {
+    "id": "6dac0f57df266b2a",
+    "title": "OpenAI brings GIF maker to Images 2.6 tool",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1lKb2Z4Z01QVy1EMENxMjRJVW0xd1RIdHlWT1pycUVvc25Nc0RMS0RSUk9scW52d1c3U0tCYk83a1VPZjhhcG9JUXl6TG1FNDN1WjhkUkZwWmNQdy1Da3RQQUhZME5CUXBBUHhqU29VRnhWRnJDZXBFN254NnJDMk9aX29GOUpxZ28wOUpseHU3V25CcklCUUV3Mm84LUp6VEF4VGI1cjEyNUtUQzZWb0Y5QQ?oc=5",
+    "source": "Deccan Herald",
+    "published_at": "2026-11-05T13:47:28+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "OpenAI, Images 2.6 도구에 GIF 제작 기능 추가"
+  },
+  {
+    "id": "048bd87da6e6f46d",
+    "title": "The world is waging a “Third World War” through Artificial Intelligence - what role can Egypt play?",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTRSY1RtcHA3ck5QN01sU1NVOVVLdHVaZU52dWEwNkkyc0g0MzNaV2k1Q25yRmZFeVRVVnphYW5RVDNyaVdocnd6MDhvYldmRmFIVEFHRnloVE9Xc01xX1EyWWxSbE9xQV9NZ2wwVThjQmVkdzQxME5PbURaUjVxNEZ6M0ZhRXN4enBuY29WVGxBQVRUbjZHa2JTcC0xYjcxSjF1cmFYNktLbjBSdE81TXVTczV1Y253dllqZk13MFFBMHZWNFpj?oc=5",
+    "source": "Egypt Independent",
+    "published_at": "2026-11-05T13:37:04+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "세계가 인공지능으로 '제3차 세계대전'을 벌이고 있다 — 이집트는 어떤 역할을 할 수 있을까?"
+  },
+  {
+    "id": "d3bc4877bf5fc3a5",
+    "title": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI",
+    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWG9WZEdKLTRqb3hpWkpMWG8wbWp6Ry1QX01xTmF1RFJta2VqRTdZWHlDc2VucElHYTZid3k5Q3JkN1dQQ3RvbkhCc2p6c0lvWXA2RkdfbkNmNmtBZ2c2N0hVOS1Xc0tBaTJRWHJuR2E4T2dxSEhKbzBNZEczSVhyN2ZtNzZSR0NPMTlIcW1TMkVDa09xbWxfYVRKTVd3andabHpKQWVialNuTFlIMkpCMERPT1h6dHpRaWEzLXptWW9zTmlZbVVOZjZ0alpuSHVjQldCUGNTelhjOXNISG5EQVJRRVNZc0tBQndIOUtKV3ZSeEdkZWkwNGdmY204SkJkZ2Q0Wks4TVNxR0JnUzRJUE5ubEZLNjZTZTNkdDVEcFBfc1BMRC14UmdNaTI0bENuZk5kd0p2THNYckNCdEZoZFhLS3gyZmJrNTNKQzdiR1hVQQ?oc=5",
+    "source": "Tom's Hardware",
+    "published_at": "2026-11-05T13:30:16+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "민주당 중간선거 압승 후 의원이 인공초지능 금지 촉구 — '통제 불능' 산업 규제와 고급 AI 중단 요구"
+  },
+  {
+    "id": "668014e2b56c3310",
+    "title": "Hangzhou DeepSeek Artificial Intelligence Co., Ltd. announced that it has received CNY 100 million in funding from Tencent Holdings Limited, Contemporary Amperex Technology Co., Limited",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY2R3OWJQdGJMSE50UV9ibTYtVHR5VG95cURVZ1pzZjFJb1JBRkZObTlYczZvbU1tQ0RYYnhvQXFCaWF2bmNlcjhfb1IwZTV6dzBCMzVlX2t0RFAxekJoX21lS1oxa20wZ2xuaGFRbXQzQU1VWUY4MzBxMGN5RmxHRWtJMUIzaGw5N1FxN2dJRTE1bDZJVDB0MHFPYUpYTkl6ZGpYUjhKTXVyWjRTZHhSTkhldldlUXJGajRVSGpsUTAxU0J2RDQwYjY5bDJ5RUFxVUhGZG40S2htWWxWcTNEbk05WGg?oc=5",
+    "source": "www.marketscreener.com",
+    "published_at": "2026-11-05T13:25:41+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "항저우 DeepSeek 인공지능 유한회사, Tencent Holdings Limited와 Contemporary Amperex Technology Co., Limited로부터 1억 위안 펀딩 받았다고 발표"
+  },
+  {
+    "id": "c52237b668d64462",
+    "title": "Does AI Truly Understand What Shoppers Want? Visa Puts It To The Test",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWxIT3J4M2tqd1AtR2dGV1ZfbFJSTVlZZUJObFluc1lacWlrZUgwVHJQcVIyOWJwaU1BUmZrenRxR2FrVG9jd05aRno1SXo1YTZiQlNfNG5IZUs2a1BRQ292UW5IV0hSdFMwY3ROdGF0N2tRRzJDcUFvWlpSR1hRTGlWRGhqdlBjUUVaRVpDWjZPV0ptNk5SbnlvMTQ?oc=5",
+    "source": "WWD",
+    "published_at": "2026-11-05T13:05:12+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "AI가 정말로 쇼핑객이 원하는 것을 이해할까? Visa가 검증해본다"
+  },
+  {
+    "id": "47a68cfda4f0988d",
+    "title": "Michigan can use artificial intelligence to improve lives",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEZKNXRhRHlsaDNzd21DZF9XcERZN2ZaRkZHSHp1UTNZZHVIbDFCbE85emFWaFkxMjN0MWFvOHBoRGpWUWNoMFI4VllsdUI5THczRVZpc0RETWtIeXlzcVAyVVBaSlI5ZW5fR3JJS1FlU29vREV4Nk82Unh2MTBpcGk2YUo2NEp6S3BhYXJsNjlLbzRTNWMw?oc=5",
+    "source": "Mackinac Center",
+    "published_at": "2026-11-05T13:03:08+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "미시간, 인공지능으로 삶의 질 개선할 수 있어"
+  },
+  {
+    "id": "08ab3efb6607982a",
+    "title": "RecApp, the Italian app that uses artificial intelligence to change the way we study.",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXZoZ3dSaTFra29TY19PQThoQndFUGFob1loeXN5YnJ2VHJhTVF3enZ1VGVBVk9YX29jM0pMSGgxWk94VGR5VUt5NC1NV250V2YycDR4TXpTUzBxd2ZycGtFUTZWaHhuWFhYTGlDMGRfaGl0MXZMdHBJRUZjcVdxS1RVTjhEMzd5eDJ1N0ZZN0JROUtHVWREeGM0ZkxHbkRpWHhZenRINHUyUQ?oc=5",
+    "source": "italiani.it",
+    "published_at": "2026-11-05T13:02:35+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "RecApp, 인공지능으로 우리의 학습 방식을 바꾸는 이탈리아 앱"
+  },
+  {
+    "id": "b06af2d45cd2abb5",
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-05T13:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "Y Combinator 스타트업, AI를 위한 미해결 신소재 5가지에 100만 달러 투자"
+  },
+  {
+    "id": "e734c883e54f401f",
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "source": "Wired",
+    "published_at": "2026-11-05T13:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "신약 개발은 번거로워. 이 AI 스타트업은 실험실 단계를 건너뛴다"
+  },
+  {
+    "id": "6a593112f85b94d2",
+    "title": "The Real Test for the Artificial Intelligence Build-out Is What Happens in 2028, Analysts Say",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkpKbG9yV21jczNiNTJrcERhSGVMM01MTHMtTko3a2VpX194OVVKVE8tZ2VfMHpCbnRpX3FPVkJtbWVsZmxNT1NPQWRqWWJBbEFXT3NIYm1nUFBTSGtJSmRqQ1U5YTRLWUNmX09fSnJ2M3hmbjR3WlkwZU8xM3QxX0lxb0NwU3Q1T3o2VnlxdGNKcEk5ZnRseWl4NndnLURrQUMxUQ?oc=5",
+    "source": "Moomoo",
+    "published_at": "2026-11-05T12:37:21+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "인공지능 구축의 진정한 시험은 2028년에 시작된다고 분석가들은 말합니다"
+  },
+  {
+    "id": "fe9563fbd68ca921",
+    "title": "AI chip demand powers third-quarter growth at chemical, industrial gas makers",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckw5Yml2X0hxNU5DcnBqSGtkRjM1UHVEc2JzU3ZPYXc1MGVWSF9kTXFMeGZXeXNvVk05U0Z3VWdWZkJtemhreDlOY21Fclc3YlBXbHB6bGgxLUdMOVBqMnJOZFVXVXA2YmFSWGU2bkJaYTBRY2NHc1lFdVRVZi0za2IxMFprc0RGS2FwUHhZSEZjYUNSd1B2LVdEdVdjN3hSVW9jalhvZEJ2TDZoTW1TTzg2TlE1YjdubGpUMUtISTNTOXRmVFZr?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-05T12:32:55+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "AI 칩 수요가 화학·산업용 가스 기업들의 3분기 성장 견인"
+  },
+  {
+    "id": "79330ce66ac39038",
+    "title": "Opinion: Pennsylvania needs a clear AI education policy",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXBxY1k4NVRnc1c5T2FFeGI1eWxqWTZCVnprVEUxMVZ4QUFCdElYakFmd21acGV5MzVvdDdPdzR5RzluMzFPUWtrX254RFJhNm96VG9YaDM1LUkwZXppWXBlTGdXcmY0Y1FWNnNyS0lpNlNKZ0RLSHJjU2lPazJsY3BTN3QydzZZRE94VlFxNE9sQQ?oc=5",
+    "source": "The Morning Call",
+    "published_at": "2026-11-05T12:32:20+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "의견: 펜실베이니아는 명확한 AI 교육 정책이 필요합니다"
+  },
+  {
+    "id": "e5a03448f19b0aaa",
+    "title": "UNICEF Internship 2026 in Italy: This is a Paid, Full-time Artificial Intelligence International Internship Offering a 26-week Opportunity to Gain Practical Experience",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94QmR6dDlHbXp5ay14MTZwQndUbjRtNDB3dDY5QW0wUkFyb2JjM004dVpYVlpJZXozNHphSFFQdFNKRVVUMHMtTUsxMkF4T2h4X3YtQTVYdmpOWTVoU1I1eVUtUlB1T3Zwd0dhc3ByWQ?oc=5",
+    "source": "Global South Opportunities",
+    "published_at": "2026-11-05T12:24:04+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "UNICEF 2026년 이탈리아 인턴십: 26주간의 실무 경험 제공하는 유급 풀타임 인공지능 국제 인턴십 기회"
+  },
+  {
+    "id": "6a4b652761202198",
+    "title": "Outsmart Artificial Intelligence with CEDMO Game!",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92TjlzQm5nbmZjOEdkM2RUaTlZWmJ0WHJDQlpvWHI2X1VwMnV3ZlBQWGxZdHNSSnNlVFJMUFVBbnNpNWFkWWxkSllvRWl2TEFESGptTmc4Z25yMlR5VlRHMU5rd1NGSk9NekEwcEdLNmp4cFFpMnJXMQ?oc=5",
+    "source": "CEDMO",
+    "published_at": "2026-11-05T12:18:13+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "CEDMO 게임으로 인공지능을 이겨내세요!"
+  },
+  {
+    "id": "f050bc895e36e285",
+    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+    "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "source": "Ars Technica",
+    "published_at": "2026-11-05T12:00:41+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "Agility Robotics의 나스닥 상장, 휴머노이드 로봇 시장에 대한 검증 촉발"
+  },
+  {
+    "id": "956cb223c580c4f0",
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-05T12:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "Agility, 순수 휴머노이드 로봇 기업 최초로 상장. 당신은 매수하겠는가?"
+  },
+  {
+    "id": "b8ffbccf0ff97ac1",
+    "title": "AI’s Next Trick? Speaking Dolphin",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "source": "Wired",
+    "published_at": "2026-11-05T12:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "AI의 차기 과제? 돌고래 언어 구사"
+  },
+  {
+    "id": "a2e23304e2f8494b",
+    "title": "Cabinet approves Artificial Intelligence Proficiency, Ethics and Expertise for government programme",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTllkNTkwMXZwREg0ZTRRcjR4U0pUZnpsT1lyUGpseGQyYURGX2FMdDFoSUVEbXo0UG1mWnpDejBucUNUV2VSSEpZY3NLQWNIZHNXWEV0NzU1bjVGbGx5b0Rnb3RLcm11dlJGRk9ydmNVNWVCckJ3ZnJDYUlRRldlWWh6S1ppajg5X1haSzM3TTJaLUVOcWxpT0xIVkplTnlTOXNwTERyZ0VrRFdWN1hNd3hvdWV0MkdRbXc?oc=5",
+    "source": "IRIE FM",
+    "published_at": "2026-11-05T11:55:59+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "내각, 정부 부처 인공지능 역량·윤리·전문성 프로그램 승인"
+  },
+  {
+    "id": "398b9af75035b78c",
+    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+    "source": "Wired",
+    "published_at": "2026-11-05T11:45:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "그는 생계를 위해 AI 연구소를 놀린다. 이제 모두 그와 함께 일하고 싶어한다"
+  },
+  {
+    "id": "04d2c61636ceaac1",
+    "title": "OpenAI lays out new policy framework for data centers",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDJuYW9tNHA1Vnc3dC1mdms0c2VBdmpSZ3lqbVBXMFdhZmR6MWlnbzJheXVfRVV4VlRaMjFLR1NpTURGTFh3VUJSN25MUmF6cV96TVF0a1NQNUVEeWlIWFVVbHNLeTE5ZTEtc0FUcWZrZEZsY2ZjelZXcDhmZjdCUkxtQTlGaGxsQWpGUEZxR0ItR1lZ?oc=5",
+    "source": "Politico",
+    "published_at": "2026-11-05T11:30:00+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "OpenAI, 데이터센터를 위한 새로운 정책 프레임워크 발표"
+  },
+  {
+    "id": "98947dcdc163620a",
+    "title": "A 96-year-old Chinese man was turned away by travel agencies and used Artificial Intelligence to plan his route: he traveled alone for 43 hours to Tibet",
+    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQYXJqTjhZdk5EUl9tQ2xXOTFBVDZtY3J1Z1BUZHJmUklValZvTFRLbER6eDZiNldrczBhVHJGazMwQXlEMFp0b0NGOU9sdm0yaGpDUmUzdGdrWFJ2T1otWlhFMFROMnFZckN3anNmNHV3VWFpRkZrMXJmZngxZDZQblp3RG9FQTF4VmVpelAwRUpfTkZ6UFR2WHVGbHJObGF1UTFrWHQ3bUVTeDRJUHFxT0g1X3NFU005RXhZSGtvVXcxR2E5NmdVN0YtTU5JaEtxWWJfVzFVaVBDXzQwa3hSbjhNcFBlRlBGUXozT1NDUjhOTkZTUkpDalFyMXczTnJXbHBNdzlrZmZoTERfR09zd2E5aERmUjlTZkJnS292dHB0eHVFZHZ4R0lwSlUtV2tIYTA3RnR5MXPSAbgCQVVfeXFMUE9SRzFJMmZyWTF2UVBuOHRCdGJ0Smg3U25ieDdBajQ5dHE2ZFJmc0kwSmdVZ2Q5SUh6YXQwM1ZJTE9yZ0RPUHlQSHcxa3VnMEg3eDBGcE1BMTN2ZmYyMGdpTUQzRGJZWWcycWZtWERuMXJCR3ROOXNIU2pMUEpqbGhVcnp6a2p5U1JXMEtJUWowN2dpUlZkMVVTTGI2RFdmcFJzbUkyRWhrN2EydTIxNVF6b0VJUll5ajh0SHZYRjdzdEk5a0pkRWlIeno3Zi1vNTk4TEZ6eTloNHdCUjZMaEVGQUc2YXE3eXI0dDNVM3FVaTFHTWp3RW0xRWZKM3RQYWV2Y1pUUWt5U2luMEJVMFpncFFnMTdjbkxLU3VKa3UycWtBUzkzc0hwbWRBQU1ULUFRNzl0SlNM?oc=5",
+    "source": "MARCA",
+    "published_at": "2026-11-05T11:18:48+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "96세 중국인 남성, 여행사에 거절당한 후 인공지능으로 경로 계획 — 43시간 혼자 티베트 여행"
+  },
+  {
+    "id": "30eb48ab5f13bc30",
+    "title": "The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzh4VXh0Mml6VkI2SkVZXzJEWndqSUlVblBBaWI3bjFYYXZoRTRkUEp1SlFMTjZkdzJ4YXJjQVVBbFIxSVlHQkRJTVdTWi1SSzJSS3dsNkhSN0FvYVFQWFlhSklQRUk4d1g3M3FtNzhTRWpvN0ZlejJTLXFXMkRubTI3NzItWU03dFo5b2NVbkxQemV1MFJNRGxMTUhRTmJjYTNXNjFsaUdfMjB6Nk83aXpzOERwMnlHcVgtUmg0cXp4WUhzVGpjbGtn?oc=5",
+    "source": "The Motley Fool",
+    "published_at": "2026-11-05T11:06:00+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "기다림은 끝났다: 역사적인 인공지능(AI) 주식분할 2건 공시"
+  },
+  {
+    "id": "0b77aa3745657e9b",
+    "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRjZtdTRhY2hIeDlfYkV1ZEFWQThWNUZBczNJYUdTd0xHSUM1aU5CZ2VkNGpfWU9Lb1hsOV9hM2VjNEtYdGZUZklkYWJZZkNsZmNWQUtsTnhzTERKTktMR1RfZzQ2RjJEVnl6ZFJObzVQVzNnRzVsM0w2N1Q2MEloM0xzTnJWcTRZc1BHRmpoZ0RIY2k4OWJOdlV2Zll3bm5oaXNtTUdpTExLWjcxSkpaTUNvYjNNRHJKQ000RzBfRk96bzJTZjROb1ZfcldCYjNoUk1GeGltVXFWdi0tbkVhd0pzcGRPUU1fUTFKYW1TMzJOQ2V4WmVjQ1RnSUVUMUtRNjNrLUtrZmZYZw?oc=5",
+    "source": "Tom's Hardware",
+    "published_at": "2026-11-05T11:00:00+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "Anthropic, Claude의 게임 복제 금지 완화 — AI가 이제 요청된 장르의 오리지널 게임 개발 제안"
+  },
+  {
+    "id": "1f0bd912c3b00609",
+    "title": "Sydney researchers uncover a hidden limit to AI predictability",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzcUZEaUNodC02bmctM1ZsSWtQOERlQ3JYU3MxY3RaOS1xeDNPck5JMm1XeHlkV2t4MjZnTjJWLUJvNWphWVA0X2RjWmFqVGYzNVBSWm9feFl0YTJH?oc=5",
+    "source": "EurekAlert!",
+    "published_at": "2026-11-05T10:38:57+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "시드니 연구진, AI 예측가능성의 숨겨진 한계 발견"
+  },
+  {
+    "id": "b8c0e66ba85503fb",
+    "title": "Big Tech’s big AI buildout will not end until someone stops it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "source": "The Verge",
+    "published_at": "2026-11-05T10:35:19+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "빅테크의 대규모 AI 구축은 누군가 멈출 때까지 계속된다"
+  },
+  {
+    "id": "6c80d9fbd502a96f",
+    "title": "Social Monitor: Romania ranks last in EU for artificial intelligence use",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWZIS3ZiNkM5LUhDSHJxSl8zak8tZGdCRGlNTldiVGZZRnVoQ2dKTFdUdVpuX25jdkpnYXp2R3BsZEZVNUhueDVROEZYYmV4dWdnbnM2cGdCSDF1bFIzR0R4d1U2SG5aSFVqOFdtT1Y4SnN1YXNZaUVFQ2I0eXZORVliUTMxZ3dMcEQ4Qm01R3lVdGdpcU9keHJnY2tfWms0WFE?oc=5",
+    "source": "Romania Insider",
+    "published_at": "2026-11-05T10:13:48+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "소셜 모니터: 루마니아, EU 인공지능 사용 분야에서 최하위 랭크"
+  },
+  {
+    "id": "b845bd53ef6db6ef",
+    "title": "AI agent autonomy remains an elusive work in progress",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORlkxSXIyMVBnMEplZjE5OWFYY0RIZl9DNGVyb1BtcWtxWUpEa1dFTXE1Um5ocW14eUwySGdqZ0hYd1R3OTB3TWItcVp5enJHNWluZHVwcFF4UGZrNUhBOFhKa21JcFdZN21PZGJRMGpoWE12a0pZWkZLZlBRQ1lyQUt6bXlfVXphdjJyVTdzTzdOTWpaRzA2MGt3?oc=5",
+    "source": "CIO",
+    "published_at": "2026-11-05T10:04:03+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "AI 에이전트 자율성, 진행 중인 난제로 남아있어"
+  },
+  {
+    "id": "446983c6ab96a6ec",
+    "title": "OpenAI Says a Cyber Pipeline Racks Up $1.2 Million in API Costs",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWswMTFoWU55ZFpEeDFqaVdEaEE4YXBZTUJqT2FHM2FIdWc4MG9Oa2FSZGFHXzZWQTF2SUJMUGJqV3VCRV93SVgtcnZpM3Z3SW5zQ1pTQzlHRGVUZ01aNnluU2xTUHh0U0pTRWpIVXRNTmp2ZkRjY2g0dm9nT1I0TXJuekZJd2dXTFlyNU5sWU1EMDNrdUFfMEFGQUZyZUt3eUFyUlFR?oc=5",
+    "source": "Gizmodo",
+    "published_at": "2026-11-05T10:00:39+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "OpenAI, 사이버 파이프라인이 API 비용 120만 달러 누적했다고 밝혀"
+  },
+  {
+    "id": "42ed643a6ed315fd",
+    "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-11-05T10:00:01+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "OpenAI, 선거 후 비판에 응해 새 데이터센터 정책안에서 NDA 중단 약속"
+  },
+  {
+    "id": "97f9cc8c0c5aa751",
+    "title": "OpenAI to Change How It Handles Data Center Efforts After Outcry",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2lGa3ZiVTNXTFdJb19Vb2dpQWZiRXZKaXd4TXB1VmQ2YXRGWTFxWWNEcDZVc2NnZUlWRDkySWZIdHl1dWU5VmI3WktPZDl3TG9yNkhGdG1QNkxyeGZUVXNvM3NfTGhwR0lFYUFIY005eW5FNW8wdUJSTTl1a1lRdVJySjduUEY0clBsaXNQUFZmeXZwdTNXdDU2SnNKbDFXSkZ2blk2WTVqLWF3YlJaVGRFTFRzazVKTlE?oc=5",
+    "source": "Bloomberg Law News",
+    "published_at": "2026-11-05T10:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "OpenAI, 반발 후 데이터센터 운영 방식 변경하기로"
+  },
+  {
+    "id": "0f7ee82da763a322",
+    "title": "Seoul shares plunge over 5 pct on AI regulation concerns after U.S. midterms",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZFZEWmFYZHlwQlB6MTNEbTROd0dHQWI5S2VoTWxFdEhLSDl0S1N2UWo2SnBnYm00ZXhOZ2lyR3Qtc3hsZjdvSGU2VjBfQkdIc1Z4LWVpSERUNVEwdXpONmRtSHJLMU1fSVZ6SmZzYTVjcDh6clNuRjdPQnp4WktMaVNrWk12c0JMV09hNDNFUWJEY2NMZmd4Umx4cnB1T20tMDR2SVVJR2xGTGwxeE55aGVMaWRESWxFSW8xeEQxSDFXUXZMYnZ1aTRUUDJCVHdO0gHWAUFVX3lxTFBDdlJKRUJWbDVxYVUwUlRuOGNndW91YVJCVW96VjlnMDBDWDdZOTZ4aVVNYkpzYUdkVDR4T0M1N3F4d0lOX0dDdHhIZ2dCSTBLNGtqZzJBSV9FQlA3aFRJYW5SdEc0Ml9tZC1JckV5ZlhpSFpwYWY5ZkpnSjZJNVRrMEhOMW11NFRqVXRiUHByclExX2dNcFZJNnBfa3IwQTVpOHJSdlFTV1hxWU1HZ0ZyQmpSQ2tkVUNjRmhUUWhYeUJraVJ0Ry1KOUZhbVBtWFgwZkh2Zmc?oc=5",
+    "source": "upi",
+    "published_at": "2026-11-05T09:21:40+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "미국 중간선거 후 AI 규제 우려에 서울 증시 5% 이상 급락"
+  },
+  {
+    "id": "1cfd8d4d9406b01d",
+    "title": "US voters back data center restrictions amid backlash over artificial intelligence expansion",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZm9HV0F5Tlg2ZUd3MDNLVnhTUnBRTWtWMzRGWjI3d0h6M3cwRWZlSkY0ZW5kSjZ6NDZtcXpoTi1WbVpxcms1LXU5anVvZ1JtT3U0WHBSZkt6cVBpb1hVRTMteG5lLTNIdFpMTVEwSHlyMVE1OEtFbXozeDg1VEdHRDNEVDAzSUVjOVZxQ1QzTDNWQmNYLU9HTmNFU01XLUJYbnN4Q1J4dUJ0VWE0ZFdQeUgtVnJWZkgtWklpUVFxXy1WUm1Va0VHRm93?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-11-05T09:01:56+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "미국 유권자, 인공지능 확산 반발 속 데이터센터 규제 지지"
+  },
+  {
+    "id": "02c7584152df8291",
+    "title": "From job cuts to AI, public service unions are closely watching today's budget",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNU05Y1BrWlpTRFFYNXhucEpCQkZRSUNVcU1tejdtTThSYk8zM1BuZDgtN3NLYnhjZWIzZE1zUWxPaTZzak94UHR0cVRmRGpDU2Nqa0E2eWctSmU3UWp2QV9ZYmlkaWZWcDlIalYxd3RpXzcxZHVUUEIxeGVQOTlXemJFMWp4aGJCV09KTjNkdnhmdnVEYUJPZm1zR1JuX0FuV1lWTlphbjNqbHNwNzFscks2THd6ampUbUQ2dVl4WkNQY3M?oc=5",
+    "source": "CBC",
+    "published_at": "2026-11-05T09:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "인원감축부터 AI까지, 공무원노조가 오늘 예산안을 면밀히 지켜보고 있다"
+  },
+  {
+    "id": "01a97711637e2786",
+    "title": "Context, Not Code, Is the Bottleneck for AI-First Enterprises",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREdFRGo0b1c4OGpEcWZWRGI3ZlJXakdYaElBZjFBVXNNVDQwSFFvRDVxMVMxcFZRUnp2RldzaWphZjhmeXBNem1MWUlSQlpqVnBnRUVSaFJwR29xNjlBTHhOV2NBNEhxUm5vblRCOTc1RmppanZ0MEwzSEFlcnJxMGlmS2ZlWVRkeGpMUg?oc=5",
+    "source": "TechBullion",
+    "published_at": "2026-11-05T08:54:23+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "AI 기반 기업의 병목은 코드가 아닌 컨텍스트"
+  },
+  {
+    "id": "eb807920df0e6bd4",
+    "title": "Jordan's king heads to Kazakhstan for talks on artificial intelligence security",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjJ5dTRIVV9qOEU5ZEY0Q0NPc0gyN09MQXlTNzN2ZHB1QmNpWllmalVfY0ZxRGYzZEFfdFU5T0Y0UVU1Wm5QV0pTOHFaa3F0QnFDbVdvX1ViZTkyamtZYTJRSTB2Ny03TlhMa0xQbnhGTGpZOWQwUTBzUXppbTFXRHBlallFbVFLMTRxWTlUTzlxWkh3Qm8tbXcwNnBubGtkVW1BQVE3ZXdJVlQzdmYtcGliN0NsUVF1MXAxalBtZEs?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-11-05T08:48:11+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "요르단 국왕, 인공지능 보안 협상을 위해 카자흐스탄으로 향하다"
+  },
+  {
+    "id": "cd8f47169206f452",
+    "title": "How to Choose an AI Music Generator: 7 Features That Matter Beyond the First Song",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmdodld0Nlh0M3IydTdmRkMxVWZlcjZpR19yQzFSaXZ2X3MtenBKQXdhUHBQaUNYZW1NQWdGQVFES01DQk1JdjF4aDlkbVZKSURQT1JQdXAwMWZTY2Q1cEdHQ08zX3U0LVd0ZEZVLVYxQ0dCc2Z5RkdxdUNDN3htQ3BIM0x2SUhEMjhXbDFtdHJ2aEdRV0NNZWlLalRfUi1pbTh6VGluTF8?oc=5",
+    "source": "TechBullion",
+    "published_at": "2026-11-05T08:33:21+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "AI 음악 생성기 선택하기: 첫 곡 이상으로 중요한 7가지 기능"
+  },
+  {
+    "id": "8dc2e4d09bb20645",
+    "title": "Language-guided inverse design of multiclass metamaterials using generative artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtUjh0Z0FUajhsRGJKa0ZKbFpMX1h5Z3U2YVZQLUszU2tMMXJ6RVJiVUEyY1ZsZ2o3dGRrclRybVpCRWhvc19KTW16NjNZTHl6UWNleDk0NU1zanpwWE5V?oc=5",
+    "source": "Nature",
+    "published_at": "2026-11-05T08:10:34+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "생성형 인공지능을 이용한 언어 기반 다중 클래스 메타물질의 역설계"
+  },
+  {
+    "id": "1fb5b80fa1548d66",
+    "title": "The Artificial Intelligence of Agents and their role in redefining trust and economic resilience",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFVhZEJGN0ViZzhVNE5mS0FjbGgtV3U0U2w5U1YyclFoeTA1b3J3YWhJdXYtOVo0MkkzOVJTcW93ZS00ZHBCbm0tVE5jR3M1TGFKVE9JQTlEbjhocTF4eEhHN0sxbkQweVBGbzdCS0RQZEZIZlFHaHVfNkNfOVVzM1J0NmJwR2tiQ0E1M2JORFBySHo3YW9EV1dsNmUxZGNmQWNIUUZ5VHppVVVqRVY3WDZya2hpU1doRXBRX2JYWHBTdw?oc=5",
+    "source": "UJ News",
+    "published_at": "2026-11-05T07:31:23+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "에이전트 인공지능과 신뢰 및 경제 회복력 재정의에서의 역할"
+  },
+  {
+    "id": "86d704ad115875f1",
+    "title": "Brazilian justice prohibits Meta from using press materials to train artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0VCNnJRU3VFY0VpUGpKbUJwVTBkRk1nQXkyS1NkSmZzRFFZWkRoamNkRmtXVmlKZmFlWEx1cDBkZ0pLWkJNR1o0cDBybzF0T2xCZVgweW5LM1gxRGVzS2pDMjBmN3RpQ3RySm5VRWpXRkVLejgwQUw1RU5MNzFCYUc4SlY5NWNYLXpwcmdXczA0OHYzSXA0ak5LcWZJNHZ6T2JVWmdB?oc=5",
+    "source": "Informat.ro",
+    "published_at": "2026-11-05T07:31:08+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "브라질 사법부, Meta의 인공지능 학습용 언론 자료 사용 금지"
+  },
+  {
+    "id": "067c5e315f9bb6d2",
+    "title": "In Italy, Artificial Intelligence Found a Stolen Painting on which Thieves Carefully Painted Over a Halo and",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0R1N5NHh0cUlJUTN3N2hkYkRaWmJfTFJ5YjZqZWNzbWFIRHRRNUtla2hsYk9kcWNwanNlMkVsZk1HTW96MVHSAUtBVV95cUxObmtPRjRqdWFCOVIyQXNGcVpPQk5OeHdOQWZNSF9sU0VVVjUwVEUzT3RDWmE2MEotQnNrQlI3dW1NSDVQRGlkNk9kTms?oc=5",
+    "source": "Наша Ніва",
+    "published_at": "2026-11-05T07:23:47+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "이탈리아에서 인공지능이 절도범이 후광을 조심스럽게 칠해 덮은 그림을 찾아냈다"
+  },
+  {
+    "id": "12316facb358acdc",
+    "title": "Somalia to establish AI Academy",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUkVaN1I2aU9fRzdYakZnbVNTYlM1ZmxnNHRYeE42c0NkVDlBTUlHYVc0UGFTeWx0Q1M2enBUNmUyeU1jSU9xdUM4cWNadFQyNjR4Z1BwMHJScXBsN2hzbEhreU1KSFhPTzJPV2tCU3UtbExuUEE?oc=5",
+    "source": "Connecting Africa",
+    "published_at": "2026-11-05T07:20:36+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "소말리아, AI 아카데미 설립하기로"
+  },
+  {
+    "id": "7c24783753d2d8f3",
+    "title": "Notre Dame theology professor on Catholic social teaching, artificial intelligence in our time",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMVdlRE1MekxjdkJzNU5UR2I2V0lKSmFrLU1fTFVwbl94eUJMSzY3Z21mdUp0VldFMmhLVUdaQkh4Zmh6bll0czl6SGItQ1FLZlZjejdYQm9pc29NNXdRMnpCc2EyQS11NFJqWlg1WW04TkJMdzVOdTJxeG91UHRMSEhLdHltWjFleTQ3cDlrZl9FMXJpSWd5TlpZWjFhQ1RZNXA0SnUzekwyTnhpM2lJMzkxTVRDckwxbHVqTzNZdWhQRnFTcmNhcw?oc=5",
+    "source": "Diocese of Tucson News",
+    "published_at": "2026-11-05T07:05:05+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "노트르담 신학 교수가 말하는 가톨릭 사회 교리와 현 시대의 인공지능"
+  },
+  {
+    "id": "b9c0d8bcd3f60413",
+    "title": "How AI Is Reshaping Managed IT Services, One Ticket at a Time",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUVoWUlPTGY0QldnNWt2d19fWlpJN3VEcVl3RlhoeG9wNS1HWFdoRFNXUERkOS1MTkkxOGltZWpqWWszOTUwSVB1aDRWX1hHNGd1U2hEOVZidFZMc3h6dFZ1aWF6LW1ieWFieVFsQ3RQR21UMWtlZVkwYm1FRnhyNlJUNkdacUlxQ21iZG1n?oc=5",
+    "source": "TechBullion",
+    "published_at": "2026-11-05T06:49:50+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "AI가 관리형 IT 서비스를 한 티켓씩 재편하고 있다"
+  },
+  {
+    "id": "e6d389cef370a093",
+    "title": "Saif Ali Khan, Kareena, Ranbir Kapoor Chime In On AI",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVBaMDFScldhSmdtOWd0bmhIdHVSamprRGgtRzJKNHNDQmdmaGw0THpWbTEwaUhORVNER090TXBnZFZZaUNPRGh1a2VLdmZKb3VtblJYTXc3MmhpcHNoemV6UHJEQTdPVHBBcGNZMFkteV96a1JQWUdjMU04VTR2SzhDSHU5OV82WXRMaXhFcndySzJ0dDc3TElzS0lMdW1NMHppSWQ0Z9IBrwFBVV95cUxQQlhEcFdrejN2OFpzWTQyQm1GTjJuUnkyTDVkTmpTd0VJc3l2cWI4d1g0alRGNmRTTXRJaU01REpGZXBYVDBoWHBtelFYN0ttaDN4WHNRTlRsZ28wMkVycDdTNlFfbmhRS2t5Q3FrSjhCWmRNRVRDYU1ZTGhFLUNDbzVhV0JPUVdoNWhSeEpBNmd5NDNaaldhYlR3QjF0V0t0TWNjX2lJZ2RELU5NQXhr?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-11-05T06:34:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "Saif Ali Khan, Kareena, Ranbir Kapoor가 AI 문제에 의견을 나눈다"
+  },
+  {
+    "id": "b1898b7817961e52",
+    "title": "Indigenous Australian artists accuse artificial intelligence of exploiting their creativity",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORXREVWN0STFfNjRiT3F4MmhhVWZfXzNORFoxRVBmRHk3TXMzQ3FlOUgzV2lrcnVONl9JYzRrdmdSRU5XV2JMWlhvd3NCSUptRzFTRWVuMGg4VzNRdGplT0h6c2FDcEVleGhtNlFxQy1NZFNXeTV6YkxPUFZSY3g2UFRQbjB2SHhXWGY2QVdhVnYxdWQ5enh4OFUtVWJ0LVF6NUE2aTc0dWVGRHBtV3FTSDJWSkFhTGdRMzFTS2d2cnBLZU1kLTQtTzVyTnk5WjB2Y1duYlRBMHNyN1AwaTVDdlhxN0pndVIzZXJWTl9IU29CbklYMllKa0cteHhQS0VVaTI1RXJtTjVJdnVNeXNWQjViT2s?oc=5",
+    "source": "صوت الإمارات",
+    "published_at": "2026-11-05T06:29:12+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "호주 원주민 예술가들, 인공지능의 창의성 착취 비난"
+  },
+  {
     "id": "c089bf75766049b9",
     "title": "iPhone enters a new era of artificial intelligence: 5 features in iOS 27 and how to use them",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYUd3VkZIeUlzdExZX0YyNmVVOXFXRXRJMm1JcTFXNGZOdUpiMlVRcDNLVEtwaVJzQ3hjbXpZdVRrQXFGN1VqS2F0RlhMZ0ZSVXdZUTl3blBkSThPT1F1S19sbTA0bTdVelhSOHM4X3JMU0tXWUFWLXAwMVZaSlhCRWlVZjItSXBpNUY5ejQzOU80YmlKTVZobzF4dDRFQjBmWmRBMXMxSmIzV2kweW9MNDNsZzljaDJIQ3ZhMzcwdmoyNzNPdURmbnJFc2gwNnpTM2x0U1BkZlJOZmxhUmFYR0pRT01uRWdUdm1z?oc=5",
@@ -10,6 +480,16 @@
     "title_ko": "iPhone이 인공지능 시대 진입: iOS 27의 5가지 기능과 사용 방법"
   },
   {
+    "id": "75d96baee5aa1c9d",
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5",
+    "source": "The Hacker News",
+    "published_at": "2026-11-05T04:31:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "OpenAI AI 파이프라인, 30시간 운영으로 Linux 루트 권한 상승 익스플로잇 948개 생성"
+  },
+  {
     "id": "99bc35d71287b48f",
     "title": "Kakao is entering the artificial intelligence (AI)-based advertising market. The plan is to expand d..",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wZVdySVpSazVWRmt0VmNGSndnd0lCOUFQaHZDcVZQWEVtNnZNZ1hCbHp5c2dSNVNvMnBYRk5WbktvV1FvblZzS2k1aw?oc=5",
@@ -18,6 +498,16 @@
     "category": "기타",
     "first_seen_at": "2026-11-05T05:41:33.658841+00:00",
     "title_ko": "Kakao, 인공지능(AI) 기반 광고 시장 진출 예정"
+  },
+  {
+    "id": "7e19dff57eabe3ff",
+    "title": "The \"Blue Wave\" Raises the Bar for Artificial Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hkNzBTbTljNnN0QXYzQmNfVVE4NWpKa3VPSWg0eEJUY3JCMmlNLTlScnRmOGRtR0ZZZ1dweGt4VklDX01ralZqVVIyMllrTnhQOTJNM1NXQjI1V2twWk5JQkktYUlvZFVyc2xTTTR0ZGRLSnBicEpyVjBEbjJKLUZUTWtOWWRSbmoxa0RkVlE2RGxyZWlZT2RCQVlfSkRy?oc=5",
+    "source": "富途牛牛",
+    "published_at": "2026-11-05T03:56:17+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-05T14:13:41.500473+00:00",
+    "title_ko": "'블루웨이브'가 인공지능의 기준을 높이다"
   },
   {
     "id": "28b98e4a84c3bf37",
