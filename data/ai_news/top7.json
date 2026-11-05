@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:21:53.271850+00:00",
+  "generated_at": "2026-11-05T05:41:46.622915+00:00",
   "method": "llm",
   "items": [
     {
@@ -12,6 +12,15 @@
       "first_seen_at": "2026-11-04T23:21:28.794025+00:00"
     },
     {
+      "title_ko": "OpenAI, 개발자 도구 회사 Pierre 인수로 Codex 기능 확대",
+      "title_en": "OpenAI to acquire developer tools firm Pierre to expand Codex capabilities",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNbjlQX2VDVDVidXZiZjdzT0VvOENQWUxaMW1vX25BYVI4MkZ2alhKdURnRzNHMWtuZjZESVJWc2hzOUt5VzFCUHZycnl2TE1MZXZYS1JnQmJUTmZqcTJTZnByVVYzT2VnZTREMlc1SHJZN0JfQkwwMXFNdzd5NU8yQnRxUk02ZWQ2WVY3WWdmYkY0MldSNEVlYzhTV0ZMTExESk5jMjlxYlk4dkVCejZVSW4wUDJOOGxweDM2eml6anZxVDBaY0pKQ1E5WnZSRzFhSkpHVXQyYlhZdkZ2V0lWMFpKRzFOOXRUQ2o4Tk05alU5SVRyTU9KS0pjSURFYnRtbVRzUklweU1ObVJZNDZlRS02cTY0RXJCMXlCdW1ya2hHUVJfeFJfaXlJcHpteS1yTUHSAe8BQVVfeXFMUGtITlNGUmhyTURVYU5oMmtXLWlhYkhTMklFMnNQOW5HMTd0Rjh0SDNmRjRxZy1TN2FLQTljLS1hWGdvZ2pSTmVweDRHSFRpNXQtY2Npd2NhdHJqNEZDVENaakVrUTk4Q3ZZblBub21BdlRNME1tc1Q0M0VnNUdWa3E5UE8zZVE4OXhIQTRKZkZDMXdYdFNRRHZEa0FzVDFvbkp3UmVjbGc2V1N4V0ZOYVFGS1RMZDc1MHdvNTVjUC1Oc0JTTGxDTlZkLWFsR0ZNMU5JNzVudXFPWE1OTWFqSjZBYmJVWkRHRUU2cFc2LUE?oc=5",
+      "source": "ET CIO",
+      "published_at": "2026-11-05T03:01:13+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-05T05:41:33.658841+00:00"
+    },
+    {
       "title_ko": "Meta, AI 코딩 스타트업 Conductor 인수",
       "title_en": "Meta acquires AI coding startup Conductor",
       "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
@@ -21,16 +30,16 @@
       "first_seen_at": "2026-11-04T23:21:28.794025+00:00"
     },
     {
-      "title_ko": "AI 데이터센터 건설 붐의 중심지였던 텍사스, 계획 축소 위기",
-      "title_en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "published_at": "2026-11-04T18:50:55+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-04T23:21:28.794025+00:00"
+      "title_ko": "CrowdStrike, 폭주하는 AI 에이전트를 즉시 차단하는 킬 스위치 출시",
+      "title_en": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmsxR1FYWlNubkpfbXhSNmZDcmlhWjBWb3ZETDRnOVd2VWp4bU11Rmg0Rnc4b2hnLUF5WEJtWE0tT0EwdGswZE54ODhRWl9EYWYzLW93S2ZhVDFOTWRXSFg5WWN4TS1IdGJ3YnNMb2JEdDU2cnlkb2JPVl9HcnNJdUNkLU9BaXdFWkxDMkRYNXBqSnBQNGlDd1gwQW5uZzhvLWJsTnZaR3otbEZSVUxjamNUdlhKN0poblR30gG7AUFVX3lxTE1OazFHUVhaU25uSl9teFI2ZkNyaWFaMFZvdkRMNGc5V3ZVanhtTXVGaDRGdzhvaGctQXlYQm1YTS1PQTB0azBkTng4OFFaX0RhZjMtb3dLZmFUMU5NZFdIWDlZY3hNLUh0Yndic0xvYkR0NTZyeWRvYk9WX0dyc0l1Q2QtT0Fpd0VaTEMyRFg1cGpKcFA0aUN3WDBBbm5nOG8tYmxOdlpHei1sRlJVTGNqY1R2WEo3SmhuVHc?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-03T23:37:07+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
     },
     {
-      "title_ko": "구글, AI 도구 거부 학교에 검색 접근 차단 계획으로 강한 반발 촉발",
+      "title_ko": "Google, AI 도구 거부 학교 검색 서비스 차단 계획으로 논란",
       "title_en": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
       "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
       "source": "TechCrunch",
@@ -39,31 +48,22 @@
       "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
     },
     {
-      "title_ko": "CrowdStrike, AI 보안 강화를 위해 Fiddler·Dreadnode 인수",
-      "title_en": "CrowdStrike to acquire Fiddler, Dreadnode to extend AI security across agent lifecycle",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDN1U09KS1BBSHFRRG01QnlCT0RMdnlQQnNCX3hZVF9VdG43VE1ZM0NFX0JJZ3dNb2Izd1NTSWcxTWxUaGRtYXZfZGtUVTZ5bzFMaEVSTFZLS2tNaGhGakowYVZKSmNNdWgwbmtVSGhCY1k5N3dYWE9RRnBNM2M2dTVjSThpLWFaa3oxM25fVFMxeV9nMkxsRXg5c1BqRVZnMjBSSDJXS1VDNjNmLVlpZXUxQnU5LXEyVFZqamlyUGFQdjRPc0Z1X21Sa2o?oc=5",
-      "source": "CSO Online",
-      "published_at": "2026-11-04T11:34:40+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-04T17:02:32.047518+00:00"
-    },
-    {
-      "title_ko": "CrowdStrike, 폭주하는 AI 에이전트를 즉시 중단시키는 킬스위치 기능 출시",
-      "title_en": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTmsxR1FYWlNubkpfbXhSNmZDcmlhWjBWb3ZETDRnOVd2VWp4bU11Rmg0Rnc4b2hnLUF5WEJtWE0tT0EwdGswZE54ODhRWl9EYWYzLW93S2ZhVDFOTWRXSFg5WWN4TS1IdGJ3YnNMb2JEdDU2cnlkb2JPVl9HcnNJdUNkLU9BaXdFWkxDMkRYNXBqSnBQNGlDd1gwQW5uZzhvLWJsTnZaR3otbEZSVUxjamNUdlhKN0poblR30gG7AUFVX3lxTE1OazFHUVhaU25uSl9teFI2ZkNyaWFaMFZvdkRMNGc5V3ZVanhtTXVGaDRGdzhvaGctQXlYQm1YTS1PQTB0azBkTng4OFFaX0RhZjMtb3dLZmFUMU5NZFdIWDlZY3hNLUh0Yndic0xvYkR0NTZyeWRvYk9WX0dyc0l1Q2QtT0Fpd0VaTEMyRFg1cGpKcFA0aUN3WDBBbm5nOG8tYmxOdlpHei1sRlJVTGNqY1R2WEo3SmhuVHc?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-03T23:37:07+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
-    },
-    {
-      "title_ko": "AMD 실적 전망 상향으로 AI 지출 우려 완화, 데이터센터 판매 급증",
+      "title_ko": "보안 위협으로 부상한 '소버린 AI 에이전트', 각국의 규제 경고",
       "title_en": "AMD forecast eases AI spending fears as data-center sales surge",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
       "source": "Reuters",
       "published_at": "2026-11-03T21:18:00+00:00",
-      "category": "기업·투자",
+      "category": "보안",
       "first_seen_at": "2026-11-04T01:58:25.446972+00:00"
+    },
+    {
+      "title_ko": "Anthropic, AP와 첫 라이선싱 계약 체결...선거 보도용",
+      "title_en": "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWDRDT0pHemRFaFNQWnlJaUR2NU9VdjV1bmllSGMxR0NFWFJLMU9fUm1hU28yUzBZdURGOVFUQ1RscGptV3lDdmJGT1JySWtrUWVUNmdsRHQwdi0wWEhyLUFPZDFiOEZDV2hKaGNad3hxTTNw?oc=5",
+      "source": "ADWEEK",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-05T05:41:33.658841+00:00"
     }
   ]
 }
