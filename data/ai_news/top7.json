@@ -1,18 +1,54 @@
 {
-  "generated_at": "2026-11-05T21:21:59.278476+00:00",
+  "generated_at": "2026-11-06T02:02:30.846176+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI 프레지던트 \"2027년 기업공개 준비 가능\" 발표",
-      "title_en": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-05T18:02:27+00:00",
+      "title_ko": "OpenAI, 2027년 IPO 앞두고 JPMorgan과 파트너십 체결",
+      "title_en": "OpenAI Forms JPMorgan Partnership Ahead of 2027 IPO",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkYtQkxRaHV3Rm9PMjA4X0h2UkNCV2VqSmFQMmtlZEwxMkNNZFI4b3otWGtTUE9CV2dyVjBPcFNTb1Ric1lidm1fLUd4UjRfQlBMU1daNFFvZmRNamRrVGNONi1uUDZWbXVDeFh6WWgwM0hzZUhtRkpuRmhma1RmalFZYmpOWndVbVREaUk0X3ZHMWVZelVtNU1nYVhNbm9xYTREVXNEYlQtaTd4T3c?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-11-06T00:51:57+00:00",
       "category": "기업·투자",
+      "first_seen_at": "2026-11-06T02:02:08.990973+00:00"
+    },
+    {
+      "title_ko": "주요 투자자들, Anthropic의 1.5조 달러 기업가치 평가에 회의적",
+      "title_en": "Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVlmZWpuTHFFVDktVG9OaXlnVl9xSFliZFl4YXFRemVUZDFRRFFaajdEcnQ0b01sQTNJNDVDUkRaQXpLdEY3dGhVUjloVS16UHZIQ0cwUG5wQnpxaDcyX3lvX3A0VFZTb0xjMFBObUJKR3N5cVU2WFhqNzRMcEtjN09HQ3VKcnNIcy15V3VJUTdFRkk1OXhQYlNjMFpELUV0Y2o1MnNNa2dPd3lSN3JJdGM2Z0wzdw?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-05T23:17:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-06T02:02:08.990973+00:00"
+    },
+    {
+      "title_ko": "미국 중간선거 이후 AI 둔화 우려로 주요 기술주 급락",
+      "title_en": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-05T22:13:38+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-06T02:02:08.990973+00:00"
+    },
+    {
+      "title_ko": "민주당 지도자들, 중간선거 승리 후 AI 데이터센터 모라토리엄 촉구",
+      "title_en": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-05T20:16:52+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-06T02:02:08.990973+00:00"
+    },
+    {
+      "title_ko": "OpenAI의 AI, 48시간 내 Linux 보안 결함 948개 발견·패치",
+      "title_en": "OpenAI says its AI pipeline found, patched 948 Linux security flaws in hours",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnNRWDh1WWg5Sjg5WnItMnpCUWdTeGFxUDRoMklhTXV6OGJzRHh1VmZVNXJTQU95NjI1Y1ZUZlBtOWNQOXdaODBPM1doV1B4V1hYejF3VUZwQzFmcDAzMXdvTDlnMElUbzBXOENxWHVnVTJQQ3FlU2w2MEVQYnlIV3Z0YnYyQ1dvNnJNc04wcFBFbWNTOU1qOXE5eURhQkNYU0pUcWthcWNHTVBHZU9OUXJ2RnRwcVI5SkJlNVdQTjhlRVBaYmVWa2d6R2h1ZFHSAdYBQVVfeXFMTlpQUXl2NHJlelpVZy1Iekw0ZFJjNi1aaldXdUU2bldPZnRGenpBU1F2VzBEOTlQVnRGdXlmSm5wUjUtTGh6VzBtNGR4WUFZa3dHQ0Y3SGxrbUxob2x4bFlqSHlhZTJZMDZ3NDh6dmdGMXVPVHVzX3FnWGsyX20xWHVsTndiYkVSZ2JMY2NHb0xTQlFNZ2tHU0xEdFo3ZFp1ejdsUTNFaVNWRlN1bWZLeHNEdGo4dmZuRGxtU3lFWXlXR2ltTGoxeS1lOW0wdmxoOXlBYy1ndw?oc=5",
+      "source": "The Indian Express",
+      "published_at": "2026-11-05T18:38:00+00:00",
+      "category": "보안",
       "first_seen_at": "2026-11-05T21:21:23.901504+00:00"
     },
     {
-      "title_ko": "Dropbox, AI 인프라 강화를 위해 Tigris Data를 3억 5천만 달러에 인수",
+      "title_ko": "Dropbox, AI 인프라 강화 위해 3억 5천만 달러에 Tigris Data 인수",
       "title_en": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
       "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
       "source": "TechCrunch",
@@ -21,49 +57,13 @@
       "first_seen_at": "2026-11-05T21:21:23.901504+00:00"
     },
     {
-      "title_ko": "DeepSeek, 텐센트로부터 1억 위안 투자 유치",
-      "title_en": "Hangzhou DeepSeek Artificial Intelligence Co., Ltd. announced that it has received CNY 100 million in funding from Tencent Holdings Limited, Contemporary Amperex Technology Co., Limited",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY2R3OWJQdGJMSE50UV9ibTYtVHR5VG95cURVZ1pzZjFJb1JBRkZObTlYczZvbU1tQ0RYYnhvQXFCaWF2bmNlcjhfb1IwZTV6dzBCMzVlX2t0RFAxekJoX21lS1oxa20wZ2xuaGFRbXQzQU1VWUY4MzBxMGN5RmxHRWtJMUIzaGw5N1FxN2dJRTE1bDZJVDB0MHFPYUpYTkl6ZGpYUjhKTXVyWjRTZHhSTkhldldlUXJGajRVSGpsUTAxU0J2RDQwYjY5bDJ5RUFxVUhGZG40S2htWWxWcTNEbk05WGg?oc=5",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-11-05T13:25:41+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-05T14:13:41.500473+00:00"
-    },
-    {
-      "title_ko": "로봇 기업 Agility Robotics, 나스닥 첫 상장 - 휴머노이드 로봇 시장 본격화",
+      "title_ko": "Agility Robotics, 순수 휴머노이드 로봇 기업으로 나스닥 상장",
       "title_en": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
       "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
       "source": "Ars Technica",
       "published_at": "2026-11-05T12:00:41+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-11-05T14:13:41.500473+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 중간선거 여론 반발에 데이터 센터 정책 전면 개편 - NDA 폐지 약속",
-      "title_en": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-05T10:00:01+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-05T14:13:41.500473+00:00"
-    },
-    {
-      "title_ko": "ARM 홀딩스, AI 수요 견인으로 3분기 매출 27% 증가",
-      "title_en": "Arm Holdings Sales Climb 27% on AI Demand",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-04T21:23:01+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-04T23:21:28.794025+00:00"
-    },
-    {
-      "title_ko": "OpenAI 사이버보안 AI 모델, 리눅스 보안 결함 948개를 수 시간 내 발견·패치",
-      "title_en": "OpenAI says its AI pipeline found, patched 948 Linux security flaws in hours",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnNRWDh1WWg5Sjg5WnItMnpCUWdTeGFxUDRoMklhTXV6OGJzRHh1VmZVNXJTQU95NjI1Y1ZUZlBtOWNQOXdaODBPM1doV1B4V1hYejF3VUZwQzFmcDAzMXdvTDlnMElUbzBXOENxWHVnVTJQQ3FlU2w2MEVQYnlIV3Z0YnYyQ1dvNnJNc04wcFBFbWNTOU1qOXE5eURhQkNYU0pUcWthcWNHTVBHZU9OUXJ2RnRwcVI5SkJlNVdQTjhlRVBaYmVWa2d6R2h1ZFHSAdYBQVVfeXFMTlpQUXl2NHJlelpVZy1Iekw0ZFJjNi1aaldXdUU2bldPZnRGenpBU1F2VzBEOTlQVnRGdXlmSm5wUjUtTGh6VzBtNGR4WUFZa3dHQ0Y3SGxrbUxob2x4bFlqSHlhZTJZMDZ3NDh6dmdGMXVPVHVzX3FnWGsyX20xWHVsTndiYkVSZ2JMY2NHb0xTQlFNZ2tHU0xEdFo3ZFp1ejdsUTNFaVNWRlN1bWZLeHNEdGo4dmZuRGxtU3lFWXlXR2ltTGoxeS1lOW0wdmxoOXlBYy1ndw?oc=5",
-      "source": "The Indian Express",
-      "published_at": "2026-11-05T18:38:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-05T21:21:23.901504+00:00"
     }
   ]
 }
