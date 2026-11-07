@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-11-06T22:50:22.677240+00:00",
+  "generated_at": "2026-11-07T02:35:56.394773+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic 투자자들, IPO 밸류에이션 1.5조 달러는 '과다'라며 하향 조정 요구",
+      "title_ko": "오픈AI 기업가치 1.25조 달러로 평가, 경쟁사 앤스로픽은 IPO 임박",
+      "title_en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "published_at": "2026-11-06T23:46:18+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-07T02:35:43.675871+00:00"
+    },
+    {
+      "title_ko": "앤스로픽 저평가 우려, 투자자들이 1.5조 달러 목표치를 '과도하다'고 평가",
       "title_en": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2xnRmphZ1JWMGh1OHplODE3ek1GTHFoLXBkNkY2RVlDM2NVRHJBdzBsYlNVMFlJSWdXMVpBMkV5TFRMbUxSaGsyVmN4T0pKSGhiYnhKWkg5Q1ZkZEVmUE9RVUhXTlJWSFAtOE4yM0JCbG5PdGVIbnE4VURQam9RNWcyNHFrZUFZdkdCNzlGbzJuRzhYYjBDb0JPSk91cUhlWnRaemVR?oc=5",
       "source": "CNBC",
@@ -12,7 +21,16 @@
       "first_seen_at": "2026-11-06T22:50:08.077382+00:00"
     },
     {
-      "title_ko": "OpenAI CFO, 중간선거 결과에도 불구하고 AI 데이터센터 투자 계속할 것",
+      "title_ko": "오픈AI의 GPT-6 사이버 AI, 파이어폭스 보안 결함 81개와 리눅스 버그 948개 발견",
+      "title_en": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtVdXFGeWRka1lWSlphWF92UlhuTl95MFBpUTFwOWhrTnhlRzZqdzd1Rm5jUGF2bzJoTEl1MndGQ1Z3QmZfQW5LMnVLanZyazhQLXJreVNqdFRsU2tZX3JlSGo0bENVUGxrZ08xdmhMSm5FU2VCNDA1QVJlaVhGQlJKZTcxZWc2TlpTc2JvcWlSRnlvdDFPMkx4eWlSb1lLUU9kd0VrdWpRT3VGSjhxWVB3?oc=5",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T20:24:19+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-06T22:50:08.077382+00:00"
+    },
+    {
+      "title_ko": "오픈AI CFO, 선거 결과에도 불구하고 AI 데이터센터 투자 계속할 것이라고 CNBC에 밝혀",
       "title_en": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq0gF6QVVfeXFMUEZaU3cwQVBvMmNCQmROc3lERDZDVHNUNXZHYVlxREdrRlZHYWwtVVV3NW5USzNoaXJXdldxejRWSUI5RklJMVlwRlBXZlRjdGg0cnlhUld3ZzVycGdOZ1o0Uk1Ja3ROV3JwMGxsQzhGa2FUbzFYa1p4aXc?oc=5",
       "source": "CNBC",
@@ -21,25 +39,16 @@
       "first_seen_at": "2026-11-06T17:50:15.939564+00:00"
     },
     {
-      "title_ko": "OpenAI GPT-6 Cyber 출시, Firefox 81개 결함과 Linux 948개 버그 발견",
-      "title_en": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
-      "source": "The Hacker News",
-      "published_at": "2026-11-06T14:58:00+00:00",
+      "title_ko": "테슬라, AI 가속기 로드맵 공개, '슈퍼인텔리전스' 브랜딩 도입 SI6는 연산 성능 80배 향상 예정",
+      "title_en": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push — SI6 to bring 80X more compute performance, Dojo 3 headed to space",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTkJZQjN5TXB2VWgyeXJIWEdUNkJLVUlDWlBEQm5ROGlKMV9KNU0yZlVNZkJYOXdQTklWem91c2pfNjdKWkJsMVlISDZLVGw5WUhtOVloYWpBTERteGlUU1pHSlRZM29pd0hRMDBQRExLVGF5NTZZNFRWSVlGYnN5aF83MUp1WXBPYl9DQlVXR0JfTkw2ZU5nckpDN0h5WmVMOWxnR3BidElPMldMTDNfd2NROHhHRWFoWWsyMzVFeFFpaG55VV9CQUtIdzh2SmlJMWpqWUtvaGVzVGZITTRZalJkVGFBd1hnVEswUDdvN1IyZ0ZnSWVZaWNXVEpHZnRJVXVzTzVOeUF1S1JZTVI2WXFfMzB0Tk1kcmZraEhJT1NXN2RtTWY0LVZiY0JZMjRzaVc4RHhiN0dveU1BLTZV?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-11-06T12:00:00+00:00",
       "category": "제품·출시",
       "first_seen_at": "2026-11-06T17:50:15.939564+00:00"
     },
     {
-      "title_ko": "민주당의 압도적 중간선거 승리로 AI 산업 '대혼란'... 월스트리트 흔들린다",
-      "title_en": "‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGg1V00tZTJORndpUWZOcGY4cThWaW1qSHhDa0pFZ2ZXbDJ5cm9lYXNaeWZOcG96UkNla3FuY2dzN2Q4bDB0aFFZcW5DNU9MOFR1Qy1hM25BaE9DUFVmQU5wZXRjTlR6Tldydmk1UWhTand1V2xiVmxRNU1lOGZFckVrYm4yWk94a09J?oc=5",
-      "source": "Politico",
-      "published_at": "2026-11-06T10:00:00+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-06T10:30:42.842204+00:00"
-    },
-    {
-      "title_ko": "팔로알토 네트웍스, AI 에이전트 보안 스타트업 Clutch를 5억 달러에 인수 협상 중",
+      "title_ko": "팔로알토 네트웍스, AI 에이전트 보안 스타트업 클러치 5억 달러에 인수 협상 중",
       "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch",
@@ -48,20 +57,11 @@
       "first_seen_at": "2026-11-06T10:30:42.842204+00:00"
     },
     {
-      "title_ko": "OpenAI, 2027년 IPO 앞두고 JPMorgan과 전략적 파트너십 체결",
-      "title_en": "OpenAI Forms JPMorgan Partnership Ahead of 2027 IPO",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkYtQkxRaHV3Rm9PMjA4X0h2UkNCV2VqSmFQMmtlZEwxMkNNZFI4b3otWGtTUE9CV2dyVjBPcFNTb1Ric1lidm1fLUd4UjRfQlBMU1daNFFvZmRNamRrVGNONi1uUDZWbXVDeFh6WWgwM0hzZUhtRkpuRmhma1RmalFZYmpOWndVbVREaUk0X3ZHMWVZelVtNU1nYVhNbm9xYTREVXNEYlQtaTd4T3c?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-11-06T00:51:57+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-06T02:02:08.990973+00:00"
-    },
-    {
-      "title_ko": "민주당 상위 인사들, 중간선거 승리 후 AI 데이터센터 국가 모라토리엄 촉구",
-      "title_en": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhWkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-05T20:16:52+00:00",
+      "title_ko": "미 법무부, 새로운 슈퍼인텔리전스 태스크포스를 통해 AI 역량 결합",
+      "title_en": "US DOJ combines AI efforts with new Super Intelligence Task Force",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTNZRnR6UWNDOHBCVHo5S3d3SG5wdlItLVhoZEN3UE45ZUZLcW1CdWJrVmZwUUxQZzVhU2RxU3dyeWs1Zk1tdlplQ29oakUtTVJkNXVQNS04QnJwMVRLMXM3cXRYY1duZU9JbTlranhnZVltbS1wVWhlN1BhYk13bUlnMHlEWDUyaE5NdmFBa2FrcFNPVkIzQmduSmkxNlVpUUlULV81N1d4cVplWHVLaWFUTlBSWVhMZmd5dGRuejEtLUVYMEgwS29UYmnSAVpBVV95cUxOWDFubFJUam54a3F3bnR0Q0hEcUVYNm9QRUkyd1hjZzJVZFhFTU5zaFBqejZBNVI4UlppZjNhOVRZTHhBa2VveWJjcUlpYWpPYV9JVWE1R0ZUMXc?oc=5",
+      "source": "MLex",
+      "published_at": "2026-11-05T22:04:13+00:00",
       "category": "정책·규제",
       "first_seen_at": "2026-11-06T02:02:08.990973+00:00"
     }
