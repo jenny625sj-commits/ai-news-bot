@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T00:15:33.286094+00:00",
+  "generated_at": "2026-11-08T06:58:45.502944+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "오픈AI, 110억 달러 추가 자금 조달로 1.25조 달러 기업가치 달성",
+      "title_ko": "OpenAI, 110억 달러 추가 펀딩으로 1.25조 달러 기업가치 달성",
       "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "source": "TechCrunch",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-11-07T02:35:43.675871+00:00"
     },
     {
-      "title_ko": "중간선거 이후 AI 반발에 직면한 Anthropic IPO 계획 흔들림",
+      "title_ko": "Anthropic IPO, 중간선거 후 AI 데이터센터 반발 속에서 암초에 걸려",
       "title_en": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
       "source": "CNBC",
@@ -21,25 +21,16 @@
       "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
     },
     {
-      "title_ko": "AI 투자 우려로 글로벌 주식 시장 급락",
-      "title_en": "AI investment fears drive global stock sell-off",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONU5qTnlOOGpnLXF3Rm5KQWEtaTR3elh6ZnBxb3pNcjJGcHk4WmpsanpmTEpBN0pCZUFJVlNzZHlYb0RhQmVzWHZSMk0xeE52MGxGUFdORmNDN0NCejN5QTR6YnluSFpTYnNLZVB6VmZRekhZLVoxalZTRFhqb2daMDB0YkI5QkpvcVRZQlV6RE5RZw?oc=5",
-      "source": "Hürriyet Daily News",
-      "published_at": "2026-11-07T03:04:22+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-07T09:42:55.424315+00:00"
-    },
-    {
-      "title_ko": "미 정보 기관 \"엔비디아 CEO 젠슨 황 대상 중국 간첩 포격 작전\" 문서 공개",
-      "title_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-07T21:17:08+00:00",
+      "title_ko": "미국 정보기관, 엔비디아 CEO 젠슨 황을 노린 중국 첩보 작전 적발",
+      "title_en": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation — spy suspect linked to company accused of smuggling $2 billion in AI chips",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPOHM5bTRmeUdpQ0tPcjRZWWlvSlZLQkFfRS1CWFVsQXRoaVlPVFl4VjhoeDdpUGViYXZiRFAtYUVxMnhzSHVkV1E2eGtXcldZbTgyM2tCSUMxS2xnVnphYWZTZkdPY3NYMkhxVjR5OVdQc2ZVX2doOUkzN0FKaE9GZ0ZCWFNPWmc0dGF1bkdnRTJpeVd1bVZrYU11QVliUnNvOFMzS1V4RUw5WlpmVVpvUmg0LTFzX2twSjFtekdGVldTbjhCUmZzbi1RcVVneVN4dENaSzlxa0VUWkNMSWllOVlwZktWZ0xQa1dpYjFTaGR6UVhvNFNtTWJHSzJSbVpDS3Z0Tk5pMG5OTTZQN0w5cm02TVoySncyN1EwWFlRVThBYzlPbTJVUm1GRWJrbnEwR3lvTmRqaVpwODhwRW5aSGNCSE1pd2hyWGFkc1FZMjM0VXFsRjBRU2hZeFBmX2lDanRF?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-11-07T14:47:37+00:00",
       "category": "보안",
-      "first_seen_at": "2026-11-08T00:15:22.460221+00:00"
+      "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
     },
     {
-      "title_ko": "AI 데이터센터, 중간선거에서 주민 반발 직면... 테크 대기업에 비상",
+      "title_ko": "중간선거서 AI 데이터센터 반발 커져, 빅테크 기업들 구조조정 임박",
       "title_en": "AI data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3NGMHFJQlQwNk4yNzFPblZsOHRFS0FBcmc0b3JxbGRoSnUzUC00WGctejhmNllYa094VGFmMHJrSWYyaUhBRlFERkdKbktXSmRkcWhhc21JVUp5Z29kbFVtTE11YjZnc3ZkZU5jM3BvbmRqUVVyUDBveF9OTmJXd1poLVI1LVhlRUVfUjhzczh2b2t3cnZuTUc4UDExWXFmVWlQZ2R4MHVQaGllbnljdlR2UQ?oc=5",
       "source": "AP News",
@@ -48,22 +39,31 @@
       "first_seen_at": "2026-11-06T22:50:08.077382+00:00"
     },
     {
-      "title_ko": "AI가 사이버보안 업계를 뒤흔들다, 다음은?",
+      "title_ko": "OpenAI, GPT-6 사이버 보안 AI로 파이어폭스 81개, 리눅스 948개 취약점 발견",
+      "title_en": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtVdXFGeWRka1lWSlphWF92UlhuTl95MFBpUTFwOWhrTnhlRzZqdzd1Rm5jUGF2bzJoTEl1MndGQ1Z3QmZfQW5LMnVLanZyazhQLXJreVNqdFRsU2tZX3JlSGo0bENVUGxrZ08xdmhMSm5FU2VCNDA1QVJlaVhGQlJKZTcxZWc2TlpTc2JvcWlSRnlvdDFPMkx4eWlSb1lLUU9kd0VrdWpRT3VGSjhxWVB3?oc=5",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T20:24:19+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-06T22:50:08.077382+00:00"
+    },
+    {
+      "title_ko": "AI가 사이버보안 업계를 뒤흔들다, 전문가들 '다음 단계' 고민",
       "title_en": "AI broke the cybersecurity world. What’s next?",
       "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
       "source": "The Verge",
       "published_at": "2026-11-07T05:43:11+00:00",
-      "category": "보안",
+      "category": "연구·기술",
       "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
     },
     {
-      "title_ko": "테슬라, AI 가속기 로드맵 공개... SI6는 기존 대비 80배 연산 성능 제공",
-      "title_en": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push — SI6 to bring 80X more compute performance, Dojo 3 headed to space",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTkJZQjN5TXB2VWgyeXJIWEdUNkJLVUlDWlBEQm5ROGlKMV9KNU0yZlVNZkJYOXdQTklWem91c2pfNjdKWkJsMVlISDZLVGw5WUhtOVloYWpBTERteGlUU1pHSlRZM29pd0hRMDBQRExLVGF5NTZZNFRWSVlGYnN5aF83MUp1WXBPYl9DQlVXR0JfTkw2ZU5nckpDN0h5WmVMOWxnR3BidElPMldMTDNfd2NROHhHRWFoWWsyMzVFeFFpaG55VV9CQUtIdzh2SmlJMWpqWUtvaGVzVGZITTRZalJkVGFBd1hnVEswUDdvN1IyZ0ZnSWVZaWNXVEpHZnRJVXVzTzVOeUF1S1JZTVI2WXFfMzB0Tk1kcmZraEhJT1NXN2RtTWY0LVZiY0JZMjRzaVc4RHhiN0dveU1BLTZV?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-11-06T12:00:00+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-06T17:50:15.939564+00:00"
+      "title_ko": "아람코, 인공지능 발전을 위해 휴메인에 26억 달러 투자",
+      "title_en": "Aramco will invest $2.6 billion in Humain to promote AI",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSMm1BN18tOUJOTjdjQTNqazlrdWVvSmZkamp0OTVIeXhlZWxOV1NoVzFsbUJJZ0tSeVZnVjZGVTlJd0NOUnU0b2VOU2ZmWmxUX3Z4cjhvcUVUQXA1RGR5Q0I3UV93bTA1Z0dTRkZnMEdtZWV0?oc=5",
+      "source": "Inspenet",
+      "published_at": "2026-11-07T14:00:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-07T20:42:40.633160+00:00"
     }
   ]
 }
