@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T06:58:45.502944+00:00",
+  "generated_at": "2026-11-08T14:14:19.206328+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI, 110억 달러 추가 펀딩으로 1.25조 달러 기업가치 달성",
+      "title_ko": "OpenAI, 110억 달러 추가 투자로 1.25조 달러 기업가치 달성",
       "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "source": "TechCrunch",
@@ -12,25 +12,16 @@
       "first_seen_at": "2026-11-07T02:35:43.675871+00:00"
     },
     {
-      "title_ko": "Anthropic IPO, 중간선거 후 AI 데이터센터 반발 속에서 암초에 걸려",
-      "title_en": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-07T13:00:01+00:00",
+      "title_ko": "Anthropic IPO 임박, OpenAI와의 AI 업계 리더십 경쟁 심화",
+      "title_en": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "published_at": "2026-11-06T23:46:18+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
+      "first_seen_at": "2026-11-07T02:35:43.675871+00:00"
     },
     {
-      "title_ko": "미국 정보기관, 엔비디아 CEO 젠슨 황을 노린 중국 첩보 작전 적발",
-      "title_en": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation — spy suspect linked to company accused of smuggling $2 billion in AI chips",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPOHM5bTRmeUdpQ0tPcjRZWWlvSlZLQkFfRS1CWFVsQXRoaVlPVFl4VjhoeDdpUGViYXZiRFAtYUVxMnhzSHVkV1E2eGtXcldZbTgyM2tCSUMxS2xnVnphYWZTZkdPY3NYMkhxVjR5OVdQc2ZVX2doOUkzN0FKaE9GZ0ZCWFNPWmc0dGF1bkdnRTJpeVd1bVZrYU11QVliUnNvOFMzS1V4RUw5WlpmVVpvUmg0LTFzX2twSjFtekdGVldTbjhCUmZzbi1RcVVneVN4dENaSzlxa0VUWkNMSWllOVlwZktWZ0xQa1dpYjFTaGR6UVhvNFNtTWJHSzJSbVpDS3Z0Tk5pMG5OTTZQN0w5cm02TVoySncyN1EwWFlRVThBYzlPbTJVUm1GRWJrbnEwR3lvTmRqaVpwODhwRW5aSGNCSE1pd2hyWGFkc1FZMjM0VXFsRjBRU2hZeFBmX2lDanRF?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-11-07T14:47:37+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
-    },
-    {
-      "title_ko": "중간선거서 AI 데이터센터 반발 커져, 빅테크 기업들 구조조정 임박",
+      "title_ko": "중간선거 후 AI 데이터센터 규제 강화, 빅테크 기업들에 시험대",
       "title_en": "AI data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3NGMHFJQlQwNk4yNzFPblZsOHRFS0FBcmc0b3JxbGRoSnUzUC00WGctejhmNllYa094VGFmMHJrSWYyaUhBRlFERkdKbktXSmRkcWhhc21JVUp5Z29kbFVtTE11YjZnc3ZkZU5jM3BvbmRqUVVyUDBveF9OTmJXd1poLVI1LVhlRUVfUjhzczh2b2t3cnZuTUc4UDExWXFmVWlQZ2R4MHVQaGllbnljdlR2UQ?oc=5",
       "source": "AP News",
@@ -39,31 +30,40 @@
       "first_seen_at": "2026-11-06T22:50:08.077382+00:00"
     },
     {
-      "title_ko": "OpenAI, GPT-6 사이버 보안 AI로 파이어폭스 81개, 리눅스 948개 취약점 발견",
-      "title_en": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtVdXFGeWRka1lWSlphWF92UlhuTl95MFBpUTFwOWhrTnhlRzZqdzd1Rm5jUGF2bzJoTEl1MndGQ1Z3QmZfQW5LMnVLanZyazhQLXJreVNqdFRsU2tZX3JlSGo0bENVUGxrZ08xdmhMSm5FU2VCNDA1QVJlaVhGQlJKZTcxZWc2TlpTc2JvcWlSRnlvdDFPMkx4eWlSb1lLUU9kd0VrdWpRT3VGSjhxWVB3?oc=5",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-06T20:24:19+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-06T22:50:08.077382+00:00"
+      "title_ko": "기업들, AI 비용 급증으로 예산 압박 가중…산업 전반에 경고음",
+      "title_en": "Enterprises face a reckoning in their AI costs as budgets come under strain",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN1ItNjNqM2ZXUkw2a0hDN0xScEhJMUVDV2lzQk1Ba1lKa1l3RTNfN0tocHN6VDRjZkItS3JZYXh4bW0wN0YzdnM2LTR0eUlsVTFCaWc5LWF5Q2hnQmtJSFNoTGFmblRobkVBUmlKWVJFUjRxaG5nOE8zcXg2RkpPcXJqUHNOM3NzYk42eS13S09obXhnREEtUlZON1dnQnBUUzFUNzhxXy1aaDF3aEhucWVxYzdsTHc5ZkMyMENlNTdkRkxoeHh2RFhvVFZ1REpMRDhWYzNMeGhfVmY2T2JmUF9fN05waEZDVzJiQ3huRTgxOF9Pb0ZV0gH8AUFVX3lxTE9fazVYZTB6QmIyd2FlNms4MzFSWmZQWnRZVVZ6OGZyQ2Z2MHNHOVF4NE9DSHE4WDJsZWtUWnRfU0c5TkpuWkFsYXhkcnZLdDJ3RzVOVUxhb2E3Rk1zMDNaTklUWDFYeDNhcEFTUTZvbDdzaDA0Z2FxSVhlRjZRMDBFd2podk5pQWJBTW5LYnBvdHZUN05veXlFWGVKZUlhRFVHcWZISjYwOXExR2FIcDc0OG9JcU94V0g1VGlYQ1RkRldZZEo0b3FmUDZvSWE0MlJoaWxvdnhhb3hTRlJpWWRYbDV0Rm5EM3hhVk1sQXN1cEk4VG9OY1NSSGsyUQ?oc=5",
+      "source": "Business Standard",
+      "published_at": "2026-11-08T12:26:16+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-08T14:14:03.523505+00:00"
     },
     {
-      "title_ko": "AI가 사이버보안 업계를 뒤흔들다, 전문가들 '다음 단계' 고민",
+      "title_ko": "Anthropic의 AI 개발 자동화 계획, 연구자들 사이에서 우려 커져",
+      "title_en": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "published_at": "2026-11-06T21:48:06+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
+    },
+    {
+      "title_ko": "AI 안전 옹호 진영, 1.1억 달러 투입으로 중간선거에서 승리 거두다",
+      "title_en": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkJhRnFjblNCalFSTllsR19sT1RDWC1ZRE50MlBJTlFYQzJhYmRTa1E0RGxxNExfamVvZDdVZUtsYVYwTUFIME90OS16V1FFb0xYTlotTDR4V3VUdVFWdjVmMGI2eVA0Zm1KbDJBUEZWRTFaMnpJZHFYdHZjUXlVcG12NzBJb2R5QUxkLUNKUW53QkFkMjc1OXlLc0V1d2NvcHJzTDRUczRDT1Z3TFhPWHdCaw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-07T14:30:00+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-08T14:14:03.523505+00:00"
+    },
+    {
+      "title_ko": "AI가 사이버보안 업계를 완전히 뒤흔들다…변화의 신호탄",
       "title_en": "AI broke the cybersecurity world. What’s next?",
       "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
       "source": "The Verge",
       "published_at": "2026-11-07T05:43:11+00:00",
       "category": "연구·기술",
       "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
-    },
-    {
-      "title_ko": "아람코, 인공지능 발전을 위해 휴메인에 26억 달러 투자",
-      "title_en": "Aramco will invest $2.6 billion in Humain to promote AI",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSMm1BN18tOUJOTjdjQTNqazlrdWVvSmZkamp0OTVIeXhlZWxOV1NoVzFsbUJJZ0tSeVZnVjZGVTlJd0NOUnU0b2VOU2ZmWmxUX3Z4cjhvcUVUQXA1RGR5Q0I3UV93bTA1Z0dTRkZnMEdtZWV0?oc=5",
-      "source": "Inspenet",
-      "published_at": "2026-11-07T14:00:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-07T20:42:40.633160+00:00"
     }
   ]
 }
