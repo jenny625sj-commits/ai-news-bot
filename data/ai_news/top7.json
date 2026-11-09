@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T05:12:25.592241+00:00",
+  "generated_at": "2026-11-09T15:32:22.842223+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI 기업가치 1.25조 달러 도달, 새로운 펀딩 라운드에서",
+      "title_ko": "OpenAI 기업가치 1.25조 달러 돌파, 새로운 펀딩 라운드 진행",
       "title_en": "OpenAI Valuation Hits $1.25 Trillion in New Funding Round",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0FRR1p0bktGRUNxcjdhcmRhdXN6MUlTWl83cnloMnlJMWxHbk0wV3dBVzVPWlZtWXl2ZzgwUm1HTGtHZ2NIbEc4Q1FxbWVvX2FKOUpSeFRkZlNjRFFOY1BwUzFSaHNISDBDeE1rUGZqSTQ1bWV6Tm1qbW9JM3V3TkxZTTg3aWJmdGUwMUJzbnVNbk1iODNlak9uTlFmY1lHRVJOenBrME8yYlFPcV9HSWdKUnc?oc=5",
       "source": "PYMNTS.com",
@@ -12,25 +12,34 @@
       "first_seen_at": "2026-11-09T05:12:01.432721+00:00"
     },
     {
-      "title_ko": "Anthropic IPO, 중간선거 이후 AI 데이터센터 반발 속에서 직면",
-      "title_en": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVFNKdFlSLTl6ZndHZTBvOFFta0JaelYzcldkc21kSVJiSHNOcDVBX19xTVY3clpiekZSWmpRbFdtaHdTbVo1d3lNNXJTa3FfQ2NiWHhJV3Vvb3hEekdfQnJDV2xQcU0wUFo4dnBiM050YnhVOVFfYXo4VW5PRWc?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-07T13:00:01+00:00",
+      "title_ko": "엔비디아 CEO 젠슨 황, 중국 첩보 관련 스캔들로 CEO 직위 위협",
+      "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-09T15:23:20+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
+      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
     },
     {
-      "title_ko": "전 OpenAI 리더 데이비드 로빈슨: \"안전 문제로 떠난 이유\"",
-      "title_en": "The Interview | David Robinson, former OpenAI leader: Why I quit over safety",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CX04zNE5BVVFoTzJIUVdZdHB3a0pHczBLdGYxNHFxMlFkaGF1WVA3TnZpX3Z2MnJmbFJfeXl3a3RiZEluSXVkN1pGYUt5aVVn?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-09T01:05:33+00:00",
-      "category": "기타",
-      "first_seen_at": "2026-11-09T05:12:01.432721+00:00"
+      "title_ko": "이스라엘, 30만 개 GPU로 자체 AI 인프라 구축 계획",
+      "title_en": "Israel plans to build its own AI infrastructure with 300,000 GPUs",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QR2h3QlB5UFd5MzRyV2R1aEZlc3pTZnVtVkROQ0RkWXZibFhQc21uczVoOElWOW5LYmwtdnVHWTZHc1ZzSUZremNObVVJSExpUXoxV2ROOVlrNTVIU1VrRjFZaDYtb2JT?oc=5",
+      "source": "CTech",
+      "published_at": "2026-11-09T08:57:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
     },
     {
-      "title_ko": "노벨상 수상자 힌튼: \"2027년까지 AI 체르노빌 사태 우려\"",
+      "title_ko": "앤스로픽 데이터센터 좌절, 한국 AI 인프라 붐에 균열 드러내",
+      "title_en": "Anthropic setback exposes cracks in South Korea’s AI data center boom",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RNGV4c25Ra3pMRDE4V3BfS29Xb29xazNmd0hBV0NlNUc1ZkRyOWJncmxrX1lheEY4eFU0U2FmQ2p4WW15bGxGeXpCbFBNUDRLVUQyeXdpNXhscUxzSFZKUy1Kam1ZRUwtY2U5U04yOVB1anRrbFdyQjFNTnp2WEE?oc=5",
+      "source": "KED Global",
+      "published_at": "2026-11-09T08:56:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
+    },
+    {
+      "title_ko": "노벨상 수상자 힌튼, \"2027년 AI 체르노빌 사태 우려\"",
       "title_en": "Nobel Prize winner Hinton: \"I fear an artificial intelligence Chernobyl by 2027.\" - L'Unione Sarda English",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMC0zQ1RGb1ZKaXhXYnFxbkRRcWFGaVNMWmVpa0xkcWRacVhUZkpzS3l1blZpZHAxTlhTY2ZvR0VSbS0xc0Y2WWdLWEdPVERKMEJlbm1VcExIb2NuRUFEakt5X0EyLWlCNlBDRFc1VTBIMWpoQlVCMk1rRUx3VEJZdEl1Z0I4dElmRXlPT2NUdzdoWmZKUy1aU19qYnBhOVRxT0NLUklpc18yVUdZc3hzeU5aSkRqV2tPdW9QT0dpR0ExUjTSAcsBQVVfeXFMUDU0eHVUYm54TGpTdTc4YzFDX1NJb1dTNWR4RDNHbUNwSElaMmVJZnN2THdmY0JkMTV0b1NualU3YS10anhmOXhyOU9VZVVpRmlHaGRKTHQ1dktrMlhIeF9kWkVDQlJvUUt1T2hqWGRtVlJmUS1PdTd2dENXZ2hRYUFYdXJTOGxIWVlHRVd1YWRFQmttZzRFMzZ3WTVMYUg4RzBKVzFQSmlEaHJiZXFNZDN5X0MxTVF6dUFsRldTTWJCRmNtdXZqWFNiaFU?oc=5",
       "source": "L'Unione Sarda.it",
@@ -39,31 +48,22 @@
       "first_seen_at": "2026-11-08T19:24:02.493553+00:00"
     },
     {
-      "title_ko": "Apple, Siri를 더욱 에이전트화하기 위해 경쟁 중",
-      "title_en": "Apple is racing to make Siri more agentic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "published_at": "2026-11-08T19:18:19+00:00",
-      "category": "제품·출시",
+      "title_ko": "중국 기업들 엔비디아 제재칩 구매 허가 받았으나 허위 사무실로 적발",
+      "title_en": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses — investigation reveals businesses have ties to sanctioned Chinese military suppliers",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxONjlUN25OeGR5Y3ZBZGFzYU5ZR3ExemVBSENRSzRwcUdDUXlIV3JTZEZUcHpMaGZtaktka3p1WUQxNGU3WTZmV1VuS3R3RUFyWW8xZGRhaTZxQTB5N2F1VnRPS1ljSHJrQl9QeWRzVjhuckZrMTlLQm91YjI5S2ZPb1E1TTl3ZzNGbHFrX091ODBjVWlSNkphb3dmMHZrRDRLRGxmZXlQNEQ2RDJjUVVXQlJjVGVNOW90cVpWZHhhNTB2azJKLXdtRFdjdENrSVB3Sk8xcXRBTUM3V3B2WEcxY2M4clZZRlV2T2ljVlhtY0NNWkVCR0prbGR0NmpCUTRrZGw1Smx4eWhDUEJya3ozR1p4b2Y4bjN6MThQTGNUYjdPY25qUE5ubUNrSjQ1TDhseXpMSjluVEZ2Vkc0NjdWcnBVUGFZQnVxVXpzMlhhbExNOVc2SDFXV0VEeDJ0LTQwOWdBQXBYcHFqMUE?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-11-08T13:00:00+00:00",
+      "category": "보안",
       "first_seen_at": "2026-11-08T19:24:02.493553+00:00"
     },
     {
-      "title_ko": "Anthropic 모델 기반 AI 시스템, 20년 난제 해결 '양자 가속' 관련",
-      "title_en": "An AI system running an Anthropic model settled an almost 20-year-old conjecture with implications for “Quantum Speedup”",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXF1VGVQVjJDRHZHX0xxdU1HcTdDY005TGktN2szcVFsMExUWXRTWjA2SlpGY1dqVzJiWVJWN3VDSUdTaUlyVlFEdDFlZ24yWkd3WV9aMzFEWXpxTDMzSUNPQTZkVS1TaUt5LTZBdVhWNzlOazJqQjh4YXdQWnZUVVdicVZBajBYSm5PbFRCZnBKNXBIM0l0NU00WlVMVUN3WjB0LVR1Y0dUTk8xMU9OZVF6R2RiWm5kNDBuWm5oZ1BXbE9TWmUzbmF0cTVfejZSSzlIZENQOVlmVmVrNkF4NlV3?oc=5",
-      "source": "Quantum Zeitgeist",
-      "published_at": "2026-11-08T17:44:57+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-11-08T23:28:10.471108+00:00"
-    },
-    {
-      "title_ko": "미국 정보기관 \"엔비디아 CEO 황젠순, 중국 첩보원과 로맨틱 관계\"",
-      "title_en": "US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation — spy suspect linked to company accused of smuggling $2 billion in AI chips",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPOHM5bTRmeUdpQ0tPcjRZWWlvSlZLQkFfRS1CWFVsQXRoaVlPVFl4VjhoeDdpUGViYXZiRFAtYUVxMnhzSHVkV1E2eGtXcldZbTgyM2tCSUMxS2xnVnphYWZTZkdPY3NYMkhxVjR5OVdQc2ZVX2doOUkzN0FKaE9GZ0ZCWFNPWmc0dGF1bkdnRTJpeVd1bVZrYU11QVliUnNvOFMzS1V4RUw5WlpmVVpvUmg0LTFzX2twSjFtekdGVldTbjhCUmZzbi1RcVVneVN4dENaSzlxa0VUWkNMSWllOVlwZktWZ0xQa1dpYjFTaGR6UVhvNFNtTWJHSzJSbVpDS3Z0Tk5pMG5OTTZQN0w5cm02TVoySncyN1EwWFlRVThBYzlPbTJVUm1GRWJrbnEwR3lvTmRqaVpwODhwRW5aSGNCSE1pd2hyWGFkc1FZMjM0VXFsRjBRU2hZeFBmX2lDanRF?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-11-07T14:47:37+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-07T16:09:08.194413+00:00"
+      "title_ko": "마이크로소프트, 6만 명 근로자에 권고사직 제시하며 AI 전략 재편",
+      "title_en": "Microsoft employees question AI strategy as company offers buyouts to 60,000 workers: What is happening?",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcDc1TWFZRjhtQ0JKTzN0b3VpS3hJXzdPTFQ1OVFCZGo1S2lMUjdQckJJQ0ZDQm1lTTVpQVY5NkNIQzlLb2xVUTlLQmhKZl9vYjRfZF9NU3JHRVRlWWxXVzNDWHg2aUZ0aHoyWkFoV0dCWG9NcG9veW4xLW4xVmoxYS1zUWpXOG9pSVA3eUM1SExNZm1vNUREa3h6ZmlEM19PSzFSZS1pU2NJZDVheFNKY2NoaVdOanl0Mi1NSnBSR1ZBbDZOWWNBd2JxanFtcHU5ODdNR2kxZFFSbUdCalBzSWNOTldOMzlJT1drb3NCQzFraDBXZGc?oc=5",
+      "source": "Education Times",
+      "published_at": "2026-11-09T05:54:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
     }
   ]
 }
