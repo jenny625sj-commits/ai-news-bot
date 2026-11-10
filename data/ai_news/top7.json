@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T00:00:08.555234+00:00",
+  "generated_at": "2026-11-10T07:04:28.116572+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic, 시장 불안에도 IPO 추진 준비",
+      "title_ko": "Anthropic, 시장 불안에도 불구하고 IPO 추진 준비 완료",
       "title_en": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5",
       "source": "WSJ",
@@ -12,22 +12,13 @@
       "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
     },
     {
-      "title_ko": "엔비디아 CEO 젠슨 황, 중국 스파이 의혹 인정하며 개인사 논란",
-      "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-09T15:23:20+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
-    },
-    {
-      "title_ko": "Anthropic, AI 데이터센터 전력 공급 위해 34억 달러 규모 터빈 구매",
-      "title_en": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-09T16:56:54+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
+      "title_ko": "호주, OpenAI 해킹 사건 이후 AI 위반 보고 의무화 및 규제기관 신설",
+      "title_en": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-10T01:30:00+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-10T07:04:02.004871+00:00"
     },
     {
       "title_ko": "Anthropic, IPO 앞두고 새로운 Fable·Mythos AI 모델 공개",
@@ -39,16 +30,25 @@
       "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
     },
     {
-      "title_ko": "OpenAI 기업가치, 신규 펀딩 라운드에서 1조 2500억 달러 평가",
-      "title_en": "OpenAI Valuation Hits $1.25 Trillion in New Funding Round",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0FRR1p0bktGRUNxcjdhcmRhdXN6MUlTWl83cnloMnlJMWxHbk0wV3dBVzVPWlZtWXl2ZzgwUm1HTGtHZ2NIbEc4Q1FxbWVvX2FKOUpSeFRkZlNjRFFOY1BwUzFSaHNISDBDeE1rUGZqSTQ1bWV6Tm1qbW9JM3V3TkxZTTg3aWJmdGUwMUJzbnVNbk1iODNlak9uTlFmY1lHRVJOenBrME8yYlFPcV9HSWdKUnc?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-11-09T00:06:59+00:00",
+      "title_ko": "젠슨 황 Nvidia CEO, 중국인 스파이와의 연애 관계 인정 및 회사 조사 진행",
+      "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-09T15:23:20+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-09T05:12:01.432721+00:00"
+      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
     },
     {
-      "title_ko": "이스라엘, 자체 AI 인프라 구축 추진 30만 개 GPU 도입 예정",
+      "title_ko": "Anthropic, AI 데이터센터 전력 수급을 위해 34억 달러 규모 터빈 구매",
+      "title_en": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-09T16:56:54+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
+    },
+    {
+      "title_ko": "이스라엘, 독립적인 AI 인프라 구축을 위해 30만 개 GPU 도입 계획",
       "title_en": "Israel plans to build its own AI infrastructure with 300,000 GPUs",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QR2h3QlB5UFd5MzRyV2R1aEZlc3pTZnVtVkROQ0RkWXZibFhQc21uczVoOElWOW5LYmwtdnVHWTZHc1ZzSUZremNObVVJSExpUXoxV2ROOVlrNTVIU1VrRjFZaDYtb2JT?oc=5",
       "source": "CTech",
@@ -57,13 +57,13 @@
       "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
     },
     {
-      "title_ko": "마이크로소프트, 6만 명 직원에 퇴직금 제시하며 AI 전략 전환",
-      "title_en": "Microsoft employees question AI strategy as company offers buyouts to 60,000 workers: What is happening?",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcDc1TWFZRjhtQ0JKTzN0b3VpS3hJXzdPTFQ1OVFCZGo1S2lMUjdQckJJQ0ZDQm1lTTVpQVY5NkNIQzlLb2xVUTlLQmhKZl9vYjRfZF9NU3JHRVRlWWxXVzNDWHg2aUZ0aHoyWkFoV0dCWG9NcG9veW4xLW4xVmoxYS1zUWpXOG9pSVA3eUM1SExNZm1vNUREa3h6ZmlEM19PSzFSZS1pU2NJZDVheFNKY2NoaVdOanl0Mi1NSnBSR1ZBbDZOWWNBd2JxanFtcHU5ODdNR2kxZFFSbUdCalBzSWNOTldOMzlJT1drb3NCQzFraDBXZGc?oc=5",
-      "source": "Education Times",
-      "published_at": "2026-11-09T05:54:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
+      "title_ko": "Claude Code, GitHub에서 실수로 민감 정보 노출",
+      "title_en": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-09T17:24:26+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
     }
   ]
 }
