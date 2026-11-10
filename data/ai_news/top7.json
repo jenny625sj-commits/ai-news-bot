@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-11-09T15:32:22.842223+00:00",
+  "generated_at": "2026-11-10T00:00:08.555234+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "OpenAI 기업가치 1.25조 달러 돌파, 새로운 펀딩 라운드 진행",
+      "title_ko": "Anthropic, 시장 불안에도 IPO 추진 준비",
+      "title_en": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-09T21:12:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
+    },
+    {
+      "title_ko": "엔비디아 CEO 젠슨 황, 중국 스파이 의혹 인정하며 개인사 논란",
+      "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-09T15:23:20+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
+    },
+    {
+      "title_ko": "Anthropic, AI 데이터센터 전력 공급 위해 34억 달러 규모 터빈 구매",
+      "title_en": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-09T16:56:54+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
+    },
+    {
+      "title_ko": "Anthropic, IPO 앞두고 새로운 Fable·Mythos AI 모델 공개",
+      "title_en": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNFTXptZ1NYTjh3SWxCeUlTQmZ2elFyZG80bW9hdG94NGszVXE5cmxjRV83QVg5UGEwTGVLVjlzXzBKT0xPdVAwc1NCMlhUcEVOY2tBNGxQRHJPQW80bkNvbGp4cW1OazY2NU5IRXRraG93RUhmbzdGMmlVZDU5LVpoczVFOWE0NkNnQjl0eGNCTUpabk1lLTFUa3ItNUQ5MmhvS25IZ1loaG9Q?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-11-09T19:00:20+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
+    },
+    {
+      "title_ko": "OpenAI 기업가치, 신규 펀딩 라운드에서 1조 2500억 달러 평가",
       "title_en": "OpenAI Valuation Hits $1.25 Trillion in New Funding Round",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0FRR1p0bktGRUNxcjdhcmRhdXN6MUlTWl83cnloMnlJMWxHbk0wV3dBVzVPWlZtWXl2ZzgwUm1HTGtHZ2NIbEc4Q1FxbWVvX2FKOUpSeFRkZlNjRFFOY1BwUzFSaHNISDBDeE1rUGZqSTQ1bWV6Tm1qbW9JM3V3TkxZTTg3aWJmdGUwMUJzbnVNbk1iODNlak9uTlFmY1lHRVJOenBrME8yYlFPcV9HSWdKUnc?oc=5",
       "source": "PYMNTS.com",
@@ -12,52 +48,16 @@
       "first_seen_at": "2026-11-09T05:12:01.432721+00:00"
     },
     {
-      "title_ko": "엔비디아 CEO 젠슨 황, 중국 첩보 관련 스캔들로 CEO 직위 위협",
-      "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-09T15:23:20+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
-    },
-    {
-      "title_ko": "이스라엘, 30만 개 GPU로 자체 AI 인프라 구축 계획",
+      "title_ko": "이스라엘, 자체 AI 인프라 구축 추진 30만 개 GPU 도입 예정",
       "title_en": "Israel plans to build its own AI infrastructure with 300,000 GPUs",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QR2h3QlB5UFd5MzRyV2R1aEZlc3pTZnVtVkROQ0RkWXZibFhQc21uczVoOElWOW5LYmwtdnVHWTZHc1ZzSUZremNObVVJSExpUXoxV2ROOVlrNTVIU1VrRjFZaDYtb2JT?oc=5",
       "source": "CTech",
       "published_at": "2026-11-09T08:57:00+00:00",
-      "category": "기업·투자",
+      "category": "정책·규제",
       "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
     },
     {
-      "title_ko": "앤스로픽 데이터센터 좌절, 한국 AI 인프라 붐에 균열 드러내",
-      "title_en": "Anthropic setback exposes cracks in South Korea’s AI data center boom",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RNGV4c25Ra3pMRDE4V3BfS29Xb29xazNmd0hBV0NlNUc1ZkRyOWJncmxrX1lheEY4eFU0U2FmQ2p4WW15bGxGeXpCbFBNUDRLVUQyeXdpNXhscUxzSFZKUy1Kam1ZRUwtY2U5U04yOVB1anRrbFdyQjFNTnp2WEE?oc=5",
-      "source": "KED Global",
-      "published_at": "2026-11-09T08:56:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
-    },
-    {
-      "title_ko": "노벨상 수상자 힌튼, \"2027년 AI 체르노빌 사태 우려\"",
-      "title_en": "Nobel Prize winner Hinton: \"I fear an artificial intelligence Chernobyl by 2027.\" - L'Unione Sarda English",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMC0zQ1RGb1ZKaXhXYnFxbkRRcWFGaVNMWmVpa0xkcWRacVhUZkpzS3l1blZpZHAxTlhTY2ZvR0VSbS0xc0Y2WWdLWEdPVERKMEJlbm1VcExIb2NuRUFEakt5X0EyLWlCNlBDRFc1VTBIMWpoQlVCMk1rRUx3VEJZdEl1Z0I4dElmRXlPT2NUdzdoWmZKUy1aU19qYnBhOVRxT0NLUklpc18yVUdZc3hzeU5aSkRqV2tPdW9QT0dpR0ExUjTSAcsBQVVfeXFMUDU0eHVUYm54TGpTdTc4YzFDX1NJb1dTNWR4RDNHbUNwSElaMmVJZnN2THdmY0JkMTV0b1NualU3YS10anhmOXhyOU9VZVVpRmlHaGRKTHQ1dktrMlhIeF9kWkVDQlJvUUt1T2hqWGRtVlJmUS1PdTd2dENXZ2hRYUFYdXJTOGxIWVlHRVd1YWRFQmttZzRFMzZ3WTVMYUg4RzBKVzFQSmlEaHJiZXFNZDN5X0MxTVF6dUFsRldTTWJCRmNtdXZqWFNiaFU?oc=5",
-      "source": "L'Unione Sarda.it",
-      "published_at": "2026-11-08T18:19:31+00:00",
-      "category": "기타",
-      "first_seen_at": "2026-11-08T19:24:02.493553+00:00"
-    },
-    {
-      "title_ko": "중국 기업들 엔비디아 제재칩 구매 허가 받았으나 허위 사무실로 적발",
-      "title_en": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses — investigation reveals businesses have ties to sanctioned Chinese military suppliers",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxONjlUN25OeGR5Y3ZBZGFzYU5ZR3ExemVBSENRSzRwcUdDUXlIV3JTZEZUcHpMaGZtaktka3p1WUQxNGU3WTZmV1VuS3R3RUFyWW8xZGRhaTZxQTB5N2F1VnRPS1ljSHJrQl9QeWRzVjhuckZrMTlLQm91YjI5S2ZPb1E1TTl3ZzNGbHFrX091ODBjVWlSNkphb3dmMHZrRDRLRGxmZXlQNEQ2RDJjUVVXQlJjVGVNOW90cVpWZHhhNTB2azJKLXdtRFdjdENrSVB3Sk8xcXRBTUM3V3B2WEcxY2M4clZZRlV2T2ljVlhtY0NNWkVCR0prbGR0NmpCUTRrZGw1Smx4eWhDUEJya3ozR1p4b2Y4bjN6MThQTGNUYjdPY25qUE5ubUNrSjQ1TDhseXpMSjluVEZ2Vkc0NjdWcnBVUGFZQnVxVXpzMlhhbExNOVc2SDFXV0VEeDJ0LTQwOWdBQXBYcHFqMUE?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-11-08T13:00:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-08T19:24:02.493553+00:00"
-    },
-    {
-      "title_ko": "마이크로소프트, 6만 명 근로자에 권고사직 제시하며 AI 전략 재편",
+      "title_ko": "마이크로소프트, 6만 명 직원에 퇴직금 제시하며 AI 전략 전환",
       "title_en": "Microsoft employees question AI strategy as company offers buyouts to 60,000 workers: What is happening?",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcDc1TWFZRjhtQ0JKTzN0b3VpS3hJXzdPTFQ1OVFCZGo1S2lMUjdQckJJQ0ZDQm1lTTVpQVY5NkNIQzlLb2xVUTlLQmhKZl9vYjRfZF9NU3JHRVRlWWxXVzNDWHg2aUZ0aHoyWkFoV0dCWG9NcG9veW4xLW4xVmoxYS1zUWpXOG9pSVA3eUM1SExNZm1vNUREa3h6ZmlEM19PSzFSZS1pU2NJZDVheFNKY2NoaVdOanl0Mi1NSnBSR1ZBbDZOWWNBd2JxanFtcHU5ODdNR2kxZFFSbUdCalBzSWNOTldOMzlJT1drb3NCQzFraDBXZGc?oc=5",
       "source": "Education Times",
