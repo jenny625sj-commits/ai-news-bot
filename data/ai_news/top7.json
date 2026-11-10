@@ -1,27 +1,45 @@
 {
-  "generated_at": "2026-11-10T07:04:28.116572+00:00",
+  "generated_at": "2026-11-10T16:13:12.480081+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic, 시장 불안에도 불구하고 IPO 추진 준비 완료",
-      "title_en": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-11-09T21:12:00+00:00",
+      "title_ko": "Anthropic, IPO 공시에서 주당 $70~$78 가격대 설정, $1.404조 기업가치 목표",
+      "title_en": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-10T14:01:39+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
+      "first_seen_at": "2026-11-10T16:12:23.633877+00:00"
     },
     {
-      "title_ko": "호주, OpenAI 해킹 사건 이후 AI 위반 보고 의무화 및 규제기관 신설",
-      "title_en": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-10T01:30:00+00:00",
+      "title_ko": "구글, AI 전용 칩 2종 추가하며 하드웨어 포트폴리오 확대",
+      "title_en": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-10T15:54:08+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-10T16:12:23.633877+00:00"
+    },
+    {
+      "title_ko": "호주, OpenAI 해킹 사건 이후 AI 안전 규제기구 신설 및 의무 신고 규칙 도입",
+      "title_en": "Australia to Create AI Safety Regulator, Mandatory Rules",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGViZ2xsOWVMUVRfQnNEeWNfZ0RIQzEydE1qOHBjSkk4ZEVvTThTSnpBUmNqV0lGVEtPaW4xTmtTYUVEeGxQQW83X1hWZTM0ai1uUDA0ZWRBTGoyQTdldmNScGhncWJab1pIajY1SlhIeXpnNTdGWGdkQ2kzLURqZGQxeVN6NlQyM2d2Yy1ndm1YOW9BWmFDOVplano2ZHh5R0FOVnV5WDBmMDZZNHpOT0gtaw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-11-10T03:51:00+00:00",
       "category": "정책·규제",
       "first_seen_at": "2026-11-10T07:04:02.004871+00:00"
     },
     {
-      "title_ko": "Anthropic, IPO 앞두고 새로운 Fable·Mythos AI 모델 공개",
+      "title_ko": "TSMC, Anthropic·OpenAI 주식 매입에 최대 10억 달러 투자",
+      "title_en": "TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3lnNU1VVFk4T18zOEhrOVBOalRYV3BNSV9qZDhkQzZoZTdKSk4tU2lNMEd5eXc4NXlTckpIYmZvaHlfeXZ5MVI3amtRdDQyckdnTHNCWmQ5anB4YW1ZT3l6NDVNUGhnOFpQQ254SS1VUjhXckNPMzJfMFhyalh3VE8wMmZfeW4tSnZHdWN2UUVUN2J4RHEyNjBmc3pkT1BfUzlsY1lVN2ZWZ3FCdE9SZHlzU244SVBoQkpXcXBVbnNrckRt?oc=5",
+      "source": "Nikkei Asia",
+      "published_at": "2026-11-10T14:19:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-10T16:12:23.633877+00:00"
+    },
+    {
+      "title_ko": "Anthropic, IPO 앞두고 새로운 Fable·Mythos 5.2 AI 모델 공개",
       "title_en": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNFTXptZ1NYTjh3SWxCeUlTQmZ2elFyZG80bW9hdG94NGszVXE5cmxjRV83QVg5UGEwTGVLVjlzXzBKT0xPdVAwc1NCMlhUcEVOY2tBNGxQRHJPQW80bkNvbGp4cW1OazY2NU5IRXRraG93RUhmbzdGMmlVZDU5LVpoczVFOWE0NkNnQjl0eGNCTUpabk1lLTFUa3ItNUQ5MmhvS25IZ1loaG9Q?oc=5",
       "source": "Bloomberg.com",
@@ -30,40 +48,22 @@
       "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
     },
     {
-      "title_ko": "젠슨 황 Nvidia CEO, 중국인 스파이와의 연애 관계 인정 및 회사 조사 진행",
-      "title_en": "CEO Jensen Huang admits affair as Nvidia probes possible Chinese espionage",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-09T15:23:20+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
-    },
-    {
-      "title_ko": "Anthropic, AI 데이터센터 전력 수급을 위해 34억 달러 규모 터빈 구매",
-      "title_en": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-09T16:56:54+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
-    },
-    {
-      "title_ko": "이스라엘, 독립적인 AI 인프라 구축을 위해 30만 개 GPU 도입 계획",
-      "title_en": "Israel plans to build its own AI infrastructure with 300,000 GPUs",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QR2h3QlB5UFd5MzRyV2R1aEZlc3pTZnVtVkROQ0RkWXZibFhQc21uczVoOElWOW5LYmwtdnVHWTZHc1ZzSUZremNObVVJSExpUXoxV2ROOVlrNTVIU1VrRjFZaDYtb2JT?oc=5",
-      "source": "CTech",
-      "published_at": "2026-11-09T08:57:00+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-09T15:31:47.336223+00:00"
-    },
-    {
-      "title_ko": "Claude Code, GitHub에서 실수로 민감 정보 노출",
-      "title_en": "Claude Code is accidentally exposing secrets all over GitHub",
-      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-09T17:24:26+00:00",
+      "title_ko": "마이크로소프트 AI 보안 툴, 11년간 미탐지된 Rust 결함 발견",
+      "title_en": "Microsoft’s AI bug hunter finds Rust flaw that went undetected for nearly 11 years",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU282RmlNeF9IVE1lcXlwSjlzM2lqOFdJU1NoUmtlZVJEOHdhV3Q4cFNBRFdSNjVCNTVUYlkwUVY1ZmllUTNTdDBlU0lzSEhrYTFLcGQwMUVMaldNTzhXWXVSUWZkUGdwMF9qaTM5d25Gd0NkbEhXRl9lSWF4ckpuTDFKSzBpRWpvZjc1VEtXeTAwcTBZUE5ZRmhVZVJwSmRjdmwxQ2tHT05yT0t0QkdQMmlySC1OM1RtVmRGeENOd2VXTERYRDg0?oc=5",
+      "source": "CSO Online",
+      "published_at": "2026-11-10T12:39:04+00:00",
       "category": "보안",
-      "first_seen_at": "2026-11-09T23:59:29.696298+00:00"
+      "first_seen_at": "2026-11-10T16:12:23.633877+00:00"
+    },
+    {
+      "title_ko": "구글 DeepMind, Signal 프로토콜 보안성 검증하는 새로운 AI 툴 개발",
+      "title_en": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "source": "Wired",
+      "published_at": "2026-11-10T05:01:00+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-11-10T07:04:02.004871+00:00"
     }
   ]
 }

@@ -1,5 +1,665 @@
 [
   {
+    "id": "f0fa0a2e9335ec0e",
+    "title": "‘It's not just the existential threats’: Queens lawmaker on reining in artificial intelligence in New York",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ3cyU1pqaWVDRmhwSFdYaHc2bDRkVkdBaFNZNTBFUXRMVUxJZ2t5aVlqQnl2UE1NdmZtQmNfTkxuTmdjVVgxdWUzN1hOZFdvZmdLQXZIMGU5TXRPeGk2Y3JKQm1QYWpuSEFfcGRFMWlGY2c1dlFnNklrR1cxanpwdHNCdWdjZ016cHRGUGdZem9TbU1ZTHI4MDNBU3lNNTduNkNvZzJUOHpielFhWlU1aElVQ0ZRUVhtMGJGZ0Z3ZE9NMkhwb3BsaThPRFFzSTc1d195TzQwYU4?oc=5",
+    "source": "Queens Daily Eagle",
+    "published_at": "2026-11-10T16:03:02+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "'실존적 위협만이 아니다': 뉴욕의 인공지능 규제에 나선 퀸즈 의원"
+  },
+  {
+    "id": "d27a8fc808b6eec3",
+    "title": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHRBazBBb3Jqd29kVThzdTVjTlh3dVVJbWVwZXhONVlxMFVCZU5hNWdrc1hDTl9uMi1QV1VsOUZVV1F0UTRmcG5WbUtLOHRHQnU2WTJjLUYxeUt4MjB1eXl6SFRmU0hvYU84dzJEOGlzVnhzQWtWb0lGbjM3T0Rzd1ZfZHlzLV8xRzVtM3I2U19wUQ?oc=5",
+    "source": "Sun Sentinel",
+    "published_at": "2026-11-10T16:02:24+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 상장 시 약 1.3조 달러 기업가치 추구"
+  },
+  {
+    "id": "1ac23357a0eb3898",
+    "title": "Comprehensive Survey Maps Retrieval Methods Enhancing Multimodal Artificial Intelligence Generation",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQazk3ZHY0eHMtMUdHM29hcDhvdk92VjdHTmh4V01zUGhVWVltbDF6amJCVm92Ym9pS0I2bVNkQ1pVVXhVbGNXcDFEaUlJRlo0SEZ2X2Qya0d6VnViVWN5ak1RSTJTVmFQU1NFQTJ0Tl8wZVUtcTIyUHhpXzdibFlYRHRXM0VVRnR5Vl8zUDJJUm9DbU1ROEpNWXByTFo5TEkyWTVaQ2JuS1kzUzhGakg0V2lJN0FmaXl3NzZlZ1FVeG85QQ?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-10T15:54:35+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "포괄적 조사, 멀티모달 인공지능 생성을 향상하는 검색 방법 지도화"
+  },
+  {
+    "id": "5ef445c1e85d847f",
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T15:54:08+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "구글, 두 개의 새로운 전문 칩으로 AI 하드웨어 포트폴리오 확대"
+  },
+  {
+    "id": "938ac448782f4c13",
+    "title": "DeepSeek, other China AI firms have just 10% the revenue of OpenAI, Anthropic",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0g2Zm9GNXc1b1ZsX1BhSG9VdmNkcFBXWHlCWWpGT0hHSTdIRU9QN3lXc1BBYUJTSlVOcGFvcVk0XzZFRnd3ZVdPdTJwekRFS1ZWXzV1dnhQdzZDRVVXZkxtYXNUUDUxdmM4MTJpVm9HdVNySzBLY2gxM0hkZGU3TXJKMTVJdFZHS05sNG1Ucmp0NXB5ZVVfU0EtNnRJSVNlckVENGw0TUlaMlJtOXdFY3poWnVWa0pFTkNpLWlJU3VzS3Q5RGZISlpGWXhnWU9tX21JcEY4T194Zw?oc=5",
+    "source": "Nikkei Asia",
+    "published_at": "2026-11-10T15:44:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "DeepSeek, 중국 기타 AI 기업들의 수익이 OpenAI, Anthropic의 10% 수준"
+  },
+  {
+    "id": "a14681e2ddce1255",
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "source": "The Verge",
+    "published_at": "2026-11-10T15:30:28+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "구글, 에이전트 '군집' 기능이 있는 Gemini 4 Carbon 출시"
+  },
+  {
+    "id": "05045298619b51c5",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T15:29:30+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "메타의 AI 에이전트 Muse, Apple Watch 및 Android Wear OS에 출시"
+  },
+  {
+    "id": "9fda1f5a7b95f10d",
+    "title": "Review Evaluates Artificial Intelligence Tools Across Pharmaceutical Discovery and Development",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGNZNUZjUkVEa3ByYjRYQ0E0Qjk0U210c1VEdzlUY2ZHelRUZlBNRzc3TjRKVTR6TVUyQUVHQWh0eFBnWkZOWjlEVWM4Mkt2WC1JMTRLLXQxUnhabkk0WFFnZ2ZmVkpHNW83WTZDWkU0NlQ2Mk1xdzM4ZGFVejFseXVidzNFUVpwcUIxTjM0eDhPeU4xRl82clBINWtEaUpuVkFrSzRTMl9wSmFFUEFiUXg0YW95VF9KOEJN?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-10T15:08:54+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "제약 발견 및 개발 전반에 걸친 인공지능 도구 평가 검토"
+  },
+  {
+    "id": "0cd5e191c405cf88",
+    "title": "Anthropic targets $1.4 trillion IPO",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+    "source": "The Verge",
+    "published_at": "2026-11-10T15:02:44+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 17.5조 달러 규모의 IPO 목표"
+  },
+  {
+    "id": "004c51f512e0fac4",
+    "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+    "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+    "source": "Ars Technica",
+    "published_at": "2026-11-10T15:00:39+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "DeepMind, Gemini Robotics 2.5 및 개방형 안전 벤치마크 'ASIMOV-jailbreak' 공개"
+  },
+  {
+    "id": "e180cb7882df0a8d",
+    "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5",
+    "source": "BBC",
+    "published_at": "2026-11-10T14:46:50+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 예상보다 낮은 1.3조 달러 기업가치로 상장 임박"
+  },
+  {
+    "id": "8a14267f67e9d5fb",
+    "title": "Column | How to protect your brain from AI chatbots",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFM0ODE1Z2QzbThTMHhxdVZVWWF1bW5SemxodjBkT0VfbVU0UW5yeW1vS2tCbXdKZVdjdHJIMVo0cU5tS1NucHhGRmt0OHZnZmVqVDA2ZlVMY0hfR3FfQVp6Q0pwV0VTajlHT3VDMWR1d0dVM3dPMW9SQ2hObzZOOWx2bFRxRkRFc05JNnlnQ2hYMzVadGx3NEJvcGl3RFNGa0xkaldlT3NCZGNLUE01VDlmTEdRUVJtY1BwR3M1WlZpMnN4?oc=5",
+    "source": "The Washington Post",
+    "published_at": "2026-11-10T14:34:44+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "칼럼 | AI 챗봇으로부터 뇌를 보호하는 방법"
+  },
+  {
+    "id": "e323cdfbf33fd598",
+    "title": "Could artificial intelligence end humanity? A UT Dallas professor explains if and how it could happen.",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSVVjbkVyUG1FemxYaWM2ckxiRE84TWczYTNWenR4bUFzLUFTVFdIaUdoRWNhYkIwMFdmVmpBOEU4anh4cENlQ3RTZF9QVWZOeGhMaUNtaGxnUjAzWDJwbGJQWVljRExVM3JFaVpyYWk2NUg0c0dFSzdiRmViOHFvOGZQN0hzLTVid01XV1VwYXpTcktjeGtPeVFTd0h6QVpVSGUyRUVlemZMRHVMM3dvQ3Q5VEt1U0ItWDlIVWRaRjREakdfbVV0MjFZU1BqZVhQY3hDUXNNeElneVRUVzlwZkdvcnYwSkxkRzNIUmpJbjdsRzVWLUNJZ0ExelJ0ZTYxUDk2MU9zbkVzbjUwTlE?oc=5",
+    "source": "WFAA",
+    "published_at": "2026-11-10T14:25:27+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "인공지능이 인류를 멸망시킬 수 있을까? UT달라스 교수가 설명하는 가능성과 방식"
+  },
+  {
+    "id": "e1459f9520e5ffa6",
+    "title": "TSMC earmarks up to $1bn to buy Anthropic and OpenAI shares",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3lnNU1VVFk4T18zOEhrOVBOalRYV3BNSV9qZDhkQzZoZTdKSk4tU2lNMEd5eXc4NXlTckpIYmZvaHlfeXZ5MVI3amtRdDQyckdnTHNCWmQ5anB4YW1ZT3l6NDVNUGhnOFpQQ254SS1VUjhXckNPMzJfMFhyalh3VE8wMmZfeW4tSnZHdWN2UUVUN2J4RHEyNjBmc3pkT1BfUzlsY1lVN2ZWZ3FCdE9SZHlzU244SVBoQkpXcXBVbnNrckRt?oc=5",
+    "source": "Nikkei Asia",
+    "published_at": "2026-11-10T14:19:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "TSMC, Anthropic과 OpenAI 주식 매입을 위해 최대 10억 달러 배정"
+  },
+  {
+    "id": "e4a8e1b3bf29c1d3",
+    "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTgtOV9zN3Ywb2UycWxaSlNwOGltSV91cjMtRWdlNnJibWhnTVgtQkZkd0ZYU0NweVB5MEhaMkd6ZVNpUXlra3JiQ2ltcU4xUUUta0pPV2dqb19uWWpLZWVkanNqTnlsVEo2YmdFeGw2M2dNcGtGVHdGb1hBMTN4MFRteXhkbUctZWIxSURUQjcxczZxbmdtbGQ0d3ZLWWJCcjFQQVpwb1pjNHNzWlE?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-11-10T14:06:52+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 화제의 IPO에서 1.4조 달러 기업가치 목표"
+  },
+  {
+    "id": "d10ce5761f29e021",
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T14:05:10+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "어도비, Photoshop, Premiere 및 Firefly에 AI 에이전트 및 새로운 창작 도구 추가"
+  },
+  {
+    "id": "6f3953006a306e0b",
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T14:01:39+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 주당 70~78달러의 IPO 가격대 설정하여 17.5조 달러의 기업가치 목표"
+  },
+  {
+    "id": "402f883e817bb4ff",
+    "title": "AI100 Report: AI has entered the mainstream and is reshaping society",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTJ5RzgyVmJoQnhYODBkaTdBcTdtV1Z6UnRVOE9YdC1KeVhOemZERXRyTDl6cnVOV05ValR0N3hCdXBURk5lbGlTVUdtMEZTb1pKaVB3aHN4Y3UwNUR3OGl4eHlUS29uNXl3OUh4Wmd6bUYzR3c0ZGJJTEFGWjR5SWRQdVdGbVNLbEJtaEItdE0xSkJpdktISlZqMVEtdDJ3SU4tYg?oc=5",
+    "source": "Max-Planck-Gesellschaft",
+    "published_at": "2026-11-10T14:00:10+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "AI100 보고서: 인공지능이 주류에 진입하고 사회를 재편하고 있다"
+  },
+  {
+    "id": "22376c35c0dfdf67",
+    "title": "K Altman Law Highlights School Artificial Intelligence Controls and Questions for Families",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdEFMMHlkMGZDU0ZpWTlHUU5UMWVpNVJiVjBwUFloQ3VGbkpsUWZGbi1ST25pMUxkd0c1bjdKNW9RRjNHeE1NU0l2c1I2VDdIRy1zS0MxWHhoLU5jM3R5eXVJSG5nZjdWRDBWVFJLY19wVDdUVjVMclF5RWtoamVtSkdXZmdlMVdzU0JkVmE3ZGJRZ29LcGdTeUpZRnRVNU5fUGFsd0UxdXcwTldMcTN6MXZsLVA1dV9sbS03WVpibTRPTmxzdktVVXNOVmxfbEtKelh3?oc=5",
+    "source": "EIN Presswire",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "K Altman 법이 학교 인공지능 통제 및 가족을 위한 질문 강조"
+  },
+  {
+    "id": "c7e6fdbef2979510",
+    "title": "While artificial intelligence (AI) has begun to solve problems that mathematicians have not solved f..",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOV0ZpZVlWMW5hZzBpeUVDQ3gwMjFUaDhUYVR1Tm1MWUwxLVh6dHlaU2VILWZaTWRHOVczVk0xUFYweDZvekhMV3d0MA?oc=5",
+    "source": "매일경제",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "인공지능(AI)이 수학자들이 풀지 못한 문제들을 해결하기 시작했다"
+  },
+  {
+    "id": "c8072ec28f747b94",
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "스포티파이의 AI DJ, 새로운 음성과 성격 추가, 채팅 감소 옵션 제공"
+  },
+  {
+    "id": "5cd056a31d5df370",
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Cyanogen으로 구글 안드로이드에 도전한 공동 창립자, AI 시대 윈도우 겨냥"
+  },
+  {
+    "id": "dfd6684379dd6916",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "source": "Wired",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "AI 매니아들을 위해 만들어진 새로운 리눅스 기반 데스크톱 운영 체제"
+  },
+  {
+    "id": "666b69e750e797e0",
+    "title": "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNal81S2Q0LVVWX3p5UkFSeTFmRjZCUUNjaVA4eTVqVmFDYUpJT3g1NHE1MDhqUWFRcjJXUzZDa0Vkd2pLUDJqVXRfYVNORWt6SS1rT2FxUmcxSzBYQW1pS2VyUGhPV0toYnNHbWdNME5mUWNJOUtlVzZNTFVsMzZYQmg0RmJucl9sWHBVRVdEVlV2Q3dtclBzX1ZuMTIxNzlkYlB6Qkg3eGxndEFBMDJsQnJNdFdtSG5RSGNQMDJwbld3UEhUU2RlM09R?oc=5",
+    "source": "The Motley Fool",
+    "published_at": "2026-11-10T13:52:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "AMD vs. Intel: 지금 사야 할 인공지능(AI) 칩 종목은?"
+  },
+  {
+    "id": "4479b10b03249757",
+    "title": "The European Union warns that artificial intelligence increases the risk of cyberattacks in Europe",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaDcwd1BCX2Zvb2t4eHk1SXRiN3FVWnQ4R1BDQ1NMR3BUZ3M4ZUFDcFB1dksxRmdrQW5iWHhWTF9HVkdqZTUycnl4RTVGeUx2amJIQ25nd0R3U3hiV3RyaThXcG5ULWRCSzhtVXhPYU1pRFJYM0NFOWtlVFo0VlBQUC1aQ0hDc1E2WVcxaFVhOXBabDllODhwNVBadF9wc3BrMjd4U0J2TXdQeXBGX0c5d3E0MjJvaTdYT2hTWFdscnJ1Zk9rekRDZlhicTVpN3ZpMVp3WW5PNWtEVmtFSW1PMll4MkNnUVVoX3lzYjRtUXdoQTFQ?oc=5",
+    "source": "El Constitucional",
+    "published_at": "2026-11-10T13:43:22+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "유럽연합, 인공지능이 유럽 사이버 공격 위험 증가시킨다고 경고"
+  },
+  {
+    "id": "0c2a5818fe8de3e7",
+    "title": "Anthropic seeks $1.3T valuation for blockbuster IPO",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUpZQmk5OG9JRzZEbnA3aDhjMVozdWVVcHc0UWZYZWxjZ0JRbGNYX1N3UGJnQnNqMVV2VE5taUpUazM2cTl4X1VOb3cya2ozZVNtNGRRNjhJT3dKbDZnV1Rob2M0d2N5cGhBczI5VXhaY2pGbUpVclNzby1qMXBSNmVwbjlmMGNxQ3JOREgzZzV1OFRrbWtHek9tcWJRaTJGZEE?oc=5",
+    "source": "Politico",
+    "published_at": "2026-11-10T13:42:00+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 화제의 IPO를 위해 1.3조 달러 기업가치 추구"
+  },
+  {
+    "id": "2f13738e7e659353",
+    "title": "New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy — Frontier Model Forum proposes CVSS-style rating system for new AI models",
+    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPSDcwR2sxd0luVkRpSExvM0xPT3JVekZWVE1FcEZSemtmb3Y2cVVmUzJRQmNmVEJncm5WMmwwbzUwZllZQzcwVVpDbEpacnZXX3NhSnNNdE9XS28tZi10aTc3b1JjYnljY29EdXlub3dIR1dwWkhkX1NXZk5Zek4yTk9mb0tndjVfS1VtMzFVWWZiT0dtQVlNSGlfYmRvcklHekM5WGNzS2MtZE9nQ0UtUi12bjQ4SVBaZTNIS0JTSDFGbGs0Szk5R1BPV2tWS01XU0RqX3REZDUzaWNlX3BEWXVQaE9yTmRPSndWa0pvWk94MzZJMUh2NWN4cklfQUZfWFhHclpOZFpCLUp3VVczZ2VVblpva1pnZlpUMl84Vzc3TFM0aHZDako5b2NxbjUyS0xCWDZBSjZaZVljWXAwSEppSVVqTThCQ25ZeTI4NUR4TzdRcnJZ?oc=5",
+    "source": "Tom's Hardware",
+    "published_at": "2026-11-10T13:40:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "AI 탈옥을 기능 향상, 범위, 배포 용이성으로 등급화하는 새로운 프레임워크 — Frontier Model Forum이 신규 AI 모델을 위한 CVSS 스타일 평가 시스템 제안"
+  },
+  {
+    "id": "b5d06dcd4f2dac40",
+    "title": "SK Telecom brings artificial intelligence to everyday life through ‘AI for Everyone’ campaign",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWNmc3FGcHRNc1l2RjZKMGExWHEwdmNRR3J1QVVZdVRPck0wV0dISnZxSjdUYzdIRDFtOFBneDY3cEhIakJUbnFZRXRtTHBDLVZncnlZdkpDTEtmY0JUZ25DZkd3RFZPVG9EdVYwdTdwWjZjbVBLM3lZdnRaNnNHeFNkZ3hmWnZXd2c3QklweWJyblh0X2NUaWxLOXZvVzdDd2VMblY0R3hIa0ZXT3Bzb0I4SVlRMGhKbTBF?oc=5",
+    "source": "marketech apac",
+    "published_at": "2026-11-10T13:34:30+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "SK Telecom, '모두를 위한 AI' 캠페인으로 일상 속 인공지능 구현"
+  },
+  {
+    "id": "dd6287fb142a2d79",
+    "title": "Why Anthropic bought a Cambridge biotech startup with one full-time employee",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQm41RERIRVk4dDJBUUFWRUdCYnM3YS1DRHB6NVI5aHVTNTZmcVlSNExBRVpxMEJ5LU1YN0tMZm93ZWpPTTZTQlVWWE1BUDFwZUNiRHlmRzNzTmJZYlhLZnJkSkY2dVBNTFVYcUZnTUJ5QXdINTg5UG5Vc1RQLXVqeV9TR0sxZHpCTUMtRFNybk9waHp0?oc=5",
+    "source": "WBUR",
+    "published_at": "2026-11-10T13:20:48+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic이 정규직 직원 1명인 케임브리지 바이오텍 스타트업을 인수한 이유"
+  },
+  {
+    "id": "c485fe0a7b039be5",
+    "title": "Artificial Intelligence Models Reshape Receptor Structure Prediction and Molecular Pharmacology",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXhETlQ4UXIzQURqTWl3ZkwyeW1RYTVIOWdET01mTTFBdGZYR20yckY3VmVEUUxyaTNmNEszckQ3eENzQmRHU01KR28zTkUxdzRuSXRGMjRBb3BMbTlNZklOcUdhUEtnemJ2WE5IWlpwQTlCblRCc0lrRTNzQkVZbmNTVVNxV242SzJxYVUyYllWOWY5YU9DUkl0UU5KWUJldFBjSXhqSWcwdHNJTERWZ2ljcjVWdUlwNl9vbQ?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-10T13:18:58+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "인공지능 모델이 수용체 구조 예측 및 분자 약리학 재편"
+  },
+  {
+    "id": "68a74532e188901a",
+    "title": "Anthropic seeks $70 to $78 a share in new IPO filing",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNk95ZzNlVmFjWVJld0RVQUl2Q1dDWnFrNkdjYTF1UG1qS21XUFV3Y253angtSGhqaXMzN1NoU2UtQjVaYTFXVW9oRHRPaHgzZ3BZQjFPRkk4dXdfaU1ibFFjVDNBTE82M0ZxZHVtdHRaVmx5VGhWd2JYZnJZeE02SVlvM3BEcTI3UUR0dVR1VUlrUTQy0gGaAUFVX3lxTE0tdGU2RXhCbGtxNWh3SEdTa2dROVNHMGNiQWNDSnlnZ29EQ3M0SVBIODJaX2t5eHlTWDg4QW1rMzhpbjMwTzZJUGdDV3ZibEM3bEJ1bTNZbUJCbm40QU9MdTN4VlVmeVJJc2w5YjJFNElRWG9HSUtOTW90Nzljdk5tMUpGcHB0a2l3RThnSHY2cHdQNHZBYWxHU1E?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "published_at": "2026-11-10T13:17:01+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, IPO에서 주당 70~78달러 추구"
+  },
+  {
+    "id": "3af4e9510421c8e7",
+    "title": "Form 8-K Artificial Intelligence For: Nov 10",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVh3QldrQWhsS3JTS0ROZ2VsblNybVNheDJ0Mk9LSXVoZzRkMVFOOTNzV25qZm1oUWNJQ0NxYnpMZC1mSkNGZm96VVdUY1p1ZjZaZTZqTXNoOHlVdnlrS3pfME1Ia3J0ODh6Yi1QX1JkbF92OFpKUWhNUnQwYkdIVjV0ZmZVUXFxc1ktcVJFUFV2NnB4S2dGbDNLX1VfMmhBQWdzRA?oc=5",
+    "source": "StreetInsider",
+    "published_at": "2026-11-10T13:13:22+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Form 8-K 인공지능 대상 기업: 11월 10일"
+  },
+  {
+    "id": "4a5e13055ab8fd82",
+    "title": "Artificial intelligence is desperately seeking its narrative",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
+    "source": "The Conversation",
+    "published_at": "2026-11-10T13:12:58+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "인공지능이 간절히 찾고 있는 것: 자신의 서사"
+  },
+  {
+    "id": "64f2392f721b5004",
+    "title": "Four of 15 initiatives are released as Artificial Intelligence Technology Solutions (AITX) updates its roadmap.",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb19mdHlrVUJnSi1QUmxxSjMzOHRNVVdoVEF1R0M0Zk9nY2NPMnVJYnZ4OHp0dTBLRVVENGRXOW1vZjlaY3U2aHBCbUlEVzRGUmhqMVpoQkhYaUZwZWdGQWpfTmZSTFB6MDVDazNLQkNtNDVhaVhxbkc4TWdYZEI4VFNlamplLXVYSG95LTlNQmJfOG80NnE3RHFqeUYtcVdXdjVRSmF1TW43aVFCcVRTRnZfLU1yMExmWi1NSnVfaDM0QlplMEpIS1FWSQ?oc=5",
+    "source": "Stock Titan",
+    "published_at": "2026-11-10T13:12:26+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "인공지능 기술 솔루션(AITX), 로드맵 업데이트 중 15개 이니셔티브 중 4개 공개"
+  },
+  {
+    "id": "d681bd950c8c6102",
+    "title": "Israeli AI security startup Bay raises $50 million",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1FUM21STWZfakdFdy1yUEE3dHhGTUtoazJLcHAtZ3hlVXRvbEV5LVA0YXAwRlVGQ05qQ0Z1azV5Wk5wTWFVVXdKZ0FjSy04bkxlcDc5N2xsMFp2eUs5RzF6endfbXA0Ymt3WGo2UllEYzB1aWZmT0I2Smd1MVFBaHBtZzFWZC1pci1icms2cFJFZWxOTVg0aWpyaDU?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-10T13:10:38+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "이스라엘 AI 보안 스타트업 Bay, 5천만 달러 투자 유치"
+  },
+  {
+    "id": "1c52468d7a994ee2",
+    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T13:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "사이버 공격이 오픈소스 AI를 덜 개방적으로 만들 위협, Hugging Face 임원진 경고"
+  },
+  {
+    "id": "042fd4a89039a91a",
+    "title": "Computer-Aided Design and Artificial Intelligence Reshape Modern Pharmaceutical Discovery and Development",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVlFbzVEaklBR1gzaWdkRU1iZEo2ZXpXT2poTXRsTk81a1NRMERYcXp6dld4d0RoRUtoT0hKVURYNHFzaEZIbnhzQVRtdWFhWF9NSDdFM3JvcVp2MGpDaUFBT2V6ekhjdGYxdkNMTnNZcGtGR18yOS1YM2p3ZU8zdlgtYzBuVXQ2eWFXTEM1aWpTdXRmR0VNRzZaUHVzamh0MlV2d0ZCVldVZHdLa3otemtMQXNiNDlubDgzVjJIdm5YUndoMENzZXJ3?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-10T12:43:48+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "컴퓨터 지원 설계 및 인공지능이 현대 제약 발견 및 개발 재편"
+  },
+  {
+    "id": "d11bc7fd3cd131cf",
+    "title": "Jumptuit Granted Artificial Intelligence (AI) Health Patent by the U.S. Patent and Trademark Office (USPTO)",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWFTZ1FRUWhIMDlPVXU5VmVRUnhWdURBSGk3ZnVySmpsUllfVTNIa29nMTdOMXJlek9yeW9LZ0dTcTB4ak1UVWxCR0J5OTUzTzNsRVdwRVB6V21uWDdsRi0zWUdWb0Zob1hxYjJkUlhmSnhiT0huSGtaUUtJbm1pVzV4ZUpDckVYb3dZQ3JaVURvbDJwMndUQ1ZUamdmS0x2SjZrWUhuYTdJZFJESWlzbTc3dmJzZ2N5ZlZMdFgxMHdqbzFSeV9iTWR5cmw5LUd4QVQwNWIySmxuM3FtaFdWd1B6aWNDNy0zdktXdDlR?oc=5",
+    "source": "PR Newswire",
+    "published_at": "2026-11-10T12:42:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Jumptuit, 미국 특허청(USPTO)으로부터 인공지능(AI) 보건 특허 획득"
+  },
+  {
+    "id": "a01fc98457ca67c3",
+    "title": "Microsoft’s AI bug hunter finds Rust flaw that went undetected for nearly 11 years",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU282RmlNeF9IVE1lcXlwSjlzM2lqOFdJU1NoUmtlZVJEOHdhV3Q4cFNBRFdSNjVCNTVUYlkwUVY1ZmllUTNTdDBlU0lzSEhrYTFLcGQwMUVMaldNTzhXWXVSUWZkUGdwMF9qaTM5d25Gd0NkbEhXRl9lSWF4ckpuTDFKSzBpRWpvZjc1VEtXeTAwcTBZUE5ZRmhVZVJwSmRjdmwxQ2tHT05yT0t0QkdQMmlySC1OM1RtVmRGeENOd2VXTERYRDg0?oc=5",
+    "source": "CSO Online",
+    "published_at": "2026-11-10T12:39:04+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "마이크로소프트의 AI 버그 헌터, 11년간 미탐지된 Rust 결함 발견"
+  },
+  {
+    "id": "4519e4e2be31a3bd",
+    "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWplYjFtNjRwemt5Y0dEYV9Wem5ET3FLYXpQOFo0MWttT0hPOW5HN3BRM3hYZWU0YUYwdUJIemhKR0Q4aGw4dWxGbWZ6QlZZcHM3Sm5kMkZsaVVaOE1jOVJueHFSMERPS3lPZHptelZseENfMk0zeGlPUGtZODJEaUZuUmVYbXNucG1xVW1HZw?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-11-10T12:22:37+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 화제의 기업공개를 위해 최대 1.4조 달러 기업가치 목표"
+  },
+  {
+    "id": "ffd1be60b8ac1c68",
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "source": "Ars Technica",
+    "published_at": "2026-11-10T12:15:32+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "우크라이나의 광섬유 드론, AI 데이터 센터 수요로 압박받아"
+  },
+  {
+    "id": "aa572c3884c492cc",
+    "title": "Albanese Announces AI Safety Regulator After OpenAI Agent Breach",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObU1NNVZmQ25Ub0RxeEhUeElSSXdHTkpnRlBQaVlGT1NfRERCcklhWENoMFF3T1ozM0l3TWlkRUd4LXlLanMxbVhKWkhrR2w3WVZRMC13eHNfRm92QjUzbjJzWnkwM0JhQzVLcGhJTVlZSTNiNDJIa0JNT1VyN28xNWh4dGVHQ1hrZmFaRjFGYkpDZ3dPNVctQ0pya3ZvMXBXX1VkWktwSQ?oc=5",
+    "source": "JournalArta",
+    "published_at": "2026-11-10T12:14:41+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "알바네제, OpenAI 에이전트 침해 사건 이후 AI 안전 규제 기관 발표"
+  },
+  {
+    "id": "348d2d4607aa49b6",
+    "title": "Israel Plans National AI Model to Reduce Foreign Dependence, Protect Control of Critical Infrastructure",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWZqSmNTMElTazRRNWhmMEk1dGVSMlBHcjhJRmpOX1poNDFYVERrZjVVS09vbHYyT3k1M3FkN3NCWUZEa3JNRVU4a3NWOEhIdEUtSjJ4NkVSS0lLMjNROWZ5LURIN3gtbmx5X092Y2laVGszN21nU1ptUTV6UGRJSmVLYm9NSm44OXBfc3BSMGRiaHZaRExPUFZaRERpRTVDX0xvRDJWZXJCQjlFaWQ3WGNYVFNOX0RsWV9DdkZYektiYklIc3VsWE1kTW1sLThSWHpyQw?oc=5",
+    "source": "The Media Line",
+    "published_at": "2026-11-10T12:06:53+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "이스라엘, 외국 의존도 감소와 기반시설 통제 보호를 위한 국가 AI 모델 추진"
+  },
+  {
+    "id": "8fd3997288fa8b3e",
+    "title": "Curaçao Quantum Week Highlights Cybersecurity, Artificial Intelligence and New Economic Opportunities",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSWFrazhqRThvN3BaQldDdWdNc2xDSmR0SVhpeHM2cTNPNkM0SU9MNnJIUzVwZ2dzYUMxQ1pTYTl0QVlQVmpWYWg2RFB4M3FOWldLRC1qT1RudkwzLVZNalM3TVRFWUswamFWZURJakc3aUFaSzNPZzVYR2VuVVgzc0x5R09IVnZnbjBCUHVqUGlaeHVvX0JJdWNMMTB1NUZUQjd0SmYxZ0VPMnZwejRjSk9PemlNUmlRdG1DTHYwdU5tWUFrOUt2UHdhblNnSGlScjV1Y1NIaXlleHd6?oc=5",
+    "source": "Curaçao Chronicle",
+    "published_at": "2026-11-10T12:04:40+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "쿠라소 양자 주간, 사이버보안, 인공지능 및 새로운 경제 기회 강조"
+  },
+  {
+    "id": "15c023016891eb00",
+    "title": "Curaçao Develops National Artificial Intelligence Strategy With Focus on Economic Growth, Public Services and Responsible Use",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSGpIMGlsaFJXck9OYXliYVh5OThrQnQzMVVlR1Rlbm8zUFl3dlpBcXQ2TnBnUlh5M0VXdU1BcERXMExycWxKVGtxa0cwRlYwazR5eHZ3ZzJZVXh0STdJN2dGejZPRlBiLVlGaTJISngza1ZCbTEtZS1fck5EdEZvNXpxb29vLWwtb2lISXdpM2JiTkNSZXJFTFBERmoyOVVZVllPRzdXaHFmcGtrOG9WSi16Q3k2ckJjVF9WdEJKNEhKclYybmxJN0t1bVFWY1F2TkFnWER2a3VSOHRxb2U1aVZScUZWUmM4cmQzSTNPZFVWMV81MWFuTkJDMkI?oc=5",
+    "source": "Curaçao Chronicle",
+    "published_at": "2026-11-10T11:59:41+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "쿠라소, 경제 성장과 공공 서비스 및 책임감 있는 사용에 중점을 둔 국가 인공지능 전략 수립"
+  },
+  {
+    "id": "467130a3b08d8363",
+    "title": "Hierarchical Taxonomy Framework Tracks Shifting Artificial Intelligence Trends Across Multiple Information Sources",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmlaMmF5N1dBbXpDZ2xTOFpPd016VTdsVzhuUkMtVUpidWdjelNVVWNwcTBWQk0tSV9Pa2JtZDVWRlNscHpkODhlT3I2aFRCRzVmR3Z4UExFdktkYkZ0M05GeTZuOXdHbjdqTG9scHRvUFlYMERGUFRkaG9GWFdlMFFKX0VDSFhIclhmaXVXRTc1eVZvWTBuZTE3Yk5OWXlrWFdHVS02Z3BTRnNUN3dHcERheWpGakpwSG1oZTdYM0FzMjFYTUZQRDExLVQ4LTB4eW9zYWFB?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-10T11:58:46+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "계층적 분류 체계가 여러 정보 출처 전반의 변화하는 인공지능 트렌드 추적"
+  },
+  {
+    "id": "c3d4687c16770987",
+    "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRndodzlpaTVnaEdjdDBCMHNyQlVjclVGb0tXV0xEdkU4YUIxbE83eTdHUFpRN1VYQ3UybWRYckJ4Q0s5UlhZSHRILXgzN0g4MHRveHVrbUlfZnhvcV85dWs3WjI0Y1VPeXBaakY1RTlJazBsZ2NPeFBEcGVLcHRtNXl3UzZ3ZzRDN1JEcUV4dWRMN0NhY1E?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-11-10T11:40:11+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, IPO 공모가 주당 70~78달러로 결정, 11월 19일 거래 시작 예정: 소식통"
+  },
+  {
+    "id": "04566ece2f1b9bd7",
+    "title": "Adobe is going all in on agentic AI",
+    "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+    "source": "The Verge",
+    "published_at": "2026-11-10T11:24:56+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "어도비, 에이전틱 AI에 전력 투자"
+  },
+  {
+    "id": "ee6d3ac412276b5e",
+    "title": "Gianfranco Di Vaio, Chairman of the Italian Investor Relations Association (AIR), explains why the quality of corporate reporting has become a competitive asset, and why artificial intelligence is changing who gets to tell a company’s story.",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWTZBRlFweWM4aU1rMjJBXzBVZVpDb001TklSTTRSZF94NUlvRjFSckpJZ2YyTGpqdDA5WmR1eVVKdEg3YzBXQjZJODhTRk9pbFNnTXhpSXA2MFZ3d21DaElhRTRRQ2xTbGhzbll5SEdXMjZMRTVYMXBDQndyWWQ0OGdpeWFJX09PZ0xJY29sSDE5R3VwQmFoQjN0eEZ6UQ?oc=5",
+    "source": "Leaders League",
+    "published_at": "2026-11-10T11:15:56+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "이탈리아 투자자관계협회(AIR) 회장 Gianfranco Di Vaio, 기업 보고 품질이 경쟁 자산이 된 이유와 인공지능이 기업 스토리 전달자를 어떻게 바꾸고 있는지 설명"
+  },
+  {
+    "id": "045539637ef07dc3",
+    "title": "Anthropic Withdraws Preliminary IPO Pricing Details After Circulating Filing to Banks, Reuters Reports",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGFsdHBGV1pEdTdCM21oR0xpWmlMcWNZUDVieVJHaDFMZkpqRzJFcHVpaW5tTGJ1aktvOGtGU0RGNy1aRmF0Y3ZOaUU5a0hlM19qYXBLaUJJV0RfTVhQVXg4R2ZORjZWUUcwSWFfQklqV0VXbDRlWGhrdDl5SHFWUDcxeWxwbkxFd0hlRzFLQ0Zkc054bFZmUEVZU1d0bTc5OTFvS3htenBSeU82?oc=5",
+    "source": "Yahoo Finance",
+    "published_at": "2026-11-10T11:14:24+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic, 은행들에 공시한 예정 IPO 공모가 세부사항 철회 — 로이터 보도"
+  },
+  {
+    "id": "ed51120c0cb25d0f",
+    "title": "AI Fraud and Risk Intelligence to Protect Revenue and Conversion",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjEtOVVMN01zbFdXdmVOT1F1bDV6SUFYam5XcFhRUjdDdlFCWVR0S3NxaGVqdnJUNktVUkpIMGYyS1VlSmJnN2txZnRKdm5sZ2pZYV9tSUxVUUsyNFhxa3JNb2htVDZlYzlhamJFTnItc01JYW1PbV85WmRsRU5VVC01NGpCTkdjdHN3?oc=5",
+    "source": "Emerj Artificial Intelligence Research",
+    "published_at": "2026-11-10T11:05:11+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "AI 부정행위 및 위험 인텔리전스로 수익과 전환율 보호"
+  },
+  {
+    "id": "da148ea22fe011a8",
+    "title": "As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFh0eFEtU3g4eUozaUdXZ1FmUDAtQ0Z1TDIwSU5Kb2lPZHZHbWNrVHg3cUsyeVdJT3ZRN2FyNWJCeHZxSnNFRmlXVERzU2tYalprQVJVQTYzY3JJQ2otbmlLeVhRcXBGcWNWaEhrQVpZQlp1UF9ydTFQMFNoSl9MaTEtS2pkOVBGU3BDbEtoMlBvelFaWjNQbEFQUQ?oc=5",
+    "source": "Chicago Tribune",
+    "published_at": "2026-11-10T11:00:55+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "AI가 고등교육 분야에서 입지를 다지는 가운데, 시카고 지역 대학들이 이를 수용하려 나서"
+  },
+  {
+    "id": "d7b8cbead96b559a",
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "source": "Wired",
+    "published_at": "2026-11-10T11:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "그 방어막들을 허물어라! 챗봇을 기업 지배에서 해방시키는 반항자들 만나기"
+  },
+  {
+    "id": "df8566683e359ad5",
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "source": "Wired",
+    "published_at": "2026-11-10T11:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "AI 안전 논쟁이 본질을 잃었다, 10명의 전문가에게 실제 악몽이 무엇인지 물었다"
+  },
+  {
+    "id": "cd86187f23138ff4",
+    "title": "Teleperformance's latest results spotlight Africa's AI opportunity",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1hrb2d2VE1nSFUtNEN5cnNBZHdFY1BGR0pUNW45R090UXFoZUxhYzRBVy1Fd2lkaXFCaDk1em9sWkNxMFVmdFh5bVYyWnBDQ1U1VmtscG92dmZYNWZpRGNXNUNiakl4Y1FMbkg1YUpEY0xieDM0QVM2dEVpNE9xVGtNa05fTTlBODg0MnZKOVo5Tnk3RDFBcm1LdElVVmRaWnBkcV9NS2lKTGZNTWUzODRfNA?oc=5",
+    "source": "Business Insider Africa",
+    "published_at": "2026-11-10T10:43:05+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Teleperformance의 최근 실적이 조명하는 아프리카의 AI 기회"
+  },
+  {
+    "id": "6345aa3a5b7366c2",
+    "title": "OpenAI Builds A 'Kill Switch' To Stop Risky AI Model Work",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVg2U1dhQTBwVHVPdk5uZGI1eUNRSWhkZEdVU01wTDZsUG9PaHoxUGM1a3BGLW81R0pTMkJmRzhnUDdFeHlQSDJSNWlZek9kaXFCa2diMV9tU2pzdko5eldTZlRiTDhsU1MyTjRoYWhLX1BsN3ZNbHMyWlBINnJicV82bkg2Y05yWFZqOW15Q3dPN2dkd0wxRTJRTjJWLW5uS0dpTXFhb3MyN3l3aGfSAbYBQVVfeXFMTURZSkV5NS01aUF6SkV3OGtRbTQ0MGRGUkxLaEhvVkdQT2pxZU1KTzFsd1ZzQ2dPZ0tKMTh2YU96LTR3Mkw1M0pGTkNmNVp1S2RIOGktMEtWT05Xa1JzWHo0VmM4TTdoUGxhcHJzU29FeDhNc1JfYWd2andJTTRXcGxhX2UyRFFMVkpuSnoyeV9PV0tnaWhaX2NsLWdrUUxHc0lnU2JVRmU0UEEzUDd4Sml1U1VuU0E?oc=5",
+    "source": "NDTV",
+    "published_at": "2026-11-10T10:34:27+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "OpenAI, 위험한 AI 모델 작업 중단을 위한 '킬 스위치' 구축"
+  },
+  {
+    "id": "32d935c20d3a3e93",
+    "title": "Commission calls for stricter regulation of AI assistants in France",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN0Z2c3RscXFLMG50ZUVqTjk4UU1kREhOMzhVTmtmYWdPUGZyckdDenNkZ1VuSnVMak5UdXozRTBRUllfSXctUEx5cTJPWGNvRnZyYnFfZzFIM3BpRWI4YTNOUlZLcURLYjRleDZWd1c0RWpBTHkyVnJLTkwyX0ZWS1JSTXFZLUhuMTFqbGU1YUxfR1o5Y0wzcUhDbDFrd1BJM2pyNWlIWjlybVZRdXpab3B6UUVfTUNXbXJkTHhRS2Rpd04xdUFqcm1QbDNZaHdlb3c?oc=5",
+    "source": "Le Monde.fr",
+    "published_at": "2026-11-10T10:15:08+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "프랑스 당국, AI 어시스턴트에 대한 강화된 규제 촉구"
+  },
+  {
+    "id": "a51352540506e4e0",
+    "title": "Top 5 Artificial Intelligence Applications in the FinTech Industry",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGhWWl9lTkJIQm1IeVVXejY1T2RkUW1pT0U3MXdQR0JocWtBSTdIX3dJZjBWY1RMcU9rdEg1Z2JaRHNtSm9YbTV5ZFFpQVNZUF9hamFLUThYcURZYWlyLU9HNHYwMUduUlN3S0hnUHdxOFkzeVIxcXFjQ20yTHowbUx4dTcxUnYtM2c3aFJscmFfWW1GUW4tRUp4eXQtQVBCT1RoSjF3?oc=5",
+    "source": "Nasscom",
+    "published_at": "2026-11-10T09:54:51+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "핀테크 산업의 상위 5대 인공지능 응용 사례"
+  },
+  {
+    "id": "51aa1e550b859f59",
+    "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+    "source": "Britannica",
+    "published_at": "2026-11-10T09:42:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "NVIDIA Corporation | 역사, GPU 및 인공지능"
+  },
+  {
+    "id": "0b7c28b18804f216",
+    "title": "Israel warns Iran is seeking AI-powered cyberattack capabilities",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTlp5cFA0bDRVVmxid1JOckNZMk5rZXJoSE9DbmFtRF9sY254c2JYTFZKRmtqZm5DVjJaUFpORWVYNVNXVHZiTzBwamFNdkwwYmplbU42ODJSbUtxZjZkZUJ1MUNTT0pt?oc=5",
+    "source": "CTech",
+    "published_at": "2026-11-10T09:31:00+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "이스라엘, 이란이 AI 기반 사이버공격 능력 추구 중 경고"
+  },
+  {
+    "id": "3533cbf383e8ab72",
+    "title": "Artificial Intelligence Selloff: Politics & Investing Don't Mix",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0dGQ0dJOFdEekEzcmhRRVRRNFpvRlBiaVFXX3hIOFJMU1htYzNQaDRHT1plQnpFN3lLeWYzQ3RlRzdod1FKM0cycFROdzFLWXJvYnJ3RVlVcVpRbWNVUEpwRU1fazBvUnUtYTdVM0QyVWNLc01HcDk3c05MY2R6RFNVUzlZeGI2d2gwaS1kQUpIZUVzYlpWZkhvamt3Wk9QY1I4ZEVxbGt3LUdYNTZFblY0d0F6TThqZ3RNRw?oc=5",
+    "source": "RealClearMarkets",
+    "published_at": "2026-11-10T09:17:57+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "인공지능 대량 매도: 정치와 투자는 섞이지 않는다"
+  },
+  {
+    "id": "f7d878917ef7099a",
+    "title": "Malcolm Tan Leads ZENO's Global Strategy: Driving Four AI Data Partnerships and Accelerating the Commercialization of Prediction Markets and Artificial Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQVVEcTlLaGl1VURJSHFMUS16VGlic3JPeXZvTlhrS2hja2dhMi13bVA2WlpXend4YkdlRkxOcGtYZGdwUnNEWlNzRG1neDZPbTBTSXJhUDVlMVNXZ19QV3l5Um9IQ2FTVGFwX3FIcE1VMDl3dFlDZ01OOTFGQklmMUFBVV9RdWlZaUw0dGN6YjRFOXFOb002bExqRVpPaUNnT2ZDbDluNTZOX0RrdzBQT3p1WFR6VV82bFBKNDhaRWRmNEE2TlI4TEhOQUxNZU1tVW0wdXdSZEhuUEZhMTI2ZmZacjFCTEFLTkNzMTMydExVb2VDWWhWMzF5ZGdmcnpGZzlOblhBbUJ4WVFiSTgwYzdMVzRnUQ?oc=5",
+    "source": "TechBullion",
+    "published_at": "2026-11-10T08:28:10+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Malcolm Tan이 ZENO의 글로벌 전략 주도: 4개의 AI 데이터 파트너십 추진 및 예측 시장과 인공지능의 상용화 가속"
+  },
+  {
+    "id": "f61f8a7895fab6b2",
+    "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXJOZE13aW5YNlFwQkNJUXA1dEZlUzd3c1l5c2t2MFh2V0RWVWV5ZXVpM004cmhReWs4MndrUVVFWEpENWM1NHpOaTFVQUhlNTB2ZThVVWQ2ZFl2U0tIbXYxaXpvZmNoLXNxSDl5QTB6dWFvalVjRWY0OXVFLUNxQnhhTQ?oc=5",
+    "source": "The Hacker News",
+    "published_at": "2026-11-10T08:16:00+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Anthropic의 Claude Fable 5.2, 다단계 사이버공격 벤치마크에서 GPT-6 Cyber 능가"
+  },
+  {
+    "id": "da9631b170eb04ae",
+    "title": "Trump Signals Openness to AI Safeguards, Says US Must Not Fall Behind China",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUxXMTlldTBneEZFZy1FYnZUTGlzem9DM3JzWHdaRFJIa0pIcTJkMlBiTzhRT3BQTU11VjFHNG15WmU4OHFGV0lpTV9pZEx0cXVpVUxDdWFxamdmLVQ3QTBUa3JUUkNpbXU5bHlQWUhIb2FvRVQ2cDRoWTJaWXV0MHh1VVNEZzlpalJjWWxXSVNuTGw1UTZXX1Z3cHhqWGhwSUl2RQ?oc=5",
+    "source": "www.nationpathindia.com",
+    "published_at": "2026-11-10T07:28:30+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "트럼프, AI 안전 장치에 개방성 시사, 미국이 중국에 뒤져서는 안 된다고 언급"
+  },
+  {
+    "id": "f42225f30c64bdfe",
+    "title": "A technology has emerged in which artificial intelligence (AI) not only determines whether or not to..",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzME01T29Bc3pXbnRNSExGWFBad2Jwd3ZkTHZBVTJvY2lDQ19xVWY4QW1EME00cWpITTM1b191eWQ1UE52clZKOUt3cktlRmcyaXc?oc=5",
+    "source": "매일경제",
+    "published_at": "2026-11-10T07:18:53+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "인공지능(AI)이 단순히 의사 결정을 넘어서는 새로운 기술 등장"
+  },
+  {
+    "id": "3236d04c0106c566",
+    "title": "Study Examines How Artificial Intelligence Tools Support Fashion Design Education",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnpZMl9LX3J0Mm9SWGdKemdBZkt0aGUza1E2dEctSXE2b0NBY0FSQ0JDVUFrV0p6cDd2d05FUk9uWVlmNzR3VFRQV3pHTEpULUlBcXdDY3Y4RC1KV0dzT2Z3ck9KWDVwMWJyaDJISkoyaFVRSVE5XzhTdDFxNnZSX0V5YVlBQl9rZE9QYW5Mb2h2RDdxUEptb1ViMXRPdGxtdUNGSUhIb0ZNQQ?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-10T07:13:45+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "연구, 인공지능 도구가 패션 디자인 교육을 어떻게 지원하는지 조사"
+  },
+  {
     "id": "2eff05fe6c164061",
     "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
     "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
@@ -8,6 +668,16 @@
     "category": "정책·규제",
     "first_seen_at": "2026-11-10T07:04:02.004871+00:00",
     "title_ko": "영국 정부 웹사이트 전역 보안 결함, '신급' 정보 노출"
+  },
+  {
+    "id": "1b18832a8d2c83f7",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-10T07:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "Otter AI, 이제 30개 이상의 언어로 대화 추적 가능"
   },
   {
     "id": "1d447957d9895392",
@@ -90,6 +760,16 @@
     "title_ko": "AI, 은행의 수동 위험 업무 최대 70% 제거 가능, 전략적 역할 수용 능력 확보"
   },
   {
+    "id": "ce06c4cf5f39ac34",
+    "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEQl9udTRUU1hUZzhQNmxLY29aQjRqb3dYZEU1ME5ncnlLMkUzTmpwaTBSRHJmTXRmNkduZmdVNFllZmVNeUlIcVI0TW5rQThqLUNlWDRvcnVJOXM?oc=5",
+    "source": "BBC",
+    "published_at": "2026-11-10T05:22:39+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "호주, OpenAI 해킹 사건 이후 불량 AI에 대한 형사 처벌 검토"
+  },
+  {
     "id": "784bc2d6d821661f",
     "title": "Prompt adware: The hidden cyber threat to enterprise AI",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkFLd3BRZFU0Z0xGV2tQei1TWHh5Rkd0LUJJUXgwSFY2MGdpZ3I3UWhZYUN3d2JvaVVmOF8xdnh6WkJlR0d1UDBfZzBOTFBCVXNQcXBzYWtPUVM2VnN3a1pqYjhyQmFTckFZYjBzTXBrMTlNVTdwaksxandXNGZqclhCVFRiSG1SZ3p6VEJwX0RzdW1obFZSa1JRaFM1WkpCQ2hmNkdPbGZaTi1fb0FqOXV0STM1WnMzakxvaE9Qemt0M05QaEE?oc=5",
@@ -128,6 +808,16 @@
     "category": "기타",
     "first_seen_at": "2026-11-10T07:04:02.004871+00:00",
     "title_ko": "Google DeepMind의 새 AI 도구, Signal Protocol의 보안성 입증"
+  },
+  {
+    "id": "b097fd96f666a89f",
+    "title": "Current Artificial Intelligence Uses in LUGPA Urology Practices",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVdmYTJScmx1ODVLUHJVVDRQOE5GWENwSUZFRHhLRUF5dTVRT2Z0cS01Vm1oV2o2NTRDalZmUlVnYVA2MTdYX0h1TjZ1VnVJUHJVakZLTkduUDF6LVhEUzkxekVkQkpnekMxVGN3Zl9kMWg0M3A3V0cwYlFYdVZQWlBGMXBrOVFINkJVNS1GNmRPRUh3TmFtRUZ3NkVnUFNvbXBRX3c4bXBJQUZlWVdvYzNUU3JlWHU0?oc=5",
+    "source": "Renal and Urology News",
+    "published_at": "2026-11-10T05:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-10T16:12:23.633877+00:00",
+    "title_ko": "LUGPA 비뇨기과 진료에서 현재 인공지능 활용 현황"
   },
   {
     "id": "d47c2b1c82b2867e",
