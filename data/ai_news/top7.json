@@ -1,42 +1,60 @@
 {
-  "generated_at": "2026-11-11T10:28:32.966874+00:00",
+  "generated_at": "2026-11-11T18:26:57.340838+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic, IPO 공모가 주당 70~78달러로 결정...1.4조 달러 기업가치 목표",
-      "title_en": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "title_ko": "TSMC, Anthropic과 OpenAI에 10억 달러 투자",
+      "title_en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-11T18:16:40+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
+    },
+    {
+      "title_ko": "OpenAI 분기 매출 처음으로 100억 달러 돌파",
+      "title_en": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch",
-      "published_at": "2026-11-10T14:01:39+00:00",
+      "published_at": "2026-11-11T16:14:44+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-10T16:12:23.633877+00:00"
+      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "OpenAI 3분기 매출 거의 50% 급증해 100억 달러 달성",
-      "title_en": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDhDaVpHZTR4QzFGMnM1bVhVOUJVM2FkeU1wTUxKYUUzMldHbEVGVC1XR25iZ3hrdGhIbHdheUJhd1Q2T0tqX3cycXFhU0ppemhfZ3dHcG11RDdaS2JPVU5vSThNZmUtYWdveWNiOUplbG1MTFFCY2hLenNVRUxhQ2xibktrUzNaU2pVMVk3UlVqWFhGQllxcGtYclZfMlF5a1pTR2x3ZkhhUkNSNUE?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-11-11T00:57:00+00:00",
+      "title_ko": "Anthropic, IPO 추진 중 1조 3천억 달러 기업가치 목표로 자선에 5천만 달러 기부",
+      "title_en": "Anthropic to give $50M to charity, as it seeks $1.3 trillion valuation",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbndCVXpNNmhzRHVvS3lnb0F5OFdPMUlSZUVMMlBvRTB0WTFSWHRGRDlpNzhCSm9FVm95OER1dVhrdVNZREVTNTJFQVo3bV96Tk52N01ieEc0aktwRTc3TlctRDJXVGo4TWZwNTQ1Uzc2dUdTc1BoSEhGakJDZWJ6UVBicHpVQmF3ZUlYQkxTOGt3bUhtYUNEWmdJb0FXYkdOZ2I0aWNsU2VibDhfUjlfVVdYYVRlQ0VQMzhQM0JDMDQ1Zw?oc=5",
+      "source": "KTVU",
+      "published_at": "2026-11-11T13:34:28+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-11T10:28:15.747777+00:00"
+      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "TSMC, Anthropic·OpenAI에 최대 10억 달러 투자 예정",
-      "title_en": "TSMC to invest up to USD 1 billion in Anthropic, OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW5pMUxHNEE5Wk9hbHBCX1RCTWVsYm8wRnRweW1adjh2WWNDbG4td0lmeTdJYXhhRDJyOGRPclY1SnBxc1gyT3JTRy1BSkhBaHRSUDdBQ3RodWpSNEVKUnBRYnFjNEw5V1duSnJFZUNwZml6X3B3VGdWcjBMdjBfVVBzSTBXWlhtWTNXQzA4bHRpbEMzaW8wd0s3azlpSFVtX3NmOElrQ1dXOHlYSGNKeE53R21iVDg2Y1lmeXp1NnVGX3V3V1c1RWwtZTBUc1pRYmZj0gHYAUFVX3lxTFBsaVBka284MkNNMjhUQnl0Z25vcUpUX1BiM1F6aTc3c2VKdW1aMEl1ZjYtVkxBUUFEMjIzdjRBcDJOLVB6enlsWDFTLVBzWFhwYzAtYVNqWnJyRUV6aXhEbzBhVHBHN3hmZTNwUmxkY2I4Vl9fWE5ZQTg4NlFWVGF4MWhYVTNtY3E5b2U2R2RwVnNhLWozMW5QYk15QUtvN0hXREJiZWo4LVQ1WHNVQlc5NUpZQ3ZXSnFzRm9JVmJJUUhCSjRVZU1iQ0o0QTdfYnI4c2FZdzFWUw?oc=5",
-      "source": "The Economic Times",
-      "published_at": "2026-11-11T05:13:09+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-11T10:28:15.747777+00:00"
+      "title_ko": "Google DeepMind, 새로운 로봇공학 AI 모델과 차세대 유전자 예측 모델 공개",
+      "title_en": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
+      "source": "SiliconANGLE",
+      "published_at": "2026-11-11T16:30:00+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "Anthropic, Claude를 스프레드시트·대시보드·협업 도구로 확대",
-      "title_en": "Anthropic expands Claude into spreadsheets, dashboards and collaborative workplace tools",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOcF9tTG1QRTlSbUx3aTJFazZXZ2dzWTM4cnU5Si10TTF2cGdqRjFPY3JiQk13cEw2M051SzdzVjJQdTlaVWVXUVdDSFFTOXdTaTlhYy15NEZmdDRrRXJqcmZXMXg0NnFobE8xbjRhbHVWQ2N5dVA3bUticFlqNXpVazd4aFp3T2pfYmp6cTcwT1A2ZTU3SFJmUkFOZTlTTHV4amNsWUhLQ25vWWJuN0tDWEpXX3FjT0h3Nk9NQ29RSHVjYVFmdS1uVVAzZWE3TjRoZ1l5d0tTLTRpckdtZTlPY1g5N1puUVhnQ3dsOUdIaXY1M1piRG1ydE5IQ3B3dHJCd3dKTE11V09hNlZNRk9CYnRBQnQ4ZnEzWGhqNGJZYjBjdnMyUnlVcUtkZkdHNC1YVndTcnpYajZQMFFKMDZXOHVQY9IBgAJBVV95cUxQZ25CS1JYTG9ESzRxX3lOd0tOOExGMzJSd3BJZkw1RHdBVy1BVml1ZnV3aVNOODFlMFYwUUpMT3dPUndWSzNTd2lkRTRySE54cG1wRGtMQ3RRcWVnclJEMkEyNXpBZU9kYnNmMkY0bEJObkhWQ041bEVQQzk4QkVvUzlMWFNuT0V2MFhxM1BVZ3lHTE1GZkliUGFoOElzcEE1VE5LOV9hVXF2WV9lV3l6Wkdqemd0WmstVWFicEwzN2VGdEtLbGxremZpU2VsT3N2QXFHVmxIUjRVLTBaZkpwSjJKYXpGSUVPT2hCZjhHcWV2VVJVbWQ3S1JVRHNxa2Z0?oc=5",
-      "source": "ET CIO",
-      "published_at": "2026-11-11T08:30:00+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-11T10:28:15.747777+00:00"
+      "title_ko": "OpenAI·Anthropic, 뉴욕 AI 안전법 시행으로 새로운 감시 체제에 직면",
+      "title_en": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-10T20:52:13+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-10T22:10:48.119912+00:00"
+    },
+    {
+      "title_ko": "OpenAI, 여행 스타트업 Odessia 인수",
+      "title_en": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-10T21:08:52+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-10T22:10:48.119912+00:00"
     },
     {
       "title_ko": "미국과 중국, AI 위험 관리를 위한 소통 채널 구축",
@@ -45,24 +63,6 @@
       "source": "UkrMedia News",
       "published_at": "2026-11-11T08:56:02+00:00",
       "category": "정책·규제",
-      "first_seen_at": "2026-11-11T10:28:15.747777+00:00"
-    },
-    {
-      "title_ko": "Nvidia CEO 젠슨 황의 중국 스파이 의혹 관계, AI 경쟁에 미칠 파장",
-      "title_en": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-10T17:04:19+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-10T22:10:48.119912+00:00"
-    },
-    {
-      "title_ko": "Google DeepMind, Signal 암호화 테스트에 AI 활용...검사 결과 공개",
-      "title_en": "Google DeepMind used AI to test Signal’s encryption: Here’s what it found",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlFKTGJMUlJCSThwNFZ1X0lxRXJ6ZThueWNWUTlCSm5COG1tbDM0Tjhtd2ZEaXlTQnhQRDU4SjlGQW15LS16MV9fZ3NTVTBhSmhNY29fR1BSMVRKTzlOb3RqTDZhVUU3cW5GdHRDT2dZbTBqdnFfYjJCRW9jTnJtbDc3UzlWTjZEbkhhX3FvN3FTaTVERnBLX3RVRWVtdTl4R1F5RlB1Vl9KM29HaUtnb1E2UnRGZkstWEpsOGlLaUFHaGI5X2JaUdIBzwFBVV95cUxNYUFwd3NnMXptUldTbk1nODZfWUtIOEM0bUF6ZFhaaXc2WGZHNEJSYWk5OWV1eXV6MlJBdlVlNjBKWlpUUkQ5RlJvYlBTdUZscTF0RXU1VW1CMkxWQzFCb0dkeC1LZ2ZmZ1ZneGQ0MzBKOEZSLU5tMThvZ3NqTldFbXUxSW9oOVEtMmdlaVJQSGIyUFEtY3ZiUDBsQ29wM0xERjlxdUJtVE05MnFFNXZVZ3pPMFE0OW1fbnU5ZFRUbnhVOW9PNGJ2UDdkOFVXMWc?oc=5",
-      "source": "The Indian Express",
-      "published_at": "2026-11-11T09:06:15+00:00",
-      "category": "연구·기술",
       "first_seen_at": "2026-11-11T10:28:15.747777+00:00"
     }
   ]
