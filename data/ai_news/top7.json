@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T17:58:24.502269+00:00",
+  "generated_at": "2026-11-12T23:29:00.367309+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "젠슨 황 엔비디아 CEO 사임",
+      "title_ko": "젠슨 황, 엔비디아 CEO 자리에서 물러나",
       "title_en": "Jensen Huang Resigns as Nvidia CEO",
       "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
       "source": "Wired",
@@ -12,43 +12,43 @@
       "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
     },
     {
-      "title_ko": "TSMC, 앤스로픽·OpenAI에 10억 달러 투자",
-      "title_en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-11T18:16:40+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
-    },
-    {
-      "title_ko": "앤스로픽 IPO, 첫 순수 AI 기업 공개 시장 진출",
-      "title_en": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5",
-      "source": "CBC",
-      "published_at": "2026-11-12T09:00:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-12T09:26:32.952846+00:00"
-    },
-    {
-      "title_ko": "앤스로픽, 신경망 특허 침해로 고소당해",
-      "title_en": "Anthropic sued for allegedly infringing inventors' neural network patents",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-12T17:35:43+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
-    },
-    {
-      "title_ko": "소프트뱅크 10억 달러 손실, AI 천연가스 사업에 제동",
-      "title_en": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "title_ko": "민주당, 엔비디아 조사 착수...황 회장의 트럼프와의 '거래' 맹비난",
+      "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "source": "TechCrunch",
-      "published_at": "2026-11-12T17:00:52+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
+      "published_at": "2026-11-12T22:42:51+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
     },
     {
-      "title_ko": "파이어웍스 AI 사이버 공격, 노션 고객 채팅 기록 유출",
+      "title_ko": "앤스로픽, 1조 달러대 IPO 준비 중",
+      "title_en": "Anthropic Preps for a Trillion-Dollar Debut",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU1PLXRFWThaMlc5emtuWnhRYXI0cmlVTjVjZFBOYU5CUldTMTBsdDZkc2JPR3lWbXFRcEs5VkU3eXBKVEhXUDI5QjR2WkRKUW5aSndQX0VEV1ZDLVRLZnhTSXZ2YmJ2eUVLbGVFVVIteEZMdk9CVVJESXo3d01NMHQyVG5FSmlRY251anVMLUlhRkVQZ1RJ?oc=5",
+      "source": "Global Finance Magazine",
+      "published_at": "2026-11-12T18:59:48+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
+    },
+    {
+      "title_ko": "구글, 제미니 4 하이드로겐 출시...3.8 플래시 대체",
+      "title_en": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-12T19:23:03+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
+    },
+    {
+      "title_ko": "비영리단체, 앤스로픽·구글 등 AI 대형 기업 상대로 소송...AI 개발 중단 요구",
+      "title_en": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
+      "source": "Politico",
+      "published_at": "2026-11-12T22:24:00+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
+    },
+    {
+      "title_ko": "파이어웍스 AI 사이버 공격...노션 고객 채팅 기록 유출",
       "title_en": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
       "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
       "source": "TechCrunch",
@@ -57,13 +57,13 @@
       "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
     },
     {
-      "title_ko": "OpenAI 분기 매출 처음으로 100억 달러 돌파",
-      "title_en": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-11T16:14:44+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
+      "title_ko": "FAA, AI 활용해 전국 항공로 혼잡 관리 확대",
+      "title_en": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-12T22:28:47+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
     }
   ]
 }
