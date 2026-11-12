@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T18:26:57.340838+00:00",
+  "generated_at": "2026-11-12T01:22:02.231597+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "TSMC, Anthropic과 OpenAI에 10억 달러 투자",
+      "title_ko": "TSMC, 앤스로픽과 오픈AI에 각각 10억 달러 투자",
       "title_en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
       "source": "Ars Technica",
@@ -12,7 +12,7 @@
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "OpenAI 분기 매출 처음으로 100억 달러 돌파",
+      "title_ko": "오픈AI 분기 매출 사상 처음 100억 달러 돌파",
       "title_en": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
       "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch",
@@ -21,16 +21,34 @@
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "Anthropic, IPO 추진 중 1조 3천억 달러 기업가치 목표로 자선에 5천만 달러 기부",
-      "title_en": "Anthropic to give $50M to charity, as it seeks $1.3 trillion valuation",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbndCVXpNNmhzRHVvS3lnb0F5OFdPMUlSZUVMMlBvRTB0WTFSWHRGRDlpNzhCSm9FVm95OER1dVhrdVNZREVTNTJFQVo3bV96Tk52N01ieEc0aktwRTc3TlctRDJXVGo4TWZwNTQ1Uzc2dUdTc1BoSEhGakJDZWJ6UVBicHpVQmF3ZUlYQkxTOGt3bUhtYUNEWmdJb0FXYkdOZ2I0aWNsU2VibDhfUjlfVVdYYVRlQ0VQMzhQM0JDMDQ1Zw?oc=5",
-      "source": "KTVU",
-      "published_at": "2026-11-11T13:34:28+00:00",
+      "title_ko": "앤스로픽 상장 추진, AI 업계 구조 재편 신호",
+      "title_en": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2JLM2NpM2tmaXR1MTJvb0VXczItSHBOaTdacGVsSDRPRzBHbWJYLTk4ZWY3enJISGdreml2aElvRk5oYm9UbWsxRWRxcnVCc0xobHJtYW1tSzhwRmhZUWE3Vmt2MlNTSTVuVS1hUzlTLVBQaFMyQ2hpS24yWlNOM0czR2Y?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-11-11T13:40:36+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "Google DeepMind, 새로운 로봇공학 AI 모델과 차세대 유전자 예측 모델 공개",
+      "title_ko": "엔비디아 이사회, CEO 젠슨 황 경질 추진 보도",
+      "title_en": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-11T23:28:45+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
+    },
+    {
+      "title_ko": "뉴욕주, AI 안전 센터 출범 - RAISE 법안 시한 앞두고",
+      "title_en": "New York Launches AI Safety Center Ahead of RAISE Act Deadline",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVloQVFESlhjZ1hyZ2IzOHphVGlfdWZZNHNSX1JqdVdlV192d0J3amwzQ2VORE43aEhCUW9uRkVEb2hzNjN6bzExdERSTWJ6MFUzdGdtMXpLbXJ6cFNNelBWTXdKYlZBNEladmcydlMzeGlDNGlKVzVlMFkwRE1Kay1XdG1RX0hYOFd0RjMtbEsya0V1S2d3ZERtY21fZlVUVzFLbngxMzdIZkZMczBORkdPU0RNTENlaEZ5RA?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-11-11T19:39:46+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
+    },
+    {
+      "title_ko": "구글 딥마인드, 고도화된 로봇 AI 모델과 차세대 유전자 예측 모델 공개",
       "title_en": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
       "source": "SiliconANGLE",
@@ -39,31 +57,13 @@
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "OpenAI·Anthropic, 뉴욕 AI 안전법 시행으로 새로운 감시 체제에 직면",
-      "title_en": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-10T20:52:13+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-10T22:10:48.119912+00:00"
-    },
-    {
-      "title_ko": "OpenAI, 여행 스타트업 Odessia 인수",
-      "title_en": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-10T21:08:52+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-10T22:10:48.119912+00:00"
-    },
-    {
-      "title_ko": "미국과 중국, AI 위험 관리를 위한 소통 채널 구축",
-      "title_en": "The US and China are establishing a communication channel to manage the risks of AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1J5VHpZWG1abGRfQTdrWWhRQjBqTW5zZE55SGhmckpGRl9xMkpoVWdKZEd4d2JheTJfYVVVdDlnSXJGcXk0YVdEZDU3SFlqQnQxZ2VZd2hPcW5MQ1VseHhuNjd2SklVWlNHLVA5eVdXWlZnb2JHeG8tZ0YxbklqUnd1bG83bmI3MmxWWWlwYTM?oc=5",
-      "source": "UkrMedia News",
-      "published_at": "2026-11-11T08:56:02+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-11T10:28:15.747777+00:00"
+      "title_ko": "앤스로픽, Claude 미팅 기능 구글 Meet 통합 - 직장 협업 도구 강화",
+      "title_en": "Claude Meetings joins Google Meet calls in Anthropic push",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBienVBbHpBdkVOUVl0bFhUdlJEak8zVDl4OUdWbnl2Y2hGcnlPTW1xOWM4YUdxNEFodUxRek1lNWdROFZWM3lPT0RCVnBVbkM5SVpZandVV2NuaTM2QzROWExFLVlnM2RsT2VuLThSc2xRZFBfdGUwVVJkUXhPbkU?oc=5",
+      "source": "BetaNews",
+      "published_at": "2026-11-11T20:05:15+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
     }
   ]
 }
