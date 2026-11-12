@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T01:22:02.231597+00:00",
+  "generated_at": "2026-11-12T09:26:49.080102+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "TSMC, 앤스로픽과 오픈AI에 각각 10억 달러 투자",
+      "title_ko": "TSMC, Anthropic과 OpenAI에 총 10억 달러 투자",
       "title_en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
       "source": "Ars Technica",
@@ -12,25 +12,16 @@
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "오픈AI 분기 매출 사상 처음 100억 달러 돌파",
-      "title_en": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-11T16:14:44+00:00",
+      "title_ko": "Anthropic IPO, 변동성 큰 시장에서 첫 '순수 AI 기업' 상장 도전",
+      "title_en": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5",
+      "source": "CBC",
+      "published_at": "2026-11-12T09:00:00+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
+      "first_seen_at": "2026-11-12T09:26:32.952846+00:00"
     },
     {
-      "title_ko": "앤스로픽 상장 추진, AI 업계 구조 재편 신호",
-      "title_en": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2JLM2NpM2tmaXR1MTJvb0VXczItSHBOaTdacGVsSDRPRzBHbWJYLTk4ZWY3enJISGdreml2aElvRk5oYm9UbWsxRWRxcnVCc0xobHJtYW1tSzhwRmhZUWE3Vmt2MlNTSTVuVS1hUzlTLVBQaFMyQ2hpS24yWlNOM0czR2Y?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-11-11T13:40:36+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
-    },
-    {
-      "title_ko": "엔비디아 이사회, CEO 젠슨 황 경질 추진 보도",
+      "title_ko": "엔비디아 이사회, CEO 젠슨 황 해임 추진 중인 것으로 보도",
       "title_en": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
       "source": "TechCrunch",
@@ -39,16 +30,25 @@
       "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
     },
     {
-      "title_ko": "뉴욕주, AI 안전 센터 출범 - RAISE 법안 시한 앞두고",
-      "title_en": "New York Launches AI Safety Center Ahead of RAISE Act Deadline",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVloQVFESlhjZ1hyZ2IzOHphVGlfdWZZNHNSX1JqdVdlV192d0J3amwzQ2VORE43aEhCUW9uRkVEb2hzNjN6bzExdERSTWJ6MFUzdGdtMXpLbXJ6cFNNelBWTXdKYlZBNEladmcydlMzeGlDNGlKVzVlMFkwRE1Kay1XdG1RX0hYOFd0RjMtbEsya0V1S2d3ZERtY21fZlVUVzFLbngxMzdIZkZMczBORkdPU0RNTENlaEZ5RA?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-11-11T19:39:46+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
+      "title_ko": "OpenAI 분기 매출, 처음으로 100억 달러 돌파",
+      "title_en": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-11T16:14:44+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "구글 딥마인드, 고도화된 로봇 AI 모델과 차세대 유전자 예측 모델 공개",
+      "title_ko": "대기업들, 비용 절감을 위해 오픈소스 AI 사용 확대 계획 중",
+      "title_en": "Most large firms plan higher open-weight AI use to cap bills, study shows",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWVBOHhodjNxVmZ6Q05XeEJBOFlHNUFzTjRyMVBUMEtoOEgwRWJKT0dqWlU0RGo2ZmZFNm5nZ0ZYSXJydEZfbTJyUmxCQmc1OEhvMmlBc1N0aUJNZXFjb2FFM2Y3N0ZoQzN2bEZKcEU4N3pUeWxiYWhwT1kzUHdLTkwzSUJyZXhpSUxQck1RUzUzQ1JNa2EzV0hURFl6V3VsRDR5eUl1SzBVczN1WV9BTkU3cno?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-12T09:04:43+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-12T09:26:32.952846+00:00"
+    },
+    {
+      "title_ko": "Google DeepMind, 첨단 로봇 AI 모델과 차세대 유전자 예측 모델 공개",
       "title_en": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
       "source": "SiliconANGLE",
@@ -57,12 +57,12 @@
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "앤스로픽, Claude 미팅 기능 구글 Meet 통합 - 직장 협업 도구 강화",
-      "title_en": "Claude Meetings joins Google Meet calls in Anthropic push",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBienVBbHpBdkVOUVl0bFhUdlJEak8zVDl4OUdWbnl2Y2hGcnlPTW1xOWM4YUdxNEFodUxRek1lNWdROFZWM3lPT0RCVnBVbkM5SVpZandVV2NuaTM2QzROWExFLVlnM2RsT2VuLThSc2xRZFBfdGUwVVJkUXhPbkU?oc=5",
-      "source": "BetaNews",
-      "published_at": "2026-11-11T20:05:15+00:00",
-      "category": "제품·출시",
+      "title_ko": "뉴욕, AI 안전 위반에 하루 300만 달러 과태료 부과 제안",
+      "title_en": "New York Proposes $3 Million Daily Fines for AI Safety Violations",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQkxUWDhVTk43VWJCU3liMTB0Z1RjSGpmYXNObjJCUl9ONU95T2hwY2RtQjZpOEpRQ1dJcS1ramo2a3VielVrOU8xU1ZWREw4ckQ1cldQNm5JaVR4dUZMbXlfWVM4WU5jR1hOZFhUUWhZdHRFMHc2UDBfTy1zOTFZaWhqWDRPYmVtX2xvdy1WNkZPZTI4SWpaZnZFbVlFUFBjckI5OW1jbHJfR1ZXZThhbXlHTS1iYnlYVjBkN2JINA?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-11-11T21:14:46+00:00",
+      "category": "정책·규제",
       "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
     }
   ]
