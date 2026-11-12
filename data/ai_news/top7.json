@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-11-12T09:26:49.080102+00:00",
+  "generated_at": "2026-11-12T17:58:24.502269+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "TSMC, Anthropic과 OpenAI에 총 10억 달러 투자",
+      "title_ko": "젠슨 황 엔비디아 CEO 사임",
+      "title_en": "Jensen Huang Resigns as Nvidia CEO",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "source": "Wired",
+      "published_at": "2026-11-12T13:58:06+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
+    },
+    {
+      "title_ko": "TSMC, 앤스로픽·OpenAI에 10억 달러 투자",
       "title_en": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
       "source": "Ars Technica",
@@ -12,7 +21,7 @@
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
     },
     {
-      "title_ko": "Anthropic IPO, 변동성 큰 시장에서 첫 '순수 AI 기업' 상장 도전",
+      "title_ko": "앤스로픽 IPO, 첫 순수 AI 기업 공개 시장 진출",
       "title_en": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcksyNVltUUlTYUc1eXh6RW1fblZocVZOd3RYeFRsaUVQaFRYN1lfNEdUbGFuNmwwbWRfbF9jc0M3QndsYXBSZUd4RVlxRzllR3ItWmZhMXNmaTZFcDk5UkR0Zk9GNGs?oc=5",
       "source": "CBC",
@@ -21,49 +30,40 @@
       "first_seen_at": "2026-11-12T09:26:32.952846+00:00"
     },
     {
-      "title_ko": "엔비디아 이사회, CEO 젠슨 황 해임 추진 중인 것으로 보도",
-      "title_en": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-11T23:28:45+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
+      "title_ko": "앤스로픽, 신경망 특허 침해로 고소당해",
+      "title_en": "Anthropic sued for allegedly infringing inventors' neural network patents",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-12T17:35:43+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
     },
     {
-      "title_ko": "OpenAI 분기 매출, 처음으로 100억 달러 돌파",
+      "title_ko": "소프트뱅크 10억 달러 손실, AI 천연가스 사업에 제동",
+      "title_en": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-12T17:00:52+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
+    },
+    {
+      "title_ko": "파이어웍스 AI 사이버 공격, 노션 고객 채팅 기록 유출",
+      "title_en": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-12T15:02:28+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
+    },
+    {
+      "title_ko": "OpenAI 분기 매출 처음으로 100억 달러 돌파",
       "title_en": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
       "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch",
       "published_at": "2026-11-11T16:14:44+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
-    },
-    {
-      "title_ko": "대기업들, 비용 절감을 위해 오픈소스 AI 사용 확대 계획 중",
-      "title_en": "Most large firms plan higher open-weight AI use to cap bills, study shows",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWVBOHhodjNxVmZ6Q05XeEJBOFlHNUFzTjRyMVBUMEtoOEgwRWJKT0dqWlU0RGo2ZmZFNm5nZ0ZYSXJydEZfbTJyUmxCQmc1OEhvMmlBc1N0aUJNZXFjb2FFM2Y3N0ZoQzN2bEZKcEU4N3pUeWxiYWhwT1kzUHdLTkwzSUJyZXhpSUxQck1RUzUzQ1JNa2EzV0hURFl6V3VsRDR5eUl1SzBVczN1WV9BTkU3cno?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-12T09:04:43+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-12T09:26:32.952846+00:00"
-    },
-    {
-      "title_ko": "Google DeepMind, 첨단 로봇 AI 모델과 차세대 유전자 예측 모델 공개",
-      "title_en": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
-      "source": "SiliconANGLE",
-      "published_at": "2026-11-11T16:30:00+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-11-11T18:26:25.169834+00:00"
-    },
-    {
-      "title_ko": "뉴욕, AI 안전 위반에 하루 300만 달러 과태료 부과 제안",
-      "title_en": "New York Proposes $3 Million Daily Fines for AI Safety Violations",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQkxUWDhVTk43VWJCU3liMTB0Z1RjSGpmYXNObjJCUl9ONU95T2hwY2RtQjZpOEpRQ1dJcS1ramo2a3VielVrOU8xU1ZWREw4ckQ1cldQNm5JaVR4dUZMbXlfWVM4WU5jR1hOZFhUUWhZdHRFMHc2UDBfTy1zOTFZaWhqWDRPYmVtX2xvdy1WNkZPZTI4SWpaZnZFbVlFUFBjckI5OW1jbHJfR1ZXZThhbXlHTS1iYnlYVjBkN2JINA?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-11-11T21:14:46+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-12T01:21:34.458608+00:00"
     }
   ]
 }
