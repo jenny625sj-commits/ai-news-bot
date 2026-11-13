@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T23:29:00.367309+00:00",
+  "generated_at": "2026-11-13T05:38:39.804264+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "젠슨 황, 엔비디아 CEO 자리에서 물러나",
+      "title_ko": "젠슨 황, 엔비디아 CEO 직에서 사퇴",
       "title_en": "Jensen Huang Resigns as Nvidia CEO",
       "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
       "source": "Wired",
@@ -12,16 +12,7 @@
       "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
     },
     {
-      "title_ko": "민주당, 엔비디아 조사 착수...황 회장의 트럼프와의 '거래' 맹비난",
-      "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-12T22:42:51+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
-    },
-    {
-      "title_ko": "앤스로픽, 1조 달러대 IPO 준비 중",
+      "title_ko": "앤스로픽, 1조 달러 규모 상장 준비 중",
       "title_en": "Anthropic Preps for a Trillion-Dollar Debut",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU1PLXRFWThaMlc5emtuWnhRYXI0cmlVTjVjZFBOYU5CUldTMTBsdDZkc2JPR3lWbXFRcEs5VkU3eXBKVEhXUDI5QjR2WkRKUW5aSndQX0VEV1ZDLVRLZnhTSXZ2YmJ2eUVLbGVFVVIteEZMdk9CVVJESXo3d01NMHQyVG5FSmlRY251anVMLUlhRkVQZ1RJ?oc=5",
       "source": "Global Finance Magazine",
@@ -30,16 +21,7 @@
       "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
     },
     {
-      "title_ko": "구글, 제미니 4 하이드로겐 출시...3.8 플래시 대체",
-      "title_en": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-12T19:23:03+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
-    },
-    {
-      "title_ko": "비영리단체, 앤스로픽·구글 등 AI 대형 기업 상대로 소송...AI 개발 중단 요구",
+      "title_ko": "비영리단체들, AI 대형 기업들을 상대로 개발 중단 요구 소송 제기",
       "title_en": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
       "source": "Politico",
@@ -48,7 +30,25 @@
       "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
     },
     {
-      "title_ko": "파이어웍스 AI 사이버 공격...노션 고객 채팅 기록 유출",
+      "title_ko": "구글, 복잡한 질문 이해력 향상한 새로운 제미니 모델 공개",
+      "title_en": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge",
+      "published_at": "2026-11-12T21:55:32+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
+    },
+    {
+      "title_ko": "SMIC, AI 칩 공급 부족이 2027년까지 지속될 것으로 전망",
+      "title_en": "SMIC says AI chip supply chain will remain tight through 2027",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNFpfaThoemRYVUVQNkJGVEY2MHI4Q0ZIaVkyb3JmS1ZRRFFZWVc1QXF2blB1aVZ4cTNsU3MzdmNfWldZc0toN3pBeXhnRzBVM1hDQjJ6Q1hVeGd5T0JLSm5OSXNSUUhFRFZwZDNnM2JhMm84alZtTE5yTFJzOHFyUTBtNW9CWFBLU21Tbmx3amhhWXotY3B0VXVRYjhJVlVXaUs4NGRIYWRJU01acG9hbUdnQ3VYcExnajU3WWgxOHFFaHJDZmRzX0ZNZFNpaTRIdU1kdmoxeTVNQlRrNjhxbEdoRzhETHlkdmZLRThKenNSSDh4SGp4NUFTczRfZzhsZlZTUGJGMzN2Z1hTbnk2Z0dZbXZZNHRfZEdJa0xJennSAd4BQVVfeXFMTWZoajRCekZlOTNPM0wtSnJxa0h1VE14OUF2YVM3dmVuT0s4SExMdk9XdTJKTUtoNEFSdGlOUjRLN0NYYTEtUHZ2clF0RGdhaGU2RHZCSXhLc08yUFpBd19VZjh2ZnB3QUtPNDVWX0JzS3dPMDRtc2xwQTFOZEtvTEtVTmd1N2FtZ0JORlV2Tm1WcEMzZVZjQzRtY1h4SGp6REh3ajYyMGktUHROYVh6bVN3UER0Mnh2WU1zZV9MQTZsT1hGTm9oY2F6SFdia1NxX0tDREVfQjVvQVVnSFFR?oc=5",
+      "source": "ET CIO",
+      "published_at": "2026-11-13T03:08:02+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-13T05:38:24.448836+00:00"
+    },
+    {
+      "title_ko": "파이어웍스 AI 사이버공격으로 노션 고객 대화 기록 유출",
       "title_en": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
       "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
       "source": "TechCrunch",
@@ -57,13 +57,13 @@
       "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
     },
     {
-      "title_ko": "FAA, AI 활용해 전국 항공로 혼잡 관리 확대",
-      "title_en": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-12T22:28:47+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
+      "title_ko": "짐 크래머, 앤스로픽 상장을 앞두고 제기되는 세 가지 의문점",
+      "title_en": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnlTTmVFZXFUUnAyZTUwM056dW9MeUdWRVdzQ2lQa2dsRnJEN19FRVp6eENzbV9JU1NBMHEyX3FwX3ZYbTljT3JBSXhRU1FNSWJhSUVMbUItTEpXeWhSZnNPQjdQYmoyaERsTFZycnJpaWkxUzliSEFRZFRTQnRBZFNiempKYXdsUXfSAY8BQVVfeXFMTTAxRG1oeTU5a2VlaWdvQXJST2wxZU9WM0hFemc5TzBqMEtXOS1DbFZUU3JEb25WcGVEakRCbjJkQWJUZTlmZ0xjVEZ6RkV0TF9BYXlZaUZUYTl3Q3ZjNlFnNlluNjF0eUxuckhlNG1BYnJKWUplOFZNQmg4TFMwTTVPX3lqSE5CRkNvWGx2NG8?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-12T23:45:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-13T05:38:24.448836+00:00"
     }
   ]
 }
