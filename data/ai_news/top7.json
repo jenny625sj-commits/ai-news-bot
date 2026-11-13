@@ -1,36 +1,54 @@
 {
-  "generated_at": "2026-11-13T14:08:32.696826+00:00",
+  "generated_at": "2026-11-13T21:15:09.013577+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "젠슨 황 CEO 퇴진과 미국 규제로 엔비디아 의존 중국 AI 프로젝트 30억 달러 규모 위험에 처해",
-      "title_en": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-13T11:39:41+00:00",
+      "title_ko": "월스트리트, 앤스로픽의 공격적인 지출 준비",
+      "title_en": "Wall Street Braces for Anthropic’s Aggressive Spending",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-11-13T18:52:43+00:00",
       "category": "기업·투자",
+      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
+    },
+    {
+      "title_ko": "최신 연준 조사에서 AI가 금융시스템 우려의 최상위로 급부상",
+      "title_en": "AI rockets to top of worries about financial system in latest Fed survey",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-13T21:03:43+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
+    },
+    {
+      "title_ko": "엔비디아 AI GPU 150만개 대량 밀수 추정, 젠슨 황 퇴직의 배경으로 작용",
+      "title_en": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, leading analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPa05TQWhhVXlHQVIxZHdoazBqQUJSNmlfRkRVc29ROGNyLVAzbmxDb0Q1UnpEZUtBd0RueEVRZ0ZRaXJMemxIeWxtRU9iNld1cHVfOEVhZVg4bEFfamFmZEc2T3liSF9pT2huRDBOVkhMdVRHSmkyY2lsY2h0dkcwNlVmekZhZW5xSVNfd1FfdXc0NG5sNm45TDJxT09mQ1dQdUJveWRCbzB0OE5yYW5aTkYtakJyTFhnelhIcWVWY3lxVDJFc3V5Wl9rMWxST3RORzVMckFhY2dNSkUtS1JCc2ptMzd2Q0ZsVGVwRWxxR3Qwd214Z1JHaDJJMkUwWFpmMVdfYmRGbWt1VXpCTWhjVWdnbXpqYjhjUGJOUU5KQ2hfTDdhRXpIV3BSa1FMVFp5elNQNTNqLThHYzJsQVQ3NV9pZjdBRm5UcFRtVVBXN1JJb0ZvcGRqWVpsN1FSSDFHOVd0S2lUZGVzSVFL?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-11-13T11:00:00+00:00",
+      "category": "보안",
       "first_seen_at": "2026-11-13T14:08:11.450987+00:00"
     },
     {
-      "title_ko": "EU 지도자들 첫 AI 정상회담에서 도전과제 해결 모색",
-      "title_en": "EU leaders seek to tackle challenges at first ever AI summit",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ?oc=5",
+      "title_ko": "AI 에이전트 스타트업 랭체인, 30억 달러 가치평가 달성",
+      "title_en": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-13T19:37:57+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
+    },
+    {
+      "title_ko": "오픈AI·구글·앤스로픽, 프론티어 AI 개발 중단 요구 소송 제기",
+      "title_en": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-13T06:06:00+00:00",
+      "published_at": "2026-11-12T20:35:49+00:00",
       "category": "정책·규제",
       "first_seen_at": "2026-11-13T14:08:11.450987+00:00"
     },
     {
-      "title_ko": "비영리단체들, AI 개발 중단 요구하며 구글·앤스로픽 등 기술 거대 기업 상대로 소송 제기",
-      "title_en": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
-      "source": "Politico",
-      "published_at": "2026-11-12T22:24:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
-    },
-    {
-      "title_ko": "구글의 새로운 제미나이 모델, 복잡한 질문 이해 능력 대폭 향상",
+      "title_ko": "구글의 새로운 제미니 모델, 복잡한 질문 이해 능력 향상",
       "title_en": "Google’s new Gemini model is better at understanding complicated questions",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
       "source": "The Verge",
@@ -39,31 +57,13 @@
       "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
     },
     {
-      "title_ko": "앤스로픽, 1조 달러 규모의 역사적 상장 준비",
-      "title_en": "Anthropic Preps for a Trillion-Dollar Debut",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU1PLXRFWThaMlc5emtuWnhRYXI0cmlVTjVjZFBOYU5CUldTMTBsdDZkc2JPR3lWbXFRcEs5VkU3eXBKVEhXUDI5QjR2WkRKUW5aSndQX0VEV1ZDLVRLZnhTSXZ2YmJ2eUVLbGVFVVIteEZMdk9CVVJESXo3d01NMHQyVG5FSmlRY251anVMLUlhRkVQZ1RJ?oc=5",
-      "source": "Global Finance Magazine",
-      "published_at": "2026-11-12T18:59:48+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
-    },
-    {
-      "title_ko": "젠슨 황, 의회 증언에 응하기로 합의",
-      "title_en": "Jensen Huang agrees to testify before Congress",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-12T16:36:37+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
-    },
-    {
-      "title_ko": "젠슨 황, 엔비디아 CEO 직에서 사임",
-      "title_en": "Jensen Huang Resigns as Nvidia CEO",
-      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "source": "Wired",
-      "published_at": "2026-11-12T13:58:06+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-12T17:57:46.882697+00:00"
+      "title_ko": "인포, 앤스로픽의 클로드를 제조 ERP에 통합",
+      "title_en": "Infor, Anthropic Bring Claude Into Manufacturing ERP",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGZlSHFXWi1UR3RoT3E4cDRsYlBoTmlJS3BLckN5aW5kT3FuMlpjXzRhX25oNm4yQk9FdGZsNmhyLWZMbzhIUFM3ckJaRE1XWnNRcVBaU0V3WmxvNzk5RmlQXzdsbGFUNGZlYWFTSGw2QVZVS2Y3cmR6azBVdDNtY3RGb0lxalZ6T1JyUldXSkpHY0p4TWF3TEpJYXo0ZUJRRjZtVjhwLVdmY3hOdE5RSDhR?oc=5",
+      "source": "Manufacturing Business Technology",
+      "published_at": "2026-11-13T20:49:11+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
     }
   ]
 }
