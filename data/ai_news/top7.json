@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-11-13T21:15:09.013577+00:00",
+  "generated_at": "2026-11-14T02:00:46.613517+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "월스트리트, 앤스로픽의 공격적인 지출 준비",
+      "title_ko": "젠슨 황의 떠남이 AI 스타트업 펀딩에 미치는 영향, VC와 창업가들이 우려",
+      "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
+    },
+    {
+      "title_ko": "미국 전역 항공 운항 중단, FAA의 새로운 AI 항공 교통 관제 도구와의 연관성 의심",
+      "title_en": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDFpcDBqNkNOV0JPcjFPQVI0VUpIaE9EaE84Ni1BZU43cjRkOHlzUWpmOE9hZGZBX2pSN3FST3BEbzFPZTh1dkZSZWNPVU9wekdIdnVObjRVcFplRDNILUlZMklEOUNaOUtpbk1TaE5qS3hsSnF2ZW1oSVlzSkR5Yk1mQWFySGpyM25weDJn?oc=5",
+      "source": "Futurism",
+      "published_at": "2026-11-13T22:56:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
+    },
+    {
+      "title_ko": "월스트리트, Anthropic의 공격적 지출 증가에 긴장",
       "title_en": "Wall Street Braces for Anthropic’s Aggressive Spending",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
       "source": "The New York Times",
@@ -12,40 +30,22 @@
       "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
     },
     {
-      "title_ko": "최신 연준 조사에서 AI가 금융시스템 우려의 최상위로 급부상",
-      "title_en": "AI rockets to top of worries about financial system in latest Fed survey",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+      "title_ko": "EU 지도자들, 첫 AI 정상회담에서 과제 해결 방안 모색",
+      "title_en": "EU leaders seek to tackle challenges at first ever AI summit",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-13T21:03:43+00:00",
+      "published_at": "2026-11-13T06:06:00+00:00",
       "category": "정책·규제",
-      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
-    },
-    {
-      "title_ko": "엔비디아 AI GPU 150만개 대량 밀수 추정, 젠슨 황 퇴직의 배경으로 작용",
-      "title_en": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, leading analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPa05TQWhhVXlHQVIxZHdoazBqQUJSNmlfRkRVc29ROGNyLVAzbmxDb0Q1UnpEZUtBd0RueEVRZ0ZRaXJMemxIeWxtRU9iNld1cHVfOEVhZVg4bEFfamFmZEc2T3liSF9pT2huRDBOVkhMdVRHSmkyY2lsY2h0dkcwNlVmekZhZW5xSVNfd1FfdXc0NG5sNm45TDJxT09mQ1dQdUJveWRCbzB0OE5yYW5aTkYtakJyTFhnelhIcWVWY3lxVDJFc3V5Wl9rMWxST3RORzVMckFhY2dNSkUtS1JCc2ptMzd2Q0ZsVGVwRWxxR3Qwd214Z1JHaDJJMkUwWFpmMVdfYmRGbWt1VXpCTWhjVWdnbXpqYjhjUGJOUU5KQ2hfTDdhRXpIV3BSa1FMVFp5elNQNTNqLThHYzJsQVQ3NV9pZjdBRm5UcFRtVVBXN1JJb0ZvcGRqWVpsN1FSSDFHOVd0S2lUZGVzSVFL?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-11-13T11:00:00+00:00",
-      "category": "보안",
       "first_seen_at": "2026-11-13T14:08:11.450987+00:00"
     },
     {
-      "title_ko": "AI 에이전트 스타트업 랭체인, 30억 달러 가치평가 달성",
+      "title_ko": "AI 에이전트 스타트업 LangChain, 30억 달러 기업가치 달성",
       "title_en": "AI agent startup LangChain hits $3B valuation",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch",
       "published_at": "2026-11-13T19:37:57+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
-    },
-    {
-      "title_ko": "오픈AI·구글·앤스로픽, 프론티어 AI 개발 중단 요구 소송 제기",
-      "title_en": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-12T20:35:49+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-13T14:08:11.450987+00:00"
     },
     {
       "title_ko": "구글의 새로운 제미니 모델, 복잡한 질문 이해 능력 향상",
@@ -57,13 +57,13 @@
       "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
     },
     {
-      "title_ko": "인포, 앤스로픽의 클로드를 제조 ERP에 통합",
-      "title_en": "Infor, Anthropic Bring Claude Into Manufacturing ERP",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGZlSHFXWi1UR3RoT3E4cDRsYlBoTmlJS3BLckN5aW5kT3FuMlpjXzRhX25oNm4yQk9FdGZsNmhyLWZMbzhIUFM3ckJaRE1XWnNRcVBaU0V3WmxvNzk5RmlQXzdsbGFUNGZlYWFTSGw2QVZVS2Y3cmR6azBVdDNtY3RGb0lxalZ6T1JyUldXSkpHY0p4TWF3TEpJYXo0ZUJRRjZtVjhwLVdmY3hOdE5RSDhR?oc=5",
-      "source": "Manufacturing Business Technology",
-      "published_at": "2026-11-13T20:49:11+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
+      "title_ko": "비영리단체들, Anthropic과 구글 등 기술 대기업을 상대로 AI 개발 중단 소송 제기",
+      "title_en": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
+      "source": "Politico",
+      "published_at": "2026-11-12T22:24:00+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-12T23:28:29.751131+00:00"
     }
   ]
 }
