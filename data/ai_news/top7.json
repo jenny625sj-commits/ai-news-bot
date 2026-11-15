@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-11-14T21:09:43.503479+00:00",
+  "generated_at": "2026-11-15T01:33:35.426738+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "젠슨 황의 떠남, AI 스타트업 펀딩에 '큰 구멍' 뚫어... VC와 창업가들 우려",
+      "title_ko": "젠슨 황 퇴진과 앤스로픽 IPO 속에서 AI 투자자들이 정말 알아야 할 것",
+      "title_en": "Amid Jensen Huang’s fall and the Anthropic IPO, Howard Marks just nailed the only question that matters for AI investors",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzN4MWNKcmNNLTkwUVNVS2tSY29oVm5JUm1KeGR5aVFIdjEzZElCN3kxTjBGQ2duUmJXZk1YLTRYUUpqclI2ZWRVVlN6eTExekd0MkZjdGFTd2VxV0RrU3FhS0ZqNU8zNkd6Z1YyeEl4RDRUdF9zU3lhM3pBTkZkaHlfRFRqSE9DX0g4X0l1cG5LejFkUDJ5OS0zMGMyUTRrcFcxMHNpb3ZBTWM5MDZhTnR4eU45a0NtU3kzNg?oc=5",
+      "source": "AFR",
+      "published_at": "2026-11-14T22:00:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-15T01:33:26.155095+00:00"
+    },
+    {
+      "title_ko": "미 재무부 장관, 엔비디아가 셸 기업에 AI GPU를 의도적으로 판매했는지 의문 제기",
+      "title_en": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible — ‘I think it is important that anyone at the company there be held accountable for that’",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNc1otajVZRUIwV256cWxSZGVkR2EzWDB6ZWxpYnR4XzhUTHpTSXJiRmRMcGF3eGRlaXFMRDVzWmRQbzVWRHlEVzJWeGxFREZ6Mkc3X2tNOE5sQlRaeFVZbkhjWllQS2pOS1RHNTV3VkliVGVkSlR5RTBlN2VVMXBneVUtdG5TVi1Vc29lcUJ5Mm4yVjRNckhRMS1ZNHNiaDVab21wRFdoZkVVaTRNUDVvalV4cGI3b0lrRlVFUUFua1R1R3dXd2dyYkdaeFdnUmw5MmlUOWJWMnpPRy1na190N0lzdEpDRkNBOUNYMk95Y0Y5ZTNIQ0RsMTFZSks0NFp3MFc4UEwzeTNFLWE4cld2TjFBNm5BaFg3N1dFX3RuclUwSkdsSVZEbW5QdE1yRVZqU3lxbGZnVzdSWFd1NldxVVJnTDF4bkpacnhUZnE4ajRYdEg2YUxMQVM1X3E2TFpOVnBNZEVWYkw2LXNwN1V0N2NlVnFQdjhSd05WVjBHZENfUkNQYnA3UmFIMmFjdw?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-11-14T15:35:48+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-15T01:33:26.155095+00:00"
+    },
+    {
+      "title_ko": "엔비디아 스캔들, 트럼프 방한 앞두고 미국의 중국과의 AI 경쟁 심화",
+      "title_en": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTdIb1dVWXp1MFVRQmJfY3lVelBQN0RDZzJoQnI4V19GQVAyZ0Fkdk9JdU5LenRnY3lYejRzdy1UYVRjVXh4SmVrb09rbjFxLU96d0pGN0NYdmJQT3BwaVNLdjVJSjNBUzFwcUhXVDZYNU9QYWdMWURzQWNfd3dUbnZORGlROFFWaENQTjNOcE9vdmtPanRQWEpzUTdmV1dMSy1j0gGoAUFVX3lxTFBIdGZpRWxLclBvWlBpQkt0OURmdXdSYklEZHp6bVhORWFkMDQ3NDFuUzVoQkRrRks4ZW8ydF83UmhJOFdrTV9GN1d4UWtjYlRmX3owYXRpaW9OZEl5VDZWdUwybUdZLXlHNWpsNWFLMzNwRTgtRG1RUXFLdUYyVHBmcGNkdF95Q3o4Tm1SN1laeFdZQmwwY1BVRncyMjIzblRfaTE3OGgtOQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-14T05:51:32+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-14T09:53:45.861852+00:00"
+    },
+    {
+      "title_ko": "FAA가 AI 항공교통 관제 시스템 도입 직후 전국 공역 폐쇄, 인과관계 조사 중",
+      "title_en": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDFpcDBqNkNOV0JPcjFPQVI0VUpIaE9EaE84Ni1BZU43cjRkOHlzUWpmOE9hZGZBX2pSN3FST3BEbzFPZTh1dkZSZWNPVU9wekdIdnVObjRVcFplRDNILUlZMklEOUNaOUtpbk1TaE5qS3hsSnF2ZW1oSVlzSkR5Yk1mQWFySGpyM25weDJn?oc=5",
+      "source": "Futurism",
+      "published_at": "2026-11-13T22:56:00+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
+    },
+    {
+      "title_ko": "젠슨 황 퇴진으로 AI 스타트업 자금 조달에 큰 타격, VC와 창업자들 우려",
       "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch",
@@ -12,58 +48,22 @@
       "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
     },
     {
-      "title_ko": "월스트리트, 앤스로픽의 기업공개 추진에 나서",
-      "title_en": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pZEk3aEVERVZjMlBZYkI0WC11RjNlbVNaaUlya3A3dFFXWjNGbVlLQW1iZjU5R1E3WlY2blpERFl0MjNzSWdzQmpSc0JqWDhsOXJDYWhybjNiYWdjQ2RhQmF3VExyZGl5bVU1cHpMSGtSSThnRFpWdUJldw?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-11-13T22:36:12+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-14T09:53:45.861852+00:00"
+      "title_ko": "연방준비제도, AI가 금융 시스템 최대 위협이라고 경고",
+      "title_en": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-13T21:00:12+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
     },
     {
-      "title_ko": "AI 에이전트 스타트업 랑체인, 30억 달러 기업가치 달성",
+      "title_ko": "AI 에이전트 스타트업 랭체인, 30억 달러 기업가치 평가 달성",
       "title_en": "AI agent startup LangChain hits $3B valuation",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch",
       "published_at": "2026-11-13T19:37:57+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
-    },
-    {
-      "title_ko": "수출 금지 엔비디아 칩, 중국의 강력한 AI 모델 개발에 사용 중",
-      "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-13T18:40:30+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
-    },
-    {
-      "title_ko": "구글, 차세대 젬미니 4 하이드로젠 AI 모델 공개",
-      "title_en": "Google unveils advanced Gemini 4 Hydrogen gen AI model",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmJsTVI5UWFCRGlxamRJNkJ3bWJMazVJSVFvZUJORlg3Z1B0M0phZFVXZ3BHLVBRbjdzUkRMUWR5NTVrS2lQckEwanowaEUtTHUteXpsT0JUMjhvR1pCZkJXZzYwWmZiREl0aUxlQUttOFNEUzlJMGd0ajJVdzU0LTA4Mkx1dDRId3g3VmtrOGRlSUlmUlB3TDc1XzFMcFlzTFBnVFVGYmtDY05YRlRUSGxzU2gzMGFqb0EwTGZTbU1lWWhh?oc=5",
-      "source": "Deccan Herald",
-      "published_at": "2026-11-13T14:07:48+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
-    },
-    {
-      "title_ko": "대량 밀수입된 150만개 엔비디아 AI GPU, 젠슨 황 사퇴의 숨은 원인일 수 있어",
-      "title_en": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, leading analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPa05TQWhhVXlHQVIxZHdoazBqQUJSNmlfRkRVc29ROGNyLVAzbmxDb0Q1UnpEZUtBd0RueEVRZ0ZRaXJMemxIeWxtRU9iNld1cHVfOEVhZVg4bEFfamFmZEc2T3liSF9pT2huRDBOVkhMdVRHSmkyY2lsY2h0dkcwNlVmekZhZW5xSVNfd1FfdXc0NG5sNm45TDJxT09mQ1dQdUJveWRCbzB0OE5yYW5aTkYtakJyTFhnelhIcWVWY3lxVDJFc3V5Wl9rMWxST3RORzVMckFhY2dNSkUtS1JCc2ptMzd2Q0ZsVGVwRWxxR3Qwd214Z1JHaDJJMkUwWFpmMVdfYmRGbWt1VXpCTWhjVWdnbXpqYjhjUGJOUU5KQ2hfTDdhRXpIV3BSa1FMVFp5elNQNTNqLThHYzJsQVQ3NV9pZjdBRm5UcFRtVVBXN1JJb0ZvcGRqWVpsN1FSSDFHOVd0S2lUZGVzSVFL?oc=5",
-      "source": "Tom's Hardware",
-      "published_at": "2026-11-13T11:00:00+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-13T14:08:11.450987+00:00"
-    },
-    {
-      "title_ko": "오픈AI·앤스로픽 등 AI 기업들, 자신들의 기술을 통제할 수 없다는 소송 제기돼",
-      "title_en": "Lawsuit claims OpenAI, Anthropic and other AI companies cannot control their technology",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXdfNzlGbWcxUUR5RmxMYTRZdzJBLTZNOHh3TTB3R2VJaV90R0hnN0JBd0hfVk5tay1WSVYzZUxqbHBMeXo2TGltcFVBOGtkUDJnQzBTYzVHWVdWZXNmVVlqc3ludGlzeG1BM1UxT1JfSGdIR25zdEtRNXlFWHpYQkh6MFQxN0RmRUJOaUF4MHI0R1JUUUMxTjgxU3FMRk5XTTlEZzQ2R0JxRW9NRlJzQm1TWks2N2t2Nm5mWS1VZDlvSWJYaURQT3VYX2dTSFk?oc=5",
-      "source": "Anadolu Ajansı",
-      "published_at": "2026-11-13T08:43:40+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-13T14:08:11.450987+00:00"
     }
   ]
 }

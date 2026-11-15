@@ -1,5 +1,105 @@
 [
   {
+    "id": "cfc24841efc70fca",
+    "title": "Franklin County students shaping conversations around artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ1dMeHhkWHlFZjB2T1Z1TjU5WGFuNFRqWExSdmEtRkI0T3JUY3ZNQkdKaVdDVUtEYlA1aS1LbDUzcTZRMFNpZG96TUdVVFhqRlFEeXJsWXU1c1ZhNDgyR1paWHFsMDRDS01uQVJoLVh1MnVBVGo0MURvOUJ4dmpfMWlfRm5OY1hsOXBmMVozd0lTS3hqQ1dodVNqdS1jZXMzTGo5WXpFdkdXZmhRc1hlby1vYTdiWVBUazVfRDd6MXFwRFVLUWtkbjRVZVY5OV9SUjVNYTY5aEQtemN6WWFld25RUmpPc1pkaHdjQg?oc=5",
+    "source": "10TV",
+    "published_at": "2026-11-15T00:45:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "Franklin County 학생들, 인공지능 관련 대화 주도"
+  },
+  {
+    "id": "acaf00569e865f08",
+    "title": "Where was Nvidia’s security team?",
+    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-15T00:08:07+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "Nvidia의 보안팀은 어디에 있었나?"
+  },
+  {
+    "id": "816b33d12fb4a3d8",
+    "title": "Artificial Intelligence: Why are traditional industries adopting it?",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qYWUtcE9GNTVXZlM3T0F1a2RBdW0wWDZFcGVrSUJfdXhfVEl4ODh2SGtfU2E2THJ5eUhjQnNMOFhVN3A1Y0tZZmNyUG9JeUZUVmZ3WHdSc3NGaXQ3U0E?oc=5",
+    "source": "BBC",
+    "published_at": "2026-11-15T00:00:55+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "인공지능: 전통 산업들은 왜 이를 도입하는가?"
+  },
+  {
+    "id": "60982e5807469bb9",
+    "title": "Nonprofit advocacy groups cite dangers, sue to stop development of artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURoay1wenlTQTdzS1JKWjgtak5DZnZUR1R1eGt3X1FaMWRVNk9GXzd6MENMdnlqZlhjWE52aW1UN0RpclplYWJSd0tzaEZNMS00RTA3LVdTUFJIMnM1dklfdVZIYzFIVm5BMFVlVk10dzJaOUNpVVRfU0lXeUNCUFZxLTZ4bElkc3c0dGo3T001QnZSdkRzajRPbDlzeHdvdUJJS3hfTXU4UXZsZGlnRjRDY3o3d2xCOWFUNjB3MUprYV9U?oc=5",
+    "source": "Jurist.org",
+    "published_at": "2026-11-14T22:05:24+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "비영리 옹호 단체들, 인공지능 개발 저지 소송 제기하며 위험성 지적"
+  },
+  {
+    "id": "be5b3014d33a3f5b",
+    "title": "Integrating Artificial Intelligence into Neuroscience Accelerates Brain Research and Model Training",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjVTUHdLYnhaTnR3el9rQmN5aVQ1aGJudlB1b0JrSUx4YUw1eXBodXpBV25fdlVjVnJ6NGUwR0doUjR4UDlycHZDX2RSYlBYRzRJRjFwME8xYktBLWQxLVJTYk9yeWxCc28xZHN5Zm1VYXFVaFhxRi03Ny1USk52RThhRExfalZpaGs1cFhvOVh6YmlId0g1anRYUjBDd1JpTU5VWGlkdGxOSXlnRHN2d25iOThfMEg3bWlibXRqOHh1UQ?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-14T22:00:31+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "신경과학에 인공지능 통합, 뇌 연구 및 모델 훈련 가속화"
+  },
+  {
+    "id": "603711812e2bc1a5",
+    "title": "Amid Jensen Huang’s fall and the Anthropic IPO, Howard Marks just nailed the only question that matters for AI investors",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzN4MWNKcmNNLTkwUVNVS2tSY29oVm5JUm1KeGR5aVFIdjEzZElCN3kxTjBGQ2duUmJXZk1YLTRYUUpqclI2ZWRVVlN6eTExekd0MkZjdGFTd2VxV0RrU3FhS0ZqNU8zNkd6Z1YyeEl4RDRUdF9zU3lhM3pBTkZkaHlfRFRqSE9DX0g4X0l1cG5LejFkUDJ5OS0zMGMyUTRrcFcxMHNpb3ZBTWM5MDZhTnR4eU45a0NtU3kzNg?oc=5",
+    "source": "AFR",
+    "published_at": "2026-11-14T22:00:00+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "Jensen Huang의 추락과 Anthropic IPO 속에서, Howard Marks가 AI 투자자들에게 중요한 유일한 질문을 정확히 지적"
+  },
+  {
+    "id": "a4a92fbcda03532a",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-14T21:41:22+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "Elon Musk 등 기술 경영진들, Jensen Huang 복직 촉구 청원서 서명"
+  },
+  {
+    "id": "194850b5e877a329",
+    "title": "Artificial Intelligence Reconstructs Damaged Ships to Rapidly Evaluate Seaworthiness in Emergencies",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSFZmcU1jNVlTOFBITnA2M0FWckllY3ByUzRxU2JQSGEwLTZaTWdOTWh5dHF1UzkycVBQVk5SRUlic3JNaVRqVXR0dkxkZDVzakFfYlRHcVNxODRNM25qZFVub2ZIUkxHQ3luT25ldEhBZjYtT2xLdWRMTjJRMHlKS29tU2Y3T0RRS1BWZVItUjc1NkJQS1cyNnFWMDRHN1RzM1F3aTkzc3hyUWI2eG9mZGotYVBFUEVncWtCVW02QmFZdw?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-14T21:30:19+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "인공지능, 손상된 선박 복원해 긴급상황 시 항해능력 신속 평가"
+  },
+  {
+    "id": "1cbb533006c8d2e1",
+    "title": "Artificial Intelligence Lung Models in Preterm Infants Show High Methodological Bias",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXpCbkJGdWRFb1ZnZnJibmFjQVFBMTMyMDRibTdwUW9YX0J0eGVRaS1RODJzNGRxNDZnaDhMV09rWWRVZkQ0QjhVb2J2bndLbmlGb2d2YnM2MXZKS3dFcjc0dGlqeVRwdmxybmpRZEtMcGRDbmJNQUU1SFAtenRIZ3BtRklFbFlhb1ctU3BYSXZfcHBrSzhZeUEzMERESXA4Mmthb0p1TzdMcnZvVWc?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-14T21:30:19+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "미숙아 인공지능 폐 모델, 높은 방법론적 편향 보여"
+  },
+  {
+    "id": "e6225f57bf345af8",
+    "title": "The AI race: Who can bear the cost of winning?",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtZ3c2SjlKbWNBb2plcnJrU0NFWlNTYVBCVGdPOTF2LWxsOTNYRXl3czhWck9udmlqVXRXUk01VDg5Sjk1S1FFRV8zZGllcVA1RHV5YlBRVUhnOWtxWWhmdFJJa2FHYV8tWWFtQUI5N09ZVkw2anc?oc=5",
+    "source": "Middle East Online",
+    "published_at": "2026-11-14T19:14:35+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "AI 경쟁: 누가 승리의 대가를 감당할 수 있을까?"
+  },
+  {
     "id": "7134e7e1ad670b60",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -20,6 +120,16 @@
     "title_ko": "Nvidia CEO Jensen Huang 퇴출에 아시아 정부들 반응"
   },
   {
+    "id": "2171e149ee61e69c",
+    "title": "Hong Wei Liao and Botrich Highlight the Importance of Human Leadership in the Age of Artificial Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOaXJvYmJCU0lFU2h4V1BnaEZVd196azdYaFVJVzkzNG1sOHJSOTA1UlpvSGo5WFdSWks3X3I2QWxabG5PM1dRRG1VaVZjdlI5TGIwNk1KVjItWWxtQXlGTDhjMEo3c2h1RllWWVJLN3NNczQxcjhvdm96UXhvWHFMd0plcFR2Vk1maUt6d0Fhb0pmRHo3aVd3azRFU2ZuZ2gyTndVd1BOeXJYaksxZlZJTVk0cGZURzJrYzZpVjU4VGVZZXFMWF9tRkpMdE9YUXJyQklvUGRjY3RnOGxQaGljY2gwRnZYbGJ1SVY2YzdDbjVZX2RCX1QtcVgyQkdfb2tYRUdTQVlwcHJ5NjVBX2FRQ0NuRENXY28?oc=5",
+    "source": "mykxlg.com",
+    "published_at": "2026-11-14T15:55:02+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "Hong Wei Liao와 Botrich, 인공지능 시대의 인적 리더십 중요성 강조"
+  },
+  {
     "id": "ca903c7763d47db6",
     "title": "How Artificial Intelligence Is Reshaping the Legal Profession",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkZlZ0V5R1dVdnBsOTUteGxWdjFtZDRVcUhwYmRJZ1BLeE9maF9ZWXhXeXZEZXl2VG15cUdGdU1fU0ZKN2FHa3pYUFk4QUo0TWRScFBMUFBsWHhZb25PWVdTNm9ZRDhRcFBRSG5rOVdtTnNoSWtCeHZ1MHBKeEFlejhGblByZmJ4OEZsTUxHU0dZZ2RFWDNjRDc0dlNyMDg?oc=5",
@@ -28,6 +138,16 @@
     "category": "기타",
     "first_seen_at": "2026-11-14T16:25:28.075393+00:00",
     "title_ko": "인공지능이 법률 전문직을 어떻게 바꾸고 있는가"
+  },
+  {
+    "id": "5ed18cadcb8db8f0",
+    "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible — ‘I think it is important that anyone at the company there be held accountable for that’",
+    "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNc1otajVZRUIwV256cWxSZGVkR2EzWDB6ZWxpYnR4XzhUTHpTSXJiRmRMcGF3eGRlaXFMRDVzWmRQbzVWRHlEVzJWeGxFREZ6Mkc3X2tNOE5sQlRaeFVZbkhjWllQS2pOS1RHNTV3VkliVGVkSlR5RTBlN2VVMXBneVUtdG5TVi1Vc29lcUJ5Mm4yVjRNckhRMS1ZNHNiaDVab21wRFdoZkVVaTRNUDVvalV4cGI3b0lrRlVFUUFua1R1R3dXd2dyYkdaeFdnUmw5MmlUOWJWMnpPRy1na190N0lzdEpDRkNBOUNYMk95Y0Y5ZTNIQ0RsMTFZSks0NFp3MFc4UEwzeTNFLWE4cld2TjFBNm5BaFg3N1dFX3RuclUwSkdsSVZEbW5QdE1yRVZqU3lxbGZnVzdSWFd1NldxVVJnTDF4bkpacnhUZnE4ajRYdEg2YUxMQVM1X3E2TFpOVnBNZEVWYkw2LXNwN1V0N2NlVnFQdjhSd05WVjBHZENfUkNQYnA3UmFIMmFjdw?oc=5",
+    "source": "Tom's Hardware",
+    "published_at": "2026-11-14T15:35:48+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "미국 재무부 장관, Nvidia의 AI GPU 셸 회사 판매 의도 의문 제기 — '회사 관계자들이 책임을 져야 한다고 생각한다'고 발언"
   },
   {
     "id": "867e1fe7f79b9311",
@@ -150,6 +270,16 @@
     "title_ko": "AI 음악과 창작자를 축하하는 새로운 시상식 개최"
   },
   {
+    "id": "2eed2d354390b682",
+    "title": "FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdTJyeEYzaWFuNGg5S3FnQVF4c1plY1c4bmZNcmVSUTFsRG9CS0pHOFNlRHUtV09DWndRODJKeExfMHV6dllMVkFnVWY5R280VHNkMFZOVVdCOEVrTjVJNVEyMWhIcVpLWHctLURjck8yZTVSTTBDNWNWRWg5YU9IWmRTSjc1SHFYZEJPcXlSM0luZjlqY0ZBdzh1Q0pfblBpMWExR3A4bHVETTZ3SGR1anVjR0pYTWdNSDA4ZU1MVEdQTE52ZmpoMmxGdnlMWUxKdnFiZ1cwZ3NLR19iQXc0aTA0RmpMV1V3WVRpeTFCMVYtVjVwcmdTS0FDS3FETDZRUVJJ?oc=5",
+    "source": "The Lufkin Daily News",
+    "published_at": "2026-11-14T09:04:50+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "자료사진: \"AI 인공지능\" 텍스트와 키보드를 보여주는 삽화"
+  },
+  {
     "id": "dfd0d74177d6950c",
     "title": "SPECIAL \"The Efficiency Trap\": why Artificial Intelligence promises us free time, but brings us more work and burnout",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0tfS1BkMGYtSzRvMHowb2pBekU5eTFoNnpqUldZOFctVGRRWnZ3aWVLZkhMa2ptYVotZ050am5QS1IxSTl5NDJVTTNnR29nelNsSi12RlRoXzZQSFF5ZG1rRGxzM1A1cDVmblR1dUlPNV9kWVpFdlp2a1lUWkUxNDlTUjRueDgxQXp2Tjlicw?oc=5",
@@ -218,6 +348,16 @@
     "category": "기타",
     "first_seen_at": "2026-11-14T09:53:45.861852+00:00",
     "title_ko": "검토 결과: 유아 교실, 인공지능 통합 아직 미흡"
+  },
+  {
+    "id": "5773d8b7cd5a0b82",
+    "title": "OpenAI has launched ChatGPT Wallet for AI-powered purchases",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSUtSbWgwbERFQk9MNkw2bjJaNzZhaTZhNFhnVVBQTXdyc2xPSkoyU1lzR09KMGFGNTRrQ3VCa295dGpIdFRMdzN5V0czb2Q2SzUxV2pJRmNHbFJ5ZEE3Qm5BYTROUlZZWHlLcm9OSUNreTRMZjFGeFh5d0lVb01PUnVWcGNoeE1Bb2RyUGZQUXM?oc=5",
+    "source": "UkrMedia News",
+    "published_at": "2026-11-14T06:29:35+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-15T01:33:26.155095+00:00",
+    "title_ko": "OpenAI, AI 기반 구매를 위한 ChatGPT Wallet 출시"
   },
   {
     "id": "cfc4eaa8b6ca06e2",
