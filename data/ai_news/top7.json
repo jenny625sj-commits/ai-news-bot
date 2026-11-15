@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T01:33:35.426738+00:00",
+  "generated_at": "2026-11-15T08:55:20.505601+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "젠슨 황 퇴진과 앤스로픽 IPO 속에서 AI 투자자들이 정말 알아야 할 것",
+      "title_ko": "젠슨 황 퇴진과 Anthropic IPO 속에서 AI 투자자들이 던져야 할 핵심 질문",
       "title_en": "Amid Jensen Huang’s fall and the Anthropic IPO, Howard Marks just nailed the only question that matters for AI investors",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzN4MWNKcmNNLTkwUVNVS2tSY29oVm5JUm1KeGR5aVFIdjEzZElCN3kxTjBGQ2duUmJXZk1YLTRYUUpqclI2ZWRVVlN6eTExekd0MkZjdGFTd2VxV0RrU3FhS0ZqNU8zNkd6Z1YyeEl4RDRUdF9zU3lhM3pBTkZkaHlfRFRqSE9DX0g4X0l1cG5LejFkUDJ5OS0zMGMyUTRrcFcxMHNpb3ZBTWM5MDZhTnR4eU45a0NtU3kzNg?oc=5",
       "source": "AFR",
@@ -12,7 +12,16 @@
       "first_seen_at": "2026-11-15T01:33:26.155095+00:00"
     },
     {
-      "title_ko": "미 재무부 장관, 엔비디아가 셸 기업에 AI GPU를 의도적으로 판매했는지 의문 제기",
+      "title_ko": "아시아 정부들, 엔비디아 CEO 젠슨 황의 퇴진에 반응",
+      "title_en": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-14T16:34:15+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-14T21:09:31.008963+00:00"
+    },
+    {
+      "title_ko": "미 재무부 장관, 엔비디아가 쉘 회사에 AI GPU를 의도적으로 판매했는지 의문 제기",
       "title_en": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible — ‘I think it is important that anyone at the company there be held accountable for that’",
       "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNc1otajVZRUIwV256cWxSZGVkR2EzWDB6ZWxpYnR4XzhUTHpTSXJiRmRMcGF3eGRlaXFMRDVzWmRQbzVWRHlEVzJWeGxFREZ6Mkc3X2tNOE5sQlRaeFVZbkhjWllQS2pOS1RHNTV3VkliVGVkSlR5RTBlN2VVMXBneVUtdG5TVi1Vc29lcUJ5Mm4yVjRNckhRMS1ZNHNiaDVab21wRFdoZkVVaTRNUDVvalV4cGI3b0lrRlVFUUFua1R1R3dXd2dyYkdaeFdnUmw5MmlUOWJWMnpPRy1na190N0lzdEpDRkNBOUNYMk95Y0Y5ZTNIQ0RsMTFZSks0NFp3MFc4UEwzeTNFLWE4cld2TjFBNm5BaFg3N1dFX3RuclUwSkdsSVZEbW5QdE1yRVZqU3lxbGZnVzdSWFd1NldxVVJnTDF4bkpacnhUZnE4ajRYdEg2YUxMQVM1X3E2TFpOVnBNZEVWYkw2LXNwN1V0N2NlVnFQdjhSd05WVjBHZENfUkNQYnA3UmFIMmFjdw?oc=5",
       "source": "Tom's Hardware",
@@ -21,49 +30,40 @@
       "first_seen_at": "2026-11-15T01:33:26.155095+00:00"
     },
     {
-      "title_ko": "엔비디아 스캔들, 트럼프 방한 앞두고 미국의 중국과의 AI 경쟁 심화",
-      "title_en": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTdIb1dVWXp1MFVRQmJfY3lVelBQN0RDZzJoQnI4V19GQVAyZ0Fkdk9JdU5LenRnY3lYejRzdy1UYVRjVXh4SmVrb09rbjFxLU96d0pGN0NYdmJQT3BwaVNLdjVJSjNBUzFwcUhXVDZYNU9QYWdMWURzQWNfd3dUbnZORGlROFFWaENQTjNOcE9vdmtPanRQWEpzUTdmV1dMSy1j0gGoAUFVX3lxTFBIdGZpRWxLclBvWlBpQkt0OURmdXdSYklEZHp6bVhORWFkMDQ3NDFuUzVoQkRrRks4ZW8ydF83UmhJOFdrTV9GN1d4UWtjYlRmX3owYXRpaW9OZEl5VDZWdUwybUdZLXlHNWpsNWFLMzNwRTgtRG1RUXFLdUYyVHBmcGNkdF95Q3o4Tm1SN1laeFdZQmwwY1BVRncyMjIzblRfaTE3OGgtOQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-14T05:51:32+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-14T09:53:45.861852+00:00"
-    },
-    {
-      "title_ko": "FAA가 AI 항공교통 관제 시스템 도입 직후 전국 공역 폐쇄, 인과관계 조사 중",
-      "title_en": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDFpcDBqNkNOV0JPcjFPQVI0VUpIaE9EaE84Ni1BZU43cjRkOHlzUWpmOE9hZGZBX2pSN3FST3BEbzFPZTh1dkZSZWNPVU9wekdIdnVObjRVcFplRDNILUlZMklEOUNaOUtpbk1TaE5qS3hsSnF2ZW1oSVlzSkR5Yk1mQWFySGpyM25weDJn?oc=5",
-      "source": "Futurism",
-      "published_at": "2026-11-13T22:56:00+00:00",
+      "title_ko": "FAA, 신규 AI 항공교통 관제 기술이 미국 전역 항공편 정지에 기여했는지 조사",
+      "title_en": "FAA investigating whether new AI technology contributed to nationwide ground stop",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWtSN25JZ3FqRk1BTEdGZDR2SHc2RkdsTEhBMmdQUThHcVYwTUhseVFxSG44TVlCZ2xVLUtyejFFbkJWTlZCMm92QzZIb2p1aU5hQVVmakIxZjZNZy1jaDNUbWxVQ2kwZ2NiR2tjeW4ydmYxazZlM3dBRFcyQ1pDSnliSmRFVGk1WUt3czBuTWFlRlZiTG5NSXBRSldyQVFJazFUVXdlOXdsV3ZqSk9ZVUI0V2NxRVc0TkEtRjFDLXU4Vm9WUEVFZDVBUktEREk?oc=5",
+      "source": "Click2Houston",
+      "published_at": "2026-11-13T22:57:09+00:00",
       "category": "보안",
       "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
     },
     {
-      "title_ko": "젠슨 황 퇴진으로 AI 스타트업 자금 조달에 큰 타격, VC와 창업자들 우려",
-      "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-13T22:43:00+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
-    },
-    {
-      "title_ko": "연방준비제도, AI가 금융 시스템 최대 위협이라고 경고",
-      "title_en": "AI risks are the biggest threat to the financial system, Fed survey finds",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-11-13T21:00:12+00:00",
+      "title_ko": "연방준비제도 최신 조사에서 AI가 금융 시스템 우려사항 최상위로 부상",
+      "title_en": "AI rockets to top of worries about financial system in latest Fed survey",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-13T21:03:43+00:00",
       "category": "정책·규제",
-      "first_seen_at": "2026-11-14T02:00:30.928496+00:00"
+      "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
     },
     {
-      "title_ko": "AI 에이전트 스타트업 랭체인, 30억 달러 기업가치 평가 달성",
-      "title_en": "AI agent startup LangChain hits $3B valuation",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-13T19:37:57+00:00",
+      "title_ko": "월스트리트, Anthropic의 공격적 지출 준비",
+      "title_en": "Wall Street Braces for Anthropic’s Aggressive Spending",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-11-13T18:52:43+00:00",
       "category": "기업·투자",
       "first_seen_at": "2026-11-13T21:14:41.557600+00:00"
+    },
+    {
+      "title_ko": "엑스클루시브: 황 회장 퇴진과 미국 규제로 엔비디아 의존하는 중국 AI 프로젝트 30억 달러 규모 위기",
+      "title_en": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-13T11:39:41+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-13T14:08:11.450987+00:00"
     }
   ]
 }
