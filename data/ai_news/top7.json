@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-11-15T21:29:58.000401+00:00",
+  "generated_at": "2026-11-16T01:37:38.030992+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "AI 업계의 밝은 신호, 앤스로픽의 IPO 상장",
+      "title_ko": "Anthropic의 대규모 IPO, OpenAI에 압박 가중",
+      "title_en": "Anthropic’s giant IPO puts the heat on OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5",
+      "source": "The Economist",
+      "published_at": "2026-11-15T19:49:20+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-16T01:37:27.584726+00:00"
+    },
+    {
+      "title_ko": "어려움을 겪는 AI 업계에 희망의 불빛, Anthropic의 IPO 성공",
       "title_en": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
       "source": "CNBC",
@@ -12,7 +21,7 @@
       "first_seen_at": "2026-11-15T16:08:22.956769+00:00"
     },
     {
-      "title_ko": "엔비디아 스파이 스캔들 후 미 의회, AI 칩 수출 규제 강화 추진",
+      "title_ko": "Nvidia 스파이 스캔들 이후 미국 의회, AI 칩 수출 규제 강화 추진",
       "title_en": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "source": "The Verge",
@@ -21,34 +30,16 @@
       "first_seen_at": "2026-11-15T21:29:46.957573+00:00"
     },
     {
-      "title_ko": "OpenAI, AI 에이전트가 쇼핑을 대신해주는 ChatGPT Wallet 출시",
-      "title_en": "OpenAI’s new ChatGPT Wallet lets AI agents shop for you: Here’s how to set it up",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDBzVFI3YlVjSTJnRFdidGhDd3otS3VIcVNwQmxjdnU5eXhpVU5hUkhoel9YYnFXRUpFQXBCTXZsdTNXUk1YcW9TbnNZUFBzN0J0Wm1BUktYOEg3cm9adUdXN2ZEUEp3NXFKN19seWswSWVVc3drNlhhb3A0TDZJaE5kR0VWWWpmSFZWWXN4bUFmVEhEb3BOdlZQVWxCZmRTNVR3bHR0Zm01cTdtcjFzRTZHNVFyNjBVQTdIZ1BZc9IBxgFBVV95cUxON0gyTTlrZW5Ub0lXY3FQeEtSN2d5ajQ5YlBZZWF6SnlNMTFVOVdlemdtWHVSdzFjSTVFYTQyRTJQZjVMREltd0czVHdSREtlUm5PcjRQS2J6WU5VNDV1c3h5Zkd6elpzVmRRLWJHRlVoRDhidC1WWEQ3ZTBqZ0ZhR1hQMjJNQWczakg2VnZIRGV0R0pFZ2hYdm9XVTVMRUZEMldyOWpDNUF3MFNQREdfdzlUNnJVYkVDb1R4bzNoV2pUazdLNXc?oc=5",
-      "source": "The Indian Express",
-      "published_at": "2026-11-15T06:25:01+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-15T08:55:11.712984+00:00"
-    },
-    {
-      "title_ko": "엔비디아 스캔들로 심화되는 미국-중국 AI 경쟁",
-      "title_en": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTdIb1dVWXp1MFVRQmJfY3lVelBQN0RDZzJoQnI4V19GQVAyZ0Fkdk9JdU5LenRnY3lYejRzdy1UYVRjVXh4SmVrb09rbjFxLU96d0pGN0NYdmJQT3BwaVNLdjVJSjNBUzFwcUhXVDZYNU9QYWdMWURzQWNfd3dUbnZORGlROFFWaENQTjNOcE9vdmtPanRQWEpzUTdmV1dMSy1j0gGoAUFVX3lxTFBIdGZpRWxLclBvWlBpQkt0OURmdXdSYklEZHp6bVhORWFkMDQ3NDFuUzVoQkRrRks4ZW8ydF83UmhJOFdrTV9GN1d4UWtjYlRmX3owYXRpaW9OZEl5VDZWdUwybUdZLXlHNWpsNWFLMzNwRTgtRG1RUXFLdUYyVHBmcGNkdF95Q3o4Tm1SN1laeFdZQmwwY1BVRncyMjIzblRfaTE3OGgtOQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "2026-11-14T05:51:32+00:00",
+      "title_ko": "인도 반도체 스타트업 Bharat Semi, AI 센서 시장 진출 목표로 2400만 달러 시드 라운드 유치",
+      "title_en": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-15T23:30:00+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-14T09:53:45.861852+00:00"
+      "first_seen_at": "2026-11-16T01:37:27.584726+00:00"
     },
     {
-      "title_ko": "일본 주도 조사, AI 기반 사이버 공격에 약 1,000대 서버 사용 적발",
-      "title_en": "Japan-led probe finds 1,000 servers likely used for AI-driven cyberattacks",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VkJKNWd0OXdhMTgtT0FMV0w2OGw5RUpkM1l0cnFGQ3lfcHl1UDJZT3FUT2pWWlRoMDRVc2wzQ2lKaFEtZWx5dnJlbDEzRlRSaE9hU2JWVzZIb2ZuM0RGZlk0Z1JlQ290N1dTX1ladUp6Wnc?oc=5",
-      "source": "毎日新聞",
-      "published_at": "2026-11-15T02:02:04+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-15T08:55:11.712984+00:00"
-    },
-    {
-      "title_ko": "골드만삭스, AI 지출과 유가 하락으로 2027년 세계 경제 성장률 2.8% 전망",
+      "title_ko": "골드만삭스 전망: AI 지출과 유가 하락으로 2027년 글로벌 경제 성장률 2.8% 예상",
       "title_en": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUXI5LURJcVJrU2NVeWlKeFZ0NUxseVRTZjlwMWdqYkJ5WXZ6dmtNQWxhRFdtSWdGd09TOHFWTTRkZVlGX3RXOTdBdnZNbzR1QU9JSldkRlRtNzBNaC15NExqYTVXZnBsRC1nLUM4VE5MX1owM1dSSDBEQVkxX0RGOGNwX1FKS05kMDJKVUFvVmtaUnpES0RUMXVvbjRYMVhuUzhEVnF3S3B0dFNTRXJiMW9OdGJpWm5LYVlMR3ZaQW1kNk5WcVVTNDlRckhiTmJIZmptUlRzV2EwNGxtU3o2R25hbXRnU2Y1NUtyb25rUkxXOTJJS3Y5azlsVk9makhtWVRVZ2JDWGtGdVRJZ1NxWW00SzFkWk1wZ1HSAZ8CQVVfeXFMTS1ndWxudVYzNTZ0N1dJSWtjNnExeGNvcWFWNy1lVjJJcVZScHlMck0zZmtFSG5mV2tjaXN3MG16NXZBMGNZZ25Walg3Y0Y4ZFUxQ0F1UFNmMW1RMkl0ekhrWHBMX0k1TkFzTDI0VE9QNkNiZVdLeFZEWkdFdU5tTDAwMG5kTUoyUVVlNlJrT19JbWtjRDdWa1MzT2VJZGhBdjBJWm11aFZxc1otcnRRX2xDSGNlTk5yMWJjYjBPR1JNOXRwNlNYcE94WjdBd3VGRVZjQW5rclQ0NUozSERhemZnZzhiT204LTMxb09Ba0dYSEJVSW5Ga21KVmVzQkhxdzh2Z2daZ0hpbVRWR0hJdVh1YWl3Z2FLTGp0SlJ2SlU?oc=5",
       "source": "The Times of India",
@@ -57,13 +48,22 @@
       "first_seen_at": "2026-11-15T08:55:11.712984+00:00"
     },
     {
-      "title_ko": "앤스로픽 다리오 아모데이, OpenAI 등 경쟁사들의 분노 초래",
-      "title_en": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-11-13T23:20:11+00:00",
+      "title_ko": "OpenAI, AI 에이전트용 ChatGPT 지갑 출시... 자동 쇼핑 기능 추가",
+      "title_en": "OpenAI’s new ChatGPT Wallet lets AI agents shop for you: Here’s how to set it up",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDBzVFI3YlVjSTJnRFdidGhDd3otS3VIcVNwQmxjdnU5eXhpVU5hUkhoel9YYnFXRUpFQXBCTXZsdTNXUk1YcW9TbnNZUFBzN0J0Wm1BUktYOEg3cm9adUdXN2ZEUEp3NXFKN19seWswSWVVc3drNlhhb3A0TDZJaE5kR0VWWWpmSFZWWXN4bUFmVEhEb3BOdlZQVWxCZmRTNVR3bHR0Zm01cTdtcjFzRTZHNVFyNjBVQTdIZ1BZc9IBxgFBVV95cUxON0gyTTlrZW5Ub0lXY3FQeEtSN2d5ajQ5YlBZZWF6SnlNMTFVOVdlemdtWHVSdzFjSTVFYTQyRTJQZjVMREltd0czVHdSREtlUm5PcjRQS2J6WU5VNDV1c3h5Zkd6elpzVmRRLWJHRlVoRDhidC1WWEQ3ZTBqZ0ZhR1hQMjJNQWczakg2VnZIRGV0R0pFZ2hYdm9XVTVMRUZEMldyOWpDNUF3MFNQREdfdzlUNnJVYkVDb1R4bzNoV2pUazdLNXc?oc=5",
+      "source": "The Indian Express",
+      "published_at": "2026-11-15T06:25:01+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-15T08:55:11.712984+00:00"
+    },
+    {
+      "title_ko": "Jensen Huang의 퇴출에 아시아 정부들 반응 표명",
+      "title_en": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-14T16:34:15+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-14T09:53:45.861852+00:00"
+      "first_seen_at": "2026-11-14T21:09:31.008963+00:00"
     }
   ]
 }
