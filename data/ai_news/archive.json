@@ -1,5 +1,195 @@
 [
   {
+    "id": "cd9a297fa8a4dcbf",
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "source": "The Verge",
+    "published_at": "2026-11-16T19:25:42+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "Apple, 더 복잡한 Siri AI 상호작용을 위한 일일 사용 한도 테스트 중"
+  },
+  {
+    "id": "5f72fbdc79b9385d",
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "source": "The Verge",
+    "published_at": "2026-11-16T19:23:45+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "OpenAI, 아동학대 신고 전화를 압도하는 딥페이크 차단 추진"
+  },
+  {
+    "id": "d1bee759e86a69db",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T19:12:02+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "트럼프, 전 엔비디아 CEO 젠슨 황의 중국 스파이 의혹 외도가 국가안보 위협하지 않는다고 주장"
+  },
+  {
+    "id": "df8e5203f1144bae",
+    "title": "US moves to cut China’s remote access to AI chips",
+    "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+    "source": "Ars Technica",
+    "published_at": "2026-11-16T19:10:09+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "미국, 중국의 AI 칩 원격 접근 차단 추진"
+  },
+  {
+    "id": "9c493a96e3fa6482",
+    "title": "The open-source movement wants Jensen Huang back",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Technology Review",
+    "published_at": "2026-11-16T18:38:47+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "오픈소스 커뮤니티, 젠슨 황의 복귀를 원한다"
+  },
+  {
+    "id": "0b5fe7dce536bb45",
+    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T18:11:10+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "샘 올트먼, 젠슨 황 없는 엔비디아 상황에 \"업계는 괜찮을 것\""
+  },
+  {
+    "id": "690a9aa8938dfa2f",
+    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T17:36:43+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "FBI, Artex AI 오픈소스 해킹 도구로 \"3시간 이내\" 네트워크 침해 사례 확인"
+  },
+  {
+    "id": "98a6b93915396a17",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T17:10:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "조던 벨포트의 새로운 AI 음성 스타트업 Tone, '월스트리트의 늑대' 같은 판매 목표"
+  },
+  {
+    "id": "6d05b4dbd591c899",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T17:02:43+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "OpenAI, AI 전복 조사를 위해 안전 연구원 배치"
+  },
+  {
+    "id": "63e5e5cd26566702",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T17:00:00+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "OpenAI, 아동 성적 학대 자료 대응을 위해 새로운 이미지 분류기와 ChatGPT 경고 출시"
+  },
+  {
+    "id": "1ffad99369471f4e",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "source": "Wired",
+    "published_at": "2026-11-16T16:12:51+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "젠슨 황이 떠났다. 이제 어떻게 될까?"
+  },
+  {
+    "id": "adba844aff176e0b",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source": "MIT Technology Review",
+    "published_at": "2026-11-16T16:04:28+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "예측이 아닌 제한으로 신뢰할 수 있는 AI 구축하기"
+  },
+  {
+    "id": "7163ff8dd6d11077",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T15:52:19+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "Audible, 오디오북 발견을 돕기 위해 AI 도입"
+  },
+  {
+    "id": "43465bb556008cf4",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T15:02:34+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "미국, 중국 기업의 원격 컴퓨팅 접근 억제를 위해 AI 칩 수출 규제 강화"
+  },
+  {
+    "id": "cc64e684881ce257",
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T14:48:13+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "Google Maps, 실시간 정보를 포함한 여행 일정표 작성 기능 추가"
+  },
+  {
+    "id": "c0787d91eb5d8df5",
+    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+    "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+    "source": "Ars Technica",
+    "published_at": "2026-11-16T14:06:16+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "젠슨 황 측근들, 그를 엔비디아로 복귀시키기 위한 '전략실' 구성"
+  },
+  {
+    "id": "e6b37f5da94e2fd1",
+    "title": "Building AI that can work across the enterprise",
+    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "source": "MIT Technology Review",
+    "published_at": "2026-11-16T13:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "엔터프라이즈 전반에서 작동하는 AI 구축하기"
+  },
+  {
+    "id": "8cd345b9ca86f67c",
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "source": "TechCrunch",
+    "published_at": "2026-11-16T12:30:00+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "Freshworks 출신 인력, AI 기반 CRM으로 Salesforce·HubSpot에 도전하며 5,300만 달러 조성"
+  },
+  {
+    "id": "242d49a88f8c5bfc",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "source": "Wired",
+    "published_at": "2026-11-16T11:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-16T20:03:33.134954+00:00",
+    "title_ko": "젠슨 황 사태 이전부터 엔비디아는 이미 문제를 안고 있었다"
+  },
+  {
     "id": "8d9d9a063ec3aacf",
     "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpNzF6OUx3S0x2TE83M053RXVaQW1ybG50X1lKbk5CNzZNbVRPeFpNdjU1bWdReUFFZFIxU2hvcmtLTTZwVjNsbGx0aEpjenBwWHBuTk10NGg0dXc4RzVUNkR2NDNhVVN5QmNrbngtdHJBdjVt?oc=5",
