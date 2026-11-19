@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T02:58:44.694952+00:00",
+  "generated_at": "2026-11-19T11:27:05.661138+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽, 사상 최대 규모 IPO로 810억 달러 모금",
+      "title_ko": "인류 역대 최대 규모 IPO 달성한 AI 기업 Anthropic, 810억 달러 모금",
       "title_en": "Anthropic clinches biggest IPO ever with $81 billion offering",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
       "source": "Reuters",
@@ -12,7 +12,25 @@
       "first_seen_at": "2026-11-19T02:58:15.942634+00:00"
     },
     {
-      "title_ko": "마이크로소프트 CEO 나델라, 엔비디아 황인준 회장 퇴출 배경 설명",
+      "title_ko": "구글, 엔터프라이즈 복잡 작업 대응 AI 모델 'Gemini 4 Neon' 공개",
+      "title_en": "Introducing Gemini 4 Neon",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5",
+      "source": "blog.google",
+      "published_at": "2026-11-18T21:35:21+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-19T02:58:15.942634+00:00"
+    },
+    {
+      "title_ko": "구글, 해킹 집단이 AI를 이용한 사이버 공격 감행 중이라고 경고",
+      "title_en": "Google warns hackers are using artificial intelligence to launch cyberattacks against companies",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HWFN2aDJqZEdEbzdnMkNtbDlZNU42cXkzRHVQRHBGVHRsUFhwZVlvNWE5aFBldTVmcDU1TlA3bGQ4aUdoT0xkOHRpbzFyelgxeDVQd1Vn?oc=5",
+      "source": "Fox News",
+      "published_at": "2026-11-18T20:45:28+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-18T21:09:12.639269+00:00"
+    },
+    {
+      "title_ko": "마이크로소프트 CEO 나델라, 60명 임직원에게 퇴사 권고한 이유 설명",
       "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch",
@@ -21,16 +39,7 @@
       "first_seen_at": "2026-11-19T02:58:15.942634+00:00"
     },
     {
-      "title_ko": "마이크로소프트의 바이트댄스와의 5억 달러 규모 거래, 오픈AI 불만 초래",
-      "title_en": "Microsoft’s $500 Million ByteDance Deal Dismays OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkxPZldyWnBFZUJ2TExfRVdFM3JFTktqdm5SaEMwRVdrajR5NUpocktpcjFrRHozQ2k3NTc3ZDdvdGdCZEE3bkhocUlYTUVsQTdCTjhJRDFKbF9LZTljNG1BVFMxbTF4eEt3Z3hPajV5dkRsMm4zeVJQaVptTXhLN3E5dEQxcUh2WGFveFdPazRnU3dPY0dhOW9vMEliN25lQXA4SlEycFB0N05ZREVv?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-11-18T20:28:42+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-18T21:09:12.639269+00:00"
-    },
-    {
-      "title_ko": "캘리포니아, AI 안전 프레임워크 강화하며 의무적 안전 기준 발표",
+      "title_ko": "캘리포니아, 필수 AI 안전 기준 및 감시 의무화하는 AI 안전 프레임워크 강화",
       "title_en": "Governor Newsom’s nation-leading AI safety framework is getting even stronger as California releases next steps on mandatory safety standards and oversight",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSTExb21JRlBpZTFvNUlRZFhncGQzNzdSYUR5WWdpSmFzbTlYMnp3M25qVGhjUk1nTXJJdThUMmVpMmpLVWdmZ296R2xxckVlYTJoRjY5ZHBRUXNybGxaN2xTWVA4X2FIZGh4cTB6NTlieHBMb3gwbGh6b2xLbHRmamJZcnlDZmxsRGgtcDB0dzJpRGRYdXVRVGhnSzN5Rlg1TU5FRjJFbTJtbTZMTFlpSXE5MjVOSkJhSXE3MHVaOTFtMFV1ZVNaT2hHSjg1ZlIzbF9hbDNlYkpFSDZVOTdnY0pVeXF1OTdRWFItdGdSTUJKTTVudjVRcGtCakxraFJxbWFWRGlqZi0tbjg4TnZmU0EzX0pZQTc1?oc=5",
       "source": "California State Portal | CA.gov",
@@ -39,30 +48,21 @@
       "first_seen_at": "2026-11-18T21:09:12.639269+00:00"
     },
     {
-      "title_ko": "팔머 루키, AI 기반 사이버 공격이 방어를 압도한다고 경고",
-      "title_en": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-18T21:34:13+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-19T02:58:15.942634+00:00"
+      "title_ko": "텐센트, 급증하는 AI 투자 속 이익 정체·수익 성장률 둔화",
+      "title_en": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEg1QUlnRmtFd2NoV01JWWc5OV95U3hMMW9EVkhoR2c2cHllUDNETER4ejJKbXdpdWlKYTJuelpQcFdCWjRBZmdNc09EOWNsMXY2dGZZVEQxM2lTOVdIeW14U3M3VzU3UEZhc2F1eHR4RHJNYlNSY1NkcElfck5MbzVTWHNrRl8yM21iV1htZ01Ra0RtX0xzanYxX1dBMENZMnhKUkdUaEFvaHJtUXNj?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-18T11:38:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-18T12:44:14.759965+00:00"
     },
     {
-      "title_ko": "AI 산업 혼란 속 마이크로소프트와 오픈AI, 코딩 및 업무용 새 모델 출시",
-      "title_en": "Amid AI Industry Chaos, Microsoft and OpenAI Drop New Models for Coding and Work",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5",
-      "source": "CNET",
-      "published_at": "2026-11-18T16:28:38+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-18T21:09:12.639269+00:00"
-    },
-    {
-      "title_ko": "자체 개선 AI 모델 등장 임박",
-      "title_en": "Self-improving AI models are coming",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEhvRnY0RWM4QUM5Y2I3MGVMSDJCcklRMHRHTWppN0txZFpVYmxHM0RXeGstOWJFN1pDcU1KbkVOY055bEh6VW1iRzRQMGFqdnJXWmFVMjRoQVprTVJnaVM5NUJ1XzJaTWQ5dV9JdE51X3VnWk5yZ1VPYnhoVW1TdTNIUWN0eDMtU01Tc3E4RDYzZw?oc=5",
-      "source": "The Economist",
-      "published_at": "2026-11-18T10:44:55+00:00",
-      "category": "연구·기술",
+      "title_ko": "OpenAI 임직원, AI 안전과 혁신 진전 사이 균형 필요성 강조",
+      "title_en": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXc0MGZDdEtfb1IzT0doUkdCeEZSbmdqWlVvb0t5NXRXQjBfLUdnY1Jkd1A1RHFmWVRjYmhsVW5lcjlwazlId0VTc0s0Qzg1aGdhREttRko0aGNaQkphVVlTTktYQjBfSmdVdWVKSjZ3NnlkaE02QllENnN5NnBaQ1NoM2t4TFlEb3ctWjBhSXREdDg?oc=5",
+      "source": "The New York Times",
+      "published_at": "2026-11-18T18:10:04+00:00",
+      "category": "기타",
       "first_seen_at": "2026-11-18T21:09:12.639269+00:00"
     }
   ]
