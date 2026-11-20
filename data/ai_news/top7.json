@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-11-20T02:04:46.338213+00:00",
+  "generated_at": "2026-11-20T11:00:59.917302+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤쓰로픽 7명 창업자, 기록 경신 IPO에서 약 20억 달러 현금화",
-      "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-20T00:43:50+00:00",
+      "title_ko": "앤스로픽, 사상 최대 규모 IPO 성공 - AI 산업의 새로운 이정표",
+      "title_en": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYV9icmpQUjhFWnc3eDlQVmRHbkdJRmpQY0NjdnRPR3dnVnhzemZoc0I2UDU2eWpaLUQ4WE9iN29VSVhMMHB6Znd6aDE2Y0plTVh6Ny0zVVpWYzh2b0VrWExrNGFrZDVkUnRhVDRQbWFLNjRRaEVvTkIwYkRVeXhkYWx0WGJtelNPdVBRZ0dnQUFPOHPSAZgBQVVfeXFMUGlmbkRNckNXRjlKZEJBWHJuaWxLcEVFcEFtLVd5ZDBocmVqNnAtVG5FNlRCUUZjOHBTZ0NDNTNZQnRVWU9YT09nNm5lNm5Pa3lEMGg1a1h2TXZyekNMNHFoQ0ZJNHYtM01MZm9BcmpkY2tUZmNzMnNHb3g3UGlsN1ZyeFBKNWVjNlpQd2xxUjFTazB5R1NvdW8?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-20T07:54:18+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
+      "first_seen_at": "2026-11-20T11:00:35.661143+00:00"
     },
     {
-      "title_ko": "소프트뱅크 16% 이상 급락, 앤쓰로픽 IPO 이후 아시아 기술주 AI 매도세",
+      "title_ko": "OpenAI, AMD의 차세대 GPU 설계 개선에 협력 - 성능 14% 향상",
+      "title_en": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helped Lisa Su's outfit boost its new CPUs",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUGdyZW9IT1FpNVFKckhfR0N6dTQ2U0JFUm5UbUczQTlUREs4VTYwYXdLYlB3VXVZZ29ROHZxQkR4TnRqVHMtRWdpZ3VuVTJBd2x6QWk4ZlZNWENfLTY3bE1MN25UdEt0NWJ2a254cXZ0MXNwV3oxVEVlemFodVJyTGxBRUFLTjE5N1c1TUZXTTFlOXpZTnVTWk5UUjRiSHJHSHJwWThPVk41SlZ0dXZidERpTXhwWWJweXJOWkNOYVZlYlJwcVZndDdEUUNCV1ktOGR1ZUx2V1gyQnFaT050M2hhT3JnMEF1NFFsaUxPZDBHRWh1Y18xTThXNG8xT05NSGZIaXNnQWVQejVrVUhKb2tyT01ndVhZa19LUG9iTlM0V3JoYlVkQXdB?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-11-20T10:30:00+00:00",
+      "category": "기타",
+      "first_seen_at": "2026-11-20T11:00:35.661143+00:00"
+    },
+    {
+      "title_ko": "주식시장 급락, AI 거품 붕괴 우려 - 2023년 이후 최악의 낙폭",
+      "title_en": "Stocks Hit Worst Run Since 2023 as AI Trade Cracks: Markets Wrap",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-11-20T09:11:09+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-20T11:00:35.661143+00:00"
+    },
+    {
+      "title_ko": "소프트뱅크 16% 폭락, AI 산업 급락에 아시아 테크주 비상",
       "title_en": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5",
       "source": "CNBC",
@@ -21,49 +39,31 @@
       "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
     },
     {
-      "title_ko": "앤쓰로픽 1.5조 달러 첫 거래로 벤처캐피탈의 플레이북 재작성",
-      "title_en": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVk2clRUVFZnTGJTcG1qOWpTRmlSQmRjTXdoVFhIMGQ1cU1idU5RTVFqOVhob2NMQXYyWlVTeEhpU2N2cEk5d0pJSlhic2NSaHJ2M0V1b3N2WW9BalFiZ3VnQnpuY1VKV3Fwd1pkMWw0N1FnRlNPZmdXRFVudkhGOHA5OHNsVzBPWnRWaWNnTmRTNFBQQTVKSEF1WndCeVhnSmZ3S1ZCVzBtcDBWSk9VS3ViTnY5UThFaHFz?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-19T23:22:04+00:00",
+      "title_ko": "네슬레, 마이크로소프트·보스턴 다이나믹스와 협력 - 공장 AI 도입",
+      "title_en": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-11-20T07:10:00+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
+      "first_seen_at": "2026-11-20T11:00:35.661143+00:00"
     },
     {
-      "title_ko": "애플, 맥에서 실행되는 자체 AI 에이전트 개발 중",
-      "title_en": "Apple may be developing its own AI agent that runs your Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-20T00:56:01+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
+      "title_ko": "IMF 국장, AI 수요가 전 세계 금리 상승 압박 경고",
+      "title_en": "AI demand will push up interest rates around the world, IMF head warns",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0FoT1d2VWJSWG12dk5vdk1vRWlVa1FOZkNzWDRVZ0kzX2hHUkx0cTdmaE96d3dLb2FCcTlrMnRKN3FZSFd4SlNuYk9ZcmFRNWhQdncxTDE3ZTJILWlIbkJ0WTg4Ul9ta29zWGd1NjYxanhGbTcxM2RJQmUtdzVLWXR6blBTTERteGE5S0lfWVZvdFdXNlU1UGVoSWJ2ZDA?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-11-19T12:45:00+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-20T11:00:35.661143+00:00"
     },
     {
-      "title_ko": "유럽연합, 10월 AI를 활용한 사이버 공격 피해 확인",
+      "title_ko": "유럽연합, 10월 AI 기반 사이버공격 피해 - 직원 데이터 유출",
       "title_en": "A cyberattack using artificial intelligence targeted the EU in October, official says",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLURoaHNVVU9MUklyOWxzNlZ3NzBFZktvRmZyVFBkZlBMcDBCU2gwbGhBSGhlNmt5bHppQkhoMTFEUFYydW1sUEFwOGh4MlZRa2c2aExGRlgyZ0tqVHRVQXJHR3NoT0hZc0RTSUt4MmVDZV84Q3VLWkg2bGRXbGhXR19FcDZ3VGNZWExNN2RTZy01Wl85SXNhMS1CWFpqbmkwMHM0YVZZbVRzME9reThpNmZLOTFrMGtCTGfSAb8BQVVfeXFMTVJmZi15cUZTbW1uSDF6bk92NFh3VnhvejljWkNvemhOYmUtdHJXSGRhbXg4eXp4bk9JZkswVThRd2hlRVBub19jMm9SZ1JKMldEMThkZjZmRFVWNnhJcmFnbWwzVXR6aDFvY29MbXUzSGJacGI2VEcwV2FDRkZ5QkFhbGJZREx1Wm1QTS1KYm9Eck1yWVJXTTFvYmxnR1c0dkpxd1ZkUktCUEREYTRuUmZyNXMwRGhNc2ZQZVd2UVk?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published_at": "2026-11-19T13:30:39+00:00",
       "category": "보안",
       "first_seen_at": "2026-11-19T20:08:44.683312+00:00"
-    },
-    {
-      "title_ko": "IMF 총재, AI 조정장은 '조금 더 계속될 것'이라 경고",
-      "title_en": "IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUlqZEY2VEs3Z1VYS3ByN3dRTDA1ZkV5RFRiTDVEVmhudjRqY1hrWGt5cWJoNG90di1IbDI0YnFXd3JJU016T25fVHNNYXVUcS1xOEhtc1NpUTJ2aHBUVk5MZjNYYzVsVlZOcHVNQmlqUmUyMXNNR3RZR09tZWc1LWtEMlRQVHU0Q0NBRFVFdTk0LUdELWZLQ19STzFqUV9mRjIxeS1HbUdsNV9tbms1S1VJZw?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-11-19T10:51:21+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-19T20:08:44.683312+00:00"
-    },
-    {
-      "title_ko": "구글, 엔터프라이즈 복잡 작업 목표로 한 제미니 4 네온 출시",
-      "title_en": "Google debuts Gemini 4 Neon, an AI model aimed at complex tasks for enterprises",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORW1vUjRFZDBjOTVJZHR6SEp0bk1La3NSU2lkdlFnZlNBQkdTVjc0am5JVU1tM3J4TWk5WFpKWmJmdm02bGZXYW9nZG1GSXoxWnpmYmZhcnNZT0sxVjFhcHE5VWp4VVpzdkFYaGJtXzBrX1g1UmZBRjU1VkFrTmhzbEZxNHRyd1Zqc2x3eURuSnF1S1l6V3BTbGNDMW1qcExsRXhTWWJNN2JZTWVnM0lNOExUYnZrQdIBvAFBVV95cUxPUm80U3dkcHNUWUlNRUxMdEpQTW5tVjYxdVg1cFlXYmhEc0xmTkw0aFcyR1BfeHU4aTlJalA5WmRkbVVmTE53LXc4OEhCbGQ5SFJvQVBaYkMtRlZWNEJzSWlaXzVvVnlYbEVTR21fQkNVRzBZelEtSm1rWUFQS3VsVVBMVjFRWGhlenBhQ2h0NFZXaC1IWTI3SFUzcENPNzJvandwd28yeU5aRFhSVlRVOFhjOHc3aHBDcGtsTg?oc=5",
-      "source": "The Indian Express",
-      "published_at": "2026-11-19T10:02:51+00:00",
-      "category": "제품·출시",
-      "first_seen_at": "2026-11-19T11:26:42.275552+00:00"
     }
   ]
 }
