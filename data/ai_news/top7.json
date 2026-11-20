@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-11-19T20:09:28.678159+00:00",
+  "generated_at": "2026-11-20T02:04:46.338213+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽 IPO 첫날 주가 30% 이상 급등, 시가총액 약 2조 달러 도달",
-      "title_en": "Anthropic shares rise over 30% in market debut, valuing Claude maker at about $2T",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTE4OHR1dXJOYmZHMXdVRVFWN1lIV3Q5YXJOM0ExMEF5Yktfa2kxR1phZXRpU3VFOUdFcUxWQUVkU3hzdkZnTC1sSEs4MmgxTTBlXzBVQUJzSGNMRDNvQWVNT2tHMEdNS2NxTWpDa25HNGFRbzJMSmxldGVkWUN6VjdoV01XZDBjejVoQnpTVy1GQTdseE5QNFkzNnpicVJlZURlN0xXTWpSa3luUllmMDR6ejMxaFA4RkxF?oc=5",
-      "source": "Anadolu Ajansı",
-      "published_at": "2026-11-19T18:52:28+00:00",
+      "title_ko": "앤쓰로픽 7명 창업자, 기록 경신 IPO에서 약 20억 달러 현금화",
+      "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-20T00:43:50+00:00",
       "category": "기업·투자",
+      "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
+    },
+    {
+      "title_ko": "소프트뱅크 16% 이상 급락, 앤쓰로픽 IPO 이후 아시아 기술주 AI 매도세",
+      "title_en": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-11-20T01:07:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
+    },
+    {
+      "title_ko": "앤쓰로픽 1.5조 달러 첫 거래로 벤처캐피탈의 플레이북 재작성",
+      "title_en": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVk2clRUVFZnTGJTcG1qOWpTRmlSQmRjTXdoVFhIMGQ1cU1idU5RTVFqOVhob2NMQXYyWlVTeEhpU2N2cEk5d0pJSlhic2NSaHJ2M0V1b3N2WW9BalFiZ3VnQnpuY1VKV3Fwd1pkMWw0N1FnRlNPZmdXRFVudkhGOHA5OHNsVzBPWnRWaWNnTmRTNFBQQTVKSEF1WndCeVhnSmZ3S1ZCVzBtcDBWSk9VS3ViTnY5UThFaHFz?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-19T23:22:04+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
+    },
+    {
+      "title_ko": "애플, 맥에서 실행되는 자체 AI 에이전트 개발 중",
+      "title_en": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-20T00:56:01+00:00",
+      "category": "제품·출시",
+      "first_seen_at": "2026-11-20T02:04:12.660473+00:00"
+    },
+    {
+      "title_ko": "유럽연합, 10월 AI를 활용한 사이버 공격 피해 확인",
+      "title_en": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLURoaHNVVU9MUklyOWxzNlZ3NzBFZktvRmZyVFBkZlBMcDBCU2gwbGhBSGhlNmt5bHppQkhoMTFEUFYydW1sUEFwOGh4MlZRa2c2aExGRlgyZ0tqVHRVQXJHR3NoT0hZc0RTSUt4MmVDZV84Q3VLWkg2bGRXbGhXR19FcDZ3VGNZWExNN2RTZy01Wl85SXNhMS1CWFpqbmkwMHM0YVZZbVRzME9reThpNmZLOTFrMGtCTGfSAb8BQVVfeXFMTVJmZi15cUZTbW1uSDF6bk92NFh3VnhvejljWkNvemhOYmUtdHJXSGRhbXg4eXp4bk9JZkswVThRd2hlRVBub19jMm9SZ1JKMldEMThkZjZmRFVWNnhJcmFnbWwzVXR6aDFvY29MbXUzSGJacGI2VEcwV2FDRkZ5QkFhbGJZREx1Wm1QTS1KYm9Eck1yWVJXTTFvYmxnR1c0dkpxd1ZkUktCUEREYTRuUmZyNXMwRGhNc2ZQZVd2UVk?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-11-19T13:30:39+00:00",
+      "category": "보안",
       "first_seen_at": "2026-11-19T20:08:44.683312+00:00"
     },
     {
-      "title_ko": "구글, 엔터프라이즈용 AI 모델 '제미나이 4 네온' 출시 - 복잡한 작업에 최적화",
+      "title_ko": "IMF 총재, AI 조정장은 '조금 더 계속될 것'이라 경고",
+      "title_en": "IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUlqZEY2VEs3Z1VYS3ByN3dRTDA1ZkV5RFRiTDVEVmhudjRqY1hrWGt5cWJoNG90di1IbDI0YnFXd3JJU016T25fVHNNYXVUcS1xOEhtc1NpUTJ2aHBUVk5MZjNYYzVsVlZOcHVNQmlqUmUyMXNNR3RZR09tZWc1LWtEMlRQVHU0Q0NBRFVFdTk0LUdELWZLQ19STzFqUV9mRjIxeS1HbUdsNV9tbms1S1VJZw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-11-19T10:51:21+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-19T20:08:44.683312+00:00"
+    },
+    {
+      "title_ko": "구글, 엔터프라이즈 복잡 작업 목표로 한 제미니 4 네온 출시",
       "title_en": "Google debuts Gemini 4 Neon, an AI model aimed at complex tasks for enterprises",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORW1vUjRFZDBjOTVJZHR6SEp0bk1La3NSU2lkdlFnZlNBQkdTVjc0am5JVU1tM3J4TWk5WFpKWmJmdm02bGZXYW9nZG1GSXoxWnpmYmZhcnNZT0sxVjFhcHE5VWp4VVpzdkFYaGJtXzBrX1g1UmZBRjU1VkFrTmhzbEZxNHRyd1Zqc2x3eURuSnF1S1l6V3BTbGNDMW1qcExsRXhTWWJNN2JZTWVnM0lNOExUYnZrQdIBvAFBVV95cUxPUm80U3dkcHNUWUlNRUxMdEpQTW5tVjYxdVg1cFlXYmhEc0xmTkw0aFcyR1BfeHU4aTlJalA5WmRkbVVmTE53LXc4OEhCbGQ5SFJvQVBaYkMtRlZWNEJzSWlaXzVvVnlYbEVTR21fQkNVRzBZelEtSm1rWUFQS3VsVVBMVjFRWGhlenBhQ2h0NFZXaC1IWTI3SFUzcENPNzJvandwd28yeU5aRFhSVlRVOFhjOHc3aHBDcGtsTg?oc=5",
       "source": "The Indian Express",
       "published_at": "2026-11-19T10:02:51+00:00",
       "category": "제품·출시",
       "first_seen_at": "2026-11-19T11:26:42.275552+00:00"
-    },
-    {
-      "title_ko": "오픈AI, 불법 AI 에이전트 운영 혐의로 애리조나주 조사 대상",
-      "title_en": "OpenAI Faces Investigation in Arizona Over Rogue AI Agents",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZ0eEhZU3VWYjh5MHA1aWRPcjRxX1FIeUJiWkk5dU9jWlpIN3lhenYxRzZjVmR0N0dEOXJXYThHejZVcEtpUGx6bzBvN2ItdXk5WGxvaWVpMjdkZlJvUWdZREdxeFMxMFlmVDFUbks2VHNmVm5vVVRsTmtrN2JOM1pDLUNYWXVrd2szd3ZIaTVrdGZTY3pUcGpOVlBaTFNOSS10VV8xVnRyQVNsLV9wX1RQZw?oc=5",
-      "source": "PYMNTS.com",
-      "published_at": "2026-11-19T17:58:48+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-19T20:08:44.683312+00:00"
-    },
-    {
-      "title_ko": "구글 경고: 해커들이 AI를 활용한 사이버공격 대규모 전개 중",
-      "title_en": "Google warns hackers are using artificial intelligence to launch cyberattacks against companies",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HWFN2aDJqZEdEbzdnMkNtbDlZNU42cXkzRHVQRHBGVHRsUFhwZVlvNWE5aFBldTVmcDU1TlA3bGQ4aUdoT0xkOHRpbzFyelgxeDVQd1Vn?oc=5",
-      "source": "Fox News",
-      "published_at": "2026-11-18T20:45:28+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-18T21:09:12.639269+00:00"
-    },
-    {
-      "title_ko": "뉴섬 캘리포니아 주지사, 위험한 AI 멈추기 위한 'AI 킬스위치' 제안",
-      "title_en": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1ZjWGY0QTNQeDhqM2lfazJKT2FVWXRPNkk0VzIwRnJOWFdpQmJvdGRSU0I5WTRXblE2NVZIV1RlYVlZMnpvSFJOUzhvZEFhYlRRaXdCTUl1OWdyeFZIcjQzZU5yMmJQZXNXUFpDTkRNMlBEV19QR1NnRTU1OUppaG16LU8?oc=5",
-      "source": "CalMatters",
-      "published_at": "2026-11-19T00:15:00+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-19T20:08:44.683312+00:00"
-    },
-    {
-      "title_ko": "구글, AI 에이전트 테스트용 거대한 '미러 디멘션' 인터넷 구축",
-      "title_en": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "source": "Wired",
-      "published_at": "2026-11-19T17:00:00+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-11-19T20:08:44.683312+00:00"
-    },
-    {
-      "title_ko": "마이크로소프트 CEO 나델라, 6만 명 직원 퇴사 권유 이유 밝혀",
-      "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-19T00:42:56+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-19T02:58:15.942634+00:00"
     }
   ]
 }
