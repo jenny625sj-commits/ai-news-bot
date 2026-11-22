@@ -1,27 +1,36 @@
 {
-  "generated_at": "2026-11-22T10:51:09.823721+00:00",
+  "generated_at": "2026-11-22T18:18:17.500708+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽의 데뷔가 보여주는 월스트릿과 실리콘밸리의 괴리",
-      "title_en": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnA1cXB0NjhBTjNiX0FZT1UxUl9lZVpLSmlhWUZLMDRyMkkwazFrdmswZkpvNC1CdDVBYjIxU085UUhNUW0wT2xJcTE5Snk5WlduUmQtU1RPY0t4MDFFeHg5UndKVHBnZkYwNUJWMjROZGlqU19fN1lDQ09WUUZGZzgtNDh2Q3J0aU9TaU1ENm1iaURVYUE?oc=5",
-      "source": "The New York Times",
-      "published_at": "2026-11-21T10:03:45+00:00",
+      "title_ko": "Anthropic의 기록적 IPO, 월스트리트가 직면한 1조 달러 규모의 재정 부담",
+      "title_en": "Anthropic’s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can’t Ignore",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeS05cnd1cFpBR3lrT0NVdDBmWk9ySFNBbDVYblNCRy03c1NGSVdRd21ONXNVU1dpNnZPQWVGUlRWb01CYmlNNm1uOFRmOFF2ZEllckFRUnpaekhLVi04WWM0b3A0UXpGVmFUTHhYNHp1QlE1ZUFXQ2I2a1JjY3lJaHN1eHdiZUEyTGtreEhjU21OZWdVOWROQmxTa1p1NDdORUZfM0h2Mk81YzQzemRQcjlJZnc3RE9zRlF6d1BWZjBaeDk2aFFYcUtHUTBuNFBWNS1qOUZn?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-11-22T15:36:00+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-21T17:10:14.029283+00:00"
+      "first_seen_at": "2026-11-22T18:17:59.289578+00:00"
     },
     {
-      "title_ko": "트럼프, 미국 기업의 해외 AI 데이터센터 건설 금지 위협",
-      "title_en": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
-      "source": "BBC",
-      "published_at": "2026-11-20T20:54:12+00:00",
-      "category": "정책·규제",
-      "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
+      "title_ko": "두 그룹이 Claude가 수학 문제 증명을 도왔다는 수학자의 주장을 검증",
+      "title_en": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-11-21T16:39:00+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-11-22T18:17:59.289578+00:00"
     },
     {
-      "title_ko": "다우지수·S&P 500 조정장 진입, 나스닥 AI 주식 급락으로 하락",
+      "title_ko": "월스트리트, Anthropic 급락 이후 AI 트레이드를 살릴 방법 모색",
+      "title_en": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-11-21T13:00:00+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-21T22:53:24.883156+00:00"
+    },
+    {
+      "title_ko": "AI 주식 대량 매도로 다우지수와 S&P 500 조정장 진입, 나스닥 급락",
       "title_en": "Dow, S&P 500 enter correction as Nasdaq plunges in AI stock sell-off",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0dZWG1SVm5SaEVhQ210NU9hbURrdXRxOGZ0eHlWaTBvSUV4UlZCZmsycFVaVm1WMU5MaXBoT3FzZHowd0Y4eVZoanBoNjVOSUNYZHRvNDFsY3BhYldpckRSa2FSOHdwdEZ0cktLYVZ5SjctdVRGSDdsdVhLTEVoMFJPbzQ0eE91SHRlY1VpZ0ktZU9wc2ZWMUFNZ3NWZk5ZYk0teNIBqgFBVV95cUxNbWFQbGR6ZHRyUmI0VTdmRlJNdlMxQjg3QzFfcjh6UGhra2NEMHdDaTkyejVVZHBEMDUxY0FVV1ZOaUw4aHg2N2U4dGhNTFB2SjdRLUMxRlZrWHRTTVZ5clpUTHhRSGQ5UDhlSjFlUHFxd1c2alR5YURVNm5xVHZPdVBIeGFXYVM2VDdkM0FTaDJhNGxmVlhUMUhOcWFzZXRsVGZha0hUajdOZw?oc=5",
       "source": "upi",
@@ -30,40 +39,31 @@
       "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
     },
     {
-      "title_ko": "앤스로픽 수학자, 클로드를 이용해 167년 된 리만 가설 풀었다고 주장",
-      "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "source": "The Verge",
-      "published_at": "2026-11-20T16:57:47+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-11-20T19:43:47.993146+00:00"
-    },
-    {
-      "title_ko": "메타, AI 데이터센터의 사상 최고 배출량으로 2030년 순배출 제로 목표 재검토",
+      "title_ko": "Meta, AI 데이터센터의 기록적 배출량으로 2030년 순배출 제로 목표 재검토",
       "title_en": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
       "source": "Ars Technica",
       "published_at": "2026-11-20T21:47:10+00:00",
-      "category": "기업·투자",
+      "category": "정책·규제",
       "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
     },
     {
-      "title_ko": "해킹 집단, 자율형 AI 도구 '카이른'으로 제로데이 취약점 발견해 서버 장악",
-      "title_en": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGVzUFN6Uk45UC1rS1JqSUc0b2tyLWhHSXR2a2hKX08xWlZjcW9veHpJM2FRQUVuM1JRSk5LSEpZSkpBa2RkVklXTHBvclFHN09oa3dYMjBDeU9ScTRWelNYeW1fdk1iVDFFaVcxSVp1ZDNtOER5aDdnblhYelZMeWxzZjVIYkFYU2haQU1kVVhTV1l6dFdaeG0zMkI3MElBZURWNFkwUXFJeW4yVTBDYm9TQUFwNWQzM1E?oc=5",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-20T17:30:00+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-20T19:43:47.993146+00:00"
+      "title_ko": "트럼프, 해외 AI 데이터센터 건설 미국 기업에 대한 금지 위협",
+      "title_en": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-20T20:54:12+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
     },
     {
-      "title_ko": "앤스로픽이 안전을 최우선으로 할 수 있을까?",
-      "title_en": "Can Anthropic afford to put safety first?",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "source": "The Verge",
-      "published_at": "2026-11-21T13:29:45+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-21T17:10:14.029283+00:00"
+      "title_ko": "연구자, AI 공급망에 200만 개의 '카나리'를 심고 심각한 개인정보 침해 적발",
+      "title_en": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-20T20:59:08+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
     }
   ]
 }
