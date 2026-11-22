@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-21T22:53:35.815500+00:00",
+  "generated_at": "2026-11-22T02:52:55.902325+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Anthropic 대형 IPO 이후에도 AI 업계 불안감 가중...월스트리트 '구원의 손길' 묻다",
+      "title_ko": "앤쓰로픽 상장 후 월스트리트가 AI 업종 구원책을 묻다",
       "title_en": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
       "source": "Bloomberg.com",
@@ -12,7 +12,16 @@
       "first_seen_at": "2026-11-21T22:53:24.883156+00:00"
     },
     {
-      "title_ko": "다우지수·S&P500 조정장 돌입, 나스닥 AI 주식 대량 매도로 급락",
+      "title_ko": "앤쓰로픽이 리만 가설 주요 수학 문제 해결했을 수 있다",
+      "title_en": "Anthropic may have solved major maths problem Reimann hypothesis",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5cjczNDdOUWdoOUlOSUFsbUc2dXF2UGFJaGZPelVGeEw0YnN6T0UzaVRRbXVCUXZCMzBPNnNfTEtueXVxay1BM0dmcEVJX0dBbXE3azNIQ1lXV00?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-20T23:08:57+00:00",
+      "category": "연구·기술",
+      "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
+    },
+    {
+      "title_ko": "다우, S&P 500 조정장 진입... AI 주식 대량 매도로 나스닥 급락",
       "title_en": "Dow, S&P 500 enter correction as Nasdaq plunges in AI stock sell-off",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0dZWG1SVm5SaEVhQ210NU9hbURrdXRxOGZ0eHlWaTBvSUV4UlZCZmsycFVaVm1WMU5MaXBoT3FzZHowd0Y4eVZoanBoNjVOSUNYZHRvNDFsY3BhYldpckRSa2FSOHdwdEZ0cktLYVZ5SjctdVRGSDdsdVhLTEVoMFJPbzQ0eE91SHRlY1VpZ0ktZU9wc2ZWMUFNZ3NWZk5ZYk0teNIBqgFBVV95cUxNbWFQbGR6ZHRyUmI0VTdmRlJNdlMxQjg3QzFfcjh6UGhra2NEMHdDaTkyejVVZHBEMDUxY0FVV1ZOaUw4aHg2N2U4dGhNTFB2SjdRLUMxRlZrWHRTTVZ5clpUTHhRSGQ5UDhlSjFlUHFxd1c2alR5YURVNm5xVHZPdVBIeGFXYVM2VDdkM0FTaDJhNGxmVlhUMUhOcWFzZXRsVGZha0hUajdOZw?oc=5",
       "source": "upi",
@@ -21,16 +30,7 @@
       "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
     },
     {
-      "title_ko": "AI, 167년 묵은 '리만 가설' 풀었다...인간 수학자도 동시 증명",
-      "title_en": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-20T19:32:08+00:00",
-      "category": "연구·기술",
-      "first_seen_at": "2026-11-20T19:43:47.993146+00:00"
-    },
-    {
-      "title_ko": "트럼프, 해외 AI 데이터센터 건설하는 미국 기업에 대규모 세금 부과 위협",
+      "title_ko": "트럼프, 해외 AI 데이터센터 건설 미국 기업에 대한 제재 위협",
       "title_en": "Trump threatens ban on US firms building AI data centres overseas",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LazU5dmNQT2FtWmdoMTJVYWdnNWJHUm9OdmxOSk5DVG96VXMtdGMwelB1eWtiZzU1Zk1sNXE2NURBNS1lcTBaRXlMY2hkXzhLWnB4ZHl2aTJKelk?oc=5",
       "source": "BBC",
@@ -48,7 +48,7 @@
       "first_seen_at": "2026-11-21T01:09:41.843092+00:00"
     },
     {
-      "title_ko": "자율 AI 도구 '케언'으로 제로데이 취약점 발견, 서버 장악 사건 발생",
+      "title_ko": "해커들이 자율형 AI 도구 'Cairn'을 이용해 제로데이 취약점 발견, 서버 장악",
       "title_en": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGVzUFN6Uk45UC1rS1JqSUc0b2tyLWhHSXR2a2hKX08xWlZjcW9veHpJM2FRQUVuM1JRSk5LSEpZSkpBa2RkVklXTHBvclFHN09oa3dYMjBDeU9ScTRWelNYeW1fdk1iVDFFaVcxSVp1ZDNtOER5aDdnblhYelZMeWxzZjVIYkFYU2haQU1kVVhTV1l6dFdaeG0zMkI3MElBZURWNFkwUXFJeW4yVTBDYm9TQUFwNWQzM1E?oc=5",
       "source": "BleepingComputer",
@@ -57,7 +57,7 @@
       "first_seen_at": "2026-11-20T19:43:47.993146+00:00"
     },
     {
-      "title_ko": "민주당 의원, AI 규제 위한 특별위원회 구성 제안",
+      "title_ko": "민주당 의원, AI 규제 위원회 설립 제안... 빠른 입법 추진",
       "title_en": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUxEbDByUzRBdDVDVUpaQ1dzSm40eFJJQmlPUVVfVzdMRWtCRjE4Z0c4SEhMUUZqWWwtbGtvc1RSQmMwaDVsYVFfTWI5cmJ4NldNbFpyb0QzMjE1VUVVbkV4YWxMeEYyaDk1Mk1JbV82RGFQUHF3OG53QkJvOF9yUTk4NHNqZzdCeDRvUk1nUEhLXzdTSlhZZU9TZ0FkVFNFRUVPamxDUUN3MmtZRE5wbjdQTGhrR3dKZWRYWll1X19RZTk5Ym1HUTkxSm9IX2lVZWE2dUU3SUJ3ZWFWVmpJ?oc=5",
       "source": "The Washington Post",
