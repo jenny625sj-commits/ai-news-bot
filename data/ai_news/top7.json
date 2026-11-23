@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-11-23T08:41:14.983168+00:00",
+  "generated_at": "2026-11-23T20:57:49.981473+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "Notable Capital, GIC, Baillie Gifford가 Anthropic IPO 전 대규모 투자",
-      "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title_ko": "앤스로픽, 역대 최대 규모 IPO로 813억 달러 조달",
+      "title_en": "Anthropic Raises $81.3 Billion In Record IPO",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0RWhyOGlkanlGeGcyWUV3WHFoQl9rMXQxWkxoVEh4N3pGX2pwTUliclVpeWY5TW12VFNsQWhrV1p0ai1oQ2VrNnViWE1TVHdyeDRoZEtaazEzdUtKeHVOVmp3aEV6NkZscnlscDl0TVgwVDQ?oc=5",
+      "source": "CIO Africa",
+      "published_at": "2026-11-23T08:57:06+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-23T20:56:53.559247+00:00"
+    },
+    {
+      "title_ko": "젠슨 황, 엔비디아 CEO 겸 회장으로 복직",
+      "title_en": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-23T15:46:18+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-23T20:56:53.559247+00:00"
+    },
+    {
+      "title_ko": "스페이스X·앤스로픽, AI 고비용 구축에 복잡한 채무 거래로 자금 조달",
+      "title_en": "SpaceX, Anthropic turn to complex debt deals to fund AI’s costly buildout",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlJ0OTVXaGhVVGJOdjRSQko1bkxRa05OVmVMOGg4ZVRpcWN4SXNBY1QwSldBVkM1ZFBXZ0FOcXowaTNieUJiVWJyOHk1VVp0Yk5ib0ZlMXpIMWlScFY0NWZUeDdaRFRwYWxrU0MyTGdNNlhrcGR3LWpzOFV2ZVJ5dHdzaE9GdjE1M3Jvd29lMjVOWUxyQzVtUml5ZmJrU0tfa2RCY0NlRUpBX25xVzFodFhMTS1peFNLUVdnQ2Jn?oc=5",
+      "source": "Los Angeles Times",
+      "published_at": "2026-11-23T15:51:33+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-23T20:56:53.559247+00:00"
+    },
+    {
+      "title_ko": "아마존, 디카트의 AI 최적화 기술을 75억 달러에 인수",
+      "title_en": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
       "source": "TechCrunch",
-      "published_at": "2026-11-23T01:25:53+00:00",
+      "published_at": "2026-11-23T17:14:23+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-23T08:41:07.265460+00:00"
+      "first_seen_at": "2026-11-23T20:56:53.559247+00:00"
     },
     {
-      "title_ko": "Anthropic 역대 최대 규모 IPO, AI 산업의 미래는?",
-      "title_en": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXBXdzVRdkJMZW1ESjJiZkdrVHAxWGlSc2FUUEs3bW1WRUFpajZRS1EzT1VENUxaeUdtdWY0LTRCOE1UQzU2YnVGMUZRaTVta1d0dzVWSk1PSThMZU9RQmVfTGxCSDYxN05UbGJsN0xJTlg4SDNNUGwzQXU1VnluRUtKVldPcWFVX2FxWVFoWHcxa1RCaVlLVjE3SlVyZFJwd3RsLXVHeG9sUE9uRFNYUUtwQ1FWQkc4OHRRSEJ1c2JFR00?oc=5",
-      "source": "NPR",
-      "published_at": "2026-11-22T13:12:13+00:00",
-      "category": "기업·투자",
-      "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
-    },
-    {
-      "title_ko": "OpenAI 최고 과학자, AI 개발 제한 필요성 주장",
-      "title_en": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-11-22T19:40:54+00:00",
+      "title_ko": "오픈AI 과학 담당자, AI 개발 제한 필요성 촉구",
+      "title_en": "OpenAI Science Head Calls for Limits to AI Development",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1l4QWFhMTlnUWR1bGp4SktyTEFRa1NsbkFJZWprbW9HeUZNa3F3YXJyUktzMFRsTXAxM1ZXenc2NXBJbTVVR3dVVEF3cFBBRU9HNVhwaVRONHNFS3ZvVmxBX25DX0NwbTF0Y1FMdE8wdHo4VlB2UUlfeVlneU0zcHF2eU12NzAySTFtb1p2V3V0SXJDMldpaWlOQlIzV2ZHU1RKeHNRTC1nUW84QVJjX3d3?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-11-23T13:36:29+00:00",
       "category": "정책·규제",
-      "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
+      "first_seen_at": "2026-11-23T20:56:53.559247+00:00"
     },
     {
-      "title_ko": "AI가 100만 달러 상금의 수학사 난제 해결",
-      "title_en": "Artificial intelligence helped solve one of the most famous mathematical mysteries, for which a million dolla",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50WDVJQ3dhNWE0T0JrVTdmVXUtNE5XX3RSaFNwTVJKb3ZoeVI4Y3Q2V2pEVEdTQWstdmJYV21RelNiSnZ0bXFxVzdwQdIBS0FVX3lxTE50WDVJQ3dhNWE0T0JrVTdmVXUtNE5XX3RSaFNwTVJKb3ZoeVI4Y3Q2V2pEVEdTQWstdmJYV21RelNiSnZ0bXFxVzdwQQ?oc=5",
-      "source": "Наша Ніва",
-      "published_at": "2026-11-22T17:58:50+00:00",
+      "title_ko": "UN 사무총장, 1년 내 글로벌 AI 안전 프레임워크 구축 촉구",
+      "title_en": "UN chief Antonio Guterres calls for global AI safety framework within a year",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOTRCUmI5ODFrVUFodUViUDJ4QTh6MDJ2YmFhaHp1bFgtb3BNQl9oN2FfR0dVOFZjYUJ2Q01TQkZabGxwV3I0TGtXdlVKYkd2Szl1U2xJUUdoeGVhdmZRZTgwc0Z2UF80cHdkZXRseTlkOWFmM1VWYjctVXpxV1lmeFdLWUR3QnhLNDZCNkc1TERfQzVrMElFMzc0TGZZUjhOTXVUREk2NGpsUUVlb3J4ZjZ2b2JjVGJralFDVXhDVQ?oc=5",
+      "source": "France 24",
+      "published_at": "2026-11-23T19:06:15+00:00",
+      "category": "정책·규제",
+      "first_seen_at": "2026-11-23T20:56:53.559247+00:00"
+    },
+    {
+      "title_ko": "클로드, 수학 난제 리만 가설 풀이 해명",
+      "title_en": "Claude deciphered math’s greatest riddle: researcher",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6QzUyRnhlSEw1YWtvTEllV0RCSTVYUFV4YkJSbjA5dVRkekk4TWU5WVpLUGp2OTBMclVUS1pNQ0tEeVdXYnc2dHh2eFpFRWZHLVNfckNiRFJGWE9fa2ZLWWRIYks4dGtiNFJVVW5IdzlxUjdNMzBGRQ?oc=5",
+      "source": "Taipei Times",
+      "published_at": "2026-11-22T16:00:00+00:00",
       "category": "연구·기술",
-      "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
-    },
-    {
-      "title_ko": "Signal, AI 감시 위협에 대응해 모바일 스크린샷 제한",
-      "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-21T21:37:10+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-21T22:53:24.883156+00:00"
-    },
-    {
-      "title_ko": "빅테크 역풍의 중심에 있는 데이터센터",
-      "title_en": "Why data centers are at the center of the Big Tech backlash",
-      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-22T18:08:43+00:00",
-      "category": "기타",
       "first_seen_at": "2026-11-22T18:17:59.289578+00:00"
-    },
-    {
-      "title_ko": "Amazon, 중국 연계 해커의 AI 에이전트가 의료 소프트웨어 취약점 악용 적발",
-      "title_en": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
-      "source": "SecurityWeek",
-      "published_at": "2026-11-21T12:08:50+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
     }
   ]
 }
