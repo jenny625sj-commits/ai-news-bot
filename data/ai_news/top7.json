@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-11-23T00:02:20.039084+00:00",
+  "generated_at": "2026-11-23T08:41:14.983168+00:00",
   "method": "llm",
   "items": [
     {
-      "title_ko": "앤스로픽의 기록적 IPO, 월스트리트가 무시할 수 없는 1조 달러 재무 부담",
-      "title_en": "Anthropic’s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can’t Ignore",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeS05cnd1cFpBR3lrT0NVdDBmWk9ySFNBbDVYblNCRy03c1NGSVdRd21ONXNVU1dpNnZPQWVGUlRWb01CYmlNNm1uOFRmOFF2ZEllckFRUnpaekhLVi04WWM0b3A0UXpGVmFUTHhYNHp1QlE1ZUFXQ2I2a1JjY3lJaHN1eHdiZUEyTGtreEhjU21OZWdVOWROQmxTa1p1NDdORUZfM0h2Mk81YzQzemRQcjlJZnc3RE9zRlF6d1BWZjBaeDk2aFFYcUtHUTBuNFBWNS1qOUZn?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-11-22T15:36:00+00:00",
+      "title_ko": "Notable Capital, GIC, Baillie Gifford가 Anthropic IPO 전 대규모 투자",
+      "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-23T01:25:53+00:00",
       "category": "기업·투자",
-      "first_seen_at": "2026-11-22T18:17:59.289578+00:00"
+      "first_seen_at": "2026-11-23T08:41:07.265460+00:00"
     },
     {
-      "title_ko": "OpenAI 최고과학자, AI 개발 제한 필요성 촉구",
+      "title_ko": "Anthropic 역대 최대 규모 IPO, AI 산업의 미래는?",
+      "title_en": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXBXdzVRdkJMZW1ESjJiZkdrVHAxWGlSc2FUUEs3bW1WRUFpajZRS1EzT1VENUxaeUdtdWY0LTRCOE1UQzU2YnVGMUZRaTVta1d0dzVWSk1PSThMZU9RQmVfTGxCSDYxN05UbGJsN0xJTlg4SDNNUGwzQXU1VnluRUtKVldPcWFVX2FxWVFoWHcxa1RCaVlLVjE3SlVyZFJwd3RsLXVHeG9sUE9uRFNYUUtwQ1FWQkc4OHRRSEJ1c2JFR00?oc=5",
+      "source": "NPR",
+      "published_at": "2026-11-22T13:12:13+00:00",
+      "category": "기업·투자",
+      "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
+    },
+    {
+      "title_ko": "OpenAI 최고 과학자, AI 개발 제한 필요성 주장",
       "title_en": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
       "source": "Bloomberg.com",
@@ -21,49 +30,40 @@
       "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
     },
     {
-      "title_ko": "수학계의 미스터리, Claude가 풀었다는 주장 검증 완료",
-      "title_en": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-11-21T16:39:00+00:00",
+      "title_ko": "AI가 100만 달러 상금의 수학사 난제 해결",
+      "title_en": "Artificial intelligence helped solve one of the most famous mathematical mysteries, for which a million dolla",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50WDVJQ3dhNWE0T0JrVTdmVXUtNE5XX3RSaFNwTVJKb3ZoeVI4Y3Q2V2pEVEdTQWstdmJYV21RelNiSnZ0bXFxVzdwQdIBS0FVX3lxTE50WDVJQ3dhNWE0T0JrVTdmVXUtNE5XX3RSaFNwTVJKb3ZoeVI4Y3Q2V2pEVEdTQWstdmJYV21RelNiSnZ0bXFxVzdwQQ?oc=5",
+      "source": "Наша Ніва",
+      "published_at": "2026-11-22T17:58:50+00:00",
       "category": "연구·기술",
-      "first_seen_at": "2026-11-22T18:17:59.289578+00:00"
-    },
-    {
-      "title_ko": "AI 버블 붕괴, 중국 주가에 GDP보다 훨씬 큰 충격",
-      "title_en": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-22T23:05:30+00:00",
-      "category": "기업·투자",
       "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
     },
     {
-      "title_ko": "앤스로픽 쇼크 이후 AI 산업을 구할 수 있는 것은 무엇인가",
-      "title_en": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-11-21T13:00:00+00:00",
-      "category": "기업·투자",
+      "title_ko": "Signal, AI 감시 위협에 대응해 모바일 스크린샷 제한",
+      "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "category": "보안",
       "first_seen_at": "2026-11-21T22:53:24.883156+00:00"
     },
     {
-      "title_ko": "Amazon, 중국 연계 해커의 AI 에이전트가 의료 소프트웨어 제로데이 취약점 악용",
-      "title_en": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
-      "source": "SecurityWeek",
-      "published_at": "2026-11-21T12:08:50+00:00",
-      "category": "보안",
-      "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
-    },
-    {
-      "title_ko": "빅테크 역풍의 중심에 선 데이터센터",
+      "title_ko": "빅테크 역풍의 중심에 있는 데이터센터",
       "title_en": "Why data centers are at the center of the Big Tech backlash",
       "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
       "source": "TechCrunch",
       "published_at": "2026-11-22T18:08:43+00:00",
       "category": "기타",
       "first_seen_at": "2026-11-22T18:17:59.289578+00:00"
+    },
+    {
+      "title_ko": "Amazon, 중국 연계 해커의 AI 에이전트가 의료 소프트웨어 취약점 악용 적발",
+      "title_en": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
+      "source": "SecurityWeek",
+      "published_at": "2026-11-21T12:08:50+00:00",
+      "category": "보안",
+      "first_seen_at": "2026-11-23T00:02:05.188446+00:00"
     }
   ]
 }
