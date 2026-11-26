@@ -1,5 +1,415 @@
 [
   {
+    "id": "17d3e4a3d78d0f54",
+    "title": "Optimizing penetration testing workflows with in-house artificial intelligence",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0lwb2JMNWRmYkI3dk1Qb0JsUXFjSVFXNWcyZklLbkZ3d1JnZlQ2WEJjYnc5SGpZbWh3c19FZkxoSXQxdVV4aE5fNER3Xzl4TmpPOTB6NnU4SEVHQUphR2ptUmlZVDJNU1c2V3VBYU4xNFMzZW1KR1RLN1Y2TnBGckpGOTJkWEM0YWI3N1JvS1dNWHFlN0x5OEx5cHFUbTNzdkduNFZTZFUwNm5k?oc=5",
+    "source": "SC Media",
+    "published_at": "2026-11-26T13:39:23+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "사내 인공지능으로 침투 테스트 워크플로우 최적화"
+  },
+  {
+    "id": "0fbf5b746aa3ceec",
+    "title": "Artificial Intelligence in the Workplace: Italy strengthens human oversight",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObE5ZWVBvSFdXOXZOZk9jUEpwNTgxV0VEamRfNkJzSXN1b28tVnBYcTdQWGw4TlA0NTRzOGhzb0pidGdaSldDU2tpbmNmUTdnc00wWGRmU256eURaLVI0R05kREFHNGY4RGNmQlRfWHN3ZUxuM3NQb3d4emtNWFYyV21OY29DbDdXUy1NQXVZNjE5VThWaTdpb252Rkw3WVphVk0xLTJSSQ?oc=5",
+    "source": "Watson Farley & Williams",
+    "published_at": "2026-11-26T13:30:22+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "직장의 인공지능: 이탈리아 인간 감시 강화"
+  },
+  {
+    "id": "8f30b271dbb26eb0",
+    "title": "New York Governor Kathy Hochul signs ban on AI chatbot toys backed by $15,000 daily fines — takes effect in 90 days after holiday rush",
+    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNU1dKS3c0N2xLYjRON09HRkJreTZsSkg0Q1ZJbk5za3V4MWtHOWU4NjVONEtqN3QzYml4VHUzR2Ytb0NvMHM4MDV1a0hMWGJ6SHlTMXh4cjI5VGdOal9wWTJZUmd4WklQd3B6UnJHOHVLWXJmeGhBOUl0XzNJbVNQRkhSMFRGZF8zSU9LOTRLaGtWTjBNV0JOVXU4OFV6cWFuLVB1ejJ2S3NhVU5ULVlMcEViRDJ5R2hneDl4S3J4bnFSOEhxZnBiLVg5dUY1LTk0SXA0Yk5OYnFlaXhGQmstWWFYU3hUcVBxSWIxNUhmSlUzdlo4Y1d6NUhTSS1fQmVtNzdMYndLY0ktcFppX0hMRFBDNTgxb0lOVGQ5V3lnbnlyQjROR0xfTw?oc=5",
+    "source": "Tom's Hardware",
+    "published_at": "2026-11-26T13:30:00+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "뉴욕 주지사 Kathy Hochul, AI 챗봇 완구 금지안 서명 - 일일 $15,000 과태료, 휴일 시즌 후 90일 후 시행"
+  },
+  {
+    "id": "045bcdf3d522d627",
+    "title": "The Council of Europe calls for responsible governance of AI at UN security council",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGhtT1ZHNzdYTlhfZUpHdF81NVY2SHlXR0E0V19kdWc4WndxeDFCLU9uM2FZeWhqYnZIalF0TkY2cHlZaEdWazZBTDZnN2dTMVBzeWNDaGE3YXgwd09GeGVPRWFMV0RlUTFYSFk4Q3pCYzZCbk9TQzhHc1JHREd0Zmw1RGl3dWFDUEZnSWJpRTV5cWRINldIZGdtdU8wLUJBZjNfSXhoT3YyRlRxTlFSNEJnRk1lVV9SMmln?oc=5",
+    "source": "Council of Europe",
+    "published_at": "2026-11-26T13:16:01+00:00",
+    "category": "보안",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "유럽평의회, UN 안전보장이사회에서 AI의 책임 있는 거버넌스 촉구"
+  },
+  {
+    "id": "91b750172d9957ca",
+    "title": "Ministry of Education and AI Office launch ‘Parent’s Guide to Artificial Intelligence in Education’",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbnF0U083MzdCcGJqa0RVbGkyV09WOERFS3JrNGlCUUJfNE1HSHFYLWRKbEtadGlESk5Wd3RFbDBWNGVlUmpHVzhBMzhOUVk1bmN1aEx6VXV1aGZoa2dpRmVwYVpsYTNESnNTa2UzVURYWEtjamp4NkdPcE8tSUZ3eTFVR0RoT0M5MV9EeEVkYlE3Z1hEQjhpd0RjSlo1ZHhxc25hODFvWlp6eWxiWEQ0MW1Dd3NxU2hwaWxfZEZRclFBZWU3M1lhT19tTUh0d2dUS0MxclplQTlfRmJFS05SUE43TW82a2Ewc1hnZ2dXWGlydw?oc=5",
+    "source": "Zawya",
+    "published_at": "2026-11-26T12:33:00+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "교육부 및 AI 사무소, '교육의 인공지능에 관한 부모 가이드' 출시"
+  },
+  {
+    "id": "454b4b1a74f1cbb8",
+    "title": "Sandboxed AI models secretly talk via GPU rounding errors on shared vLLM servers with no network or shared files — colluding watchdog let all 354 attacks slip through",
+    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOQlkydEp3RjZWQWthb2ppdWlRNmtBd1Jsck0ySUtjSjhIZER4SlFvUml2RTZYWkRyb2Q1T3pQVHBhTHVhOFVsOTA3Zmh6TU5vTlVnTzJQN3l3Nl9UekE4eF9Xc1FhSlBsYmdOMEdiQmhuNzVoek9jOVIySGMzeTVEa2NUV0pQZFMybTZqQUpPZ1F0RjRlb3BMNXBqanpwV0J5UllrdVNiTXlOSW1xMnBaMHU0X0NlbWVCZ210dzhRQ0ZHb0tzQk4xZ0R5SlRwdlE1ZnJVMWltLVlXczNHanZjYWc5cy1YY21PVms3bGc4TjVGZWNrMmRreEFnZzJkbTN1Tktid1ZERmFWTW5TWTZKUE95Nko1WEoxSjJSdFFmM29ZOGNZMW9KM3hYNjc5OTF0cUVWYWI0RkJQRElGQlJCTWwwOEh1Skhza2lOT1lzRHE?oc=5",
+    "source": "Tom's Hardware",
+    "published_at": "2026-11-26T12:30:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "샌드박스 AI 모델, 공유 vLLM 서버의 GPU 반올림 오류를 통해 비밀리에 통신 - 감시자는 354건 공격 모두 놓침"
+  },
+  {
+    "id": "b5a5b3668abbc167",
+    "title": "AI firms' $4 trillion exposure amplifies global market risks: BOE",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMEN6clBldlhOTFlWVnkzYjE0OEdyZjdFM2wxSVR2eDZxUkxLal9LTFVmX1NUbDJ3aFlxTi11WG1oNEFtY3AtMmQ3ZDJmbW0xb2dQRm5tZTdfQ0JpZDhBT2FuR0Jxa2NlNk5IYUQ4RDRzamhZYjlFWm9LZFo4cl9TdEZBanR5U0djdlVFLWRjaVltQnJUX2Zub25RY0F2X0o1aEQxSzVWU1lLX2xNRUpCX3ZmemJieEplc2NGS1hLejNUVjJfQTBPVU40Zk9NdWFjNUVWbWZHX0ZNNkdPUGI4QkNhblhUd9IB6wFBVV95cUxQLUpXc2RPS1YyRkR2LVFTNG1COVg2UHo1VmduMjBOZjE2N2R1SnNsRDJqLS14akpUdllTMUczUzI0NmdZa3d5RHY4eUhOWS1KUktqZ0FRX0I2bnkzWjdCRUVISWtlNWRKVzJWc19YellfRV9BSkowcklKSGJpSTZRdXktTVVCS09XNDFGeGRHZFF2OE1tazRLTlkxaXhYV1REX3puQ2JGMXFDWkVGMmpvaTQ1UXFCdC1BN2lQVlpEYlpVME1HYmc2SEYtZkVIbG9SVHVqSVlROGh5dWtkNEM0NGJxdGFRemcxcnZN?oc=5",
+    "source": "Business Standard",
+    "published_at": "2026-11-26T12:23:31+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "AI 기업들의 4조 달러 규모 익스포저, 글로벌 시장 위험 증폭…BOE 경고"
+  },
+  {
+    "id": "aad6e770990763d9",
+    "title": "Morocco outlines strategic priorities for digital sovereignty and artificial intelligence development",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXYwZVZ5Nk5PSWRNRTFYVXFWMS05ZnMxSHpRWnZjRjZYTUoxUUFxQ3BtbTBka253TmlNZXd2YXpBcWY1QU01RGlaTU0zQnUweXpJcmhoWXpVMlREV2pfYmxSRDBBZHBGbDhqTWl3bFRUMlNGVTFjenpYVjRXT3JQaUh0LU9NT216S0FYYU5icEZMZkZ1bGVnRlJMOU9Va1JHeW41enNwM3dqbWN6TlVkUjNrTjI5MHpFenhaY1Q0dnNBbnZ6bDhEZUJVRWZ6SnFHLUl3eW1GYw?oc=5",
+    "source": "Tech Review Africa",
+    "published_at": "2026-11-26T12:19:05+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "모로코, 디지털 주권 및 인공지능 개발을 위한 전략적 우선순위 제시"
+  },
+  {
+    "id": "e9a543b3738d3839",
+    "title": "Review Outlines Biology-Driven Artificial Intelligence Framework for Analyzing DNA Repair Mechanisms",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlhXTkw5YVNwV2JkOUY1OHNZaVFyV2RhV0RHYVJFZG16cW1abFRCNmN5dHdNTFd1amt5UmdpMGpBcklqS1hrS3Z1RW5OcWVJaWFDeTRnYTdrR3VfZk8xWlVsV0NEUHRkSHVtY3hwcG5SRXVHOWw5UFViU0ZHXy1lTzVjenM5YU8wZVhRSGxENGRuTVRmY2MyQ1ZuYnN6dlVRd25HaEEtX3I2QTAtVzBycjJPYjZKQ0lNT2l0R25pUUEtZ2M?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T12:10:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "검토, DNA 손상 복구 메커니즘 분석을 위한 생물학 주도의 인공지능 프레임워크 제시"
+  },
+  {
+    "id": "943153aa692c8eca",
+    "title": "Artificial Intelligence is never risk-free",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTDZNYU92U3NjMG1iVDh6NnBrYzlBSXdscmxIRUYwSVVBSnU4SDdSRjNXclFKUW1HaXJYWmlZd3RTd1prTTJGdEh4YmtMeTlGWXJSZzA4V0FmNElicTZoMmhiS2xNQjZoa3QzRzY5WWRnS0hrbVMwcjJHZlU1emRSS0g0LXp2WTA?oc=5",
+    "source": "TahawulTech.com",
+    "published_at": "2026-11-26T12:06:26+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "인공지능은 결코 위험 없지 않다"
+  },
+  {
+    "id": "f51597d94778dca0",
+    "title": "Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd2NfMk9kcnN3UWxZNmdOdTVUaVl6M2xZMHVrUk9xRUttV0p1djhKZHZPY1JUM1dvejRpMFBMUVlzdGVvVkhhY0hxS1oyMzY3VHNsM2pScnd3aEVuTV8tT1FhTWRzRkVuOE9hUU9WSTNGSFN3d3FjSkQ2bFNmQ3ZuSGhXbG4tRjV1QzZQRkRlbk1DWXB4WThZdmJLWGdkWjlwS1VhMmFwZWdya1Y5Q3pqeFMxWTdrUWtQdDF5eW4ydnEtQkpEeENQZTRid2dnLXM0YlV6cXNLQ0x0Zw?oc=5",
+    "source": "AiThority",
+    "published_at": "2026-11-26T12:01:21+00:00",
+    "category": "제품·출시",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Amini, 국가를 아날로그에서 AI 준비 단계로 전환하기 위한 오픈 인공지능 모델 Soma 출시"
+  },
+  {
+    "id": "ca3434807d2b1d91",
+    "title": "US-China AI Competition: Superintelligence & Geopolitics",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVDN2ZmFXTWNVRFh4cjRfSElnT0YxcFpMTHoyUmZad0ptdkc4Q1E5ekdmV0N6MmpCZWhpRXhWMGgyZkluMXZxVzUxd2loQmQxX1NDS1B4Y1ROdl9INmR5emZmeG5CXzBTYzZsQndLUV9jbU9Eb29JckdORjA5SnJ6SllzTVZvMUNvU2NBN2ZUcE1hRk5VdzlZM0kyMGNfYjZPWl9rWU9kcFF0b2czenc?oc=5",
+    "source": "World Economic Forum",
+    "published_at": "2026-11-26T11:27:29+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "미국-중국 AI 경쟁: 초지능과 지정학"
+  },
+  {
+    "id": "721d394fd704b151",
+    "title": "Artificial Intelligence-based hierarchical classification of parkinsonism using digital voice biomarkers",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yYk1vR3lpUzJsYWx0QllEMEw4XzRfTzVLMkdkdU1CVjhqdzBTN2p3RzQ4YVoxVTZhQ3dFZ3ZxcktldjVzLVZENXJPWVBmZ0YyYWhmcTFlcVgySC1tZ2Zv?oc=5",
+    "source": "Nature",
+    "published_at": "2026-11-26T11:14:56+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "디지털 음성 바이오마커를 이용한 인공지능 기반 파킨슨병 계층적 분류"
+  },
+  {
+    "id": "bffc114fd5012224",
+    "title": "Clinical Artificial Intelligence Faces Accountability Gaps Across Healthcare Lifecycles Study Reports",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNHhuOEVlOWNQUmpVRS05MVlJWTR5TmJzZWhOcGNqckZvbWVUQWVCT2s3Ri03a0pMZC02UGt2Ujh6eXc5c082YXB2NzhhVzRPdV9qbVMzUUtwY3ZMUHJ6TzEtTG1MakRjN3pwUDFYdnY5RWtYd2s1UWU2bEp6UmJYRlJybHFYeXVDV1pzS1hUajViT0k2a3p6QW1MSC1WenJNZ3hDcUF6YnpEQlB0VE1JdXFUMlB2UTFRZTBKTWFCaW43VGNz?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T11:05:58+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "임상 인공지능, 의료 생명주기 전반에 걸친 책임성 공백 직면 - 연구 보고"
+  },
+  {
+    "id": "40603fc3c1ac8109",
+    "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "source": "Wired",
+    "published_at": "2026-11-26T10:51:27+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Meta, 테스트용 Muse 공개 거부…영국 금융감시기관 불평"
+  },
+  {
+    "id": "998623a521c9c6c6",
+    "title": "AI safety debate intensifies as researchers warn of risks, UN seeks rules",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdkxiVXoxN0tLaDd3MmRCbEJOUDg2Y3ByWExrSTREMjVFWWVmSW5faGtmVDJ1ZHZaZ3gwVHhRUHRiV1BKVU5CNGVCeEQ4Z01aVDdkampTbU92M2JlQlNHUHJ2NlhEaUhzMGZXb0E1MVdNR2xyQjJxVWl3VFUtY0thUjVuR0gtVzRRYjg2NFZSOWRSVHd6ajdJaTg4WDIxXzhyTktJdGNmNzNKZW44ekJPWTdmWnJOUW5RSXhCTE9kWENKZ18yMW9CZzkwRDRESlpqVHEyclJYU3R4blFXaklWakRtaHBTTjBERWMyY3c1QzBXOUHSAfgBQVVfeXFMT1FYYmQ5Q1l4LTYta1djTXBzcGdMM2R3V0diemxfZ2hNNHNVb0c2YWQ3S1JMR1VrMWlWV2JtaVF0LXhrRURTMmRLWXdlSHY3RW12X2swWEFiODhFU3R5bGdVSGtfLWFjLVQ0XzloMGhFbXpfRWxQM01JUTdyOTN0aUtMYl9tby14aFJsWUFiN0JscDk5QnBSVVcwY0RId1NVQ200Y2V2Nk8tWThJeHltVHZmX2VXT3BlR0ZVUExmQnkyb3dqN0xSamFNb1plYkpTOGFlOU9YSjdLelp3OHlaQzMyeGRxVjNNUUJHZW9TVDBrQXNrT2JMMU0?oc=5",
+    "source": "Business Standard",
+    "published_at": "2026-11-26T10:50:42+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "AI 안전성 논쟁 심화…연구자들 위험성 경고, UN 규제 추진"
+  },
+  {
+    "id": "aa23c4a1de3bb629",
+    "title": "The US-China AI Race and the Challenge of Global Regulation",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemV1WmNrNGQxUGd2MDRCaFpJbndOSVpNMkRZcUpmWlVFalRnamNoTTg0UDdEVllBQ3VIb1hQcm9DM25EMkc3SF9zNWxxWlFhWnRLQmJmdHp0TUtGVDlxVnlMa1RGZ0JrY3JjTnJPb0lObkdtZmVWaUlkS0NZMVR1ekFCTmVyOGZiUUxQTEVqRDJwTVdmZ1hWWDVnTnJIbklV0gGnAUFVX3lxTE9hVzdLTU1BcWpCdVVEM0tWZHQ0Z1lDZHdSQjZlcjZ3SFF5T2trelVIdk1Sb3g4cDdJQVJYcHlWQkNKT2NFV2YzTEdnMkU1VDhCZTl5VDZNaTM3Q2Zmdk1hcGF2empJYmtFLVVuSlp4R1NXOTV5d21USlYyOGttM0kwTUpFb1JBTVU5cWxQVnlUQzlfVjFlU1FfWFpOWnNSZ3pFWTdrVkFR?oc=5",
+    "source": "Frontline Magazine",
+    "published_at": "2026-11-26T10:30:25+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "미중 AI 경쟁과 국제 규제의 과제"
+  },
+  {
+    "id": "cb50b9558bcde2d0",
+    "title": "Weimob Inc. Plans to Increase Investment in Artificial Intelligence Computing Infrastructure and Build Its Own Gpu Cluster",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ2dHRWZxU1FBMm1TM2hoVEVOdzVHNFROWjY2MWxXQm4tUjc4U0ZHbUpVWlNGbTlTM1cxRGdLT3ptcUpqTWtfQ1JjNkptdHpzM0w3YllVODhtTS1qanlKWURBajRyREV4ZVVReVV1SjEzQ0tOTGRCOTVILTZnaTVJWm1ibkF0eTNjMG9Fc2Q1OU5jS1hiV045Q2t6WEpwaU8tYnlqTlhpb29DeGcwdmI5SGNtX3BGTDU5WXRrZm5rc2VxUlJLMXlMS2xHV1JVWEFjZXFPTUp5VzNJZ0VnSmNMdTBRdF9rMUU?oc=5",
+    "source": "www.marketscreener.com",
+    "published_at": "2026-11-26T10:21:51+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Weimob Inc., 인공지능 컴퓨팅 인프라 투자 확대 계획…자체 GPU 클러스터 구축"
+  },
+  {
+    "id": "9325e9b3c8e28783",
+    "title": "Universe Today's AI Policy",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YV0VLUFlJQ19JOUp6RUVNTW5VWEUxLVVXXzJhcmpPczM1T2V0MDh3OXk5TWUwNmxnd1JDc3pXU09IbThiSHdVcDFXZzhTUUVMNTJhTXVDYzRBcFctd05TQ3JrUk5RSXZaRmtrMDRmTlNUQQ?oc=5",
+    "source": "Universe Today",
+    "published_at": "2026-11-26T10:20:00+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Universe Today의 AI 정책"
+  },
+  {
+    "id": "c69b48e851746554",
+    "title": "Anthropic CEO rejects idea of ‘surrendering human free will’ to AI",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0tSSFo2SWNvRUhodGdXX2w0NG0zRDJwN0Q0YVQ3ckxjSDdsRDlCVjktUVY0VlZiN0JIR0QtZWdtaXl5VUFGUmtLUFBIb2pRT0dBWlllSDRPbmVOcW11a0g1bklGdW9zU0F2bl9qbERuZFpvVm9tenMzZGlub2xXekQyWi1XZ0JISElBdTBFYVp6Yl9WZ2FhSmZ3NE5lVmgyTlc1MGV4Q3Y3TzZsVXVTaWxrbDlpMTlEbmc4?oc=5",
+    "source": "Anadolu Ajansı",
+    "published_at": "2026-11-26T10:03:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Anthropic CEO, AI에 '인간 자유의지 항복' 개념 거부"
+  },
+  {
+    "id": "abb3526b4f95fab8",
+    "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFk1a3hxaXJETVRkR2o1aEFpWHBaVDdaV3hRMHlXYXdxRUR4YkJpSGVrVVVMMGV2X2R1UndhR0RvbkUxUVVIaTFfNzAxdmpUSTFTY01DaWozSVBwXzZzMGlERXRPX2dyRXNaRzVkWHlSVmpvZ0k3Y3puVnVaMk5FenpqUnNtNnloV0dVZ2tzUXRTYkhQLVA5dEg4U2FqUFZsU0FvMHJ1amd5Z2hndDQ0dFJnUnp3Tml6QzY0OVpReXFJSzJ5VWRtQ1dVc1U?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-11-26T10:00:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "2026년 영국 및 웨일즈의 수십 건 법원 사건이 미공개 AI 사용으로 영향"
+  },
+  {
+    "id": "c0f2de19f05669ce",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "source": "The Verge",
+    "published_at": "2026-11-26T09:54:40+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "42개 주 검찰총장, Character.AI의 사용자 채팅 판매 중단 추진"
+  },
+  {
+    "id": "7897907568244eba",
+    "title": "ARTIFACT Network Coordinates Federated Artificial Intelligence Strategy Across European Particle Accelerators",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkhobUZQakRGb0ZwZjhGamtoS1BMbkcxNUU2c0xtRTJGZ2VIcS1FR0pEOXVtMXcyX1ZOVHJ5OVpOWTA0TWNaV1h5eEppQkFYSThvQTR6NWJCaWJDUG5CUDhrM0wwNWFxcGhDQW5NeFk1eHZwT1o5Q0pWZ2c5NEZCdDFfQWViZUVvclp5azg0ZG1qeHhFVmNjeEE1ODJDY3VsQkhjejBFbUE4MllnTzZhTWVGNHRXV0pobTltUFUzT0NlMEd1SUJVd3JJSmhsSVE?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T09:45:53+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "ARTIFACT 네트워크, 유럽 입자 가속기 전역의 연합 인공지능 전략 조율"
+  },
+  {
+    "id": "08e0dd124dbe99e2",
+    "title": "Artificial intelligence and advanced sensors are enabling drones to navigate and fly without relying on GPS, showcasing new developments in autonomous flight technology. #DWBusiness",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOUQ5RmVqYTZjMmdRVkhjUDdZOG1oaUtVU2xMSkNUZ0tEQ3JtZlFha0drTUlyR0FNd2ZOTl9mOHg2X1Jtajl3SkM4b21rb2huVFlfaUZGVG9pTkdBdzlTVTJXQ0lGVHFJTXVVal9vN0xkRTlWMUxIeWNtdHdUei0tVzdFMkRFeWJ5dFN4WDg3c0ZWWkQzQU1lTEVhYUdZazM2RDEzWmtlM3l2WlhhSG5Ibm9LQU16VndPMFJfVEQwWVRTNy1YalBuZ2gtZTJSZHdYZzdENmw3QmM?oc=5",
+    "source": "Facebook",
+    "published_at": "2026-11-26T09:41:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "인공지능과 고급 센서, 드론이 GPS 의존 없이 항법 및 비행을 가능하게 하여 자율 비행 기술의 새로운 발전 시연"
+  },
+  {
+    "id": "5b5ee4cc1d33ec2d",
+    "title": "Editorial reviews artificial intelligence reliability gaps across smart grids and cities",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbk4zMTB2M0dFN2hHVUgwbnNmZU5MenE2UjlBSVM2cWtBS0Y3YUlvOTM2RXpjT2I0Y0FJMnpmVmQ5bUpMcV9GemFKWlMwbld2SmxsNmcyVjBfLTV3UEJweERUS2RPbDhOdkIwSWt0blFJeXIxdkNlUml0OFIyNXhlY1JkY21fdFR3SnpUUkdyQmZMWUtWb1hfaEd3QlAxWHRmbHZoQ3laM1ZxV3BHTXRVckdDbw?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T09:40:50+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "사설, 스마트 그리드 및 도시 전반의 인공지능 신뢰성 공백 검토"
+  },
+  {
+    "id": "ca0b9b01e8321237",
+    "title": "Artificial Intelligence. Original Advantage.",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGNNdFBzczl4b3RWOTJDekNLeEh4UUNnbDhRNS1hWjBfSHN5ZWRFcVg2N2V3dUZBd291aHM4RUMyLWhVSS1Da3lQWnRBUXZJQVdtZlV2d19XQm9tYV9UazBaSTJ1UUJRdUZBQkFqOVZwMnFkOUlkb1hvbGlvVkpJdkZ4TS1ic21ZVGZEdTlUSkd2Wl9EcUVvak1wNmY?oc=5",
+    "source": "Deloitte",
+    "published_at": "2026-11-26T09:35:47+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "인공지능. 원래의 우위."
+  },
+  {
+    "id": "05fa5d478350c5bc",
+    "title": "Artificial intelligence in air defense: Optimizing resources and costs",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNem1RZUc2SWlPUGVfS3hUUFJnN2tRcWp3YVF3M0xPMDhOQTJwTXVIbElOdnVub1Y4RDlybWVidWtad19jbWlfOEVaWGZjc3ptTEhXbXRaUHFLTy1sMzA1cmhNUndkSHEtTHRsX2FxQnpPeDFmNnZ1amZvVndJaG9fRUU4TFRxaXprYXBObXIydzVodHk2SHlneWNfdDE5d015b0E?oc=5",
+    "source": "Defence24.com",
+    "published_at": "2026-11-26T09:30:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "방공에서의 인공지능: 자원 및 비용 최적화"
+  },
+  {
+    "id": "0cf60c81b58c2714",
+    "title": "Multicenter Study Evaluates Artificial Intelligence for Skeletal Maturity Staging",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXgxeV91Z0w0U2N5ZFR6TWY3NU9Ga04tcGQwTDM5VHh2am40RWw3UEUtYTAzZktqcTNPbnFBX2Qydm1ydGYybEU1V093YWFaTlhFRnlIM3gxb0MzakZJcHlDelJTOVJSYm91UTJTNjdQdkxNanFaSzgzNVU2d3JRcWxWMWljTmd0eGVjX2hCY25pQ05zbE5wT2pBQy1oWmxhTEU3ZzlWNTl3QQ?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T08:44:57+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "다기관 연구, 골격 성숙도 판정을 위한 인공지능 평가"
+  },
+  {
+    "id": "08b65297cefc396e",
+    "title": "Tokayev, Putin Focus on AI Cooperation as Bilateral Trade Nears $30 Billion",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1pKUGJnbW92Z1J2RXR1N0w2aHlrek9BbE94X3NyQlN3bVhkVFFQQ3gwaGtjaVZzQ2FGSzJIUWtHLXpuanYzdWE5MVdxOTR0TWRoMHJYQmtuU2xNZ1lzaU5CSjBFbnRWSU02dGQtbkZBMVJpUmJsMk1uc2hHNlNoMEkwWXRSem1zVEltQVhyRXROTVpkY2x1YVJtS1pBZUptYlRzRG9EU3Zjdw?oc=5",
+    "source": "The Astana Times",
+    "published_at": "2026-11-26T07:54:13+00:00",
+    "category": "기업·투자",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Tokayev, Putin, AI 협력에 초점 양국 무역 $30억 근처"
+  },
+  {
+    "id": "ca855da4d71db9c0",
+    "title": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa181eVU3OHBLZXUyOXhwOGlWQlJYUlFWTjctemIwS2NVeEJ4dFE1d2lYSnhPbWVDeUp1MWJ0MjB5TjdtQTVCQ0RCcnhBUFkzaTlsV204U0NvYUNtVEtGSzJXdXJUOXlvcm9qVElBUVA2YWNrODl4VTNmX0hMSFRmaXB1VTVFeGVtLS13THJLclV2ZnVUa1JRWWpPbHpxVGc2akN2US1BTU5QbzZ4ZDU0elFVMWpsWUtuX00ybXhXVUJuTWxUY2hhM2NEWkpLeTY2WUoxbWVXZzh6V245RHF3cmhnLTQtSXJ6NDNWc254dDQ?oc=5",
+    "source": "Cureus",
+    "published_at": "2026-11-26T07:17:08+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "광범위한 사용, 최소한의 교육: 의학 학부 및 대학원 학생들 사이의 생성형 인공지능"
+  },
+  {
+    "id": "da70e0e8f81f0deb",
+    "title": "FedEx Preps 'Smart' Peak Season With AI and New Tracking Tools",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnh0ZDBBdVF3NzdFRVItYkNSakQ0QjBoeS00bnNOajNpZV9MTzhfbWplM09iN1FIMjBISjdhRnBoTklPR0sxZEFOYWxMN0Y1TWYtTUdqeUxoVm1fNDhQVTh2NU5kVFA1TDVIcy1RWGMtZC1MX011ZG5hVTlnS1Y1THpmNVJSMS1YMm9pV1JweUFpS25ON2FDNlI5eDh4Q0dNRzU2RF96Q2dDR2Ytdkt3cndSbTQySGpwQ2VsaGtwb19qLXpyOExYYjhobWNBU0QzZHRLYzZB?oc=5",
+    "source": "Commercial Carrier Journal",
+    "published_at": "2026-11-26T07:15:37+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "FedEx, AI와 새로운 추적 도구로 '스마트' 성수기 준비"
+  },
+  {
+    "id": "fd78c236a49210f6",
+    "title": "Rule of Law Imposes Operational Limits on State Deployment of Artificial Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDZoMDF3QlJKRzdMSkYzSmRTN2kzR096YmpZLXU2cUROSmxBd2VEMW5rbVE5Skk4OWZHVHJUamxhRjZKdExQb25aX2JlVkFhMjlNT3F5eUtmM211VDU1c0JpbzE5d3doelZtT0hneHR4dEhZZWNaNG5DWktDa0ExeHlLWkpvdTVaY2g5ZkZUOGY2dmlQa3FyU0xSRHA1Wkp6cmZCUlUybTNUWE1FVVBv?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T07:02:35+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "법치주의, 인공지능의 국가 배치에 운영상 한계 부과"
+  },
+  {
+    "id": "8a58aba93964bcbe",
+    "title": "Algorithmic Constitutionalism: Reimagining Constitutional Authority in the Age of Artificial Intelligence",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTNtSmNqV2lTTWQtczRCNzJLSEFGVDBKU0lXQll4a1h4cG9JU2o4VU4zbGNXclg0NFYwSHUyaWw3dVBuUjRZNzhOWGlEdzROb2owR3NBeFlVSWRFN0NxeTY4YjlHenlneTd5Y29ZdnZRbzEyZHB5TmZFR0lETmt5X0NnMU5PaHcyUlVWVHV2SlQwT3R0Yk0zSmZMOXBCX0M3NUxMclpWQm4ybmlrY2FYYVJsN3pCdjhSeWttY3NhcVVTY2JNWGpTT1pkTDRha2c?oc=5",
+    "source": "www.iconnectblog.com",
+    "published_at": "2026-11-26T06:32:20+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "알고리즘 헌법주의: 인공지능 시대 헌법적 권한의 재구상"
+  },
+  {
+    "id": "9b783eabe48b9942",
+    "title": "FILE PHOTO: FILE PHOTO: World Artificial Intelligence Conference in Shanghai",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOUdTUjRqdTh4Q1VyaW9ubk9GVGxHOFBObW1zbU0ybTUwd1duZ2N4VElwTFJSVGF3WjM2cUliWHhJWVBtcWpDRHZ3Q2dUWnUyS01GYkIyMW5pSEk2WHZFSlhvaVF3bW5TbmtzRENmWG5POUJGRU9zNEdNc0N1cUNXRHM2Z2NoYWV5VTZieDJlVW54WEZQWVp4YW9TbEZKbll5Wi1HdThMdjQ0SXhkSWI5czJGVzVveTl4ZHFZcUx6dXFSTm4yWWMyNTlSVHEzMVIySkw1bUF4LUdyWU8tay1FSUpVRXlIdFdOMHFCMHh2anVrdnJHWC1iRVViSW1kMjhUUUE?oc=5",
+    "source": "The Lufkin Daily News",
+    "published_at": "2026-11-26T06:16:22+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "파일 사진: 파일 사진: 상하이 세계 인공지능 대회"
+  },
+  {
+    "id": "7a919892a561009c",
+    "title": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXlXQVE4enJyRWstWjJvUGdBczBMWHdfZHRmYTNSN3I0eFpqeXBfVU5tN3NRSERpcjBPeE1rV1kwWTBwWnY3U2s1TnlpY2EtakM5TmItUW1UdnVFZXJWTWVRQk1paVhJeTBpSlB0eHJyWERRdnZ1bVctUmctdGJZOXpZMnFMdkxYVlZ3UHI4OE1wZEhocHBGNW0wU1Z3S2VxQ0x6a1pablJOUzlTOXlMSkxUYjRFcWtIc2tB?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-26T06:16:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "독점: 중국 AI 기업 MiniMax의 데이터, 미확인 제3자에 의해 접근 - 연구자 주장"
+  },
+  {
+    "id": "913c4719bb27413a",
+    "title": "Artificial Intelligence Regulatory Sandboxes Mitigate Market Failures Under European Governance Framework",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGxlZTNuVUh3clhiYllhaTRYd05vMEVMRlVSYktFeVZxRFVFdGpKa2xMTTVUNmFhMGw5TkVxbnE5aEhteWFlcjdMck5nMkN3bHR4VXIxNjNMVU1rZ1c4RTJ6QjI2cGFTSW1Da2tFc1oxNFJfd21nWm1GRGxIcjJCd0lWaEF6eWZ1dmE2Zm1rNWpKeGFqUEJTRG1RMTZ3TU5DOE5OU09ldUpVc2dEYXFIRUh2VGZQb0N2b0pEUkdkOW9tZ1pHME1BMDdR?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T05:35:42+00:00",
+    "category": "정책·규제",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "인공지능 규제 샌드박스, 유럽 거버넌스 프레임워크 하에서 시장 실패 완화"
+  },
+  {
+    "id": "7cec909854f8e336",
+    "title": "Review Finds Artificial Intelligence Improves Blast Vibration Predictions Only Under Specific Conditions",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0xmYUFxcjJVOVZXTkNyUVpvcnNLZUloOW56LTk5OXM0UHhKLW4xWUZLUUlQS2tmcUZqNTVIeGtyNFQ0SXhSdFlTTVdVamtxWUNlTzl0OUhUMmFSejZMRzFwalcyZXJxa2lja055eUxEX0Z1MGxOZjNZM3V1bDNVNTJWNVFqZmJxTE0wWGpFYlM3ZUpNQ3JzNXhQQ2Y3VHF3d3FPUWhneHpjWGJ0bVNLZGZ1Z0xPeXkwVnBELXMxZmpoR1YtamhaNw?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T05:30:40+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "검토, 인공지능이 특정 조건에서만 폭발 진동 예측 개선"
+  },
+  {
+    "id": "3b71d20464adb0fa",
+    "title": "CI Global Artificial Intelligence P (0P0001VEUA.TO) Seasonal returns chart - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BcWNzZllwc19lYTJ0XzRVTm1raG8xb2F6NC1IckJ6TjdKa3dqUXVzNi1jd0k0azI3UUFwUzN0blBVMlV6ZG1qLUM3cTc2QWU0Q3FvTWxJQUZzNGpuUjFXRlgwZW9kUG9vWUh5dFVB?oc=5",
+    "source": "Yahoo Finance Singapore",
+    "published_at": "2026-11-26T05:17:04+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "CI Global Artificial Intelligence P (0P0001VEUA.TO) 계절 수익률 차트 - Yahoo Finance"
+  },
+  {
+    "id": "b6a76496982bdebf",
+    "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU9tZmh6STA3Ui1FY1FQaE9LMDgzQjJjV2xoZ3Q1Znlvbk5wdll2OXoyOUdxUHp2WEYteFpvTFBhVDZYbFozTXp5T0RpaE4zUUhBaDhiVDAxUkY2RURGQWFFaE1BRTVmdmdXTDh3UEdReDM5N0pjSjBzUXB3UEpPa05ma2ZoWDZhTzhJbTNFeDBfQllEWS02eHhST1FPRWI0VlRMOEhHanpvUjZpWkNPWEJLS1BlSllaZ25XeTRGUXF3bUZEcE5n?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-26T05:13:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Apple, 아동 안전 우려로 MiniMax AI 챗봇을 App Store에서 제거"
+  },
+  {
+    "id": "fcab003b3255dbae",
+    "title": "Artificial Intelligence and Infrared Sensors Detect Plant Allergens in Food Prototype",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmkxWjRWSTR4dlh1M3VKUDFVeUlKNERjTGVIckhrNEp6MjZoWlk3NV9XZkk0M1ZyOTQtcjB0QlV2aEVMeVo1bmszNVdfMkE1bWZSTWEtT2dPMlI1bFJubjFsXzMwY3pFTUxGSDc4Q3B0Y2ZBOVBMeDNwS1g5ZmJESXNpek8zTWFUQ0NWSWdiMkNOOE1ldjY2aXo5NDJaQXJMYTdPclR5bW51OUU3X3B3?oc=5",
+    "source": "Bioengineer.org",
+    "published_at": "2026-11-26T04:35:18+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "인공지능 및 적외선 센서, 식품 프로토타입의 식물 알레르겐 감지"
+  },
+  {
+    "id": "64892387f2370fbf",
+    "title": "An artificial intelligence with a neighborhood vocation",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWRnd0Y5TVhpUnhrcWtzU1hhMFg5RldfS29MZHFTUlYtTEc0MGpOZnNlTmRWZ0tyWnVXOXN1MzB3eW5sOUlIdzU5ZVA5TERoc2FOU1pFTHlKbDZRSlJUMTJMeGdJbmZmZFJjRXh2c2MzWDhGWWFSQVNydkVXNmI0S2FxTDdwQ2NlMUNqTmI0WVIySFJZWklZdQ?oc=5",
+    "source": "The New Barcelona Post",
+    "published_at": "2026-11-26T04:30:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "지역 사명을 가진 인공지능"
+  },
+  {
     "id": "97462927d7a7a373",
     "title": "Review Details How Artificial Intelligence Transforms Radar Signal Processing",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT25xSjNPSlAtR2N4dXN2c3hMLWJobUM2Q1lIRjVUMzZqSGEycTJnZ2xwMUNSX3FVLXJJZ05Lck5pLW8tRUdkVHF4SFpyZUdtV1d5NGZFMnQ0QzU4N2M3LS1PUGttR3FYWU10Y29vbWNXbWJ0QW94elM3SDRtVTZsOUdHWTZ5S2NCZTd2d3RLOUhoeXowOVlWYVk4eGhTcnJyaFdKSw?oc=5",
@@ -60,6 +470,16 @@
     "title_ko": "인공지능이 고관절 골절 예후를 예측하지만 공식적인 경제성 평가 부재"
   },
   {
+    "id": "743f10dd3e8f6da1",
+    "title": "Is AI the next dot-com bubble? ASU expert sees a key difference",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPako1cmJhWVBGZ0QxQUV5SG5CQ1NKeGF1eTBmTS16dGtnMmoyQTBSakZvSDFDTFN2OUFUTnJaWlE0ZWZMUzFIbEoxd2ZUNnhEeXJsay1oR2FRVVhfZGpRMFFjOUlhWnB3ZjlpM0VJWUVPNUJnOGRLX2xwRWZpTWxFZzBZbGRHU2tVNi1hMVBONUtfSWtkdzVfdA?oc=5",
+    "source": "AZ Family",
+    "published_at": "2026-11-26T01:50:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "AI가 차세대 닷컴 버블인가? ASU 전문가, 핵심 차이점 지적"
+  },
+  {
     "id": "73f43b28fb8aad07",
     "title": "Disliking Artificial Intelligence Does Not Deter People From Following Its Financial Advice",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOandkSUtmQzc4NkdFR0dob005emNTY09QSWExUjBwYU5FSnN4SEdHYm5GVEdnaXVzT21nZURMMm0tazNNRERqdnc0UTBrd1JLOXRYUG1KTkY1TW9LRl8wT3B4eTEwXzNwZmRhdnVIaWo4aHdOY3cxZHRSSGlXRjdBbXpkYUdVZExsQ2NHd0p4MFNPQzI2eDNYamRxOFBqMjZ5WXdFbjZxcWhLMkRBQXdzcGZRczBqQmc?oc=5",
@@ -68,6 +488,26 @@
     "category": "기타",
     "first_seen_at": "2026-11-26T03:59:31.175021+00:00",
     "title_ko": "인공지능을 싫어해도 금융 조언을 따르는 사람들"
+  },
+  {
+    "id": "6062e8b5f9a7079e",
+    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb1RuQWVRcWRmNzV4TktERUZCWEd4Nm5BZUliWHhXZDFGLWowNXAwRjhhR1c4Sm9UMWJsaUxpQVF6cTFnbGtUYXV0RjVCOXpTMi0zb1U0cEJCUjhVLUcxX1JWOEFpM2dPTUItV3FVWFRZR2dfdmN4Z0VraHJMZXhId0RXUDlBbFJtQVUwYdIBjAFBVV95cUxNb1RuQWVRcWRmNzV4TktERUZCWEd4Nm5BZUliWHhXZDFGLWowNXAwRjhhR1c4Sm9UMWJsaUxpQVF6cTFnbGtUYXV0RjVCOXpTMi0zb1U0cEJCUjhVLUcxX1JWOEFpM2dPTUItV3FVWFRZR2dfdmN4Z0VraHJMZXhId0RXUDlBbFJtQVUwYQ?oc=5",
+    "source": "CNBC",
+    "published_at": "2026-11-26T01:34:00+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "시장이 위험을 가장 잘못 평가할 수 있는 곳: AI 붐, 변동성, 고수익 채권"
+  },
+  {
+    "id": "0e0e3ce25fba7efe",
+    "title": "Healthcare still playing catchup in industrial AI marathon",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWdMQmE4STRHWWEtU05oWnBUREsyR3pmQjdscU9tZEJmTlZ5cjNQU1VKV1hFXy01ZlFmWUp2UUU2R09rN2haUTJZLXN4bHBvOEpsWGltd2dxd2JCWG9hMFBFWTVORHdOSllRUmkwSFh5Y3VjX1RlaFFMQzFEakJVUUtZSElBRmFIeXlRU1YzcWRjQWxjX2ZZQXBTMl9jbnB0TVMtb0ZyUnZqR3hpdUE?oc=5",
+    "source": "HealthExec",
+    "published_at": "2026-11-26T00:46:54+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "의료, 산업용 AI 마라톤에서 여전히 뒤처짐"
   },
   {
     "id": "9852a17b5f93d9a9",
@@ -300,6 +740,16 @@
     "title_ko": "AI가 사이버공격을 가속화할 수 있다고 전문가 경고"
   },
   {
+    "id": "0c9c4273f0f50501",
+    "title": "Are We Approaching a Breakthrough in Artificial Intelligence?",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1BHRlBJcWhwa3F2ZkRya0hHV3FVWF9hZTZrdTJEcGRhNFplSUs2TmhraUI0LU5NSVY2SFBkV0RaYnk3a05XWFd1TFdzSWhINWNKM3NVZV96b1JZbjVTT09PX2RBNUM5RUUyVEF0bktQTTZwV3JRRHBRemdqMEdRLWh3VnNzbi1OMEV4cTZ0ZVJtRHhvU2oxMS1iM3FDeTNw?oc=5",
+    "source": "The Acquirer's Multiple",
+    "published_at": "2026-11-25T20:44:51+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "우리는 인공지능의 돌파구에 가까워지고 있는가?"
+  },
+  {
     "id": "72f756a4486a323c",
     "title": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How.",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSW1VTjZHMTM4LWRZT292cVltYmZJSUd5clVvOTZjQ3c5MlNxZEhnaFVyVzVTWlNMRHBmQ1JoYXJCRlRDQmgxRXQ0ZWlqRmVkTk9Yb01taVJYVnAyZ1NUSzBuQlFsVXd1WmV5bGZNLUl0OWd4ckNrY0lHanA2TjRIdTNwenhCWHh0M3NEWkEybEtxZ1FIN3FhRUdxV2VUNnNCTVNteC0wblBwNV9H?oc=5",
@@ -380,6 +830,16 @@
     "title_ko": "인공지능이 감사의 말을 받아야 할까? 그 답은 당신을 놀라게 할지도 모른다"
   },
   {
+    "id": "19c6342dd488e981",
+    "title": "Artificial Intelligence Nvidia",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYklHMjVDQVVLY0c1OWlaTS1HU21XV2VscUxVbFB3ZmIwaXphcUNNMVhQSHJnY3puMWdkd1ZUMEZjbDhUWno5MXowZ1hHQS0xN2R2V0o3RUp2RUM2Ql8xWXg3MTViZ3J4QlZKRldmZk04a0pBazZvZHY0bjJ6TE1sMmZtaENRNGFmMUJXX083SHFrcHNiTHhMMUd3MHROc3NIRkNIX3pGNA?oc=5",
+    "source": "KTEN",
+    "published_at": "2026-11-25T18:33:28+00:00",
+    "category": "기타",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "인공지능 Nvidia"
+  },
+  {
     "id": "4f0b7bfbd5a5d08e",
     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
     "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
@@ -388,6 +848,16 @@
     "category": "기타",
     "first_seen_at": "2026-11-25T21:16:55.905401+00:00",
     "title_ko": "올해 크리스마스 자녀를 위해 AI 장난감을 사고 싶다면? 뉴욕에선 안 된다"
+  },
+  {
+    "id": "acf80c50f7d80bef",
+    "title": "Gustave Roussy / Research focus: targeted therapy, artificial intelligence, immunology... Three other breakthroughs to watch",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJZTE0Z0M3MTl1WW5IV21sbDVxc1YtNE55LUxwUzdQemVIaEc1YlFtNVdMM0FqMm5ySDlYX2szWk9waXMwby1KXzNJamJuNElzZGpIZ2RWVzR2SmR4?oc=5",
+    "source": "EurekAlert!",
+    "published_at": "2026-11-25T17:43:56+00:00",
+    "category": "연구·기술",
+    "first_seen_at": "2026-11-26T13:46:22.032841+00:00",
+    "title_ko": "Gustave Roussy / 연구 초점: 표적 치료, 인공지능, 면역학... 주목할 세 가지 추가 돌파구"
   },
   {
     "id": "16ddaf7683c8da25",
